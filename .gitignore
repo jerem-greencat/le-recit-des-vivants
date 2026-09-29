@@ -1,0 +1,7 @@
+# Logs générés par le serveur (téléchargés avec le FTP)
+dayzxb/config/*.RPT
+dayzxb/config/*.ADM
+dayzxb/config/*.log
+dayzxb/config/*.mdmp
+restart.log
+stop

@@ -17,6 +17,9 @@ Les fichiers sont une copie de ceux du serveur Nitrado, téléchargés par FTP l
 | `dayzxb/config/` | Profil serveur et logs (`.RPT`, `.ADM`, `script_*.log`) |
 | `restart.log` | Log des démarrages/arrêts écrit par Nitrado |
 
+Les logs (`.RPT`, `.ADM`, `.log`, `restart.log`, `stop`) sont ignorés par git : on peut les
+télécharger en local pour diagnostiquer, ils ne sont pas versionnés.
+
 ## Fichiers de mission
 
 | Fichier | Rôle |
