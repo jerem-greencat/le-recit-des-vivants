@@ -28,6 +28,11 @@ commit `9a21bb9` (13/08/2026).
 | `init.c` | Script de démarrage de la mission (équipement de départ, date/heure) |
 | `env/*.xml` | Territoires des animaux et des zombies |
 | `mapgroup*.xml`, `mapcluster*.xml` | Positions de loot des bâtiments (rarement modifiés) |
+| `custom/*.json` | Mappings DayZ Editor (Object Spawner), déclarés dans `objectSpawnersArr` de `cfggameplay.json` |
 | `areaflags.map` | Carte des zones d'usage/valeur (binaire, 81 Mo, ne pas modifier) |
+
+`custom/zeleno_wall.json` (l'enceinte de Zelenogorsk) est généré par
+[tools/zeleno_wall/generate.py](tools/zeleno_wall/README.md), décor compris
+(`tools/zeleno_wall/decor.py`) : on modifie les scripts, pas le JSON.
 
 Sur console, les mods ne sont pas disponibles : toute la personnalisation passe par ces fichiers.

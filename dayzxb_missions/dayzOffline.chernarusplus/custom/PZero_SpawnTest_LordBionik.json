@@ -1,0 +1,774 @@
+{
+	"Objects": [
+		{
+			"name": "StaticObj_Pier_Concrete5_Corner_Outer",
+			"pos": [0.0, 0.9998310804367065, 0.0],
+			"ypr": [-89.99998474121094, 0.0, 0.0],
+			"scale": 0.9999997019767761,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Pier_Concrete5_Corner_Outer",
+			"pos": [0.20000000298023225, 0.999830961227417, 13.574238777160645],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Pier_Concrete5_Corner_Outer",
+			"pos": [13.570696830749512, 0.999830961227417, -0.19931888580322267],
+			"ypr": [-179.98593139648438, 0.0, -0.0],
+			"scale": 0.9999995231628418,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Pier_Concrete5_Corner_Outer",
+			"pos": [13.771854400634766, 0.9999426603317261, 13.374865531921387],
+			"ypr": [90.01353454589844, 0.0, -0.0],
+			"scale": 0.9998877048492432,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Misc_ConcretePipe",
+			"pos": [6.934574604034424, 0.06447640061378479, 6.714992523193359],
+			"ypr": [-0.00010427406232338399, 90.0, -0.00010427406232338399],
+			"scale": 0.9999990463256836,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Wall_FenR_Pole",
+			"pos": [11.819486618041993, 2.6646323204040529, 1.8410711288452149],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 2.6249892711639406,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Wall_FenR_Pole",
+			"pos": [11.819486618041993, 2.6646246910095217, 11.31362247467041],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 2.6249892711639406,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Wall_FenR_Pole",
+			"pos": [2.341581344604492, 2.6651134490966799, 1.8410711288452149],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 2.6249892711639406,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Wall_FenR_Pole",
+			"pos": [2.341581344604492, 2.6646926403045656, 11.31362247467041],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 2.6249682903289797,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Wall_FenR_Pole",
+			"pos": [7.296179294586182, 2.6656510829925539, -0.11749553680419922],
+			"ypr": [43.15934371948242, 0.0, -0.0],
+			"scale": 2.624933958053589,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Wall_FenR_Pole",
+			"pos": [13.77545166015625, 2.6656434535980226, 6.792060852050781],
+			"ypr": [43.15934371948242, 0.0, -0.0],
+			"scale": 2.624933958053589,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Wall_FenR_Pole",
+			"pos": [0.3838362693786621, 2.6661317348480226, 6.363895893096924],
+			"ypr": [43.15934371948242, 0.0, -0.0],
+			"scale": 2.624933958053589,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Wall_FenR_Pole",
+			"pos": [6.863430976867676, 2.6646928787231447, 13.273727416992188],
+			"ypr": [43.15947723388672, 0.0, -0.0],
+			"scale": 2.624966621398926,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Wall_Gate_CGry",
+			"pos": [4.907849311828613, 4.034084320068359, 0.8543221950531006],
+			"ypr": [21.599979400634767, -0.0, -0.0],
+			"scale": 0.9999992251396179,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Wall_Gate_CGry",
+			"pos": [9.449361801147461, 4.034109592437744, 12.324875831604004],
+			"ypr": [21.599985122680665, 0.0, -0.0],
+			"scale": 0.9999867081642151,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Wall_Gate_CGry",
+			"pos": [1.473855972290039, 4.0341796875, 4.243892192840576],
+			"ypr": [67.6480712890625, 0.0, -0.0],
+			"scale": 0.9999383091926575,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Wall_Gate_CGry",
+			"pos": [12.88359260559082, 4.034110069274902, 8.935412406921387],
+			"ypr": [67.6480712890625, 0.0, -0.0],
+			"scale": 0.999985933303833,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Wall_Gate_CGry",
+			"pos": [1.5432462692260743, 4.034397125244141, 9.096132278442383],
+			"ypr": [113.9765396118164, 0.0, -0.0],
+			"scale": 0.9998680949211121,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Wall_Gate_CGry",
+			"pos": [12.814752578735352, 4.034110069274902, 4.082992076873779],
+			"ypr": [113.97651672363281, 0.0, -0.0],
+			"scale": 0.9999842643737793,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Wall_Gate_CGry",
+			"pos": [4.760344505310059, 4.0348405838012699, 12.2634859085083],
+			"ypr": [156.91062927246095, 0.0, -0.0],
+			"scale": 0.9998328685760498,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Wall_Gate_CGry",
+			"pos": [9.597747802734375, 4.034110069274902, 0.9155788421630859],
+			"ypr": [156.91062927246095, 0.0, -0.0],
+			"scale": 0.9999844431877136,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Misc_ConcretePipe_Gate",
+			"pos": [7.060959815979004, 6.104910373687744, 6.4496541023254398],
+			"ypr": [179.99989318847657, 89.96572875976563, 179.99989318847657],
+			"scale": 5.844501972198486,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Misc_ConcretePipe_Gate",
+			"pos": [7.060959815979004, 6.104910373687744, 6.449653625488281],
+			"ypr": [-89.80818939208985, 89.9406509399414, 179.99989318847657],
+			"scale": 5.844499111175537,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Furniture_yellow_star",
+			"pos": [7.117457866668701, 7.044250011444092, 6.220067024230957],
+			"ypr": [
+				-0.00010427396045997739, 89.92086791992188, -0.00010427402594359592
+			],
+			"scale": 26.488815307617189,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Road_Sidewalk_Stairs",
+			"pos": [6.410025119781494, -0.6064574718475342, -9.44723129272461],
+			"ypr": [179.28970336914063, 0.0, -0.0],
+			"scale": 0.9999997019767761,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Road_Sidewalk_Stairs",
+			"pos": [7.1935248374938969, -0.5980706214904785, 22.064327239990236],
+			"ypr": [-0.7104063630104065, 0.0, 0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Road_Sidewalk_Stairs",
+			"pos": [-8.301541328430176, -0.599520206451416, 7.498662948608398],
+			"ypr": [-90.71038055419922, 0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Road_Sidewalk_Stairs",
+			"pos": [22.83534049987793, -0.6339297294616699, 7.0105085372924809],
+			"ypr": [89.28958892822266, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\rocks\\stone1.p3d",
+			"pos": [16.314598083496095, 1.5894427299499512, -3.5703959465026857],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Sword",
+			"pos": [16.644474029541017, 3.4662909507751467, -3.181236743927002],
+			"ypr": [38.59527587890625, 1.2020787000656129, 176.82594299316407],
+			"scale": 0.9999978542327881,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Sword",
+			"pos": [16.976560592651368, 3.360083818435669, -3.0143864154815676],
+			"ypr": [36.9677734375, -12.038454055786133, -166.17930603027345],
+			"scale": 0.9999975562095642,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Sword",
+			"pos": [16.446516036987306, 3.360084056854248, -3.4103951454162599],
+			"ypr": [77.11442565917969, -4.258347511291504, -164.73191833496095],
+			"scale": 0.9999999403953552,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\rocks\\snow_rocks\\snow_rock_bright_apart1.p3d",
+			"pos": [34.544158935546878, -0.45195937156677248, -16.364259719848634],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\rocks\\snow_rocks\\snow_rock_monolith2.p3d",
+			"pos": [36.13828659057617, -2.183044910430908, 30.25887107849121],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\rocks\\snow_rocks\\snow_rock_bright_apart1.p3d",
+			"pos": [-15.776321411132813, -2.2639148235321047, 34.724151611328128],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\rocks\\snow_rocks\\snow_rock_bright_wallh2.p3d",
+			"pos": [24.088302612304689, -12.002080917358399, 63.917747497558597],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\rocks\\snow_rocks\\snow_rock_bright_spike2.p3d",
+			"pos": [-9.495072364807129, 0.5017359256744385, 41.250465393066409],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999418258666992,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\rocks\\snow_rocks\\snow_rock_bright_spike2.p3d",
+			"pos": [36.455345153808597, 0.8568122386932373, -7.899545669555664],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999966621398926,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\rocks\\snow_rocks\\snow_rock_bright_spike2.p3d",
+			"pos": [61.93256378173828, 0.5213034152984619, 33.71270751953125],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\rocks\\snow_rocks\\snow_rock_bright_wallv.p3d",
+			"pos": [48.65192794799805, -30.401958465576173, 46.115638732910159],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "UndergroundStash",
+			"pos": [16.86236572265625, 3.0710015296936037, -3.5360896587371828],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 5.044988632202148,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "UndergroundStash",
+			"pos": [15.873529434204102, 2.226851224899292, -1.9739973545074463],
+			"ypr": [0.00019128332496620715, 0.0, -0.0],
+			"scale": 0.9998011589050293,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "UndergroundStash",
+			"pos": [15.457487106323243, 2.226824998855591, -2.4747118949890138],
+			"ypr": [-116.99996948242188, 0.0, -0.0],
+			"scale": 0.9999275803565979,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "UndergroundStash",
+			"pos": [15.392965316772461, 2.2268528938293459, -2.949937582015991],
+			"ypr": [162.00009155273438, 0.0, -0.0],
+			"scale": 0.9998998045921326,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "UndergroundStash",
+			"pos": [16.63245391845703, 2.226820945739746, -1.649035930633545],
+			"ypr": [-170.9993438720703, 0.0, -0.0],
+			"scale": 0.9999294281005859,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "UndergroundStash",
+			"pos": [17.154747009277345, 2.226820468902588, -1.496532917022705],
+			"ypr": [-80.99998474121094, 0.0, -0.0],
+			"scale": 0.9999095797538757,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "UndergroundStash",
+			"pos": [17.79071044921875, 2.226818799972534, -1.5727224349975587],
+			"ypr": [-35.99961471557617, 0.0, -0.0],
+			"scale": 0.9999361038208008,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "UndergroundStash",
+			"pos": [18.477561950683595, 2.226810932159424, -2.015970468521118],
+			"ypr": [-143.99989318847657, 0.0, -0.0],
+			"scale": 0.9999997019767761,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "UndergroundStash",
+			"pos": [15.166121482849121, 2.226811170578003, -3.4748833179473879],
+			"ypr": [99.00003814697266, 0.0, -0.0],
+			"scale": 0.9999995231628418,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "UndergroundStash",
+			"pos": [15.207721710205079, 2.2268106937408449, -4.106732368469238],
+			"ypr": [63.000064849853519, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\clutter\\c_grassflowerswhiteshort_summer.p3d",
+			"pos": [18.263004302978517, 1.9998319149017335, -4.310675144195557],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.999993622303009,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\clutter\\c_grassflowerswhiteshort_summer.p3d",
+			"pos": [17.872909545898439, 2.016925096511841, -2.8566012382507326],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\clutter\\c_ferntall_summer.p3d",
+			"pos": [16.737228393554689, 1.7938001155853272, -5.079851150512695],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\clutter\\c_grassflowerspurpletall_summer.p3d",
+			"pos": [18.13467788696289, 1.720048427581787, -4.479156494140625],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\clutter\\c_grassdry2_summer.p3d",
+			"pos": [15.923051834106446, 1.8705120086669922, -4.751316547393799],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\clutter\\c_vaccinium_summer.p3d",
+			"pos": [18.48121452331543, 1.9998304843902588, -3.301305055618286],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\tree\\b_piceaabies_1fb_summer.p3d",
+			"pos": [17.771936416625978, 1.999830961227417, -1.8271417617797852],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\tree\\t_piceaabies_1s_summer.p3d",
+			"pos": [18.346677780151368, 1.9998306035995484, -4.372156143188477],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\tree\\t_pinussylvestris_1s_summer.p3d",
+			"pos": [17.538557052612306, 1.920454502105713, -5.409854888916016],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Forest_HumanSkeleton",
+			"pos": [16.73253059387207, 2.024244546890259, -1.6272237300872803],
+			"ypr": [35.999935150146487, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Forest_HumanSkeleton",
+			"pos": [15.384458541870118, 1.9885119199752808, -3.6767892837524416],
+			"ypr": [171.0001220703125, 0.0, -0.0],
+			"scale": 0.9999999403953552,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+			"pos": [16.592193603515626, 1.988783359527588, -6.402711868286133],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9998824000358582,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+			"pos": [10.75729751586914, 1.988770842552185, -6.3438825607299809],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999153017997742,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+			"pos": [3.650601863861084, 1.9887653589248658, -6.377237796783447],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999331831932068,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+			"pos": [-2.266399383544922, 1.9887396097183228, -6.259069442749023],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+			"pos": [16.683883666992189, 2.0292510986328127, 19.234817504882814],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9998722076416016,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+			"pos": [10.783869743347168, 2.0292441844940187, 19.288650512695314],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9998893737792969,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+			"pos": [4.107519626617432, 2.029235363006592, 19.047584533691408],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999158978462219,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_m.p3d",
+			"pos": [-2.441905975341797, 2.029203414916992, 19.330904006958009],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_special_f.p3d",
+			"pos": [2.0841665267944338, 6.316982746124268, 2.12457275390625],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999629855155945,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_special_f.p3d",
+			"pos": [11.88826847076416, 6.377084732055664, 2.2432594299316408],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999935030937195,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_special_f.p3d",
+			"pos": [11.59925365447998, 6.157379150390625, 12.124509811401368],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+			"pos": [7.548653602600098, 6.451353073120117, 12.354459762573243],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999403357505798,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+			"pos": [13.324769973754883, 6.310585021972656, 6.715192794799805],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999926686286926,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+			"pos": [8.258160591125489, 6.377569198608398, 0.8871455192565918],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_special_b.p3d",
+			"pos": [1.6970133781433106, 4.050200462341309, 1.4897558689117432],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_special_b.p3d",
+			"pos": [12.305198669433594, 4.406850814819336, 1.5878839492797852],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999415278434753,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_special_b.p3d",
+			"pos": [12.190317153930664, 4.390573501586914, 11.769744873046875],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999920725822449,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_special_b.p3d",
+			"pos": [6.565885543823242, 4.805998802185059, 13.491076469421387],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_special_e.p3d",
+			"pos": [2.444578170776367, 6.234655857086182, 11.769734382629395],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9998629689216614,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_special_e.p3d",
+			"pos": [0.46709156036376955, 6.390639781951904, 6.519700527191162],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9998977780342102,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_special_e.p3d",
+			"pos": [7.717349529266357, 6.310632705688477, -0.19559383392333985],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999459385871887,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_special_e.p3d",
+			"pos": [11.750299453735352, 6.240835189819336, 1.3727055788040162],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999935030937195,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_special_e.p3d",
+			"pos": [7.560443878173828, 5.90160608291626, 2.969508409500122],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_special_e.p3d",
+			"pos": [7.656116962432861, 6.052754878997803, 9.49717903137207],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+			"pos": [8.864605903625489, 6.0514326095581059, 10.474349021911621],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999095797538757,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+			"pos": [6.087333679199219, 6.060481071472168, 3.9257466793060304],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999191164970398,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+			"pos": [8.99234676361084, 6.060793876647949, 3.696052312850952],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999434351921082,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+			"pos": [11.316428184509278, 6.055167198181152, 7.769733905792236],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999537467956543,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+			"pos": [11.206313133239746, 6.099246025085449, 9.331415176391602],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999790191650391,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+			"pos": [3.9216151237487795, 6.055917739868164, 7.215178489685059],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999895095825195,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\plants_bliss\\building\\ivy_h.p3d",
+			"pos": [3.4000260829925539, 6.058114051818848, 5.6263885498046879],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Land_Boat_Small4",
+			"pos": [18.880191802978517, 1.49849271774292, 35.15193557739258],
+			"ypr": [179.999755859375, -0.0002328830014448613, -55.96389389038086],
+			"scale": 0.9999985098838806,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "DZ\\structures_bliss\\wrecks\\ships\\boat_small6.p3d",
+			"pos": [26.909984588623048, 0.5369369983673096, -9.679648399353028],
+			"ypr": [-0.14377959072589875, -0.31383299827575686, -0.2675875425338745],
+			"scale": 0.9999925494194031,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_PatrolBoat_Military_DE",
+			"pos": [-1.7684845924377442, 3.4745211601257326, 22.445167541503908],
+			"ypr": [89.99995422363281, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Misc_TirePile_Burning_DE",
+			"pos": [6.86457633972168, 0.8259003162384033, 6.720043659210205],
+			"ypr": [0.0, -0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		}
+	]
+}
