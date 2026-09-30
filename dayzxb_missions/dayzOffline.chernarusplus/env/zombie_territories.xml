@@ -187,7 +187,7 @@
         <zone name="InfectedVillage" smin="0" smax="0" dmin="8" dmax="12" x="8155.83" z="11563.3" r="110"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="8" dmax="12" x="6277" z="7665" r="130"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="2" dmax="8" x="8380" z="12770" r="100"/>
-        <!-- SafeZone Zelenogorsk: <zone name="InfectedVillage" smin="0" smax="0" dmin="6" dmax="9" x="2435.91" z="6366.82" r="70"/> -->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="6" dmax="9" x="2435.91" z="6366.82" r="70"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="8" x="3040" z="12600" r="80"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="8" x="2925" z="12465" r="80"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="6" dmax="10" x="1578.67" z="12036.3" r="80"/>
@@ -227,7 +227,7 @@
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="7" x="853.333" z="1968.33" r="60"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="8" dmax="12" x="1659.38" z="3800.63" r="70"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="6" x="1711.88" z="3652.5" r="60"/>
-        <!-- SafeZone Zelenogorsk: <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="6" x="2585.45" z="6388.64" r="60"/> -->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="6" x="2585.45" z="6388.64" r="60"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="6" x="2418" z="10986" r="70"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="6" x="2213" z="11061.2" r="60"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="3" dmax="5" x="2274.67" z="10944.3" r="60"/>
@@ -267,7 +267,7 @@
         <zone name="InfectedArmy" smin="0" smax="0" dmin="7" dmax="10" x="2703" z="6757.38" r="80"/>
         <zone name="InfectedArmyHard" smin="8" smax="10" dmin="8" dmax="10" x="1508.5" z="13619" r="140"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="7" dmax="10" x="6333" z="7806" r="70"/>
-        <!-- SafeZone Zelenogorsk: <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="7" x="3705" z="5982" r="80"/> -->
+        <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="7" x="3705" z="5982" r="80"/>
         <zone name="InfectedArmyHard" smin="0" smax="0" dmin="7" dmax="10" x="4063.29" z="11645.1" r="100"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="7" dmax="10" x="725" z="1874.33" r="80"/>
         <zone name="InfectedArmy" smin="0" smax="0" dmin="5" dmax="8" x="338" z="9368" r="80"/>
@@ -350,7 +350,7 @@
     </territory>
     <territory color="1910952871">
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="10755" z="10813.8" r="70"/>
-        <!-- SafeZone Zelenogorsk: <zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="5" x="1745.18" z="5078.82" r="70"/> -->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="5" x="1745.18" z="5078.82" r="70"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="5" x="6767.5" z="5592.5" r="100"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="5408.24" z="5487.35" r="80"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="8395" z="4945" r="100"/>
@@ -369,9 +369,9 @@
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="5442.55" z="3808.23" r="50"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="2588.57" z="3458.57" r="80"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="2756.67" z="3093.33" r="80"/>
-        <!-- SafeZone Zelenogorsk: <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="3975.27" z="4730.73" r="80"/> -->
-        <!-- SafeZone Zelenogorsk: <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3231" z="6114" r="80"/> -->
-        <!-- SafeZone Zelenogorsk: <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="2246.18" z="6230.45" r="60"/> -->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="3975.27" z="4730.73" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3231" z="6114" r="80"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="2246.18" z="6230.45" r="60"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="1956" z="7042" r="90"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="2179.67" z="7903.33" r="80"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="1971.33" z="9153.33" r="80"/>
@@ -461,8 +461,8 @@
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3300" z="15007.5" r="80"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="11035" z="6665" r="100"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="1" dmax="4" x="3005" z="6732.5" r="80"/>
-        <!-- SafeZone Zelenogorsk: <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="3105" z="4234.09" r="60"/> -->
-        <!-- SafeZone Zelenogorsk: <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="3094.09" z="4050" r="60"/> -->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="3105" z="4234.09" r="60"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="3094.09" z="4050" r="60"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="3122.73" z="3923.18" r="60"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="3263.18" z="3889.09" r="60"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="4550.45" z="4540.91" r="60"/>
@@ -470,8 +470,8 @@
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="5" x="3792.86" z="2588.57" r="60"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="3" dmax="5" x="3201.43" z="2577.86" r="60"/>
         <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="1873.13" z="3890.63" r="60"/>
-        <!-- SafeZone Zelenogorsk: <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="1890" z="4323.75" r="60"/> -->
-        <!-- SafeZone Zelenogorsk: <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="2720.45" z="5986.36" r="60"/> -->
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="1890" z="4323.75" r="60"/>
+        <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="2720.45" z="5986.36" r="60"/>
         <!-- SafeZone Zelenogorsk: <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="2975" z="5565" r="60"/> -->
         <!-- SafeZone Zelenogorsk: <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="2591.67" z="5690" r="60"/> -->
         <!-- SafeZone Zelenogorsk: <zone name="InfectedSolitude" smin="0" smax="0" dmin="2" dmax="4" x="2512.58" z="5537.42" r="60"/> -->
@@ -585,7 +585,7 @@
         <zone name="InfectedVillage" smin="0" smax="0" dmin="8" dmax="12" x="5878" z="4865" r="80"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="8" dmax="12" x="5880" z="4655" r="80"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="6" x="5853.5" z="3949" r="60"/>
-        <!-- SafeZone Zelenogorsk: <zone name="InfectedVillage" smin="0" smax="0" dmin="8" dmax="12" x="3349.54" z="4931.32" r="80"/> -->
+        <zone name="InfectedVillage" smin="0" smax="0" dmin="8" dmax="12" x="3349.54" z="4931.32" r="80"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="8" dmax="12" x="4396.25" z="3932.5" r="100"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="10" dmax="14" x="4400.07" z="4658.57" r="100"/>
         <zone name="InfectedVillage" smin="0" smax="0" dmin="4" dmax="7" x="3218.7" z="4010.75" r="60"/>
