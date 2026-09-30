@@ -10,9 +10,9 @@
             <max_dist_static>2</max_dist_static>
         </spawn_params>
         <generator_params>
-            <grid_density>0</grid_density>
-            <grid_width>200</grid_width>
-            <grid_height>200</grid_height> 
+            <grid_density>4</grid_density>
+            <grid_width>8</grid_width>
+            <grid_height>8</grid_height> 
             <min_dist_static>0</min_dist_static>
             <max_dist_static>2</max_dist_static>
             <min_steepness>-45</min_steepness>
@@ -26,7 +26,7 @@
         </group_params>
         <generator_posbubbles>
             <group name="Spawn">
-                <pos x="2543.23" z="5339.69" />
+                <pos x="2596.5" z="5352.5" />
             </group>
         </generator_posbubbles>
     </fresh>
@@ -40,9 +40,9 @@
             <max_dist_static>2.0</max_dist_static>
         </spawn_params>
         <generator_params>
-            <grid_density>0</grid_density>
-            <grid_width>150</grid_width>
-            <grid_height>150</grid_height>
+            <grid_density>4</grid_density>
+            <grid_width>8</grid_width>
+            <grid_height>8</grid_height>
             <min_dist_static>0</min_dist_static>
             <max_dist_static>2</max_dist_static>
             <min_steepness>-45</min_steepness>
@@ -56,7 +56,7 @@
         </group_params>
         <generator_posbubbles>
             <group name="Spawn">
-                <pos x="2543.23" z="5339.69" />
+                <pos x="2596.5" z="5352.5" />
             </group>
         </generator_posbubbles>
     </hop>
@@ -70,9 +70,9 @@
             <max_dist_static>2.0</max_dist_static>
         </spawn_params>
        <generator_params>
-            <grid_density>0</grid_density>
-            <grid_width>150</grid_width>
-            <grid_height>150</grid_height>
+            <grid_density>4</grid_density>
+            <grid_width>8</grid_width>
+            <grid_height>8</grid_height>
             <min_dist_static>0</min_dist_static>
             <max_dist_static>2</max_dist_static>
             <min_steepness>-45</min_steepness>
@@ -86,7 +86,7 @@
         </group_params>
         <generator_posbubbles>
             <group name="Spawn">
-                <pos x="2543.23" z="5339.69" />
+                <pos x="2596.5" z="5352.5" />
             </group>
         </generator_posbubbles>
     </travel>
