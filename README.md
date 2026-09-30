@@ -37,7 +37,8 @@ télécharger en local pour diagnostiquer, ils ne sont pas versionnés.
 | `cfgEffectArea.json` | Zones contaminées |
 | `env/*.xml` | Territoires des animaux et des zombies |
 | `mapgroup*.xml`, `mapcluster*.xml` | Positions de loot des bâtiments (rarement modifiés) |
-| `custom/*.json` | Mappings DayZ Editor (Object Spawner) |
+| `custom/*.json` | Mappings DayZ Editor (Object Spawner) et presets d'équipement de départ |
+| `custom/spawngear_survivant.json` | Équipement de départ des joueurs (`PlayerData.spawnGearPresetFiles`) |
 | `areaflags.map` | Carte des zones d'usage/valeur (binaire, ne pas modifier) |
 
 ### Pas d'`init.c`
