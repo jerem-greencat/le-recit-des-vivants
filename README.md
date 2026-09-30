@@ -67,7 +67,7 @@ redémarrage, même s'ils ont été pris : à éviter hors test.
 ## Zone safe de Zelenogorsk
 
 Aucun zombie ne spawn dans la ville, la gare/zone industrielle et la zone militaire de
-Zelenogorsk, ni à moins de 1 km autour :
+Zelenogorsk, ni à moins de 250 m autour (bord de la zone de spawn à moins de 250 m) :
 
 | Zone | x | z |
 | --- | --- | --- |
@@ -77,9 +77,10 @@ Zelenogorsk, ni à moins de 1 km autour :
 
 Les lignes désactivées sont commentées avec le marqueur `SafeZone Zelenogorsk` :
 
-- `env/zombie_territories.xml` : zones de spawn des zombies (30 zones) ;
-- `cfgeventspawns.xml` : positions des événements qui font apparaître des zombies (crashs
-  d'hélico, train, voitures de police, feux de camp, crash du père Noël : 25 positions).
+- `env/zombie_territories.xml` : zones de spawn des zombies (18 zones) ;
+- `cfgeventspawns.xml` : positions des événements qui font apparaître des zombies (crash
+  d'hélico, voitures de police, feu de camp, crash du père Noël, police situation : 12 positions) et
+  les 2 zones de gaz dynamique de Zelenogorsk (`StaticContaminatedArea`, ville et zone militaire).
 
 Pour rétablir une zone, décommenter sa ligne.
 
