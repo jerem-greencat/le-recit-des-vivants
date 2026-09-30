@@ -64,6 +64,25 @@ Chaque mapping est un JSON dans `custom/`, déclaré dans `objectSpawnersArr` de
 Les objets ramassables (armes, `UndergroundStash`…) d'un mapping sont recréés à chaque
 redémarrage, même s'ils ont été pris : à éviter hors test.
 
+## Zone safe de Zelenogorsk
+
+Aucun zombie ne spawn dans la ville, la gare/zone industrielle et la zone militaire de
+Zelenogorsk, ni à moins de 1 km autour :
+
+| Zone | x | z |
+| --- | --- | --- |
+| Ville | 2480–2960 | 5060–5640 |
+| Gare / zone industrielle | 2180–2520 | 5140–5320 |
+| Zone militaire | 2360–2640 | 4980–5220 |
+
+Les lignes désactivées sont commentées avec le marqueur `SafeZone Zelenogorsk` :
+
+- `env/zombie_territories.xml` : zones de spawn des zombies (30 zones) ;
+- `cfgeventspawns.xml` : positions des événements qui font apparaître des zombies (crashs
+  d'hélico, train, voitures de police, feux de camp, crash du père Noël : 25 positions).
+
+Pour rétablir une zone, décommenter sa ligne.
+
 ## Déploiement (FTP)
 
 1. Arrêter le serveur depuis l'interface Nitrado (sinon il peut réécrire des fichiers à l'arrêt).
