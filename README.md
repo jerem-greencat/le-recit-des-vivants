@@ -54,13 +54,14 @@ Tout ce qui passerait par `init.c` se fait via `cfggameplay.json` :
 Chaque mapping est un JSON dans `custom/`, déclaré dans `objectSpawnersArr` de `cfggameplay.json` :
 
 ```json
-"objectSpawnersArr": ["./custom/PZero_SpawnTest_LordBionik.json", "./custom/zeleno_enceinte.json"],
+"objectSpawnersArr": ["./custom/PZero_SpawnTest_LordBionik.json", "./custom/zeleno_enceinte.json", "./custom/zeleno_garagiste.json"],
 ```
 
 | Fichier | Description |
 | --- | --- |
 | `custom/PZero_SpawnTest_LordBionik.json` | Mapping de test, positionné volontairement au point zéro de la map |
 | `custom/zeleno_enceinte.json` | Enceinte de la zone safe de Zelenogorsk : murs, poteaux, barrages, épaves |
+| `custom/zeleno_garagiste.json` | Zone RP du garagiste : station essence de Zelenogorsk et hangar `Land_Shed_Closed2` en face, de l'autre côté de la route |
 
 Les objets ramassables (armes, `UndergroundStash`…) d'un mapping sont recréés à chaque
 redémarrage, même s'ils ont été pris : à éviter hors test.
