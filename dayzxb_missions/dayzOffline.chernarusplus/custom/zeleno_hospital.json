@@ -1,0 +1,564 @@
+{
+    "Objects": [
+        {
+            "name": "BandageDressing",
+            "pos": [
+                2736.191,
+                202.132,
+                5179.176
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [
+                2735.923,
+                202.132,
+                5179.31
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [
+                2735.655,
+                202.132,
+                5179.445
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [
+                2735.387,
+                202.132,
+                5179.58
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BandageDressing",
+            "pos": [
+                2735.119,
+                202.132,
+                5179.714
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Splint",
+            "pos": [
+                2734.404,
+                202.132,
+                5180.073
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "TetracyclineAntibiotics",
+            "pos": [
+                2736.102,
+                201.752,
+                5179.221
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CharcoalTablets",
+            "pos": [
+                2735.566,
+                201.752,
+                5179.49
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VitaminBottle",
+            "pos": [
+                2735.03,
+                201.752,
+                5179.759
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "PainkillerTablets",
+            "pos": [
+                2734.493,
+                201.752,
+                5180.028
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Morphine",
+            "pos": [
+                2736.102,
+                201.372,
+                5179.221
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Morphine",
+            "pos": [
+                2735.834,
+                201.372,
+                5179.355
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Epinephrine",
+            "pos": [
+                2735.387,
+                201.372,
+                5179.58
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Epinephrine",
+            "pos": [
+                2735.119,
+                201.372,
+                5179.714
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "AntiChemInjector",
+            "pos": [
+                2734.583,
+                201.372,
+                5179.983
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GasMask_Filter",
+            "pos": [
+                2736.013,
+                200.997,
+                5179.266
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GasMask_Filter",
+            "pos": [
+                2735.476,
+                200.997,
+                5179.535
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BloodTestKit",
+            "pos": [
+                2736.946,
+                202.132,
+                5181.125
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BloodTestKit",
+            "pos": [
+                2736.588,
+                202.132,
+                5181.304
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BloodTestKit",
+            "pos": [
+                2736.231,
+                202.132,
+                5181.483
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BloodBagEmpty",
+            "pos": [
+                2736.946,
+                201.752,
+                5181.125
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BloodBagEmpty",
+            "pos": [
+                2736.231,
+                201.752,
+                5181.483
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StartKitIV",
+            "pos": [
+                2736.946,
+                201.372,
+                5181.125
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StartKitIV",
+            "pos": [
+                2736.231,
+                201.372,
+                5181.483
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SalineBag",
+            "pos": [
+                2736.946,
+                200.997,
+                5181.125
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SalineBag",
+            "pos": [
+                2736.231,
+                200.997,
+                5181.483
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ParamedicJacket_Crimson",
+            "pos": [
+                2745.049,
+                201.609,
+                5181.04
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "ParamedicPants_Crimson",
+            "pos": [
+                2744.763,
+                201.609,
+                5181.184
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SurgicalGloves_Blue",
+            "pos": [
+                2744.477,
+                201.609,
+                5181.327
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SurgicalMask",
+            "pos": [
+                2744.191,
+                201.609,
+                5181.471
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "LabCoat",
+            "pos": [
+                2745.264,
+                201.609,
+                5181.335
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "MedicalScrubsPants_Green",
+            "pos": [
+                2745.023,
+                201.609,
+                5181.456
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "MedicalScrubsHat_Green",
+            "pos": [
+                2744.781,
+                201.609,
+                5181.577
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SurgicalGloves_White",
+            "pos": [
+                2744.54,
+                201.609,
+                5181.698
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SurgicalMask",
+            "pos": [
+                2744.299,
+                201.609,
+                5181.82
+            ],
+            "ypr": [
+                -153.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
