@@ -133,17 +133,18 @@
 		</cargo>
 	</type>
 	<type name="SparkPlug">
+		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="Glowplug">
 	</type>
 	<type name="CarRadiator">
-		<damage min="0.0" max="0.35" />
+		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="CarBattery">
-		<damage min="0.0" max="0.35" />
+		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="TruckBattery">
-		<damage min="0.0" max="0.35" />
+		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="Stone">
 		<damage min="0.1" max="0.1" />
@@ -3268,26 +3269,31 @@
 	</type>
 	<!-- VEHICLES -->
 	<type name="Boat_01_Black">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="SparkPlug" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="Boat_01_Blue">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="SparkPlug" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="Boat_01_Camo">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="SparkPlug" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="Boat_01_Orange">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="SparkPlug" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="OffroadHatchback">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="HatchbackWheel" chance="1.00" />
 		</attachments>
@@ -3332,6 +3338,7 @@
 		</attachments>
 	</type>
 	<type name="OffroadHatchback_Blue">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="HatchbackWheel" chance="1.00" />
 		</attachments>
@@ -3376,6 +3383,7 @@
 		</attachments>
 	</type>
 	<type name="OffroadHatchback_White">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="HatchbackWheel" chance="1.00" />
 		</attachments>
@@ -3420,6 +3428,7 @@
 		</attachments>
 	</type>
 	<type name="Offroad_02">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="Offroad_02_Wheel" chance="1.00" />
 		</attachments>
@@ -3468,6 +3477,7 @@
 	</type>
 	<!-- -->
 	<type name="CivilianSedan">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="CivSedanWheel" chance="1.00" />
 		</attachments>
@@ -3518,6 +3528,7 @@
 		</attachments>
 	</type>
 	<type name="CivilianSedan_Wine">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="CivSedanWheel" chance="1.00" />
 		</attachments>
@@ -3568,6 +3579,7 @@
 		</attachments>
 	</type>
 	<type name="CivilianSedan_Black">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="CivSedanWheel" chance="1.00" />
 		</attachments>
@@ -3619,6 +3631,7 @@
 	</type>
 	<!-- -->
 	<type name="Hatchback_02">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="Hatchback_02_Wheel" chance="1.00" />
 		</attachments>
@@ -3669,6 +3682,7 @@
 		</attachments>
 	</type>
 	<type name="Hatchback_02_Black">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="Hatchback_02_Wheel" chance="1.00" />
 		</attachments>
@@ -3719,6 +3733,7 @@
 		</attachments>
 	</type>
 	<type name="Hatchback_02_Blue">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="Hatchback_02_Wheel" chance="1.00" />
 		</attachments>
@@ -3770,6 +3785,7 @@
 	</type>
 	<!-- -->
 	<type name="Sedan_02">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="Sedan_02_Wheel" chance="1.00" />
 		</attachments>
@@ -3820,6 +3836,7 @@
 		</attachments>
 	</type>
 	<type name="Sedan_02_Red">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="Sedan_02_Wheel" chance="1.00" />
 		</attachments>
@@ -3870,6 +3887,7 @@
 		</attachments>
 	</type>
 	<type name="Sedan_02_Grey">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="Sedan_02_Wheel" chance="1.00" />
 		</attachments>
@@ -3920,6 +3938,7 @@
 		</attachments>
 	</type>
 	<type name="Truck_01_Covered">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="Truck_01_Wheel" chance="1.00" />
 		</attachments>
@@ -3964,6 +3983,7 @@
 		</attachments>
 	</type>
 	<type name="Truck_01_Covered_Blue">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="Truck_01_Wheel" chance="1.00" />
 		</attachments>
@@ -4008,6 +4028,7 @@
 		</attachments>
 	</type>
 	<type name="Truck_01_Covered_Orange">
+		<damage min="0.0" max="0.0" />
 		<attachments chance="1.00">
 			<item name="Truck_01_Wheel" chance="1.00" />
 		</attachments>
@@ -4197,4 +4218,274 @@
 		</attachments>
 	</type>
 -->
+	<type name="HatchbackWheel">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="HeadlightH7">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="HatchbackDoors_Driver">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="HatchbackDoors_CoDriver">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="HatchbackHood">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="HatchbackTrunk">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="HatchbackDoors_Driver_Blue">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="HatchbackDoors_CoDriver_Blue">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="HatchbackHood_Blue">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="HatchbackTrunk_Blue">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="HatchbackDoors_Driver_White">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="HatchbackDoors_CoDriver_White">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="HatchbackHood_White">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="HatchbackTrunk_White">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Offroad_02_Wheel">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Offroad_02_Trunk">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Offroad_02_Hood">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Offroad_02_Door_1_1">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Offroad_02_Door_1_2">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Offroad_02_Door_2_1">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Offroad_02_Door_2_2">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="GlowPlug">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanWheel">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanDoors_Driver">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanDoors_CoDriver">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanDoors_BackLeft">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanDoors_BackRight">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanHood">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanTrunk">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanDoors_Driver_Wine">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanDoors_CoDriver_Wine">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanDoors_BackLeft_Wine">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanDoors_BackRight_Wine">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanHood_Wine">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanTrunk_Wine">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanDoors_Driver_Black">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanDoors_CoDriver_Black">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanDoors_BackLeft_Black">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanDoors_BackRight_Black">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanHood_Black">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="CivSedanTrunk_Black">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Wheel">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Door_1_1">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Door_1_2">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Door_2_1">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Door_2_2">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Hood">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Trunk">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Door_1_1_Black">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Door_1_2_Black">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Door_2_1_Black">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Door_2_2_Black">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Hood_Black">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Trunk_Black">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Door_1_1_Blue">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Door_1_2_Blue">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Door_2_1_Blue">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Door_2_2_Blue">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Hood_Blue">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Hatchback_02_Trunk_Blue">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Sedan_02_Wheel">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Sedan_02_Door_1_1">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Sedan_02_Door_1_2">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Sedan_02_Door_2_1">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Sedan_02_Door_2_2">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Sedan_02_Hood">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Sedan_02_Trunk">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="sedan_02_Door_1_1_Red">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Sedan_02_Door_1_2_Red">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Sedan_02_Door_2_1_Red">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Sedan_02_Door_2_2_Red">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Sedan_02_Hood_Red">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Sedan_02_Trunk_Red">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="sedan_02_Door_1_1_Grey">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Sedan_02_Door_1_2_Grey">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Sedan_02_Door_2_1_Grey">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Sedan_02_Door_2_2_Grey">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Sedan_02_Hood_Grey">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Sedan_02_Trunk_Grey">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Truck_01_Wheel">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Truck_01_WheelDouble">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Truck_01_Hood">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Truck_01_Door_1_1">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Truck_01_Door_2_1">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Truck_01_Hood_Blue">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Truck_01_Door_1_1_Blue">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Truck_01_Door_2_1_Blue">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Truck_01_Hood_Orange">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Truck_01_Door_1_1_Orange">
+		<damage min="0.0" max="0.0" />
+	</type>
+	<type name="Truck_01_Door_2_1_Orange">
+		<damage min="0.0" max="0.0" />
+	</type>
 </spawnabletypes>

@@ -1,17 +1,14 @@
 {
 	"version": 123,
-	"GeneralData":
-	{
+	"GeneralData": {
 		"disableBaseDamage": false,
 		"disableContainerDamage": false,
 		"disableRespawnDialog": false,
 		"disableRespawnInUnconsciousness": false
 	},
-    "PlayerData":
-	{
+	"PlayerData": {
 		"disablePersonalLight": false,
-		"StaminaData":
-		{
+		"StaminaData": {
 			"sprintStaminaModifierErc": 1.0,
 			"sprintStaminaModifierCro": 1.0,
 			"staminaWeightLimitThreshold": 6000.0,
@@ -24,14 +21,12 @@
 			"obstacleTraversalStaminaModifier": 1.0,
 			"holdBreathStaminaModifier": 1.0
 		},
-		"ShockHandlingData":
-		{
+		"ShockHandlingData": {
 			"shockRefillSpeedConscious": 5.0,
 			"shockRefillSpeedUnconscious": 1.0,
 			"allowRefillSpeedModifier": true
 		},
-		"MovementData":
-		{
+		"MovementData": {
 			"timeToStrafeJog": 0.1,
 			"rotationSpeedJog": 0.3,
 			"timeToSprint": 0.45,
@@ -39,31 +34,30 @@
 			"rotationSpeedSprint": 0.15,
 			"allowStaminaAffectInertia": true
 		},
-		"DrowningData":
-		{
+		"DrowningData": {
 			"staminaDepletionSpeed": 10.0,
 			"healthDepletionSpeed": 10.0,
 			"shockDepletionSpeed": 10.0
 		},
-		"WeaponObstructionData":
-		{
+		"WeaponObstructionData": {
 			"staticMode": 1,
 			"dynamicMode": 1
 		},
 		"spawnGearPresetFiles": ["./custom/spawngear_survivant.json"]
 	},
-	"WorldsData":
-	{
+	"WorldsData": {
 		"lightingConfig": 0,
-		"objectSpawnersArr": ["./custom/PZero_SpawnTest_LordBionik.json", "./custom/zeleno_enceinte.json", "./custom/zeleno_garagiste.json"],
+		"objectSpawnersArr": [
+			"./custom/PZero_SpawnTest_LordBionik.json",
+			"./custom/zeleno_enceinte.json",
+			"./custom/zeleno_garagiste_v2.json"
+		],
 		"environmentMinTemps": [-3, -2, 0, 4, 9, 14, 18, 17, 13, 11, 9, 0],
 		"environmentMaxTemps": [3, 5, 7, 14, 19, 24, 26, 25, 18, 14, 10, 5],
 		"wetnessWeightModifiers": [1.0, 1.0, 1.33, 1.66, 2.0]
 	},
-	"BaseBuildingData":
-	{
-		"HologramData":
-		{
+	"BaseBuildingData": {
+		"HologramData": {
 			"disableIsCollidingBBoxCheck": false,
 			"disableIsCollidingPlayerCheck": false,
 			"disableIsClippingRoofCheck": false,
@@ -75,20 +69,21 @@
 			"disableIsUnderwaterCheck": false,
 			"disableIsInTerrainCheck": false,
 			"disableColdAreaBuildingCheck": false,
-			"disallowedTypesInUnderground": ["FenceKit","TerritoryFlagKit","WatchtowerKit"]
+			"disallowedTypesInUnderground": [
+				"FenceKit",
+				"TerritoryFlagKit",
+				"WatchtowerKit"
+			]
 		},
-		"ConstructionData":
-		{
+		"ConstructionData": {
 			"disablePerformRoofCheck": false,
 			"disableIsCollidingCheck": false,
 			"disableDistanceCheck": false
 		}
 	},
-	"UIData":
-	{
+	"UIData": {
 		"use3DMap": false,
-		"HitIndicationData":
-		{
+		"HitIndicationData": {
 			"hitDirectionOverrideEnabled": false,
 			"hitDirectionBehaviour": 1,
 			"hitDirectionStyle": 0,
@@ -99,15 +94,13 @@
 			"hitIndicationPostProcessEnabled": true
 		}
 	},
-	"MapData":
-	{
+	"MapData": {
 		"ignoreMapOwnership": false,
 		"ignoreNavItemsOwnership": true,
 		"displayPlayerPosition": true,
 		"displayNavInfo": false
 	},
-	"VehicleData":
-	{
+	"VehicleData": {
 		"boatDecayMultiplier": 1
 	}
 }
