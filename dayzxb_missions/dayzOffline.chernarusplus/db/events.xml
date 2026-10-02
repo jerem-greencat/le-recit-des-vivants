@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
-    <!-- Parking du garagiste de Zelenogorsk : 1 place fixe, un nouveau vehicule des que la place est liberee (10 m), sans plafond -->
+    <!-- Parking du garagiste de Zelenogorsk : 1 place fixe, un nouveau vehicule des que la place est liberee (2 m), sans plafond -->
     <event name="VehicleZelenoParkingTruck01">
         <nominal>999</nominal>
         <min>999</min>
@@ -8,7 +8,7 @@
         <lifetime>60</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
-        <distanceradius>10</distanceradius>
+        <distanceradius>2</distanceradius>
         <cleanupradius>200</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
@@ -20,7 +20,7 @@
             <child lootmax="0" lootmin="0" max="999" min="0" type="Truck_01_Covered_Orange"/>
         </children>
     </event>
-    <!-- Parking du garagiste de Zelenogorsk : 1 place fixe, un nouveau vehicule des que la place est liberee (10 m), sans plafond -->
+    <!-- Parking du garagiste de Zelenogorsk : 1 place fixe, un nouveau vehicule des que la place est liberee (2 m), sans plafond -->
     <event name="VehicleZelenoParkingCivilianSedan">
         <nominal>999</nominal>
         <min>999</min>
@@ -28,7 +28,7 @@
         <lifetime>60</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
-        <distanceradius>10</distanceradius>
+        <distanceradius>2</distanceradius>
         <cleanupradius>200</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
@@ -40,7 +40,7 @@
             <child lootmax="0" lootmin="0" max="999" min="0" type="CivilianSedan_Wine"/>
         </children>
     </event>
-    <!-- Parking du garagiste de Zelenogorsk : 1 place fixe, un nouveau vehicule des que la place est liberee (10 m), sans plafond -->
+    <!-- Parking du garagiste de Zelenogorsk : 1 place fixe, un nouveau vehicule des que la place est liberee (2 m), sans plafond -->
     <event name="VehicleZelenoParkingHatchback02">
         <nominal>999</nominal>
         <min>999</min>
@@ -48,7 +48,7 @@
         <lifetime>60</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
-        <distanceradius>10</distanceradius>
+        <distanceradius>2</distanceradius>
         <cleanupradius>200</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
@@ -60,7 +60,7 @@
             <child lootmax="0" lootmin="0" max="999" min="0" type="Hatchback_02_Blue"/>
         </children>
     </event>
-    <!-- Parking du garagiste de Zelenogorsk : 1 place fixe, un nouveau vehicule des que la place est liberee (10 m), sans plafond -->
+    <!-- Parking du garagiste de Zelenogorsk : 1 place fixe, un nouveau vehicule des que la place est liberee (2 m), sans plafond -->
     <event name="VehicleZelenoParkingOffroadHatchback">
         <nominal>999</nominal>
         <min>999</min>
@@ -68,7 +68,7 @@
         <lifetime>60</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
-        <distanceradius>10</distanceradius>
+        <distanceradius>2</distanceradius>
         <cleanupradius>200</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
@@ -80,7 +80,7 @@
             <child lootmax="0" lootmin="0" max="999" min="0" type="OffroadHatchback_White"/>
         </children>
     </event>
-    <!-- Parking du garagiste de Zelenogorsk : 1 place fixe, un nouveau vehicule des que la place est liberee (10 m), sans plafond -->
+    <!-- Parking du garagiste de Zelenogorsk : 1 place fixe, un nouveau vehicule des que la place est liberee (2 m), sans plafond -->
     <event name="VehicleZelenoParkingSedan02">
         <nominal>999</nominal>
         <min>999</min>
@@ -88,7 +88,7 @@
         <lifetime>60</lifetime>
         <restock>0</restock>
         <saferadius>0</saferadius>
-        <distanceradius>10</distanceradius>
+        <distanceradius>2</distanceradius>
         <cleanupradius>200</cleanupradius>
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
