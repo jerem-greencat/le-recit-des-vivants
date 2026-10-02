@@ -1498,18 +1498,18 @@
     <event name="AnimalWolf" />
     <event name="AnimalWildBoar" />
 	<event name="VehicleZelenoParkingTruck01">
-		<pos x="2647.823" z="5616.042" a="280.6" />
+		<pos x="2647.823" z="5616.042" a="100.6" />
 	</event>
 	<event name="VehicleZelenoParkingCivilianSedan">
-		<pos x="2650.451" z="5619.213" a="280.6" />
+		<pos x="2650.451" z="5619.213" a="100.6" />
 	</event>
 	<event name="VehicleZelenoParkingHatchback02">
-		<pos x="2651.003" z="5622.162" a="280.6" />
+		<pos x="2651.003" z="5622.162" a="100.6" />
 	</event>
 	<event name="VehicleZelenoParkingOffroadHatchback">
-		<pos x="2651.555" z="5625.111" a="280.6" />
+		<pos x="2651.555" z="5625.111" a="100.6" />
 	</event>
 	<event name="VehicleZelenoParkingSedan02">
-		<pos x="2652.052" z="5627.765" a="280.6" />
+		<pos x="2652.052" z="5627.765" a="100.6" />
 	</event>
 </eventposdef>
