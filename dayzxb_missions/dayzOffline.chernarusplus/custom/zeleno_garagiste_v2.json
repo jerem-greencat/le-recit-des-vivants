@@ -2145,11 +2145,11 @@
             "customString": ""
         },
         {
-            "name": "Land_Wall_Gate_IndCnc4",
+            "name": "Land_Wall_Gate_FenR_Big",
             "pos": [
-                2663.953,
-                212.723,
-                5623.099
+                2667.797,
+                213.641,
+                5641.007
             ],
             "ypr": [
                 -79.45,
@@ -2157,14 +2157,15 @@
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_9",
             "pos": [
-                2658.557,
-                212.404,
-                5618.702
+                2662.92,
+                213.7,
+                5639.398
             ],
             "ypr": [
                 -169.45,
@@ -2172,14 +2173,63 @@
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndFnc_Pole",
+            "pos": [
+                2667.344,
+                213.319,
+                5638.574
+            ],
+            "ypr": [
+                -79.45,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndFnc_Pole",
+            "pos": [
+                2658.496,
+                214.396,
+                5640.222
+            ],
+            "ypr": [
+                -79.45,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_3",
             "pos": [
-                2652.659,
-                212.939,
-                5619.801
+                2658.771,
+                214.551,
+                5641.696
+            ],
+            "ypr": [
+                -79.45,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndFnc_9",
+            "pos": [
+                2663.827,
+                214.109,
+                5644.264
             ],
             "ypr": [
                 -169.45,
@@ -2187,14 +2237,15 @@
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_Pole",
             "pos": [
-                2654.133,
-                212.807,
-                5619.526
+                2668.25,
+                213.797,
+                5643.44
             ],
             "ypr": [
                 -79.45,
@@ -2202,14 +2253,15 @@
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_Pole",
             "pos": [
-                2651.184,
-                213.063,
-                5620.076
+                2659.403,
+                214.87,
+                5645.088
             ],
             "ypr": [
                 -79.45,
@@ -2217,14 +2269,15 @@
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_3",
             "pos": [
-                2651.409,
-                213.194,
-                5621.559
+                2659.079,
+                214.748,
+                5643.623
             ],
             "ypr": [
                 -79.45,
@@ -2232,817 +2285,424 @@
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_9",
             "pos": [
-                2660.502,
-                212.959,
-                5629.143
+                2653.301,
+                211.739,
+                5585.514
             ],
             "ypr": [
-                -169.45,
+                -79.4,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
-            "name": "StaticObj_Wall_IndFnc_3",
+            "name": "Land_Wall_Gate_FenR_Big",
             "pos": [
-                2654.603,
-                213.999,
-                5630.241
+                2654.584,
+                211.959,
+                5592.37
             ],
             "ypr": [
-                -169.45,
+                -79.4,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_Pole",
-            "pos": [
-                2656.078,
-                213.75,
-                5629.967
-            ],
-            "ypr": [
-                -79.45,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_Pole",
-            "pos": [
-                2653.128,
-                214.206,
-                5630.516
-            ],
-            "ypr": [
-                -79.45,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_3",
-            "pos": [
-                2652.805,
-                214.05,
-                5629.05
-            ],
-            "ypr": [
-                -79.45,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_9",
             "pos": [
-                2652.156,
-                213.563,
-                5625.296
+                2629.71,
+                214.836,
+                5589.929
             ],
             "ypr": [
-                -79.45,
+                -79.4,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
-            "name": "Land_Wall_Gate_IndCnc4",
+            "name": "StaticObj_Wall_IndFnc_3",
             "pos": [
-                2657.573,
-                212.072,
-                5587.982
+                2630.814,
+                214.921,
+                5595.826
             ],
             "ypr": [
-                -80.582,
+                -79.4,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndFnc_3",
+            "pos": [
+                2631.124,
+                214.927,
+                5597.752
+            ],
+            "ypr": [
+                -79.4,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_9",
             "pos": [
-                2652.265,
-                211.756,
-                5583.48
+                2648.05,
+                212.138,
+                5581.918
             ],
             "ypr": [
-                -170.582,
+                10.6,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_3",
-            "pos": [
-                2646.346,
-                212.466,
-                5584.461
-            ],
-            "ypr": [
-                -170.582,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_Pole",
             "pos": [
-                2647.826,
-                212.266,
-                5584.216
+                2652.473,
+                211.623,
+                5581.091
             ],
             "ypr": [
-                -80.582,
+                -79.4,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_Pole",
-            "pos": [
-                2644.866,
-                212.675,
-                5584.707
-            ],
-            "ypr": [
-                -80.582,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_3",
-            "pos": [
-                2645.062,
-                212.721,
-                5586.195
-            ],
-            "ypr": [
-                -80.582,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_9",
             "pos": [
-                2654.003,
-                211.993,
-                5593.957
+                2639.203,
+                213.36,
+                5583.574
             ],
             "ypr": [
-                -170.582,
+                10.6,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_3",
-            "pos": [
-                2648.084,
-                212.575,
-                5594.938
-            ],
-            "ypr": [
-                -170.582,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_Pole",
             "pos": [
-                2649.563,
-                212.432,
-                5594.693
+                2643.627,
+                212.74,
+                5582.746
             ],
             "ypr": [
-                -80.582,
+                -79.4,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_Pole",
-            "pos": [
-                2646.604,
-                212.752,
-                5595.184
-            ],
-            "ypr": [
-                -80.582,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_3",
             "pos": [
-                2646.309,
-                212.759,
-                5593.712
+                2633.306,
+                214.171,
+                5584.678
             ],
             "ypr": [
-                -80.582,
+                10.6,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndFnc_Pole",
+            "pos": [
+                2634.78,
+                213.967,
+                5584.402
+            ],
+            "ypr": [
+                -79.4,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndFnc_3",
+            "pos": [
+                2630.357,
+                214.525,
+                5585.229
+            ],
+            "ypr": [
+                10.6,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndFnc_Pole",
+            "pos": [
+                2631.831,
+                214.358,
+                5584.954
+            ],
+            "ypr": [
+                -79.4,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_IndFnc_Pole",
+            "pos": [
+                2628.883,
+                214.692,
+                5585.505
+            ],
+            "ypr": [
+                -79.4,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_9",
             "pos": [
-                2645.735,
-                212.749,
-                5589.945
+                2650.616,
+                212.353,
+                5595.63
             ],
             "ypr": [
-                -80.582,
+                10.6,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
-            "name": "Land_Wall_Gate_IndCnc4",
+            "name": "StaticObj_Wall_IndFnc_Pole",
             "pos": [
-                2653.543,
-                209.963,
-                5543.319
+                2655.039,
+                211.93,
+                5594.803
             ],
             "ypr": [
-                -86.95,
+                -79.4,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_9",
             "pos": [
-                2648.767,
-                209.336,
-                5538.256
+                2641.77,
+                213.409,
+                5597.286
             ],
             "ypr": [
-                -176.95,
+                10.6,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_3",
-            "pos": [
-                2642.776,
-                209.577,
-                5538.576
-            ],
-            "ypr": [
-                -176.95,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_Pole",
             "pos": [
-                2644.274,
-                209.511,
-                5538.496
+                2646.193,
+                212.823,
+                5596.458
             ],
             "ypr": [
-                -86.95,
+                -79.4,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_Pole",
-            "pos": [
-                2641.278,
-                209.644,
-                5538.655
-            ],
-            "ypr": [
-                -86.95,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_3",
             "pos": [
-                2641.308,
-                209.754,
-                5540.156
+                2635.872,
+                214.26,
+                5598.39
             ],
             "ypr": [
-                -86.95,
+                10.6,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_9",
-            "pos": [
-                2649.332,
-                209.714,
-                5548.861
-            ],
-            "ypr": [
-                -176.95,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_3",
-            "pos": [
-                2643.341,
-                210.176,
-                5549.18
-            ],
-            "ypr": [
-                -176.95,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_Pole",
             "pos": [
-                2644.839,
-                210.024,
-                5549.101
+                2637.346,
+                214.037,
+                5598.114
             ],
             "ypr": [
-                -86.95,
+                -79.4,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_Pole",
-            "pos": [
-                2641.843,
-                210.331,
-                5549.26
-            ],
-            "ypr": [
-                -86.95,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_3",
             "pos": [
-                2641.713,
-                210.246,
-                5547.765
+                2632.923,
+                214.71,
+                5598.941
             ],
             "ypr": [
-                -86.95,
+                10.6,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_9",
-            "pos": [
-                2641.56,
-                210.009,
-                5543.958
-            ],
-            "ypr": [
-                -86.95,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "Land_Wall_Gate_IndCnc4",
-            "pos": [
-                2651.22,
-                208.417,
-                5495.201
-            ],
-            "ypr": [
-                -88.082,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_9",
-            "pos": [
-                2646.545,
-                207.8,
-                5490.044
-            ],
-            "ypr": [
-                -178.082,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_3",
-            "pos": [
-                2640.549,
-                208.109,
-                5490.245
-            ],
-            "ypr": [
-                -178.082,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_Pole",
             "pos": [
-                2642.048,
-                208.032,
-                5490.195
+                2634.398,
+                214.484,
+                5598.665
             ],
             "ypr": [
-                -88.082,
+                -79.4,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_Pole",
             "pos": [
-                2639.05,
-                208.204,
-                5490.295
+                2631.449,
+                214.917,
+                5599.217
             ],
             "ypr": [
-                -88.082,
+                -79.4,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_3",
-            "pos": [
-                2639.05,
-                208.249,
-                5491.796
-            ],
-            "ypr": [
-                -88.082,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_9",
-            "pos": [
-                2646.901,
-                208.036,
-                5500.658
-            ],
-            "ypr": [
-                -178.082,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_3",
-            "pos": [
-                2640.904,
-                208.374,
-                5500.859
-            ],
-            "ypr": [
-                -178.082,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_Pole",
             "pos": [
-                2642.403,
-                208.289,
-                5500.809
+                2654.129,
+                211.833,
+                5589.937
             ],
             "ypr": [
-                -88.082,
+                -79.4,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_Pole",
             "pos": [
-                2639.405,
-                208.482,
-                5500.909
+                2630.538,
+                214.911,
+                5594.352
             ],
             "ypr": [
-                -88.082,
+                -79.4,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_3",
-            "pos": [
-                2639.305,
-                208.452,
-                5499.412
-            ],
-            "ypr": [
-                -88.082,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_9",
-            "pos": [
-                2639.227,
-                208.35,
-                5495.602
-            ],
-            "ypr": [
-                -88.082,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "Land_Wall_Gate_IndCnc4",
-            "pos": [
-                2654.059,
-                208.356,
-                5471.81
-            ],
-            "ypr": [
-                -122.115,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_9",
-            "pos": [
-                2653.07,
-                207.715,
-                5464.921
-            ],
-            "ypr": [
-                147.885,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_3",
-            "pos": [
-                2647.989,
-                207.945,
-                5461.731
-            ],
-            "ypr": [
-                147.885,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         },
         {
             "name": "StaticObj_Wall_IndFnc_Pole",
             "pos": [
-                2649.259,
-                207.85,
-                5462.528
+                2631.09,
+                214.921,
+                5597.301
             ],
             "ypr": [
-                -122.115,
+                -79.4,
                 0.0,
                 0.0
             ],
             "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_Pole",
-            "pos": [
-                2646.718,
-                207.991,
-                5460.933
-            ],
-            "ypr": [
-                -122.115,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_3",
-            "pos": [
-                2645.878,
-                207.991,
-                5462.177
-            ],
-            "ypr": [
-                -122.115,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_9",
-            "pos": [
-                2647.425,
-                207.928,
-                5473.916
-            ],
-            "ypr": [
-                147.885,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_3",
-            "pos": [
-                2642.343,
-                207.941,
-                5470.726
-            ],
-            "ypr": [
-                147.885,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_Pole",
-            "pos": [
-                2643.613,
-                207.933,
-                5471.523
-            ],
-            "ypr": [
-                -122.115,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_Pole",
-            "pos": [
-                2641.072,
-                207.953,
-                5469.928
-            ],
-            "ypr": [
-                -122.115,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_3",
-            "pos": [
-                2641.827,
-                207.976,
-                5468.631
-            ],
-            "ypr": [
-                -122.115,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
-        },
-        {
-            "name": "StaticObj_Wall_IndFnc_9",
-            "pos": [
-                2643.895,
-                207.992,
-                5465.431
-            ],
-            "ypr": [
-                -122.115,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0
+            "enableCEPersistency": 0,
+            "customString": ""
         }
     ]
 }
