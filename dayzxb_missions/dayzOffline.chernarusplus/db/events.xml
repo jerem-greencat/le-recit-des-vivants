@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <events>
-    <!-- Petit parking du garagiste (Zelenogorsk) : 1 place, un vehicule au hasard, un nouveau des que la place est liberee (2 m), sans plafond -->
+    <!-- Petit parking du garagiste (Zelenogorsk) : 1 place, un vehicule au hasard, un nouveau au moins 20 min apres que la place est liberee (2 m), sans plafond -->
     <event name="VehicleZelenoParking">
         <nominal>999</nominal>
         <min>999</min>
         <max>999</max>
-        <lifetime>60</lifetime>
-        <restock>0</restock>
+        <lifetime>1200</lifetime>
+        <restock>1200</restock>
         <saferadius>0</saferadius>
         <distanceradius>2</distanceradius>
         <cleanupradius>200</cleanupradius>
