@@ -1,10 +1,10 @@
 {
 	"version": 123,
 	"GeneralData": {
-		"disableBaseDamage": false,
-		"disableContainerDamage": false,
+		"disableBaseDamage": true,
+		"disableContainerDamage": true,
 		"disableRespawnDialog": false,
-		"disableRespawnInUnconsciousness": false
+		"disableRespawnInUnconsciousness": true
 	},
 	"PlayerData": {
 		"disablePersonalLight": false,
