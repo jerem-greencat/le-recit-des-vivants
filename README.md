@@ -7,7 +7,13 @@ Sur console, les mods ne sont pas disponibles : toute la personnalisation passe 
 ## Origine des fichiers
 
 Les fichiers sont une copie de ceux du serveur Nitrado, téléchargés par FTP le 29/09/2026
-(DayZ 1.29, fichiers vanilla générés par Nitrado). L'arborescence du dépôt reprend celle du FTP.
+(fichiers vanilla générés par Nitrado). L'arborescence du dépôt reprend celle du FTP.
+
+Les fichiers de mission vanilla correspondent à DayZ 1.30 : leur contenu est identique au tag `DZ_130`
+du dépôt officiel [BohemiaInteractive/DayZ-Central-Economy](https://github.com/BohemiaInteractive/DayZ-Central-Economy)
+(aux fins de ligne près). Seules différences côté Xbox : pas d'`init.c`, de `env/fox_territories.xml`
+ni de `mapgroupdirt.xml`. Pour une prochaine mise à jour, comparer le tag de la nouvelle version à
+`DZ_130` pour savoir quels fichiers vanilla ont changé.
 
 ## Structure
 
