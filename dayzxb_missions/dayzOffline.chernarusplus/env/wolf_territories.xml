@@ -17,16 +17,16 @@
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="11152.5" z="13080" r="165"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="12577.5" z="14437.5" r="165"/>
     </territory>
-    <territory color="4291611852">
-        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="2595" z="5947.5" r="60"/>
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1777.5" z="5760" r="187.5"/>
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2160" z="5722.5" r="157.5"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="1792.5" z="5910" r="300"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2565" z="4417.5" r="225"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="907.5" z="5100" r="225"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="540" z="4252.5" r="217.5"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2242.5" z="5662.5" r="157.5"/>
-    </territory>
+    <!-- SafeZone Zelenogorsk: <territory color="4291611852"> -->
+        <!-- SafeZone Zelenogorsk: <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="2595" z="5947.5" r="60"/> -->
+        <!-- SafeZone Zelenogorsk: <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1777.5" z="5760" r="187.5"/> -->
+        <!-- SafeZone Zelenogorsk: <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2160" z="5722.5" r="157.5"/> -->
+        <!-- SafeZone Zelenogorsk: <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="1792.5" z="5910" r="300"/> -->
+        <!-- SafeZone Zelenogorsk: <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2565" z="4417.5" r="225"/> -->
+        <!-- SafeZone Zelenogorsk: <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="907.5" z="5100" r="225"/> -->
+        <!-- SafeZone Zelenogorsk: <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="540" z="4252.5" r="217.5"/> -->
+        <!-- SafeZone Zelenogorsk: <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2242.5" z="5662.5" r="157.5"/> -->
+    <!-- SafeZone Zelenogorsk: </territory> -->
     <territory color="4291611852">
         <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="8542.5" z="14025" r="75"/>
         <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="7710" z="14430" r="67.5"/>
@@ -95,7 +95,7 @@
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2617.5" z="3840" r="202.5"/>
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1312.5" z="3060" r="180"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2595" z="3825" r="240"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2565" z="4417.5" r="225"/>
+        <!-- SafeZone Zelenogorsk: <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2565" z="4417.5" r="225"/> -->
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2137.5" z="3367.5" r="210"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="3697.5" z="4140" r="187.5"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="3630" z="3495" r="180"/>
@@ -103,14 +103,14 @@
     <territory color="4291611852">
         <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="910" z="5265" r="60"/>
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1695" z="6187.5" r="247.5"/>
-        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1932.5" z="5740" r="187.5"/>
+        <!-- SafeZone Zelenogorsk: <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1932.5" z="5740" r="187.5"/> -->
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="952.5" z="6225" r="172.5"/>
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="745" z="3752.5" r="157.5"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="1197.5" z="3120" r="300"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="997.5" z="6217.5" r="255"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="1085" z="5002.5" r="225"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="540" z="4252.5" r="217.5"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="1900" z="6012.5" r="217.5"/>
+        <!-- SafeZone Zelenogorsk: <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="1900" z="6012.5" r="217.5"/> -->
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="407.5" z="3470" r="180"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="1587.5" z="5657.5" r="157.5"/>
     </territory>
@@ -181,9 +181,9 @@
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3767.5" z="4405" r="172.5"/>
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4080" z="3947.5" r="157.5"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2630" z="3927.5" r="300"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2580" z="4405" r="240"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2785" z="4682.5" r="225"/>
-        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="3387.5" z="5257.5" r="217.5"/>
+        <!-- SafeZone Zelenogorsk: <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2580" z="4405" r="240"/> -->
+        <!-- SafeZone Zelenogorsk: <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="2785" z="4682.5" r="225"/> -->
+        <!-- SafeZone Zelenogorsk: <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="3387.5" z="5257.5" r="217.5"/> -->
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="4047.5" z="3422.5" r="210"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="3697.5" z="4140" r="187.5"/>
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="3630" z="3495" r="180"/>
@@ -215,9 +215,9 @@
         <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="975" z="11002.5" r="157.5"/>
     </territory>
     <territory color="4291611852">
-        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="3157.5" z="5850" r="60"/>
-        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="2595" z="5947.5" r="60"/>
-        <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="3255" z="6105" r="52.5"/>
+        <!-- SafeZone Zelenogorsk: <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="3157.5" z="5850" r="60"/> -->
+        <!-- SafeZone Zelenogorsk: <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="2595" z="5947.5" r="60"/> -->
+        <!-- SafeZone Zelenogorsk: <zone name="Water" smin="0" smax="0" dmin="0" dmax="0" x="3255" z="6105" r="52.5"/> -->
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1710" z="6937.5" r="247.5"/>
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2145" z="6990" r="187.5"/>
         <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1567.5" z="7342.5" r="180"/>
