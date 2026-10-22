@@ -64,7 +64,18 @@ Tout ce qui passerait par `init.c` se fait via `cfggameplay.json` :
 Chaque mapping est un JSON dans `custom/`, déclaré dans `objectSpawnersArr` de `cfggameplay.json` :
 
 ```json
-"objectSpawnersArr": ["./custom/PZero_SpawnTest_LordBionik.json", "./custom/zeleno_enceinte.json", "./custom/zeleno_garagiste.json", "./custom/zeleno_hospital.json"],
+"objectSpawnersArr": [
+  "./custom/PZero_SpawnTest_LordBionik.json",
+  "./custom/zeleno_enceinte.json",
+  "./custom/zeleno_garagiste_v2.json",
+  "./custom/zeleno_hospital.json",
+  "./custom/zeleno_police.json",
+  "./custom/zeleno_church.json",
+  "./custom/zeleno_city_hall.json",
+  "./custom/zeleno_builder.json",
+  "./custom/zeleno_gunshop.json",
+  "./custom/shop_admin.json"
+],
 ```
 
 | Fichier | Description |
@@ -73,6 +84,12 @@ Chaque mapping est un JSON dans `custom/`, déclaré dans `objectSpawnersArr` de
 | `custom/zeleno_enceinte.json` | Enceinte de la zone safe de Zelenogorsk : murs, poteaux, barrages, épaves |
 | `custom/zeleno_garagiste_v2.json` | Zone RP du garagiste : en face de la station essence de Zelenogorsk, de l'autre côté de la route |
 | `custom/zeleno_hospital.json` | Zone RP du médecin dans l'hôpital de Zelenogorsk (`Land_Village_HealthCare`) : matériel médical sur les étagères |
+| `custom/zeleno_police.json` | Commissariat de Zelenogorsk : munitions et chargeurs, lampes tactiques, piles, barbelés, tour de guet |
+| `custom/zeleno_church.json` | Église de Zelenogorsk : décor (tombes, sarcophage, corps, pendus) et bibles |
+| `custom/zeleno_city_hall.json` | Mairie de Zelenogorsk : mobilier de bureau (bureaux, PC, tapis, bancs), bougies, décor |
+| `custom/zeleno_builder.json` | Zone RP du constructeur à Zelenogorsk : matériaux (rondins, tôles, fil, corde, filets de camouflage) et outils |
+| `custom/zeleno_gunshop.json` | Armurerie de Zelenogorsk : boîtes de munitions de tous calibres et tableaux d'affichage |
+| `custom/shop_admin.json` | Shop admin à l'aérodrome de Krasnostav : stock d'objets (matériaux de construction, conteneurs, munitions, explosifs…) |
 
 Les objets ramassables (armes, `UndergroundStash`…) d'un mapping sont recréés à chaque
 redémarrage, même s'ils ont été pris : à éviter hors test.
