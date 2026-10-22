@@ -15,6 +15,7 @@
 		<file path="env/hare_territories.xml" />
 		<file path="env/zombie_territories.xml" />
 		<file path="env/bear_territories.xml" />
+		<file path="env/dog_territories.xml" />
 		<file path="env/hare_territories.xml" />
 		<file path="env/fox_territories.xml" />
 
@@ -44,6 +45,9 @@
 		</territory>
 		<territory type="Herd" name="Bear" behavior="BlissBearGroupBeh">
 			<file usable="bear_territories"/>
+		</territory>
+		<territory type="Herd" name="Dog" behavior="DZDogGroupBeh">
+			<file usable="dog_territories" />
 		</territory>
 
 		<!-- HEN -->

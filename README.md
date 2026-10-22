@@ -110,9 +110,39 @@ Les lignes désactivées sont commentées avec le marqueur `SafeZone Zelenogorsk
 - `env/zombie_territories.xml` : zones de spawn des zombies (18 zones) ;
 - `cfgeventspawns.xml` : positions des événements qui font apparaître des zombies (crash
   d'hélico, voitures de police, feu de camp, crash du père Noël, police situation : 12 positions) et
-  les 2 zones de gaz dynamique de Zelenogorsk (`StaticContaminatedArea`, ville et zone militaire).
+  les 2 zones de gaz dynamique de Zelenogorsk (`StaticContaminatedArea`, ville et zone militaire) ;
+- `env/wolf_territories.xml` : zones de loups dont le bord est à moins de 500 m de la zone safe
+  (17 zones, dont un territoire entier qui n'avait plus de zone de repos).
+
+Les hordes et les meutes de chiens sont placées à plus de 1,5 km de la zone safe.
 
 Pour rétablir une zone, décommenter sa ligne.
+
+## Danger
+
+| Élément | Réglage | Fichier |
+| --- | --- | --- |
+| Zombies | `smin`/`smax`/`dmin`/`dmax` ×2 sur toutes les zones actives | `env/zombie_territories.xml` |
+| Plafonds zombies | `ZombieMaxCount` 1000 → 1500, `max` des événements `Infected*` ×2 | `db/globals.xml`, `db/events.xml` |
+| Hordes civiles | `StaticHorde` : 8 hordes de 25 à 35 zombies (`InfectedHorde`) autour d'une épave de voiture, dans les villes et villages | `db/events.xml`, `cfgeventspawns.xml` |
+| Hordes militaires | `StaticHordeMilitary` : 4 hordes de 25 à 35 zombies militaires (`InfectedArmy`) autour d'une épave militaire, dans les bases | `db/events.xml`, `cfgeventspawns.xml` |
+| Loups | 16 meutes de 5 à 8 (au lieu de 8 meutes de 4 à 6) | `db/events.xml` |
+| Ours | 6 groupes de 1 ou 2 ours (au lieu de 2 ours seuls), `limit` passé de `custom` à `child` comme les loups | `db/events.xml` |
+| Chiens | `AnimalDog` : 15 meutes de 2 à 4 dobermans / bergers allemands, territoires `Dog` | `db/events.xml`, `cfgenvironment.xml`, `env/dog_territories.xml` |
+| Animaux | `AnimalMaxCount` 200 → 300 | `db/globals.xml` |
+
+Hordes : une position par point d'intérêt, soit 57 villes et villages et 18 bases militaires. Un point
+d'intérêt regroupe des zones de zombies actives distantes de moins de 300 m ; seuls ceux qui comptent
+au moins 40 zombies (somme des `smax` + `dmax`) sont retenus côté civil. Dans chacun, l'épave est posée sur
+la position de spawn de véhicule (`Vehicle*`, `StaticPoliceCar`) la plus proche du centre : une route ou
+un parking, jamais dans un bâtiment. Une horde disparaît au bout de 45 min si personne n'est à moins de 300 m, puis réapparaît ailleurs,
+hors de vue des joueurs (500 m) : les hordes « se déplacent » d'un point à l'autre de la carte. Les
+zombies ne marchent pas en groupe d'un point à un autre : ce n'est pas faisable sans `init.c`. La taille
+d'une horde se règle dans la balise `<zone>` de `StaticHorde` (`cfgeventspawns.xml`).
+
+Chiens : classes vanilla de la 1.30, utilisées par Bohemia sur Nasdara avec le comportement
+`DZDogGroupBeh` (repris tel quel). Un territoire par camp de tentes militaires et par camp de chasse
+(`Land_Camp_House_*`). Si `DZDogGroupBeh` est inconnu sur le serveur, le `.RPT` le signale au démarrage.
 
 ## Déploiement (FTP)
 

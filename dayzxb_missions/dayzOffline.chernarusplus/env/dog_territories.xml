@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Meutes de chiens : camps militaires (tentes) et camps de chasse, a plus de 1,5 km de la zone safe de Zelenogorsk -->
+<territory-type>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="347.7" z="9361" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="347.7" z="9361" r="150"/>
+    </territory>
+    <!-- camp de chasse -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="589.5" z="11154" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="589.5" z="11154" r="150"/>
+    </territory>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="758.6" z="1880.6" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="758.6" z="1880.6" r="150"/>
+    </territory>
+    <!-- camp de chasse -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1081.7" z="6636.2" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="1081.7" z="6636.2" r="150"/>
+    </territory>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1157.9" z="7233.7" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="1157.9" z="7233.7" r="150"/>
+    </territory>
+    <!-- camp de chasse -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1185.1" z="11446.5" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="1185.1" z="11446.5" r="150"/>
+    </territory>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="1510.7" z="13617.7" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="1510.7" z="13617.7" r="150"/>
+    </territory>
+    <!-- camp de chasse -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3668.7" z="14810.1" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="3668.7" z="14810.1" r="150"/>
+    </territory>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4198.6" z="11048.1" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="4198.6" z="11048.1" r="150"/>
+    </territory>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4641.9" z="10377.7" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="4641.9" z="10377.7" r="150"/>
+    </territory>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4900" z="2468.4" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="4900" z="2468.4" r="150"/>
+    </territory>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5146.4" z="2254.6" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="5146.4" z="2254.6" r="150"/>
+    </territory>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5325.6" z="9940.4" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="5325.6" z="9940.4" r="150"/>
+    </territory>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5797.3" z="3074.5" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="5797.3" z="3074.5" r="150"/>
+    </territory>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6322.9" z="7809.4" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="6322.9" z="7809.4" r="150"/>
+    </territory>
+    <!-- camp de chasse -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7078.9" z="4295.8" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="7078.9" z="4295.8" r="150"/>
+    </territory>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7090.2" z="12721.5" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="7090.2" z="12721.5" r="150"/>
+    </territory>
+    <!-- camp de chasse -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7240.6" z="7018.2" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="7240.6" z="7018.2" r="150"/>
+    </territory>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7260.8" z="3022.5" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="7260.8" z="3022.5" r="150"/>
+    </territory>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7917.5" z="14668.6" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="7917.5" z="14668.6" r="150"/>
+    </territory>
+    <!-- camp de chasse -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8104.7" z="10951.2" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8104.7" z="10951.2" r="150"/>
+    </territory>
+    <!-- camp de chasse -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8457" z="13947.7" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="8457" z="13947.7" r="150"/>
+    </territory>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9562.9" z="11808.5" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="9562.9" z="11808.5" r="150"/>
+    </territory>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10228.2" z="4016.6" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="10228.2" z="4016.6" r="150"/>
+    </territory>
+    <!-- camp de chasse -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10318.3" z="3512.3" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="10318.3" z="3512.3" r="150"/>
+    </territory>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10443.4" z="5957.1" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="10443.4" z="5957.1" r="150"/>
+    </territory>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10460.2" z="9143.8" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="10460.2" z="9143.8" r="150"/>
+    </territory>
+    <!-- camp de chasse -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11141.2" z="7055.7" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="11141.2" z="7055.7" r="150"/>
+    </territory>
+    <!-- camp de chasse -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="11474.5" z="10634.5" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="11474.5" z="10634.5" r="150"/>
+    </territory>
+    <!-- camp militaire -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="13614.6" z="13748.6" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="13614.6" z="13748.6" r="150"/>
+    </territory>
+    <!-- camp de chasse -->
+    <territory color="2801795072">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="14831.6" z="14572.2" r="60"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="14831.6" z="14572.2" r="150"/>
+    </territory>
+</territory-type>
