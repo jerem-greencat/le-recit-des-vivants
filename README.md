@@ -179,6 +179,34 @@ posée au sol (par un joueur ou un mapping) disparaît aussi au bout de 10 s si 
 
 Pour rétablir un objet : remettre ses valeurs d'origine dans `db/types.xml` et décommenter ses lignes.
 
+## Loot RP
+
+Objets ajoutés au loot de la map pour le RP. Marqueur `Loot RP` dans `db/types.xml`. Les objets absents
+du `types.xml` vanilla ont une entrée créée en fin de fichier. Les autres avaient un `nominal` à 0 : la
+valeur d'origine est en commentaire, et les `usage` ajoutés sont marqués.
+
+| Objet | Quantité (`nominal`/`min`) | Où | Remarque |
+| --- | --- | --- | --- |
+| Graines de cannabis (`CannabisSeedsPack`) | 8/4 | Fermes | 10 graines par sachet, à planter dans un potager. Chaque plant donne 7 têtes de `Cannabis` |
+| Cannabis (`Cannabis`), graines (`CannabisSeeds`), plant (`Plant_Cannabis`) | 0/0 | Culture uniquement | Le cannabis se mange, sans effet particulier |
+| Frigo (`Refridgerator`) | 4/2 | Zones industrielles, villes | Se pose au sol, 40 cases de stockage, se branche sur un générateur. Ne ralentit pas le pourrissement |
+| Cigarettes (Chernamorka, Merkur, Partyzanka) | 10/6 chacune | Villes, villages, prison | Accessoire, pas d'action « fumer » |
+| Champignons amanite et psilocybe | 6/3 chacun | Zones de chasse | Pas d'effet particulier |
+| Livres (145 titres, dont la Bible) | 1/1 chacun | Emplacements « livres » des bâtiments (villes, villages, bureaux, écoles) | Accessoire, non lisible |
+| Stylos (4 couleurs), papier | 8/4 chacun, 20/10 | Villes, bureaux, écoles | Le jeu ne permet pas d'écrire. `Paper` passe de `crafted="1"` à `crafted="0"` pour pouvoir apparaître |
+| Valises d'armes (`GunCase_*`) | 2/1 chacune | Zones de chasse, police (au lieu de militaire) | Livrées ouvertes avec leur clé. Se ferment et s'ouvrent avec la clé de la même couleur, et n'importe quelle clé de cette couleur les ouvre |
+| Mallette scientifique et clés | 2/1 chacune | Hôpitaux, bureaux | `lifetime` passé de 1800 à 14400 s. Les clés apparaissent séparément |
+| Lance-fusées et fusées éclairantes | 5/2, 8/4 par couleur | Côte, police, pompiers, médical, militaire | |
+| Matraque télescopique | 8/4 | Villes, police | |
+| Vêtements : doudounes, blousons d'aviateur, gants et lunettes de ski, chapkas, ballerines, bandanas uni, gilet réfléchissant, lunettes anti-poussière | 3 à 10 | Villes, villages, zones industrielles | |
+| Variantes de couleur : Mosin (noir, camo, vert), CZ527 (noir, camo, vert), Winchester 70 (noir, vert), B95 (noir, vert), Derringer (noir, rose) | 2 à 4 | Comme l'arme de base | Elles s'ajoutent aux armes de base |
+| Nourriture : chair de crabe, sodas Takola et ZumZam, sarma, crackers, mélange salé, banane, orange, kiwi | 8 à 10 | Villes, villages, côte | |
+| Pots en céramique (4 couleurs) | 3/2 chacun | Fermes, villes, villages, chasse | Ustensile de cuisine |
+
+Laissés de côté : la radio (sa pile `BatteryD` n'existe pas dans le jeu) et les cassettes. Aussi la
+matraque électrique, l'aiguillon électrique et le défibrillateur : `cfgignorelist.xml` les supprime
+au démarrage.
+
 ## Déploiement (FTP)
 
 1. Arrêter le serveur depuis l'interface Nitrado (sinon il peut réécrire des fichiers à l'arrêt).
