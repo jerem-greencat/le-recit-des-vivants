@@ -128,7 +128,7 @@ Pour rétablir une zone, décommenter sa ligne.
 | Hordes militaires | `StaticHordeMilitary` : 4 hordes de 25 à 35 zombies militaires (`InfectedArmy`) autour d'une épave militaire, dans les bases | `db/events.xml`, `cfgeventspawns.xml` |
 | Loups | 16 meutes de 5 à 8 (au lieu de 8 meutes de 4 à 6) | `db/events.xml` |
 | Ours | 6 groupes de 1 ou 2 ours (au lieu de 2 ours seuls), `limit` passé de `custom` à `child` comme les loups | `db/events.xml` |
-| Chiens | `AnimalDog` : 15 meutes de 2 à 4 dobermans / bergers allemands, territoires `Dog` | `db/events.xml`, `cfgenvironment.xml`, `env/dog_territories.xml` |
+| Chiens | **Désactivé** (`active` 0, territoire commenté) : soupçonné de bloquer les zombies, voir plus bas. Prévu : `AnimalDog`, 15 meutes de 2 à 4 dobermans / bergers allemands, territoires `Dog` | `db/events.xml`, `cfgenvironment.xml`, `env/dog_territories.xml` |
 | Animaux | `AnimalMaxCount` 200 → 300 | `db/globals.xml` |
 
 Hordes : une position par point d'intérêt, soit 57 villes et villages et 18 bases militaires. Un point
@@ -143,6 +143,14 @@ d'une horde se règle dans la balise `<zone>` de `StaticHorde` (`cfgeventspawns.
 Chiens : classes vanilla de la 1.30, utilisées par Bohemia sur Nasdara avec le comportement
 `DZDogGroupBeh` (repris tel quel). Un territoire par camp de tentes militaires et par camp de chasse
 (`Land_Camp_House_*`). Si `DZDogGroupBeh` est inconnu sur le serveur, le `.RPT` le signale au démarrage.
+Après l'ajout des chiens, il n'y avait presque plus de zombies dans les zones de `env/zombie_territories.xml`.
+Le `.RPT` de cette session contient une seule erreur de territoire :
+`File "DZ\worlds\chernarusplus\ce\env/dog_territories.xml" does not exist`, alors que le fichier est bien
+dans `env/` sur le FTP. Pourtant, les fichiers `env/` de la mission
+qui existent en vanilla sont bien lus (les zombies retirés de Zelenogorsk n'y apparaissent pas). Sur Xbox, un fichier
+`env/` de la mission ne fait que remplacer le fichier du même nom dans le jeu : un nouveau nom n'est pas trouvé, et
+cette erreur a fait disparaître les zombies de zone. Ne jamais ajouter de nouveau fichier dans `env/`. Les chiens
+restent désactivés.
 
 ## Loot restreint
 
