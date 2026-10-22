@@ -55,7 +55,7 @@
 				<item name="SpaghettiCan" chance="0.05" />
 				<item name="BakedBeansCan" chance="0.05" />
 				<item name="TacticalBaconCan" chance="0.1" />
-				<item name="Canteen" chance="0.1" />
+				<!-- Loot restreint : <item name="Canteen" chance="0.1" /> -->
 		</cargo>
 		<cargo chance="0.15" name="toolsHermit">
 				<item name="WeaponCleaningKit" chance="0.10" />
@@ -223,7 +223,7 @@
 				<item name="SpaghettiCan" chance="0.05" />
 				<item name="BakedBeansCan" chance="0.05" />
 				<item name="TacticalBaconCan" chance="0.1" />
-				<item name="Canteen" chance="0.1" />
+				<!-- Loot restreint : <item name="Canteen" chance="0.1" /> -->
 				<item name="Ammo_45ACP" chance="0.2" />
 				<item name="AmmoBox_45ACP_25Rnd" chance="0.05" />
 				<item name="Ammo_762x39" chance="0.2" />
@@ -233,9 +233,9 @@
 		</cargo>
 		<cargo chance="0.04" name="grenades">
 				<item name="RDG2SmokeGrenade_White" chance="0.25" />
-				<item name="FlashGrenade" chance="0.25" />
+				<!-- Loot restreint : <item name="FlashGrenade" chance="0.25" /> -->
 				<item name="RDG2SmokeGrenade_Black" chance="0.25" />
-				<item name="RGD5Grenade" chance="0.25" />
+				<!-- Loot restreint : <item name="RGD5Grenade" chance="0.25" /> -->
 		</cargo>
 		<attachments chance="0.10" name="optics">
 				<item name="M4_T3NRDSOptic" chance="0.20" />
@@ -406,29 +406,29 @@
 		</attachments>
 
 		<!--ARMY ATTACHMENTS-->
-		<attachments chance="0.60" name="hatsArmy">
-			<item name="OKZKCap_Beige" chance="0.10" />
-			<item name="OKZKCap_Green" chance="0.10" />
-			<item name="TankerHelmet" chance="0.10" />
-			<item name="PilotkaCap" chance="0.10" />
-			<item name="MilitaryBeret_Red" chance="0.10" />
-			<item name="MilitaryBeret_UN" chance="0.10" />
-			<item name="MilitaryBeret_NZ" chance="0.10" />
-			<item name="MilitaryBeret_ChDKZ" chance="0.10" />
-			<item name="MilitaryBeret_CDF" chance="0.10" />
-			<item name="ZSh3PilotHelmet" chance="0.10" />
-		</attachments>
+		<!-- Loot restreint : <attachments chance="0.60" name="hatsArmy"> -->
+			<!-- Loot restreint : <item name="OKZKCap_Beige" chance="0.10" /> -->
+			<!-- Loot restreint : <item name="OKZKCap_Green" chance="0.10" /> -->
+			<!-- Loot restreint : <item name="TankerHelmet" chance="0.10" /> -->
+			<!-- Loot restreint : <item name="PilotkaCap" chance="0.10" /> -->
+			<!-- Loot restreint : <item name="MilitaryBeret_Red" chance="0.10" /> -->
+			<!-- Loot restreint : <item name="MilitaryBeret_UN" chance="0.10" /> -->
+			<!-- Loot restreint : <item name="MilitaryBeret_NZ" chance="0.10" /> -->
+			<!-- Loot restreint : <item name="MilitaryBeret_ChDKZ" chance="0.10" /> -->
+			<!-- Loot restreint : <item name="MilitaryBeret_CDF" chance="0.10" /> -->
+			<!-- Loot restreint : <item name="ZSh3PilotHelmet" chance="0.10" /> -->
+		<!-- Loot restreint : </attachments> -->
 		<attachments chance="0.00" name="glassesArmy"> <!--was chance="0.10"; removed coz of attachment slot is missing -->
-			<item name="TacticalGoggles" chance="0.10" />
+			<!-- Loot restreint : <item name="TacticalGoggles" chance="0.10" /> -->
 			<item name="AviatorGlasses" chance="0.25" />
 		</attachments>
-		<attachments chance="0.20" name="vestsArmy">
-			<item name="UKAssVest_Black" chance="0.20" />
-			<item name="UKAssVest_Camo" chance="0.20" />
-			<item name="UKAssVest_Khaki" chance="0.2" />
-			<item name="UKAssVest_Olive" chance="0.2" />
-			<item name="SmershVest" chance="0.05" />
-		</attachments>
+		<!-- Loot restreint : <attachments chance="0.20" name="vestsArmy"> -->
+			<!-- Loot restreint : <item name="UKAssVest_Black" chance="0.20" /> -->
+			<!-- Loot restreint : <item name="UKAssVest_Camo" chance="0.20" /> -->
+			<!-- Loot restreint : <item name="UKAssVest_Khaki" chance="0.2" /> -->
+			<!-- Loot restreint : <item name="UKAssVest_Olive" chance="0.2" /> -->
+			<!-- Loot restreint : <item name="SmershVest" chance="0.05" /> -->
+		<!-- Loot restreint : </attachments> -->
 		<attachments chance="0.08" name="bagsArmy">
 			<item name="DuffelBagSmall_Camo" chance="0.10" />
 			<item name="DuffelBagSmall_Green" chance="0.10" />
@@ -440,15 +440,15 @@
 			<item name="AssaultBag_Black" chance="0.10" />
 			<item name="TortillaBag" chance="0.10" />
 		</attachments>
-		<attachments chance="0.8" name="HeavyArmorArmy">
-			<item name="PlateCarrierVest" chance="1.00" />
-		</attachments>
-		<attachments chance="0.30" name="HeavyHelmetArmy">
-			<item name="Ssh68Helmet" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00" name="OfficerHatArmy">
-			<item name="OfficerHat" chance="1.00" />
-		</attachments>
+		<!-- Loot restreint : <attachments chance="0.8" name="HeavyArmorArmy"> -->
+			<!-- Loot restreint : <item name="PlateCarrierVest" chance="1.00" /> -->
+		<!-- Loot restreint : </attachments> -->
+		<!-- Loot restreint : <attachments chance="0.30" name="HeavyHelmetArmy"> -->
+			<!-- Loot restreint : <item name="Ssh68Helmet" chance="1.00" /> -->
+		<!-- Loot restreint : </attachments> -->
+		<!-- Loot restreint : <attachments chance="1.00" name="OfficerHatArmy"> -->
+			<!-- Loot restreint : <item name="OfficerHat" chance="1.00" /> -->
+		<!-- Loot restreint : </attachments> -->
 
 		<!--POLICE ATTACHMENTS-->
 		<attachments chance="0.20" name="hatsPolice">
@@ -608,12 +608,12 @@
 		</cargo>
 		<cargo chance="1.0" name="Xmas_Weapons_Small">
 			<item name="Flaregun" chance="0.01" />
-			<item name="M67Grenade" chance="0.10" />
-			<item name="RGD5Grenade" chance="0.10" />
-			<item name="LandMineTrap" chance="0.10" />
-			<item name="Grenade_ChemGas" chance="0.02" />
-			<item name="Ammo_40mm_Explosive" chance="0.02" />
-			<item name="Ammo_40mm_ChemGas" chance="0.02" />
+			<!-- Loot restreint : <item name="M67Grenade" chance="0.10" /> -->
+			<!-- Loot restreint : <item name="RGD5Grenade" chance="0.10" /> -->
+			<!-- Loot restreint : <item name="LandMineTrap" chance="0.10" /> -->
+			<!-- Loot restreint : <item name="Grenade_ChemGas" chance="0.02" /> -->
+			<!-- Loot restreint : <item name="Ammo_40mm_Explosive" chance="0.02" /> -->
+			<!-- Loot restreint : <item name="Ammo_40mm_ChemGas" chance="0.02" /> -->
 		</cargo>
 		<cargo chance="1.0" name="Xmas_Ammo_Small">
 			<item name="Ammo_Flare" chance="0.01" />
@@ -634,8 +634,8 @@
 			<item name="AmmoBox_762x54_20Rnd" chance="0.05" />
 		</cargo>
 		<cargo chance="1.0" name="Xmas_Mags_Small">
-			<item name="Mag_M14_10Rnd" chance="0.076" />
-			<item name="Mag_M14_20Rnd" chance="0.076" />
+			<!-- Loot restreint : <item name="Mag_M14_10Rnd" chance="0.076" /> -->
+			<!-- Loot restreint : <item name="Mag_M14_20Rnd" chance="0.076" /> -->
 			<item name="Mag_Ruger1022_15Rnd" chance="0.076" />
 			<item name="Mag_FNX45_15Rnd" chance="0.076" />
 			<item name="Mag_Glock_15Rnd" chance="0.076" />
@@ -643,7 +643,7 @@
 			<item name="Mag_1911_7Rnd" chance="0.076" />
 			<item name="Mag_CZ75_15Rnd" chance="0.076" />
 			<item name="Mag_IJ70_8Rnd" chance="0.076" />
-			<item name="Mag_SVD_10Rnd" chance="0.076" />
+			<!-- Loot restreint : <item name="Mag_SVD_10Rnd" chance="0.076" /> -->
 			<item name="Mag_P1_8Rnd" chance="0.076" />
 			<item name="Mag_CZ550_10rnd" chance="0.076" />
 			<item name="Mag_SSG82_5rnd" chance="0.076" />
@@ -697,8 +697,8 @@
 		<cargo chance="1.0" name="Xmas_Lights_Small">
 			<item name="Headtorch_Grey" chance="0.05" />
 			<item name="Headtorch_Black" chance="0.05" />
-			<item name="NVGHeadstrap" chance="0.05" />
-			<item name="NVGoggles" chance="0.01" />
+			<!-- Loot restreint : <item name="NVGHeadstrap" chance="0.05" /> -->
+			<!-- Loot restreint : <item name="NVGoggles" chance="0.01" /> -->
 		</cargo>
 		<cargo chance="1.0" name="Xmas_Chemlights_Small">
 			<item name="Chemlight_Blue" chance="0.50" />
@@ -715,7 +715,7 @@
 			<item name="WoolCoat_Red" chance="0.05" />
 			<item name="WoolCoat_RedCheck" chance="0.05" />
 			<item name="HuntingVest" chance="0.05" />
-			<item name="CombatBoots_Grey" chance="0.05" />
+			<!-- Loot restreint : <item name="CombatBoots_Grey" chance="0.05" /> -->
 			<item name="HunterPants_Winter" chance="0.05" />
 			<item name="HuntingJacket_Winter" chance="0.05" />
 			<item name="NBCPantsGray" chance="0.01" />
@@ -759,8 +759,8 @@
 			<item name="Mag_PP19_64Rnd" chance="0.05" />
 		</cargo>
 		<cargo chance="1.0" name="Xmas_Fillers_Medium">
-			<item name="ClaymoreMine" chance="0.33" />
-			<item name="Plastic_Explosive" chance="0.33" />
+			<!-- Loot restreint : <item name="ClaymoreMine" chance="0.33" /> -->
+			<!-- Loot restreint : <item name="Plastic_Explosive" chance="0.33" /> -->
 			<item name="XmasLights" chance="0.33" />
 		</cargo>
 		<cargo chance="1.0" name="Xmas_Repairs_Medium">
@@ -773,7 +773,7 @@
 			<item name="CarpFilletMeat" chance="1.0" />
 		</cargo>
 		<cargo chance="0.25" name="Xmas_Weapons_Large">
-			<item name="PlateCarrierVest_Camo" chance="0.20" />
+			<!-- Loot restreint : <item name="PlateCarrierVest_Camo" chance="0.20" /> -->
 			<item name="MP5K" chance="0.20" />
 			<item name="PP19" chance="0.20" />
 			<item name="UMP45" chance="0.20" />
@@ -781,7 +781,7 @@
 		</cargo>
 		<cargo chance="0.25" name="Xmas_Mags_Large">
 			<item name="Mag_Saiga_Drum20Rnd" chance="0.05" />
-			<item name="Mag_STANAG_60Rnd" chance="0.05" />
-			<item name="Mag_AKM_Drum75Rnd" chance="0.05" />
+			<!-- Loot restreint : <item name="Mag_STANAG_60Rnd" chance="0.05" /> -->
+			<!-- Loot restreint : <item name="Mag_AKM_Drum75Rnd" chance="0.05" /> -->
 		</cargo>
 </randompresets>

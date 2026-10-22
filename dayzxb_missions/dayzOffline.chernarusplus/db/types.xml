@@ -28,10 +28,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AK101">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -64,10 +64,10 @@
         <category name="weapons"/>
     </type>
     <type name="AK74">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -98,10 +98,10 @@
         <category name="weapons"/>
     </type>
     <type name="AK74_Hndgrd">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -110,10 +110,10 @@
         <usage name="Military"/>
     </type>
     <type name="AK74_WoodBttstck">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -122,10 +122,10 @@
         <usage name="Military"/>
     </type>
     <type name="AKM">
-        <nominal>3</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 3 -->
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -135,10 +135,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AKS74U">
-        <nominal>8</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 8 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -159,10 +159,10 @@
         <category name="weapons"/>
     </type>
     <type name="AKS74U_Bttstck">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -184,10 +184,10 @@
         <category name="weapons"/>
     </type>
     <type name="AK_Bayonet">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -198,10 +198,10 @@
         <value name="Tier3"/>
     </type>
     <type name="AK_FoldingBttstck">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -232,10 +232,10 @@
         <category name="weapons"/>
     </type>
     <type name="AK_PlasticBttstck">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -266,10 +266,10 @@
         <category name="weapons"/>
     </type>
     <type name="AK_PlasticHndgrd">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -278,10 +278,10 @@
         <usage name="Military"/>
     </type>
     <type name="AK_RailHndgrd">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -313,10 +313,10 @@
         <category name="weapons"/>
     </type>
     <type name="AK_Suppressor">
-        <nominal>2</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 2 -->
         <lifetime>9800</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -326,10 +326,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="AK_WoodBttstck">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -360,10 +360,10 @@
         <category name="weapons"/>
     </type>
     <type name="AK_WoodHndgrd">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -394,10 +394,10 @@
         <category name="weapons"/>
     </type>
     <type name="ASVAL">
-        <nominal>2</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 2 -->
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -923,10 +923,10 @@
         <usage name="Village"/>
     </type>
     <type name="Ammo_40mm_Chemgas">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>5400</lifetime>
         <restock>1800</restock>
-        <min>3</min>
+        <min>0</min> <!-- Loot restreint : 3 -->
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -935,10 +935,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="Ammo_40mm_Explosive">
-        <nominal>8</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 8 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -950,10 +950,10 @@
         <value name="Unique"/>
     </type>
     <type name="Ammo_40mm_Smoke_Black">
-        <nominal>15</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 15 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>0</min> <!-- Loot restreint : 8 -->
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -962,10 +962,10 @@
         <usage name="Military"/>
     </type>
     <type name="Ammo_40mm_Smoke_Green">
-        <nominal>15</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 15 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>0</min> <!-- Loot restreint : 8 -->
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -974,10 +974,10 @@
         <usage name="Military"/>
     </type>
     <type name="Ammo_40mm_Smoke_Red">
-        <nominal>15</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 15 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>0</min> <!-- Loot restreint : 8 -->
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -986,10 +986,10 @@
         <usage name="Military"/>
     </type>
     <type name="Ammo_40mm_Smoke_White">
-        <nominal>15</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 15 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>0</min> <!-- Loot restreint : 8 -->
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -2329,10 +2329,10 @@
         <category name="containers"/>
     </type>
     <type name="Aug">
-        <nominal>1</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 1 -->
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -2341,10 +2341,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="AugShort">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>0</min> <!-- Loot restreint : 3 -->
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -2395,10 +2395,10 @@
         <value name="Tier4"/>
     </type>
     <type name="BDUJacket">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2407,10 +2407,10 @@
         <usage name="Military"/>
     </type>
     <type name="BDUPants">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2551,10 +2551,10 @@
         <value name="Tier2"/>
     </type>
     <type name="BalaclavaMask_BDU">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2706,10 +2706,10 @@
         <value name="Tier2"/>
     </type>
     <type name="BallisticHelmet_BDU">
-        <nominal>3</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 3 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2718,10 +2718,10 @@
         <usage name="Military"/>
     </type>
     <type name="BallisticHelmet_Black">
-        <nominal>3</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 3 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2742,10 +2742,10 @@
         <usage name="Military"/>
     </type>
     <type name="BallisticHelmet_Green">
-        <nominal>3</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 3 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2765,10 +2765,10 @@
         <category name="clothes"/>
     </type>
     <type name="BallisticHelmet_UN">
-        <nominal>3</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 3 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2789,10 +2789,10 @@
         <usage name="Military"/>
     </type>
     <type name="BallisticHelmet_Woodland">
-        <nominal>3</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 3 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4421,10 +4421,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="Canteen">
-        <nominal>20</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 20 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min> <!-- Loot restreint : 10 -->
         <quantmin>10</quantmin>
         <quantmax>90</quantmax>
         <cost>100</cost>
@@ -5581,10 +5581,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ClaymoreMine">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>432000</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5668,10 +5668,10 @@
         <value name="Tier2"/>
     </type>
     <type name="CombatBoots_Beige">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5681,10 +5681,10 @@
         <usage name="Military"/>
     </type>
     <type name="CombatBoots_Black">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5694,10 +5694,10 @@
         <usage name="Military"/>
     </type>
     <type name="CombatBoots_Brown">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5707,10 +5707,10 @@
         <usage name="Military"/>
     </type>
     <type name="CombatBoots_Green">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -5720,10 +5720,10 @@
         <usage name="Military"/>
     </type>
     <type name="CombatBoots_Grey">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7118,10 +7118,10 @@
         <category name="clothes"/>
     </type>
     <type name="FAL">
-        <nominal>2</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 2 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -7130,10 +7130,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="FAMAS">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>0</min> <!-- Loot restreint : 3 -->
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -7196,10 +7196,10 @@
         <category name="clothes"/>
     </type>
     <type name="Fal_FoldingBttstck">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7208,10 +7208,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="Fal_OeBttstck">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7942,10 +7942,10 @@
         <usage name="Coast"/>
     </type>
     <type name="FlashGrenade">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8233,10 +8233,10 @@
         <category name="clothes"/>
     </type>
     <type name="GhillieAtt_Mossy">
-        <nominal>2</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 2 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8278,10 +8278,10 @@
         <category name="clothes"/>
     </type>
     <type name="GhillieBushrag_Mossy">
-        <nominal>2</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 2 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8324,10 +8324,10 @@
         <category name="clothes"/>
     </type>
     <type name="GhillieHood_Mossy">
-        <nominal>2</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 2 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8370,10 +8370,10 @@
         <category name="clothes"/>
     </type>
     <type name="GhillieSuit_Mossy">
-        <nominal>2</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 2 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8416,10 +8416,10 @@
         <category name="clothes"/>
     </type>
     <type name="GhillieTop_Mossy">
-        <nominal>2</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 2 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8724,10 +8724,10 @@
         <category name="food"/>
     </type>
     <type name="GorkaEJacket_Autumn">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8736,10 +8736,10 @@
         <usage name="Military"/>
     </type>
     <type name="GorkaEJacket_Flat">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8748,10 +8748,10 @@
         <usage name="Military"/>
     </type>
     <type name="GorkaEJacket_PautRev">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8760,10 +8760,10 @@
         <usage name="Military"/>
     </type>
     <type name="GorkaEJacket_Summer">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8784,10 +8784,10 @@
         <usage name="Military"/>
     </type>
     <type name="GorkaHelmet">
-        <nominal>3</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 3 -->
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>3</min>
+        <min>0</min> <!-- Loot restreint : 3 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8800,10 +8800,10 @@
         <value name="Tier4"/>
     </type>
     <type name="GorkaHelmetVisor">
-        <nominal>8</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 8 -->
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>3</min>
+        <min>0</min> <!-- Loot restreint : 3 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8816,10 +8816,10 @@
         <value name="Tier4"/>
     </type>
     <type name="GorkaPants_Autumn">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8828,10 +8828,10 @@
         <usage name="Military"/>
     </type>
     <type name="GorkaPants_Flat">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8840,10 +8840,10 @@
         <usage name="Military"/>
     </type>
     <type name="GorkaPants_PautRev">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8852,10 +8852,10 @@
         <usage name="Military"/>
     </type>
     <type name="GorkaPants_Summer">
-        <nominal>6</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 6 -->
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>3</min>
+        <min>0</min> <!-- Loot restreint : 3 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -8906,7 +8906,8 @@
     </type>
     <type name="Grenade_ChemGas">
         <nominal>0</nominal>
-        <lifetime>900</lifetime>
+        <lifetime>10</lifetime> <!-- Loot restreint : 900, grenades PO-X du gaz dynamique supprimées au sol -->
+
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -9970,10 +9971,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="HighCapacityVest_Black">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9984,10 +9985,10 @@
         <value name="Tier4"/>
     </type>
     <type name="HighCapacityVest_Olive">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11026,10 +11027,10 @@
         <value name="Tier2"/>
     </type>
     <type name="JungleBoots_Beige">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11039,10 +11040,10 @@
         <usage name="Military"/>
     </type>
     <type name="JungleBoots_Black">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11052,10 +11053,10 @@
         <usage name="Military"/>
     </type>
     <type name="JungleBoots_Brown">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11065,10 +11066,10 @@
         <usage name="Military"/>
     </type>
     <type name="JungleBoots_Green">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11078,10 +11079,10 @@
         <usage name="Military"/>
     </type>
     <type name="JungleBoots_Olive">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11191,10 +11192,10 @@
         <category name="food"/>
     </type>
     <type name="LandMineTrap">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>604800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12271,10 +12272,10 @@
         <category name="food"/>
     </type>
     <type name="M14">
-        <nominal>2</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 2 -->
         <lifetime>14400</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -12283,10 +12284,10 @@
         <usage name="Military"/>
     </type>
     <type name="M16A2">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -12357,10 +12358,10 @@
         <usage name="Military"/>
     </type>
     <type name="M4A1">
-        <nominal>1</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 1 -->
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -12391,10 +12392,10 @@
         <category name="weapons"/>
     </type>
     <type name="M4_CQBBttstck">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12415,10 +12416,10 @@
         <usage name="Military"/>
     </type>
     <type name="M4_MPBttstck">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12427,10 +12428,10 @@
         <usage name="Military"/>
     </type>
     <type name="M4_MPHndgrd">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12439,10 +12440,10 @@
         <usage name="Military"/>
     </type>
     <type name="M4_OEBttstck">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12451,10 +12452,10 @@
         <usage name="Military"/>
     </type>
     <type name="M4_PlasticHndgrd">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12463,10 +12464,10 @@
         <usage name="Military"/>
     </type>
     <type name="M4_RISHndgrd">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12524,10 +12525,10 @@
         <value name="Tier4"/>
     </type>
     <type name="M65Jacket_Black">
-        <nominal>3</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 3 -->
         <lifetime>28800</lifetime>
         <restock>600</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12538,10 +12539,10 @@
         <value name="Tier4"/>
     </type>
     <type name="M65Jacket_Khaki">
-        <nominal>3</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 3 -->
         <lifetime>28800</lifetime>
         <restock>600</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12552,10 +12553,10 @@
         <value name="Tier4"/>
     </type>
     <type name="M65Jacket_Olive">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>28800</lifetime>
         <restock>600</restock>
-        <min>3</min>
+        <min>0</min> <!-- Loot restreint : 3 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12565,10 +12566,10 @@
         <value name="Tier4"/>
     </type>
     <type name="M65Jacket_Tan">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>28800</lifetime>
         <restock>600</restock>
-        <min>3</min>
+        <min>0</min> <!-- Loot restreint : 3 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12579,10 +12580,10 @@
         <value name="Tier4"/>
     </type>
     <type name="M67Grenade">
-        <nominal>15</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 15 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12605,10 +12606,10 @@
         <usage name="Military"/>
     </type>
     <type name="M79">
-        <nominal>3</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 3 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -12618,10 +12619,10 @@
         <value name="Unique"/>
     </type>
     <type name="M9A1_Bayonet">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12823,10 +12824,10 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_AK101_30Rnd">
-        <nominal>16</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 16 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>13</min>
+        <min>0</min> <!-- Loot restreint : 13 -->
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -12837,10 +12838,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_AK74_30Rnd">
-        <nominal>25</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 25 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>0</min> <!-- Loot restreint : 20 -->
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -12851,10 +12852,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_AK74_45Rnd">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>5400</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -12864,10 +12865,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_AKM_30Rnd">
-        <nominal>3</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 3 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -12877,7 +12878,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_AKM_Drum75Rnd">
-        <nominal>1</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 1 -->
         <lifetime>28800</lifetime>
         <restock>3600</restock>
         <min>0</min>
@@ -12890,10 +12891,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_AKM_Palm30Rnd">
-        <nominal>3</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 3 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -12904,10 +12905,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_Aug_30Rnd">
-        <nominal>6</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 6 -->
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>4</min>
+        <min>0</min> <!-- Loot restreint : 4 -->
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -12918,10 +12919,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_CMAG_10Rnd">
-        <nominal>12</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 12 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min> <!-- Loot restreint : 10 -->
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -12932,10 +12933,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_CMAG_20Rnd">
-        <nominal>8</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 8 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -12946,10 +12947,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_CMAG_30Rnd">
-        <nominal>6</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 6 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>0</min> <!-- Loot restreint : 4 -->
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -12958,10 +12959,10 @@
         <usage name="Military"/>
     </type>
     <type name="Mag_CMAG_40Rnd">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -13041,10 +13042,10 @@
         <value name="Tier2"/>
     </type>
     <type name="Mag_FAL_20Rnd">
-        <nominal>9</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 9 -->
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>6</min>
+        <min>0</min> <!-- Loot restreint : 6 -->
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -13053,10 +13054,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="Mag_FAMAS_25Rnd">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>8</min>
+        <min>0</min> <!-- Loot restreint : 8 -->
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -13110,10 +13111,10 @@
         <value name="Tier2"/>
     </type>
     <type name="Mag_M14_10Rnd">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>30</quantmin>
         <quantmax>90</quantmax>
         <cost>100</cost>
@@ -13122,10 +13123,10 @@
         <usage name="Military"/>
     </type>
     <type name="Mag_M14_20Rnd">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>30</quantmin>
         <quantmax>90</quantmax>
         <cost>100</cost>
@@ -13265,10 +13266,10 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_SCARH_20Rnd">
-        <nominal>8</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 8 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>0</min> <!-- Loot restreint : 6 -->
         <quantmin>20</quantmin>
         <quantmax>60</quantmax>
         <cost>100</cost>
@@ -13303,10 +13304,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_STANAG_30Rnd">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>5</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -13317,10 +13318,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_STANAG_60Rnd">
-        <nominal>3</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 3 -->
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>5</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -13329,10 +13330,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="Mag_SV98_10Rnd">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>30</quantmin>
         <quantmax>70</quantmax>
         <cost>100</cost>
@@ -13343,10 +13344,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_SVD_10Rnd">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>1000</cost>
@@ -13424,10 +13425,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_VAL_20Rnd">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -13438,10 +13439,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_VSS_10Rnd">
-        <nominal>6</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 6 -->
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>4</min>
+        <min>0</min> <!-- Loot restreint : 4 -->
         <quantmin>10</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -13451,10 +13452,10 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_Vikhr_30Rnd">
-        <nominal>3</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 3 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>10</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -13863,10 +13864,10 @@
         <usage name="Farm"/>
     </type>
     <type name="Mich2001Helmet">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13876,10 +13877,10 @@
         <value name="Tier4"/>
     </type>
     <type name="MilitaryBelt">
-        <nominal>15</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 15 -->
         <lifetime>28800</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13888,10 +13889,10 @@
         <usage name="Military"/>
     </type>
     <type name="MilitaryBeret_CDF">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13903,10 +13904,10 @@
         <value name="Tier4"/>
     </type>
     <type name="MilitaryBeret_ChDKZ">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13918,10 +13919,10 @@
         <value name="Tier4"/>
     </type>
     <type name="MilitaryBeret_NZ">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13930,10 +13931,10 @@
         <usage name="Military"/>
     </type>
     <type name="MilitaryBeret_Red">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13945,10 +13946,10 @@
         <value name="Tier4"/>
     </type>
     <type name="MilitaryBeret_UN">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13957,10 +13958,10 @@
         <usage name="Military"/>
     </type>
     <type name="MilitaryBoots_Beige">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13970,10 +13971,10 @@
         <usage name="Military"/>
     </type>
     <type name="MilitaryBoots_Black">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13996,10 +13997,10 @@
         <usage name="Town"/>
     </type>
     <type name="MilitaryBoots_Brown">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14022,10 +14023,10 @@
         <usage name="Town"/>
     </type>
     <type name="MilitaryCap_BDU">
-        <nominal>16</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 16 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>14</min>
+        <min>0</min> <!-- Loot restreint : 14 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14034,10 +14035,10 @@
         <usage name="Military"/>
     </type>
     <type name="MilitaryCap_Desert">
-        <nominal>12</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 12 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>9</min>
+        <min>0</min> <!-- Loot restreint : 9 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14045,10 +14046,10 @@
         <category name="clothes"/>
     </type>
     <type name="MilitaryCap_Woodland">
-        <nominal>16</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 16 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>14</min>
+        <min>0</min> <!-- Loot restreint : 14 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14057,10 +14058,10 @@
         <usage name="Military"/>
     </type>
     <type name="MilitarySweater_Chernarus">
-        <nominal>14</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 14 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>11</min>
+        <min>0</min> <!-- Loot restreint : 11 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14768,10 +14769,10 @@
         <usage name="Firefighter"/>
     </type>
     <type name="NVGHeadstrap">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14782,10 +14783,10 @@
         <value name="Tier4"/>
     </type>
     <type name="NVGoggles">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>0</min> <!-- Loot restreint : 3 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14926,10 +14927,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="OKZKCap_Beige">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14938,10 +14939,10 @@
         <usage name="Military"/>
     </type>
     <type name="OKZKCap_Green">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14970,10 +14971,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="OMNOGloves_Brown">
-        <nominal>7</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 7 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>0</min> <!-- Loot restreint : 3 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14986,10 +14987,10 @@
         <value name="Tier4"/>
     </type>
     <type name="OMNOGloves_Gray">
-        <nominal>7</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 7 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>0</min> <!-- Loot restreint : 3 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15002,10 +15003,10 @@
         <value name="Tier4"/>
     </type>
     <type name="OfficerHat">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15912,10 +15913,10 @@
         <value name="Tier3"/>
     </type>
     <type name="PilotkaCap">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16059,10 +16060,10 @@
         <category name="tools"/>
     </type>
     <type name="Plastic_Explosive">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>432000</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16072,10 +16073,10 @@
         <value name="Unique"/>
     </type>
     <type name="PlateCarrierHolster">
-        <nominal>15</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 15 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>0</min> <!-- Loot restreint : 12 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16096,10 +16097,10 @@
         <category name="clothes"/>
     </type>
     <type name="PlateCarrierHolster_Camo">
-        <nominal>3</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 3 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16110,10 +16111,10 @@
         <value name="Tier4"/>
     </type>
     <type name="PlateCarrierHolster_Desert">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16144,10 +16145,10 @@
         <usage name="Military"/>
     </type>
     <type name="PlateCarrierPouches">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16168,10 +16169,10 @@
         <category name="clothes"/>
     </type>
     <type name="PlateCarrierPouches_Camo">
-        <nominal>3</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 3 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16182,10 +16183,10 @@
         <value name="Tier4"/>
     </type>
     <type name="PlateCarrierPouches_Desert">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16217,7 +16218,7 @@
         <usage name="Military"/>
     </type>
     <type name="PlateCarrierVest">
-        <nominal>1</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 1 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -16240,7 +16241,7 @@
         <category name="clothes"/>
     </type>
     <type name="PlateCarrierVest_Camo">
-        <nominal>1</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 1 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -16252,10 +16253,10 @@
         <usage name="Military"/>
     </type>
     <type name="PlateCarrierVest_Desert">
-        <nominal>2</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 2 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16812,10 +16813,10 @@
         <usage name="Police"/>
     </type>
     <type name="RGD5Grenade">
-        <nominal>15</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 15 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -17117,10 +17118,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="RemoteDetonator">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -17250,10 +17251,10 @@
         <value name="Tier2"/>
     </type>
     <type name="SCARH">
-        <nominal>3</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 3 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>20</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -17360,10 +17361,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SV98">
-        <nominal>2</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 2 -->
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>1</min>
+        <min>0</min> <!-- Loot restreint : 1 -->
         <quantmin>40</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -17373,10 +17374,10 @@
         <value name="Tier4"/>
     </type>
     <type name="SVD">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>7200</lifetime>
         <restock>3600</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -19073,10 +19074,10 @@
         <value name="Tier2"/>
     </type>
     <type name="SmershVest">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19452,10 +19453,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="Ssh68Helmet">
-        <nominal>20</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 20 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min> <!-- Loot restreint : 10 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20036,10 +20037,10 @@
         <usage name="Historical"/>
     </type>
     <type name="T56TankerHelmet_Olive">
-        <nominal>6</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 6 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20048,10 +20049,10 @@
         <usage name="Military"/>
     </type>
     <type name="T56TankerHelmet_Tan">
-        <nominal>6</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 6 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20194,10 +20195,10 @@
         <value name="Tier1"/>
     </type>
     <type name="TTSKOBoots">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20206,10 +20207,10 @@
         <usage name="Military"/>
     </type>
     <type name="TTSKOPants">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20218,10 +20219,10 @@
         <usage name="Military"/>
     </type>
     <type name="TTsKOJacket_Camo">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20254,10 +20255,10 @@
         <category name="food"/>
     </type>
     <type name="TacticalGloves_Beige">
-        <nominal>6</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 6 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>0</min> <!-- Loot restreint : 3 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20266,10 +20267,10 @@
         <usage name="Military"/>
     </type>
     <type name="TacticalGloves_Black">
-        <nominal>6</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 6 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>0</min> <!-- Loot restreint : 3 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20278,10 +20279,10 @@
         <usage name="Military"/>
     </type>
     <type name="TacticalGloves_Green">
-        <nominal>6</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 6 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>0</min> <!-- Loot restreint : 3 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20290,10 +20291,10 @@
         <usage name="Military"/>
     </type>
     <type name="TacticalGoggles">
-        <nominal>8</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 8 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>0</min> <!-- Loot restreint : 3 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20305,10 +20306,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TacticalShirt_Black">
-        <nominal>8</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 8 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>3</min>
+        <min>0</min> <!-- Loot restreint : 3 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20319,10 +20320,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TacticalShirt_Grey">
-        <nominal>8</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 8 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>3</min>
+        <min>0</min> <!-- Loot restreint : 3 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20331,10 +20332,10 @@
         <usage name="Military"/>
     </type>
     <type name="TacticalShirt_Olive">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20343,10 +20344,10 @@
         <usage name="Military"/>
     </type>
     <type name="TacticalShirt_Tan">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>5</min>
+        <min>0</min> <!-- Loot restreint : 5 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20411,10 +20412,10 @@
         <value name="Tier4"/>
     </type>
     <type name="TankerHelmet">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21193,10 +21194,10 @@
         <category name="food"/>
     </type>
     <type name="UKAssVest_Black">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>4</min>
+        <min>0</min> <!-- Loot restreint : 4 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21205,10 +21206,10 @@
         <usage name="Military"/>
     </type>
     <type name="UKAssVest_Camo">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>3</min>
+        <min>0</min> <!-- Loot restreint : 3 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21217,10 +21218,10 @@
         <usage name="Military"/>
     </type>
     <type name="UKAssVest_Khaki">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>4</min>
+        <min>0</min> <!-- Loot restreint : 4 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21229,10 +21230,10 @@
         <usage name="Military"/>
     </type>
     <type name="UKAssVest_Olive">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>4</min>
+        <min>0</min> <!-- Loot restreint : 4 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21266,10 +21267,10 @@
         <value name="Tier3"/>
     </type>
     <type name="USMCJacket_Desert">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21278,10 +21279,10 @@
         <usage name="Military"/>
     </type>
     <type name="USMCJacket_Woodland">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>28800</lifetime>
         <restock>600</restock>
-        <min>8</min>
+        <min>0</min> <!-- Loot restreint : 8 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21290,10 +21291,10 @@
         <usage name="Military"/>
     </type>
     <type name="USMCPants_Desert">
-        <nominal>5</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 5 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21302,10 +21303,10 @@
         <usage name="Military"/>
     </type>
     <type name="USMCPants_Woodland">
-        <nominal>10</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 10 -->
         <lifetime>28800</lifetime>
         <restock>600</restock>
-        <min>8</min>
+        <min>0</min> <!-- Loot restreint : 8 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21421,10 +21422,10 @@
         <usage name="Village"/>
     </type>
     <type name="VSS">
-        <nominal>6</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 6 -->
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>4</min>
+        <min>0</min> <!-- Loot restreint : 4 -->
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -21435,10 +21436,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Vikhr">
-        <nominal>4</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 4 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>0</min> <!-- Loot restreint : 2 -->
         <quantmin>30</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -22530,10 +22531,10 @@
         <usage name="Village"/>
     </type>
     <type name="ZSh3PilotHelmet">
-        <nominal>15</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 15 -->
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min> <!-- Loot restreint : 10 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24806,10 +24807,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="ChestRigVest_Khaki">
-        <nominal>12</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 12 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min> <!-- Loot restreint : 10 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24820,10 +24821,10 @@
         <value name="Tier3"/>
     </type>
     <type name="ChestRigVest_Olive">
-        <nominal>12</nominal>
+        <nominal>0</nominal> <!-- Loot restreint : 12 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min> <!-- Loot restreint : 10 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
