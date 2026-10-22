@@ -144,6 +144,41 @@ Chiens : classes vanilla de la 1.30, utilisées par Bohemia sur Nasdara avec le 
 `DZDogGroupBeh` (repris tel quel). Un territoire par camp de tentes militaires et par camp de chasse
 (`Land_Camp_House_*`). Si `DZDogGroupBeh` est inconnu sur le serveur, le `.RPT` le signale au démarrage.
 
+## Loot restreint
+
+Certains objets ne se trouvent plus dans le loot de la map (bâtiments, zombies, crashs, événements) :
+on ne peut les obtenir que via les mappings (shop admin, armurerie, commissariat, futur black market).
+
+| Catégorie | Objets retirés | Conservés |
+| --- | --- | --- |
+| Armes lourdes | Fusils d'assaut (AK101, AK74, AKM, AKS74U, AS VAL, AUG, FAL, FAMAS, M4A1, M16A2, M14, SCAR-H, Vikhr), snipers (SVD, SV98, VSS), lance-grenades M79 | SKS, armes de chasse, fusils à pompe, pistolets, SMG |
+| Explosifs | Grenades M67 et RGD-5, grenades flash, mines (Claymore, mine terrestre), explosif plastique, détonateur, grenade PO-X, toutes les munitions 40 mm (explosives, PO-X, fumigènes) | Grenades fumigènes à main |
+| Chargeurs | Chargeurs des armes retirées (AK, STANAG, CMAG, AUG, FAL, FAMAS, M14, SCAR-H, SVD, SV98, VSS/VAL/Vikhr) | Toutes les munitions, sauf le 40 mm |
+| Accessoires d'armes | Crosses, garde-mains, silencieux AK, baïonnettes AK et M9A1 (exclusifs aux armes retirées) | Optiques et accessoires qui vont aussi sur une arme conservée (MP5K, UMP45, Scout, PP19, Saiga, arbalètes, pistolets), lunettes de chasse |
+| Tenues militaires | BDU, Gorka, M65, TTsKO, USMC, chemises tactiques, pull militaire, rangers (combat, jungle, militaires), gants tactiques et OMNO, ceinture militaire | Sacs militaires, rangers `MilitaryBoots_Bluerock` / `_Redpunk` (loot civil) |
+| Gilets | Plate carrier (et ses holsters/poches), gilet haute capacité, Smersh, UK Assault, chest rig | Gilet de chasse, gilet de presse, gilet anti-couteaux (`PoliceVest`) |
+| Accessoires militaires | Casques (balistiques, Gorka, MICH, SSh-68, tankiste, pilote), bérets, casquettes et chapeaux militaires, cagoule BDU, lunettes tactiques, vision nocturne (lunettes et sangle), gourde | Masques à gaz, combinaisons NBC |
+| Ghillies | Toutes les pièces ghillie | |
+
+Modifications, toutes commentées avec le marqueur `Loot restreint` :
+
+- `db/types.xml` : `nominal` et `min` à 0, valeur d'origine en commentaire. L'entrée est conservée :
+  le `lifetime` s'applique toujours aux objets des mappings ;
+- `cfgspawnabletypes.xml` et `cfgrandompresets.xml` : ces fichiers font apparaître les objets même avec
+  un `nominal` à 0 (équipement des zombies, cargo des sacs et des caisses), les lignes concernées sont
+  donc commentées. Les presets de zombies militaires devenus vides (`hatsArmy`, `vestsArmy`,
+  `HeavyArmorArmy`, `HeavyHelmetArmy`, `OfficerHatArmy`) sont commentés avec leurs références. Les
+  attachements des armes retirées sont laissés tels quels.
+
+Gaz dynamique : à chaque largage, le script du jeu (`ContaminatedArea_Dynamic`) pose 2 à 5 grenades PO-X
+(`Grenade_ChemGas`) à 5–15 m du centre de la zone, sans passer par le loot. Le `lifetime` de
+`Grenade_ChemGas` est passé de 900 à 10 s : le serveur les supprime presque aussitôt. Limite : le serveur
+ne supprime pas un objet tant qu'un joueur est à moins de 100 m (`CleanupAvoidance` de `db/globals.xml`).
+Un joueur en tenue NBC déjà sur place au moment du largage pourrait donc les ramasser. Une grenade PO-X
+posée au sol (par un joueur ou un mapping) disparaît aussi au bout de 10 s si personne n'est à proximité.
+
+Pour rétablir un objet : remettre ses valeurs d'origine dans `db/types.xml` et décommenter ses lignes.
+
 ## Déploiement (FTP)
 
 1. Arrêter le serveur depuis l'interface Nitrado (sinon il peut réécrire des fichiers à l'arrêt).
