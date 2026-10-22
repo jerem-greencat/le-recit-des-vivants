@@ -9,11 +9,15 @@ Sur console, les mods ne sont pas disponibles : toute la personnalisation passe 
 Les fichiers sont une copie de ceux du serveur Nitrado, téléchargés par FTP le 29/09/2026
 (fichiers vanilla générés par Nitrado). L'arborescence du dépôt reprend celle du FTP.
 
-Les fichiers de mission vanilla correspondent à DayZ 1.30 : leur contenu est identique au tag `DZ_130`
-du dépôt officiel [BohemiaInteractive/DayZ-Central-Economy](https://github.com/BohemiaInteractive/DayZ-Central-Economy)
-(aux fins de ligne près). Seules différences côté Xbox : pas d'`init.c`, de `env/fox_territories.xml`
-ni de `mapgroupdirt.xml`. Pour une prochaine mise à jour, comparer le tag de la nouvelle version à
-`DZ_130` pour savoir quels fichiers vanilla ont changé.
+Les fichiers fournis par Nitrado étaient une variante console proche de DayZ 1.29 (certaines valeurs
+de loot et d'événements diffèrent du vanilla). Le passage en 1.30 a été fait par fusion à trois voies
+avec le dépôt officiel [BohemiaInteractive/DayZ-Central-Economy](https://github.com/BohemiaInteractive/DayZ-Central-Economy) :
+base `DZ_129`, cible `DZ_130`. Seuls les changements de Bohemia entre ces deux tags ont été appliqués ;
+les spécificités Nitrado et nos modifications sont conservées. Pour `db/types.xml` et `cfgspawnabletypes.xml`,
+la fusion se fait par entrée `<type>` : les nouveaux types sont regroupés en fin de fichier, et une entrée
+existante n'est mise à jour que si elle était encore identique à la 1.29. Seules différences côté Xbox :
+pas d'`init.c`, de `env/fox_territories.xml` ni de `mapgroupdirt.xml`. Pour une prochaine mise à jour,
+refaire la même fusion avec `DZ_130` comme base et le nouveau tag comme cible.
 
 ## Structure
 
