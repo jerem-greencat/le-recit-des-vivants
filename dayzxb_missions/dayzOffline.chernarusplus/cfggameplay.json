@@ -46,7 +46,7 @@
 		"spawnGearPresetFiles": ["./custom/spawngear_survivant.json"]
 	},
 	"WorldsData": {
-		"lightingConfig": 0,
+		"lightingConfig": 1,
 		"objectSpawnersArr": [
 			"./custom/PZero_SpawnTest_LordBionik.json",
 			"./custom/zeleno_enceinte.json",
@@ -61,8 +61,8 @@
 			"./custom/vybor_shop_bm.json",
 			"./custom/test_neige.json"
 		],
-		"environmentMinTemps": [-3, -2, 0, 4, 9, 14, 18, 17, 13, 11, 9, 0],
-		"environmentMaxTemps": [3, 5, 7, 14, 19, 24, 26, 25, 18, 14, 10, 5],
+		"environmentMinTemps": [-10, -10, -10, -10, -10, -10, -10, -10, -10, -10, -10, -10],
+		"environmentMaxTemps": [-3, -3, -3, -3, -3, -3, -3, -3, -3, -3, -3, -3],
 		"wetnessWeightModifiers": [1.0, 1.0, 1.33, 1.66, 2.0]
 	},
 	"BaseBuildingData": {
