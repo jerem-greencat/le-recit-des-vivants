@@ -43,12 +43,13 @@ télécharger en local pour diagnostiquer, ils ne sont pas versionnés.
 | `cfgspawnabletypes.xml` | Attachements et cargo des objets qui spawnent |
 | `cfgplayerspawnpoints.xml` | Points d'apparition des joueurs |
 | `cfgeventspawns.xml` | Positions de spawn des événements |
-| `cfgweather.xml` | Météo |
+| `cfgweather.xml` | Météo (ambiance active, copiée depuis `meteo/`) |
+| `meteo/<ambiance>/` | Ambiances météo : météo, éclairage, températures, équipement de départ, message (voir la section Météo) |
 | `cfgEffectArea.json` | Zones contaminées |
 | `env/*.xml` | Territoires des animaux et des zombies |
 | `mapgroup*.xml`, `mapcluster*.xml` | Positions de loot des bâtiments (rarement modifiés) |
 | `custom/*.json` | Mappings DayZ Editor (Object Spawner) et presets d'équipement de départ |
-| `custom/spawngear_survivant.json` | Équipement de départ des joueurs (`PlayerData.spawnGearPresetFiles`) |
+| `custom/spawngear_survivant.json` | Équipement de départ des joueurs (`PlayerData.spawnGearPresetFiles`), copié depuis `meteo/` |
 | `areaflags.map` | Carte des zones d'usage/valeur (binaire, ne pas modifier) |
 
 ### Pas d'`init.c`
@@ -214,6 +215,64 @@ valeur d'origine est en commentaire, et les `usage` ajoutés sont marqués.
 Laissés de côté : la radio (sa pile `BatteryD` n'existe pas dans le jeu) et les cassettes. Aussi la
 matraque électrique, l'aiguillon électrique et le défibrillateur : `cfgignorelist.xml` les supprime
 au démarrage.
+
+## Météo
+
+Quatre ambiances sont prêtes dans `meteo/` :
+
+| Ambiance | Ciel | Pluie | Vent | Températures (min / max) | Nuits |
+| --- | --- | --- | --- | --- | --- |
+| `default` | Météo vanilla (fichier désactivé, `enable="0"`) | Normale | Normal | Vanilla, selon le mois | Claires |
+| `hiver` | Gris (couverture 0.4 à 0.9), brume | Aucune | 2 m/s minimum | -10 / -3 °C toute l'année | Noires |
+| `canicule` | Dégagé (couverture 0 à 0.25), pas de brume | Aucune | Normal | 22 / 38 °C toute l'année | Claires |
+| `tempete` | Couvert (0.8 à 1.0) | Forte, orages | 10 m/s minimum | Vanilla, selon le mois | Noires |
+
+Équipement de départ : les objets sont les mêmes partout (radio et pile, carte, bouteille d'eau pleine,
+ouvre-boîte, confiture, spaghettis, 6 chiffons, boîte de clous), ainsi que la sacoche. Seuls les
+vêtements changent :
+
+| Ambiance | Haut | Bas | Chaussures | En plus |
+| --- | --- | --- | --- | --- |
+| `default` | Pull | Pantalon de toile | Baskets | |
+| `hiver` | Pull | Jean | Chaussures de travail | Bonnet, gants en laine |
+| `canicule` | T-shirt | Short en jean | Baskets | Casquette |
+| `tempete` | Imperméable | Pantalon de toile | Bottes en caoutchouc | |
+
+Chaque dossier `meteo/<ambiance>/` contient :
+
+| Fichier | Rôle | Remplace |
+| --- | --- | --- |
+| `cfgweather.xml` | Météo | `cfgweather.xml` |
+| `gameplay.json` | Éclairage des nuits (`lightingConfig` : 0 claires, 1 noires) et températures | Ces trois valeurs dans `cfggameplay.json` |
+| `spawngear_survivant.json` | Équipement de départ | `custom/spawngear_survivant.json` |
+| `message.txt` | Message affiché 1 min après la connexion (vide : pas de message) | Le bloc « AMBIANCE METEO » de `db/messages.xml` |
+
+Pour changer d'ambiance, en local :
+
+```sh
+tools/meteo.sh hiver   # ou default, canicule, tempete
+```
+
+Le script met à jour les quatre fichiers de la colonne « Remplace ». Il reste à les envoyer sur le FTP
+et à redémarrer. Dans `db/messages.xml`, il ne touche qu'au bloc entre les marqueurs `AMBIANCE METEO` :
+les autres messages restent en place.
+
+Les valeurs `lightingConfig` 2 et 3 chargent l'éclairage de Sakhal et de Nasdara. Elles ne sont pas
+utilisées : ces fichiers font partie des DLC, et les joueurs qui ne les ont pas risquent de ne pas les avoir.
+
+Ce que Chernarus permet (vérifié dans les scripts du jeu, `ChernarusPlus.c`) :
+
+- **La météo reste pilotée par le script de Chernarus.** `cfgweather.xml` ne fait que borner les valeurs
+  (`limits`). Le script réimpose aussi le seuil de pluie (couverture 0.6), celui des éclairs (0.9) et un
+  vent maximum de 20 m/s : seul le minimum de vent est réglable.
+- **Pas de neige.** Le script remet la neige à 0 à chaque changement de météo. Il faudrait un `init.c`,
+  non disponible sur console. Le sol ne serait de toute façon pas blanc (textures de la map).
+- **Pas de tempête de sable.** Elle est gérée par le script de Nasdara, qui ne tourne pas sur Chernarus.
+- **Le gel fonctionne.** Il ne dépend que de la température : avec l'ambiance `hiver`, l'eau et la
+  nourriture gèlent comme sur Sakhal, et les joueurs ont froid.
+
+Les ambiances `hiver`, `canicule` et `tempete` ont `reset="1"` : la météo sauvegardée est ignorée et
+l'ambiance s'applique dès le redémarrage.
 
 ## Déploiement (FTP)
 

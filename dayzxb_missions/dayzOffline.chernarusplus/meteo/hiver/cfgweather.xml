@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!-- Ambiance HIVER : ciel gris, brume, pas de pluie. Températures négatives (voir temperatures.json) : la nourriture et l'eau gèlent. -->
+<!-- Préréglage de meteo/hiver/ : à copier sur cfgweather.xml (à la racine de la mission), voir README. -->
+<!-- Sur Chernarus le script du jeu choisit toujours la météo ; ce fichier ne fait que borner les valeurs (limits). -->
+<!-- reset="1" : on ignore la météo sauvegardée pour appliquer l'ambiance dès le redémarrage. -->
+<weather reset="1" enable="1">
+    <overcast>
+        <!-- Couverture nuageuse (0 = ciel dégagé, 1 = ciel noir) -->
+        <current actual="0.6" time="60" duration="600" />
+        <limits min="0.4" max="0.9" />
+        <timelimits min="600" max="900" />
+        <changelimits min="0.0" max="1.0" />
+    </overcast>
+    <fog>
+        <!-- Brouillard (0..1) -->
+        <current actual="0.12" time="60" duration="600" />
+        <limits min="0.05" max="0.25" />
+        <timelimits min="900" max="900" />
+        <changelimits min="0.0" max="1.0" />
+    </fog>
+    <rain>
+        <!-- Pas de pluie en hiver : la neige est impossible sur Chernarus (voir README), donc on coupe la pluie. -->
+        <current actual="0.0" time="60" duration="120" />
+        <limits min="0.0" max="0.0" />
+        <timelimits min="60" max="120" />
+        <changelimits min="0.0" max="1.0" />
+        <thresholds min="0.6" max="1.0" end="60" />
+    </rain>
+    <windMagnitude>
+        <!-- Vent en m/s. Seul le minimum compte : le jeu remet toujours le maximum à 20. -->
+        <current actual="6.0" time="60" duration="600" />
+        <limits min="2.0" max="20.0" />
+        <timelimits min="120" max="240" />
+        <changelimits min="0.0" max="20.0" />
+    </windMagnitude>
+    <windDirection>
+        <current actual="0.0" time="120" duration="240" />
+        <limits min="-3.14" max="3.14" />
+        <timelimits min="60" max="120" />
+        <changelimits min="-1.0" max="1.0" />
+    </windDirection>
+    <!-- Neige : toujours bloquée à 0 par le script de Chernarus, inutile de la modifier. -->
+    <snowfall>
+        <current actual="0.0" time="0" duration="32768" />
+        <limits min="0.0" max="0.0" />
+        <timelimits min="300" max="3600" />
+        <changelimits min="0.0" max="0.0" />
+        <thresholds min="1.0" max="1.0" end="120" />
+    </snowfall>
+    <!-- Éclairs : le jeu impose un seuil de couverture à 0.9 -->
+    <storm density="1.0" threshold="0.9" timeout="45"/>
+</weather>
