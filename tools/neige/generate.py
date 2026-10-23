@@ -7,8 +7,11 @@ Règles :
 - la neige couvre la ville (zone à moins de TOWN_RADIUS m d'un bâtiment, d'un seul tenant autour du centre) ;
 - pas de neige dans les bâtiments de la carte ni dans les gros objets de nos mappings ;
 - en ville, les rues goudronnées restent dégagées (hors ville, les routes seront enneigées) ;
-- les plaques sont plates : on les incline dans le sens de la pente (lacet tourné vers l'amont, tangage
-  positif = avant relevé), et on ne les pose que là où le terrain est assez régulier sous la plaque.
+- les plaques sont plates : on les incline dans le sens de la pente (lacet tourné vers l'amont ; en jeu,
+  un tangage négatif relève l'avant, vérifié le 23/10/2026), et on ne les pose que là où le terrain est
+  assez régulier sous la plaque ;
+- chaque plaque est un objet synchronisé par le serveur : trop de plaques provoquent de la désynchronisation
+  (3 572 à Zelenogorsk, c'était trop), d'où les grandes plaques seules (pas de bandes étroites).
 """
 import glob
 import json
@@ -49,6 +52,7 @@ DECALS = [
 	("StaticObj_Decal_Sakhal_Snow_06", 7.41, 7.41),
 ]
 LONG = ("StaticObj_Decal_Sakhal_snow_long1", 4.83, 2.35)
+USE_LONG = False          # bandes étroites entre les maisons : beaucoup d'objets pour peu de surface
 SCALES = [1.0, 0.7]
 
 BUILDING_DIRS = ("residential", "industrial", "military", "specific", "ruins", "farm", "houses")
@@ -264,7 +268,7 @@ def generate(town):
 		placed.append({
 			"name": name + suffix,
 			"pos": [round(x, 3), round(y0 + 0.03, 3), round(z, 3)],
-			"ypr": [round(yaw, 1), round(tilt, 2), 0.0],
+			"ypr": [round(yaw, 1), -round(tilt, 2), 0.0],
 			"scale": scale,
 			"enableCEPersistency": 0,
 			"customString": "",
@@ -272,7 +276,7 @@ def generate(town):
 		return True
 
 	# grandes plaques d'abord (toutes tailles), puis les bandes pour combler les espaces étroits
-	for kind in (DECALS, [LONG]):
+	for kind in ([DECALS, [LONG]] if USE_LONG else [DECALS]):
 		for scale in SCALES:
 			hmax = max(d[1] for d in kind) * scale
 			step = max(2, int(hmax * 0.9))

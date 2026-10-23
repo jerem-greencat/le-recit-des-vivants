@@ -270,14 +270,16 @@ python3 tools/neige/generate.py zelenogorsk
 
 Le script lit le relief et les objets de la carte dans le jeu installé sur le PC (cache dans
 `tools/neige/cache/`, non versionné), puis couvre la ville en évitant les bâtiments et les rues goudronnées.
-Les plaques sont inclinées selon la pente. Il écrit aussi une image de contrôle
+Les plaques sont inclinées selon la pente. Chaque plaque est un objet synchronisé par le serveur : à
+3 572 plaques pour Zelenogorsk, les joueurs avaient l'icône de désynchronisation en permanence. Le script
+ne pose donc que des grandes plaques. Il écrit aussi une image de contrôle
 `tools/neige/cache/neige_<ville>.png` (blanc : neige, rouge : bâtiments, brun : rues). Les réglages
 (densité, pente maximale…) sont en tête du script. Pour une nouvelle ville, l'ajouter à `TOWNS` dans le
 script et son fichier à `meteo/hiver/mappings.txt`.
 
 | Ville | Plaques | Surface libre couverte |
 | --- | --- | --- |
-| Zelenogorsk | 3 572 | 54 % |
+| Zelenogorsk | 887 | 25 % |
 
 Les valeurs `lightingConfig` 2 et 3 chargent l'éclairage de Sakhal et de Nasdara. Elles ne sont pas
 utilisées : ces fichiers font partie des DLC, et les joueurs qui ne les ont pas risquent de ne pas les avoir.
