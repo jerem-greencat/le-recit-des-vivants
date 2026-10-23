@@ -7,9 +7,9 @@ Règles :
 - la neige couvre la ville (zone à moins de TOWN_RADIUS m d'un bâtiment, d'un seul tenant autour du centre) ;
 - pas de neige dans les bâtiments de la carte ni dans les gros objets de nos mappings ;
 - en ville, les rues goudronnées restent dégagées (hors ville, les routes seront enneigées) ;
-- les plaques sont plates : on les incline dans le sens de la pente (lacet tourné vers l'amont ; en jeu,
-  un tangage négatif relève l'avant, vérifié le 23/10/2026), et on ne les pose que là où le terrain est
-  assez régulier sous la plaque ;
+- les plaques sont plates : on les incline dans le sens de la pente (lacet tourné vers l'amont, tangage
+  positif = avant relevé, comme les postes de garde posés en pente dans zeleno_enceinte.json), et on ne
+  les pose que là où le terrain est assez régulier sous la plaque ;
 - chaque plaque est un objet synchronisé par le serveur : trop de plaques provoquent de la désynchronisation
   (3 572 à Zelenogorsk, c'était trop), d'où les grandes plaques seules (pas de bandes étroites).
 """
@@ -38,7 +38,7 @@ MAX_STREET = 0.03         # part maximale d'une plaque posée sur une rue goudro
 MAX_BUILDING = 0.15       # part maximale sur un bâtiment (la plaque passe sous le plancher, surélevé)
 HOUSE_AREA = 40           # emprise minimale (m²) d'un bâtiment pour définir la ville
 MAX_OUTSIDE = 0.35        # part maximale d'une plaque qui déborde hors de la ville
-MAX_GAP = 0.3             # écart maximal entre la plaque inclinée et le terrain (m)
+MAX_GAP = 0.3             # enfoncement maximal de la plaque inclinée dans le terrain (m)
 MAX_TILT = 12             # pente maximale (degrés)
 MIN_NEW = 0.7             # part minimale de surface nouvellement couverte pour poser une plaque
 CORE = 0.75               # part centrale d'une plaque réellement blanche (les bords sont fondus)
@@ -245,11 +245,8 @@ def generate(town):
 		r = max(hx, hz)
 		gx = (gamedata.height(x + r, z) - gamedata.height(x - r, z)) / (2 * r)
 		gz = (gamedata.height(x, z + r) - gamedata.height(x, z - r)) / (2 * r)
-		y0 = gamedata.height(x, z)
-		gap = max(abs(gamedata.height(x + dx, z + dz) - (y0 + gx * dx + gz * dz))
-				  for dx in (-hx, -hx / 2, 0, hx / 2, hx) for dz in (-hz, -hz / 2, 0, hz / 2, hz))
 		tilt = math.degrees(math.atan(math.hypot(gx, gz)))
-		if gap > MAX_GAP or tilt > MAX_TILT:
+		if tilt > MAX_TILT:
 			rejects["terrain irrégulier"] += 1
 			return False
 		if tilt > 0.3:
@@ -261,14 +258,27 @@ def generate(town):
 				rejects["bâtiment ou rue"] += 1
 				return False
 		else:
-			tilt = 0.0
+			tilt, gx, gz = 0.0, 0.0, 0.0
+		# terrain moins plan de la plaque, sur 11 x 11 points de la plaque : elle est abaissée pour ne flotter
+		# nulle part, et refusée si elle s'enfonce trop ailleurs (partie cachée)
+		y0 = gamedata.height(x, z)
+		diffs = []
+		for a in range(-5, 6):
+			for b in range(-5, 6):
+				dx = (a * hx * xa[0] + b * hz * za[0]) / 5
+				dz = (a * hx * xa[1] + b * hz * za[1]) / 5
+				diffs.append(gamedata.height(x + dx, z + dz) - (y0 + gx * dx + gz * dz))
+		y0 += min(diffs)
+		if max(diffs) - min(diffs) > MAX_GAP:
+			rejects["terrain irrégulier"] += 1
+			return False
 		for i in core:
 			covered[i] = 1
 		suffix = "_noLC" if rnd.random() < 0.5 else ""
 		placed.append({
 			"name": name + suffix,
 			"pos": [round(x, 3), round(y0 + 0.03, 3), round(z, 3)],
-			"ypr": [round(yaw, 1), -round(tilt, 2), 0.0],
+			"ypr": [round(yaw, 1), round(tilt, 2), 0.0],
 			"scale": scale,
 			"enableCEPersistency": 0,
 			"customString": "",

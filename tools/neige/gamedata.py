@@ -236,6 +236,8 @@ def _lzo(src, ip, out_len):
 				break
 			d += 0x4000
 		s = len(out) - d
+		if s < 0:
+			raise ValueError("référence avant le début du flux")
 		if d >= ln:
 			out += out[s:s + ln]
 		else:
@@ -258,15 +260,17 @@ def _smooth_heights(out):
 
 def _build_heights():
 	src = _wrp()
-	# début du flux LZO du relief : 1475910 pour la version OPRW 32 (mise à jour du 22/10/2026), sinon on le cherche
-	starts = [1475910] + list(range(len(src) // 8, 0, -1))
-	for o in starts:
+	# début du flux LZO du relief : 1423002 pour la version OPRW 32 (mise à jour du 22/10/2026), sinon on le
+	# cherche ; un départ en milieu de flux peut sembler valide, d'où la vérification de la taille complète
+	size = HEIGHT_GRID * HEIGHT_GRID * 4
+	for o in [1423002] + list(range(len(src) // 8, 0, -1)):
 		try:
 			if _smooth_heights(_lzo(src, o, 8192)):
-				break
+				out = _lzo(src, o, size)
+				if len(out) >= size:
+					break
 		except Exception:
 			pass
-	out = _lzo(src, o, HEIGHT_GRID * HEIGHT_GRID * 4)
 	a = array("f"); a.frombytes(out[:len(out) // 4 * 4])
 	return a
 
