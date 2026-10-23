@@ -30,6 +30,18 @@ for key, value in json.load(open(preset + "/gameplay.json")).items():
 	text, n = re.subn(r'("%s":\s*)(\[[^\]]*\]|[^,\n]+)' % key, lambda m: m.group(1) + value, text)
 	if n != 1:
 		sys.exit("%s introuvable dans %s" % (key, path))
+# mappings propres à une ambiance (meteo/*/mappings.txt) : on retire ceux de toutes les ambiances,
+# puis on ajoute ceux de l'ambiance choisie ; les autres mappings ne sont pas touchés
+def mappings(folder):
+	try:
+		return [l.strip() for l in open(folder + "/mappings.txt") if l.strip() and not l.startswith("#")]
+	except FileNotFoundError:
+		return []
+import glob, os
+every = {m for folder in glob.glob(os.path.dirname(preset) + "/*") for m in mappings(folder)}
+match = re.search(r'("objectSpawnersArr":\s*\[)(.*?)(\n\t*\])', text, re.S)
+current = [m for m in re.findall(r'"([^"]+)"', match.group(2)) if m not in every] + mappings(preset)
+text = text[:match.start(2)] + "".join("\n\t\t\t\"%s\"," % m for m in current).rstrip(",") + text[match.end(2):]
 json.loads(text)
 open(path, "w").write(text)
 
@@ -49,3 +61,7 @@ EOF
 
 echo "Ambiance '$AMBIANCE' activée. Envoyer sur le FTP puis redémarrer :"
 echo "  cfgweather.xml, cfggameplay.json, custom/spawngear_survivant.json, db/messages.xml"
+if [ -f "$PRESET/mappings.txt" ]; then
+	echo "  et les mappings de l'ambiance (s'ils ne sont pas déjà sur le FTP) :"
+	grep -v '^#' "$PRESET/mappings.txt" | sed 's|^\./|  |'
+fi

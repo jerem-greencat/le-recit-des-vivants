@@ -5,3 +5,6 @@ dayzxb/config/*.log
 dayzxb/config/*.mdmp
 restart.log
 stop
+
+# Données extraites du jeu installé (tools/neige), à ne pas publier
+tools/neige/cache/

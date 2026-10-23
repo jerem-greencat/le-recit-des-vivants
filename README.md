@@ -234,7 +234,7 @@ vêtements changent :
 | Ambiance | Haut | Bas | Chaussures | En plus |
 | --- | --- | --- | --- | --- |
 | `default` | Pull | Pantalon de toile | Baskets | |
-| `hiver` | Pull | Jean | Chaussures de travail | Bonnet, gants en laine |
+| `hiver` | Doudoune | Jean | Chaussures de travail | Bonnet, gants en laine |
 | `canicule` | T-shirt | Short en jean | Baskets | Casquette |
 | `tempete` | Imperméable | Pantalon de toile | Bottes en caoutchouc | |
 
@@ -246,6 +246,7 @@ Chaque dossier `meteo/<ambiance>/` contient :
 | `gameplay.json` | Éclairage des nuits (`lightingConfig` : 0 claires, 1 noires) et températures | Ces trois valeurs dans `cfggameplay.json` |
 | `spawngear_survivant.json` | Équipement de départ | `custom/spawngear_survivant.json` |
 | `message.txt` | Message affiché 1 min après la connexion (vide : pas de message) | Le bloc « AMBIANCE METEO » de `db/messages.xml` |
+| `mappings.txt` (facultatif) | Mappings chargés seulement avec cette ambiance (la neige pour `hiver`) | Ajoutés à `objectSpawnersArr` de `cfggameplay.json` |
 
 Pour changer d'ambiance, en local :
 
@@ -255,7 +256,28 @@ tools/meteo.sh hiver   # ou default, canicule, tempete
 
 Le script met à jour les quatre fichiers de la colonne « Remplace ». Il reste à les envoyer sur le FTP
 et à redémarrer. Dans `db/messages.xml`, il ne touche qu'au bloc entre les marqueurs `AMBIANCE METEO` :
-les autres messages restent en place.
+les autres messages restent en place. De même, dans `objectSpawnersArr`, il ne retire que les mappings
+listés dans un `mappings.txt` : les autres mappings ne bougent pas.
+
+### Neige au sol (ambiance `hiver`)
+
+La neige au sol est faite de plaques de neige de Sakhal (`StaticObj_Decal_Sakhal_Snow_*`, visibles même
+sans le DLC), générées par ville dans `custom/neige_<ville>.json` :
+
+```sh
+python3 tools/neige/generate.py zelenogorsk
+```
+
+Le script lit le relief et les objets de la carte dans le jeu installé sur le PC (cache dans
+`tools/neige/cache/`, non versionné), puis couvre la ville en évitant les bâtiments et les rues goudronnées.
+Les plaques sont inclinées selon la pente. Il écrit aussi une image de contrôle
+`tools/neige/cache/neige_<ville>.png` (blanc : neige, rouge : bâtiments, brun : rues). Les réglages
+(densité, pente maximale…) sont en tête du script. Pour une nouvelle ville, l'ajouter à `TOWNS` dans le
+script et son fichier à `meteo/hiver/mappings.txt`.
+
+| Ville | Plaques | Surface libre couverte |
+| --- | --- | --- |
+| Zelenogorsk | 3 572 | 54 % |
 
 Les valeurs `lightingConfig` 2 et 3 chargent l'éclairage de Sakhal et de Nasdara. Elles ne sont pas
 utilisées : ces fichiers font partie des DLC, et les joueurs qui ne les ont pas risquent de ne pas les avoir.
@@ -265,8 +287,8 @@ Ce que Chernarus permet (vérifié dans les scripts du jeu, `ChernarusPlus.c`) :
 - **La météo reste pilotée par le script de Chernarus.** `cfgweather.xml` ne fait que borner les valeurs
   (`limits`). Le script réimpose aussi le seuil de pluie (couverture 0.6), celui des éclairs (0.9) et un
   vent maximum de 20 m/s : seul le minimum de vent est réglable.
-- **Pas de neige.** Le script remet la neige à 0 à chaque changement de météo. Il faudrait un `init.c`,
-  non disponible sur console. Le sol ne serait de toute façon pas blanc (textures de la map).
+- **Pas de chute de neige.** Le script remet la neige à 0 à chaque changement de météo. Il faudrait un
+  `init.c`, non disponible sur console. La neige au sol passe par des mappings (voir plus haut).
 - **Pas de tempête de sable.** Elle est gérée par le script de Nasdara, qui ne tourne pas sur Chernarus.
 - **Le gel fonctionne.** Il ne dépend que de la température : avec l'ambiance `hiver`, l'eau et la
   nourriture gèlent comme sur Sakhal, et les joueurs ont froid.
