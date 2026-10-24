@@ -29,8 +29,11 @@ import gamedata  # noqa: E402
 MISSION = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "dayzxb_missions", "dayzOffline.chernarusplus")
 
 TOWNS = {
-	# nom : (x, z) d'un point au cœur de la ville, demi-largeur de la zone étudiée
-	"zelenogorsk": ((2730.0, 5373.0), 900),
+	# nom : (x, z) d'un point au cœur de la ville, demi-largeur de la zone étudiée, nombre maximal de plaques
+	# (au-delà, on en retire au hasard : la neige est plus clairsemée mais reste répartie sur toute la ville)
+	"zelenogorsk": ((2730.0, 5373.0), 900, None),
+	"chernogorsk": ((6935.0, 2844.0), 1500, 600),
+	"elektrozavodsk": ((10279.0, 2180.0), 900, 500),
 }
 
 TOWN_RADIUS = 40          # m autour des bâtiments qui comptent comme « ville »
@@ -147,6 +150,9 @@ def town_mask(grid, buildings, seed):
 				if 0 <= i < m and 0 <= j < m and math.hypot((i - ci) * step, (j - cj) * step) <= TOWN_RADIUS:
 					near[j * m + i] = 1
 	si, sj = int((seed[0] - grid.x0) / step), int((seed[1] - grid.z0) / step)
+	# le centre donné peut tomber hors zone (place, parc) : on part de la cellule « ville » la plus proche
+	si, sj = min(((i, j) for j in range(m) for i in range(m) if near[j * m + i]),
+				 key=lambda c: (c[0] - si) ** 2 + (c[1] - sj) ** 2)
 	keep = bytearray(m * m)
 	stack = [(si, sj)]
 	while stack:
@@ -162,7 +168,7 @@ def town_mask(grid, buildings, seed):
 
 
 def generate(town):
-	(cx, cz), half = TOWNS[town]
+	(cx, cz), half, budget = TOWNS[town]
 	rnd = random.Random(town)
 	grid = Grid(cx, cz, half)
 
@@ -195,6 +201,7 @@ def generate(town):
 	covered = bytearray(grid.n * grid.n)
 	placed = []
 	rejects = Counter()
+	cores = []
 
 	def footprint(x, z, hx, hz, xa, za, step):
 		"""Cellules sous la plaque (échantillonnées tous les `step` m) : (indices, indices du cœur)."""
@@ -274,6 +281,7 @@ def generate(town):
 			return False
 		for i in core:
 			covered[i] = 1
+		cores.append(core)
 		suffix = "_noLC" if rnd.random() < 0.5 else ""
 		placed.append({
 			"name": name + suffix,
@@ -299,6 +307,13 @@ def generate(town):
 					name, hx, hz = rnd.choice(kind)
 					try_place(name, hx, hz, scale, px, pz)
 
+	if budget and len(placed) > budget:
+		keep = sorted(rnd.sample(range(len(placed)), budget))
+		placed = [placed[k] for k in keep]
+		covered = bytearray(grid.n * grid.n)
+		for k in keep:
+			for i in cores[k]:
+				covered[i] = 1
 	free = sum(1 for c in grid.cells if c == FREE)
 	done = sum(1 for i, c in enumerate(grid.cells) if c == FREE and covered[i])
 	out = os.path.join(MISSION, "custom", "neige_%s.json" % town)

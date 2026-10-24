@@ -281,6 +281,11 @@ script et son fichier à `meteo/hiver/mappings.txt`.
 | Ville | Plaques | Surface libre couverte |
 | --- | --- | --- |
 | Zelenogorsk | 580 | 17 % |
+| Chernogorsk | 600 (plafond) | 3 % |
+| Elektrozavodsk | 500 (plafond) | 6 % |
+
+Chernogorsk et Elektrozavodsk servent de test : la désynchronisation dépend-elle du nombre de plaques
+autour du joueur ou du total sur la carte ?
 
 Les valeurs `lightingConfig` 2 et 3 chargent l'éclairage de Sakhal et de Nasdara. Elles ne sont pas
 utilisées : ces fichiers font partie des DLC, et les joueurs qui ne les ont pas risquent de ne pas les avoir.
