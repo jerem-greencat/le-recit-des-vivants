@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<!-- Ambiance HIVER : ciel gris, brume, pas de pluie. Températures négatives (voir temperatures.json) : la nourriture et l'eau gèlent. -->
-<!-- Préréglage de meteo/hiver/ : à copier sur cfgweather.xml (à la racine de la mission), voir README. -->
+<!-- Ambiance CANICULE : grand soleil, pas de pluie ni de brume, chaleur forte (voir temperatures.json). -->
+<!-- Préréglage de meteo/canicule/ : à copier sur cfgweather.xml (à la racine de la mission), voir README. -->
 <!-- Sur Chernarus le script du jeu choisit toujours la météo ; ce fichier ne fait que borner les valeurs (limits). -->
 <!-- reset="1" : on ignore la météo sauvegardée pour appliquer l'ambiance dès le redémarrage. -->
 <weather reset="1" enable="1">
     <overcast>
         <!-- Couverture nuageuse (0 = ciel dégagé, 1 = ciel noir) -->
-        <current actual="0.6" time="60" duration="600" />
-        <limits min="0.4" max="0.9" />
+        <current actual="0.1" time="60" duration="600" />
+        <limits min="0.0" max="0.25" />
         <timelimits min="600" max="900" />
         <changelimits min="0.0" max="1.0" />
     </overcast>
     <fog>
         <!-- Brouillard (0..1) -->
-        <current actual="0.12" time="60" duration="600" />
-        <limits min="0.05" max="0.25" />
+        <current actual="0.01" time="60" duration="600" />
+        <limits min="0.0" max="0.03" />
         <timelimits min="900" max="900" />
         <changelimits min="0.0" max="1.0" />
     </fog>
     <rain>
-        <!-- Pas de pluie en hiver : la neige est impossible sur Chernarus (voir README), donc on coupe la pluie. -->
+        <!-- Pluie coupée. -->
         <current actual="0.0" time="60" duration="120" />
         <limits min="0.0" max="0.0" />
         <timelimits min="60" max="120" />
@@ -28,8 +28,8 @@
     </rain>
     <windMagnitude>
         <!-- Vent en m/s. Seul le minimum compte : le jeu remet toujours le maximum à 20. -->
-        <current actual="6.0" time="60" duration="600" />
-        <limits min="2.0" max="20.0" />
+        <current actual="3.0" time="60" duration="600" />
+        <limits min="0.0" max="20.0" />
         <timelimits min="120" max="240" />
         <changelimits min="0.0" max="20.0" />
     </windMagnitude>
