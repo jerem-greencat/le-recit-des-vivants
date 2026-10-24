@@ -282,7 +282,8 @@ def height(x, z):
 	global _heights
 	if _heights is None:
 		_heights = _cached("heights.pkl", _build_heights)
-	gx, gz = x / HEIGHT_CELL, z / HEIGHT_CELL
+	gx = min(max(x / HEIGHT_CELL, 0.0), HEIGHT_GRID - 1.001)   # bords de la carte
+	gz = min(max(z / HEIGHT_CELL, 0.0), HEIGHT_GRID - 1.001)
 	i, j = int(gx), int(gz)
 	fx, fz = gx - i, gz - j
 	g = lambda c, r: _heights[r * HEIGHT_GRID + c]

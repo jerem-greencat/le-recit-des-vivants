@@ -46,7 +46,7 @@
 		"spawnGearPresetFiles": ["./custom/spawngear_survivant.json"]
 	},
 	"WorldsData": {
-		"lightingConfig": 1,
+		"lightingConfig": 2,
 		"objectSpawnersArr": [
 			"./custom/PZero_SpawnTest_LordBionik.json",
 			"./custom/zeleno_enceinte.json",

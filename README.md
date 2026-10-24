@@ -220,12 +220,12 @@ au démarrage.
 
 Quatre ambiances sont prêtes dans `meteo/` :
 
-| Ambiance | Ciel | Pluie | Vent | Températures (min / max) | Nuits |
+| Ambiance | Ciel | Pluie | Vent | Températures (min / max) | Éclairage |
 | --- | --- | --- | --- | --- | --- |
-| `default` | Météo vanilla (fichier désactivé, `enable="0"`) | Normale | Normal | Vanilla, selon le mois | Claires |
-| `hiver` | Gris (couverture 0.4 à 0.9), brume | Aucune | 2 m/s minimum | -10 / -3 °C toute l'année | Noires |
-| `canicule` | Dégagé (couverture 0 à 0.25), pas de brume | Aucune | Normal | 22 / 38 °C toute l'année | Claires |
-| `tempete` | Couvert (0.8 à 1.0) | Forte, orages | 10 m/s minimum | Vanilla, selon le mois | Noires |
+| `default` | Météo vanilla (fichier désactivé, `enable="0"`) | Normale | Normal | Vanilla, selon le mois | Vanilla (nuits claires) |
+| `hiver` | Gris (couverture 0.4 à 0.9), brume | Aucune | 2 m/s minimum | -10 / -3 °C toute l'année | Sakhal |
+| `canicule` | Dégagé (couverture 0 à 0.25), pas de brume | Aucune | Normal | 22 / 38 °C toute l'année | Nasdara |
+| `tempete` | Couvert (0.8 à 1.0) | Forte, orages | 10 m/s minimum | Vanilla, selon le mois | Nuits noires |
 
 Équipement de départ : les objets sont les mêmes partout (radio et pile, carte, bouteille d'eau pleine,
 ouvre-boîte, confiture, spaghettis, 6 chiffons, boîte de clous), ainsi que la sacoche. Seuls les
@@ -243,7 +243,7 @@ Chaque dossier `meteo/<ambiance>/` contient :
 | Fichier | Rôle | Remplace |
 | --- | --- | --- |
 | `cfgweather.xml` | Météo | `cfgweather.xml` |
-| `gameplay.json` | Éclairage des nuits (`lightingConfig` : 0 claires, 1 noires) et températures | Ces trois valeurs dans `cfggameplay.json` |
+| `gameplay.json` | Éclairage (`lightingConfig` : 0 vanilla, 1 nuits noires, 2 Sakhal, 3 Nasdara) et températures | Ces trois valeurs dans `cfggameplay.json` |
 | `spawngear_survivant.json` | Équipement de départ | `custom/spawngear_survivant.json` |
 | `message.txt` | Message affiché 1 min après la connexion (vide : pas de message) | Le bloc « AMBIANCE METEO » de `db/messages.xml` |
 | `mappings.txt` (facultatif) | Mappings chargés seulement avec cette ambiance (la neige pour `hiver`) | Ajoutés à `objectSpawnersArr` de `cfggameplay.json` |
@@ -290,8 +290,37 @@ trois localités voisines). Les grandes villes sont plafonnées, donc plus clair
 la surface libre couverte) ; les villages sont couverts de 10 à 35 %. Les routes hors des localités
 n'ont pas de neige : elles demanderaient trop de plaques.
 
-Les valeurs `lightingConfig` 2 et 3 chargent l'éclairage de Sakhal et de Nasdara. Elles ne sont pas
-utilisées : ces fichiers font partie des DLC, et les joueurs qui ne les ont pas risquent de ne pas les avoir.
+### Arbres tombés (ambiance `tempete`)
+
+`custom/tempete_arbres.json`, généré par `python3 tools/tempete/generate.py` (il réutilise les données du
+jeu lues par `tools/neige/`), est chargé seulement en tempête (`meteo/tempete/mappings.txt`). Ce sont les
+arbres couchés du jeu (hêtre, épicéa, pin, bouleau), posés là où la carte a des arbres :
+
+- en travers des routes (goudron, gravier, terre), au moins 1,2 km entre deux coupures, sauf dans
+  l'enceinte de Zelenogorsk ; les véhicules doivent faire un détour ;
+- couchés au bord des routes, sans les couper.
+
+Les troncs suivent la pente, et leur hauteur de pose est celle des mêmes arbres placés par Bohemia sur la
+carte. Pas d'arbre sur les ponts, dans les bâtiments ni sur nos mappings. Chaque arbre porte
+`customString` `travers` ou `bord`. État actuel : 1 042 arbres, dont 83 en travers d'une route.
+
+### Lierre sec et traces de brûlé (ambiance `canicule`)
+
+`python3 tools/canicule/generate.py` écrit deux mappings, chargés seulement en canicule
+(`meteo/canicule/mappings.txt`) :
+
+- `custom/canicule_lierre.json` : lierre desséché de Livonia plaqué sur les murs et murets pleins (béton,
+  brique, pierre, tôle, planches) des 48 localités, à l'échelle de la hauteur visible du mur, 400 brins au
+  plus par localité. Les façades des maisons n'en ont pas : les fichiers du jeu ne donnent que leur boîte
+  englobante, débords de toit compris, et le lierre flotterait à distance du mur ;
+- `custom/canicule_brulis.json` : groupes de traces de brûlé de Nasdara (une grande, quelques petites) en
+  terrain dégagé autour des localités, posées comme les plaques de neige.
+
+État actuel : 14 927 brins de lierre et 759 traces de brûlé, au plus environ 1 400 objets dans un rayon
+de 1 km (Berezino).
+
+Les éclairages de Sakhal et de Nasdara (`lightingConfig` 2 et 3) viennent des DLC, mais leurs données sont
+installées chez tous les joueurs (comme les plaques de neige de Sakhal, visibles sans le DLC).
 
 Ce que Chernarus permet (vérifié dans les scripts du jeu, `ChernarusPlus.c`) :
 
