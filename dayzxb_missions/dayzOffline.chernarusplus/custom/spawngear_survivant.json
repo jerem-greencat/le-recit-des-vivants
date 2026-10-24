@@ -7,7 +7,7 @@
 			"slotName": "Body",
 			"discreteItemSets": [
 				{
-					"itemType": "TShirt_Beige",
+					"itemType": "Raincoat_Black",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -21,7 +21,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "TShirt_Black",
+					"itemType": "Raincoat_Blue",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -35,7 +35,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "TShirt_Blue",
+					"itemType": "Raincoat_Green",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -49,7 +49,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "TShirt_Green",
+					"itemType": "Raincoat_Orange",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -63,63 +63,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "TShirt_OrangeWhiteStripes",
-					"spawnWeight": 1,
-					"attributes": {
-						"healthMin": 1.0,
-						"healthMax": 1.0,
-						"quantityMin": 1.0,
-						"quantityMax": 1.0
-					},
-					"quickBarSlot": -1,
-					"complexChildrenTypes": [],
-					"simpleChildrenUseDefaultAttributes": false,
-					"simpleChildrenTypes": []
-				},
-				{
-					"itemType": "TShirt_Red",
-					"spawnWeight": 1,
-					"attributes": {
-						"healthMin": 1.0,
-						"healthMax": 1.0,
-						"quantityMin": 1.0,
-						"quantityMax": 1.0
-					},
-					"quickBarSlot": -1,
-					"complexChildrenTypes": [],
-					"simpleChildrenUseDefaultAttributes": false,
-					"simpleChildrenTypes": []
-				},
-				{
-					"itemType": "TShirt_RedBlackStripes",
-					"spawnWeight": 1,
-					"attributes": {
-						"healthMin": 1.0,
-						"healthMax": 1.0,
-						"quantityMin": 1.0,
-						"quantityMax": 1.0
-					},
-					"quickBarSlot": -1,
-					"complexChildrenTypes": [],
-					"simpleChildrenUseDefaultAttributes": false,
-					"simpleChildrenTypes": []
-				},
-				{
-					"itemType": "TShirt_White",
-					"spawnWeight": 1,
-					"attributes": {
-						"healthMin": 1.0,
-						"healthMax": 1.0,
-						"quantityMin": 1.0,
-						"quantityMax": 1.0
-					},
-					"quickBarSlot": -1,
-					"complexChildrenTypes": [],
-					"simpleChildrenUseDefaultAttributes": false,
-					"simpleChildrenTypes": []
-				},
-				{
-					"itemType": "TShirt_Grey",
+					"itemType": "Raincoat_Yellow",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -138,7 +82,7 @@
 			"slotName": "Legs",
 			"discreteItemSets": [
 				{
-					"itemType": "ShortJeans_Black",
+					"itemType": "CanvasPantsMidi_Beige",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -152,7 +96,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "ShortJeans_Blue",
+					"itemType": "CanvasPantsMidi_Blue",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -166,7 +110,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "ShortJeans_Brown",
+					"itemType": "CanvasPantsMidi_Grey",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -180,7 +124,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "ShortJeans_Darkblue",
+					"itemType": "CanvasPantsMidi_Red",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -194,7 +138,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "ShortJeans_Green",
+					"itemType": "CanvasPantsMidi_Violet",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -213,7 +157,7 @@
 			"slotName": "Feet",
 			"discreteItemSets": [
 				{
-					"itemType": "AthleticShoes_Black",
+					"itemType": "Wellies_Black",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -227,7 +171,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "AthleticShoes_Blue",
+					"itemType": "Wellies_Brown",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -241,7 +185,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "AthleticShoes_Brown",
+					"itemType": "Wellies_Green",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -255,96 +199,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "AthleticShoes_Green",
-					"spawnWeight": 1,
-					"attributes": {
-						"healthMin": 1.0,
-						"healthMax": 1.0,
-						"quantityMin": 1.0,
-						"quantityMax": 1.0
-					},
-					"quickBarSlot": -1,
-					"complexChildrenTypes": [],
-					"simpleChildrenUseDefaultAttributes": false,
-					"simpleChildrenTypes": []
-				},
-				{
-					"itemType": "AthleticShoes_Grey",
-					"spawnWeight": 1,
-					"attributes": {
-						"healthMin": 1.0,
-						"healthMax": 1.0,
-						"quantityMin": 1.0,
-						"quantityMax": 1.0
-					},
-					"quickBarSlot": -1,
-					"complexChildrenTypes": [],
-					"simpleChildrenUseDefaultAttributes": false,
-					"simpleChildrenTypes": []
-				}
-			]
-		},
-		{
-			"slotName": "Headgear",
-			"discreteItemSets": [
-				{
-					"itemType": "BaseballCap_Beige",
-					"spawnWeight": 1,
-					"attributes": {
-						"healthMin": 1.0,
-						"healthMax": 1.0,
-						"quantityMin": 1.0,
-						"quantityMax": 1.0
-					},
-					"quickBarSlot": -1,
-					"complexChildrenTypes": [],
-					"simpleChildrenUseDefaultAttributes": false,
-					"simpleChildrenTypes": []
-				},
-				{
-					"itemType": "BaseballCap_Black",
-					"spawnWeight": 1,
-					"attributes": {
-						"healthMin": 1.0,
-						"healthMax": 1.0,
-						"quantityMin": 1.0,
-						"quantityMax": 1.0
-					},
-					"quickBarSlot": -1,
-					"complexChildrenTypes": [],
-					"simpleChildrenUseDefaultAttributes": false,
-					"simpleChildrenTypes": []
-				},
-				{
-					"itemType": "BaseballCap_Blue",
-					"spawnWeight": 1,
-					"attributes": {
-						"healthMin": 1.0,
-						"healthMax": 1.0,
-						"quantityMin": 1.0,
-						"quantityMax": 1.0
-					},
-					"quickBarSlot": -1,
-					"complexChildrenTypes": [],
-					"simpleChildrenUseDefaultAttributes": false,
-					"simpleChildrenTypes": []
-				},
-				{
-					"itemType": "BaseballCap_Olive",
-					"spawnWeight": 1,
-					"attributes": {
-						"healthMin": 1.0,
-						"healthMax": 1.0,
-						"quantityMin": 1.0,
-						"quantityMax": 1.0
-					},
-					"quickBarSlot": -1,
-					"complexChildrenTypes": [],
-					"simpleChildrenUseDefaultAttributes": false,
-					"simpleChildrenTypes": []
-				},
-				{
-					"itemType": "BaseballCap_Red",
+					"itemType": "Wellies_Grey",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
