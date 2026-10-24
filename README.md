@@ -293,8 +293,9 @@ n'ont pas de neige : elles demanderaient trop de plaques.
 ### Arbres tombés (ambiance `tempete`)
 
 `custom/tempete_arbres.json`, généré par `python3 tools/tempete/generate.py` (il réutilise les données du
-jeu lues par `tools/neige/`), est chargé seulement en tempête (`meteo/tempete/mappings.txt`). Ce sont les
-arbres couchés du jeu (hêtre, épicéa, pin, bouleau), posés là où la carte a des arbres :
+jeu lues par `tools/neige/`), est chargé seulement en tempête (`meteo/tempete/mappings.txt`). Ce sont des
+hêtres couchés (`StaticObj_d_FagusSylvatica_fallen`, arbre entier de 19 m, et `_fallenb`, tronçon de 4 m),
+posés là où la carte a des arbres :
 
 - en travers des routes (goudron, gravier, terre), au moins 1,2 km entre deux coupures, sauf dans
   l'enceinte de Zelenogorsk ; les véhicules doivent faire un détour ;
@@ -302,22 +303,21 @@ arbres couchés du jeu (hêtre, épicéa, pin, bouleau), posés là où la carte
 
 Les troncs suivent la pente, et leur hauteur de pose est celle des mêmes arbres placés par Bohemia sur la
 carte. Pas d'arbre sur les ponts, dans les bâtiments ni sur nos mappings. Chaque arbre porte
-`customString` `travers` ou `bord`. État actuel : 1 042 arbres, dont 83 en travers d'une route.
+`customString` `travers` ou `bord`. État actuel : 1 040 arbres, dont 82 en travers d'une route.
 
-### Lierre sec et traces de brûlé (ambiance `canicule`)
+**Objets par chemin de modèle invisibles.** L'Object Spawner accepte des chemins `.p3d` de plantes et de
+rochers (`DZ\plants…`, `DZ\rocks…`), mais il les crée en objets locaux au serveur (`createLocal`), que les
+joueurs ne voient pas : la première version des arbres tombés (épicéas, pins, bouleaux, qui n'existent
+qu'en modèle) était invisible en jeu. Il faut une classe d'objet (`StaticObj_*`, `Land_*`…). Les chemins
+`.p3d` encore présents dans nos mappings (fougères, lierre, rochers dans `zeleno_enceinte.json` et
+`PZero_SpawnTest_LordBionik.json`) sont donc probablement invisibles aussi.
 
-`python3 tools/canicule/generate.py` écrit deux mappings, chargés seulement en canicule
-(`meteo/canicule/mappings.txt`) :
+### Traces de brûlé (ambiance `canicule`)
 
-- `custom/canicule_lierre.json` : lierre desséché de Livonia plaqué sur les murs et murets pleins (béton,
-  brique, pierre, tôle, planches) des 48 localités, à l'échelle de la hauteur visible du mur, 400 brins au
-  plus par localité. Les façades des maisons n'en ont pas : les fichiers du jeu ne donnent que leur boîte
-  englobante, débords de toit compris, et le lierre flotterait à distance du mur ;
-- `custom/canicule_brulis.json` : groupes de traces de brûlé de Nasdara (une grande, quelques petites) en
-  terrain dégagé autour des localités, posées comme les plaques de neige.
-
-État actuel : 14 927 brins de lierre et 759 traces de brûlé, au plus environ 1 400 objets dans un rayon
-de 1 km (Berezino).
+`custom/canicule_brulis.json`, généré par `python3 tools/canicule/generate.py`, est chargé seulement en
+canicule (`meteo/canicule/mappings.txt`) : groupes de traces de brûlé de Nasdara (une grande, quelques
+petites) en terrain dégagé autour des localités, posées comme les plaques de neige. Le lierre sec n'existe
+qu'en modèle (invisible, voir plus haut). État actuel : 718 traces.
 
 Les éclairages de Sakhal et de Nasdara (`lightingConfig` 2 et 3) viennent des DLC, mais leurs données sont
 installées chez tous les joueurs (comme les plaques de neige de Sakhal, visibles sans le DLC).

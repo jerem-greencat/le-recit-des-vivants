@@ -1,21 +1,15 @@
-"""Génère les mappings de l'ambiance canicule : lierre sec sur les murs et traces de brûlé au sol.
+"""Génère le mapping de l'ambiance canicule : traces de brûlé au sol.
 
 Usage : python3 tools/canicule/generate.py
-Écrit custom/canicule_lierre.json, custom/canicule_brulis.json et meteo/canicule/mappings.txt
-(chargés seulement en ambiance canicule).
-
-Lierre sec (modèles de Livonia, chemins DZ\\plants_bliss : objets statiques légers) :
-- sur les murs et murets pleins (béton, brique, pierre, tôle, planches) des localités ayant de la neige en
-  hiver, à moins de NEAR_HOUSE m d'un bâtiment, MAX_IVY brins au plus par localité (comme les plaques de
-  neige, trop d'objets autour d'un joueur provoquent de la désynchronisation) ; pas sur les grillages,
-  rambardes ni poteaux ;
-- les maisons n'en ont pas : leur boîte englobante comprend les débords de toit, le lierre flotterait ;
-- le brin est plaqué contre une face du mur et mis à l'échelle de sa hauteur visible (le haut du mur
-  moins le terrain : certains murs sont en partie enterrés).
+Écrit custom/canicule_brulis.json et meteo/canicule/mappings.txt (chargés seulement en ambiance canicule).
 
 Traces de brûlé (décals de Nasdara, visibles sans le DLC comme les plaques de neige de Sakhal) :
 - par groupes (une grande, quelques petites autour), en terrain dégagé en bordure des localités ;
 - inclinées selon la pente comme les plaques de neige, et abaissées pour ne flotter nulle part.
+
+Pas de lierre sec : il n'existe qu'en modèle (chemin DZ\\plants_bliss\\...), que l'Object Spawner crée en
+objet local au serveur (createLocal), invisible pour les joueurs (constaté le 24/10/2026 avec les arbres
+de la tempête).
 """
 import json
 import math
@@ -35,78 +29,15 @@ _spec.loader.exec_module(tempete)
 
 MISSION = os.path.join(HERE, "..", "..", "dayzxb_missions", "dayzOffline.chernarusplus")
 
-NEAR_HOUSE = 50           # m : murs pris en compte autour des bâtiments
-MAX_IVY = 400             # brins de lierre au plus par localité
-MIN_WALL = 0.6            # hauteur visible minimale d'un mur (m)
-SOLID_WALLS = ("cnc", "cbrk", "cgry", "stone", "tin", "wood", "vilvar", "indvar")
-NOT_WALLS = ("pole", "fen", "railing", "garb", "hole", "gate")
-IVY = [
-	"DZ\\plants_bliss\\building\\ivy_dry_%s.p3d" % k for k in "abcdefghij"
-]
-
 SCORCH_GROUPS = 4         # groupes de traces de brûlé par tranche de 100 bâtiments (au moins 1)
 SCORCH_LARGE = ("StaticObj_Decal_ScorchMark_01_large_f", 4.35, 2.85)
 SCORCH_SMALL = ("StaticObj_Decal_ScorchMark_01_small_f", 1.5, 1.5)
 MAX_GAP = 0.2             # enfoncement maximal d'une trace dans le terrain (m)
 
 
-def is_solid_wall(path):
-	name = path.lower().rsplit("\\", 1)[-1]
-	return ("\\walls\\" in path.lower() and name.startswith("wall_") and any(k in name for k in SOLID_WALLS)
-			and not any(k in name for k in NOT_WALLS))
-
-
 def entry(name, pos, ypr, scale, kind):
 	return {"name": name, "pos": [round(v, 3) for v in pos], "ypr": [round(v, 2) for v in ypr],
 			"scale": round(scale, 3), "enableCEPersistency": 0, "customString": kind}
-
-
-def ivy(rnd, objects, houses, localities):
-	boxes = {m: gamedata.model_bbox(m) for m in IVY}
-	out = []
-	walls = [o for o in objects if is_solid_wall(o[0]) and any(True for _ in houses.near(o[3][0], o[3][2], NEAR_HOUSE))]
-	for loc in localities:
-		x0, z0, x1, z1 = loc["box"]
-		mine = [o for o in walls if x0 <= o[3][0] <= x1 and z0 <= o[3][2] <= z1]
-		rnd.shuffle(mine)
-		town = []
-		for o in mine:
-			if len(town) >= MAX_IVY:
-				break
-			town += ivy_on_wall(rnd, o, boxes)
-		out += town[:MAX_IVY]
-	return out
-
-
-def ivy_on_wall(rnd, wall, boxes):
-	"""1 ou 2 brins plaqués sur une face du pan de mur."""
-	path, xa, za, pos = wall
-	box = gamedata.model_bbox(path)
-	if not box:
-		return []
-	(lx, ly, lz), (hx, hy, hz) = box
-	if hx - lx < 1.5 or hz - lz > 2:   # pans de mur : longs en x, fins en z
-		return []
-	top = pos[1] + hy
-	out = []
-	for _ in range(rnd.choice((1, 1, 2))):
-		t = rnd.uniform(lx + 0.4, hx - 0.4)
-		side = rnd.choice((-1, 1))
-		face = (hz if side > 0 else -lz) + 0.02
-		x = pos[0] + t * xa[0] + side * face * za[0]
-		z = pos[2] + t * xa[1] + side * face * za[1]
-		ground = gamedata.height(x, z)
-		visible = top - ground
-		if visible < MIN_WALL:
-			continue
-		model = rnd.choice(IVY)
-		(mlx, mly, mlz), (mhx, mhy, mhz) = boxes[model]
-		scale = min(1.2, max(0.4, visible * rnd.uniform(0.6, 0.95) / (mhy - mly)))
-		# axe z du lierre = normale sortante du mur (les feuilles partent vers +z)
-		nx, nz = side * za[0], side * za[1]
-		yaw = math.degrees(math.atan2(nx, nz)) % 360
-		out.append(entry(model, (x, ground - mly * scale, z), (yaw, 0, 0), scale, "lierre"))
-	return out
 
 
 def scorch(rnd, objects, houses_list, localities):
@@ -180,20 +111,13 @@ def main():
 	rnd = random.Random("canicule")
 	objects = gamedata.map_objects()
 	localities = [t for t in neige.localities() if t["buildings"] >= neige.MIN_BUILDINGS]
-	houses_list = neige.houses(objects)
-	houses = tempete.SpatialIndex(50)
-	for x, z in houses_list:
-		houses.add(x, z, (x, z))
-
-	lierre = ivy(rnd, objects, houses, localities)
-	brulis = scorch(rnd, objects, houses_list, localities)
-	for name, objs in (("canicule_lierre", lierre), ("canicule_brulis", brulis)):
-		with open(os.path.join(MISSION, "custom", name + ".json"), "w") as f:
-			f.write(json.dumps({"Objects": objs}, indent=4) + "\n")
+	brulis = scorch(rnd, objects, neige.houses(objects), localities)
+	with open(os.path.join(MISSION, "custom", "canicule_brulis.json"), "w") as f:
+		f.write(json.dumps({"Objects": brulis}, indent=4) + "\n")
 	with open(os.path.join(MISSION, "meteo", "canicule", "mappings.txt"), "w") as f:
 		f.write("# Mappings chargés seulement avec cette ambiance (générés par tools/canicule/generate.py)\n")
-		f.write("./custom/canicule_lierre.json\n./custom/canicule_brulis.json\n")
-	print("%d brins de lierre sec, %d traces de brûlé" % (len(lierre), len(brulis)))
+		f.write("./custom/canicule_brulis.json\n")
+	print("%d traces de brûlé" % len(brulis))
 
 
 if __name__ == "__main__":

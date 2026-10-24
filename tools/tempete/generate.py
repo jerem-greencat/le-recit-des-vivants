@@ -13,7 +13,6 @@ Règles :
 - les troncs suivent la pente : roulis = -pente le long du tronc (axe x du modèle), comme les murs posés
   en pente dans zeleno_enceinte.json ; tangage = pente en travers (positif = avant relevé) ;
 - hauteur de pose : celle des mêmes arbres couchés placés par Bohemia sur la carte (médiane).
-Les modèles sont des « plantes » (chemins DZ\\plants), que l'Object Spawner charge en objets statiques.
 """
 import json
 import math
@@ -38,20 +37,11 @@ MAX_GAP = 0.6             # écart maximal entre le tronc et le terrain (m)
 MAX_TILT = 20             # pente maximale sous le tronc (degrés)
 NO_CROSSING = ["zeleno_enceinte.json"]   # mappings dont l'emprise ne doit pas avoir de route coupée
 
-# arbres entiers (longs) pour couper les routes, troncs plus courts pour les bas-côtés
-LONG_TREES = [
-	"DZ\\plants\\tree\\d_fagussylvatica_fallen.p3d",
-	"DZ\\plants\\tree\\d_piceaabies_fallen.p3d",
-	"DZ\\plants_bliss\\tree\\d_piceaabies_fallend.p3d",
-	"DZ\\plants_bliss\\tree\\d_piceaabies_fallene.p3d",
-	"DZ\\plants\\tree\\d_pinussylvestris_fallen.p3d",
-	"DZ\\plants_bliss\\tree\\d_betulapendula_fallen.p3d",
-]
-SIDE_TREES = LONG_TREES + [
-	"DZ\\plants\\tree\\d_piceaabies_fallenb.p3d",
-	"DZ\\plants\\tree\\d_pinussylvestris_fallenb.p3d",
-	"DZ\\plants\\tree\\d_fagussylvatica_fallenb.p3d",
-]
+# Seul le hêtre couché existe en classe d'objet (StaticObj_*), synchronisée avec les joueurs. Les autres
+# arbres couchés n'existent qu'en modèle (chemin DZ\\plants\\...) : l'Object Spawner les crée alors en objets
+# locaux au serveur (createLocal), invisibles pour les joueurs (constaté en jeu le 24/10/2026).
+LONG_TREES = ["StaticObj_d_FagusSylvatica_fallen"]   # arbre entier, 19 m : coupe toutes les routes
+SIDE_TREES = LONG_TREES + ["StaticObj_d_FagusSylvatica_fallenb"]   # + tronçon de 4,4 m pour les bas-côtés
 
 
 def road_kind(path):
@@ -98,9 +88,10 @@ def main():
 	for path, xa, za, pos in objects:
 		if "\\d_" in path and "fallen" in path:
 			offsets[path.lower()].append(pos[1] - gamedata.height(pos[0], pos[2]))
-	lift = {m: statistics.median(offsets[m.lower()]) if offsets[m.lower()] else -gamedata.model_bbox(m)[0][1] * 0.5
-			for m in SIDE_TREES}
-	length = {m: gamedata.model_bbox(m)[1][0] for m in SIDE_TREES}   # demi-longueur (axe x)
+	models = {c: gamedata.class_model(c).lstrip("\\") for c in SIDE_TREES}
+	lift = {c: statistics.median(offsets[m.lower()]) if offsets[m.lower()] else -gamedata.model_bbox(m)[0][1] * 0.5
+			for c, m in models.items()}
+	length = {c: gamedata.model_bbox(m)[1][0] for c, m in models.items()}   # demi-longueur (axe x)
 
 	trees = SpatialIndex(25)
 	obstacles = SpatialIndex(50)   # (x, z, rayon) des bâtiments, ponts et gros objets de nos mappings
