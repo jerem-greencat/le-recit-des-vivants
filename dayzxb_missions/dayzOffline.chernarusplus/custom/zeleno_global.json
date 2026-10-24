@@ -1,1652 +1,268 @@
 {
-    "Objects": [
-        {
-            "name": "Land_Wreck_offroad02_aban1_DE",
-            "pos": [
-                2296.8186,
-                187.3592,
-                5227.7384
-            ],
-            "ypr": [
-                -151.235,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Wreck_sed02_aban2_grey_DE",
-            "pos": [
-                2294.4043,
-                186.262,
-                5230.1411
-            ],
-            "ypr": [
-                -80.966,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Rubble_Glass",
-            "pos": [
-                2295.7338,
-                185.7014,
-                5228.2187
-            ],
-            "ypr": [
-                -121.709,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Pile3",
-            "pos": [
-                2295.4909,
-                185.7797,
-                5227.5575
-            ],
-            "ypr": [
-                -121.709,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2296.4649,
-                183.804,
-                5228.964
-            ],
-            "ypr": [
-                -121.709,
-                0.0,
-                0.0
-            ],
-            "scale": 0.3,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Wreck_hb02_aban2_black_DE",
-            "pos": [
-                2608.0064,
-                196.4271,
-                5185.3083
-            ],
-            "ypr": [
-                -172.044,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2608.0064,
-                193.9501,
-                5185.7851
-            ],
-            "ypr": [
-                0.0,
-                0.0,
-                0.0
-            ],
-            "scale": 0.3,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_wreck_truck01_aban1_orange_DE",
-            "pos": [
-                2777.3403,
-                208.7658,
-                5432.8532
-            ],
-            "ypr": [
-                -134.529,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Rubble_Glass",
-            "pos": [
-                2779.0735,
-                208.5722,
-                5433.4273
-            ],
-            "ypr": [
-                -65.557,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2776.8101,
-                207.3448,
-                5432.4113
-            ],
-            "ypr": [
-                50.188,
-                0.0,
-                0.0
-            ],
-            "scale": 0.12,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Pile4",
-            "pos": [
-                2604.1704,
-                193.6908,
-                4976.0368
-            ],
-            "ypr": [
-                -65.887,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_GroundSq_5m_NoLC",
-            "pos": [
-                2603.4983,
-                193.7013,
-                4977.5429
-            ],
-            "ypr": [
-                37.344,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2604.1704,
-                188.4735,
-                4976.0368
-            ],
-            "ypr": [
-                -6.831,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Container",
-            "pos": [
-                2862.8687,
-                212.1694,
-                5417.2636
-            ],
-            "ypr": [
-                -53.437,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2862.8687,
-                206.5288,
-                5417.2636
-            ],
-            "ypr": [
-                -119.505,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Rubble_Wood2",
-            "pos": [
-                2838.7525,
-                204.3557,
-                5252.619
-            ],
-            "ypr": [
-                110.517,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2838.7525,
-                198.8333,
-                5252.619
-            ],
-            "ypr": [
-                70.896,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Misc_TirePile_Burning_DE",
-            "pos": [
-                2489.3586,
-                192.5346,
-                5108.3524
-            ],
-            "ypr": [
-                -19.775,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Misc_Tire",
-            "pos": [
-                2487.4502,
-                193.832,
-                5107.0187
-            ],
-            "ypr": [
-                -98.17,
-                0.0,
-                -32.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Misc_FireBarrel_Green",
-            "pos": [
-                2637.05,
-                207.237,
-                5437.3641
-            ],
-            "ypr": [
-                102.861,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_GroundSq_3m_NoLC",
-            "pos": [
-                2635.6069,
-                206.0957,
-                5438.5177
-            ],
-            "ypr": [
-                173.974,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Wreck_Pickup01_Aban_Yellow",
-            "pos": [
-                2679.4775,
-                194.2177,
-                5046.3719
-            ],
-            "ypr": [
-                -87.762,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Wreck_sed01_aban2_white_DE",
-            "pos": [
-                2680.3095,
-                195.0659,
-                5049.6748
-            ],
-            "ypr": [
-                -26.041,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Rubble_Glass",
-            "pos": [
-                2679.3361,
-                194.421,
-                5047.5498
-            ],
-            "ypr": [
-                -62.432,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Pile3",
-            "pos": [
-                2678.6436,
-                194.5155,
-                5047.4208
-            ],
-            "ypr": [
-                -62.432,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2680.3503,
-                192.4916,
-                5047.302
-            ],
-            "ypr": [
-                -62.432,
-                0.0,
-                0.0
-            ],
-            "scale": 0.3,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Wreck_offroad02_aban1_DE",
-            "pos": [
-                2720.7874,
-                206.2834,
-                5287.306
-            ],
-            "ypr": [
-                109.078,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Rubble_Glass",
-            "pos": [
-                2719.8014,
-                204.6076,
-                5286.5446
-            ],
-            "ypr": [
-                118.965,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Misc_Tire",
-            "pos": [
-                2718.9759,
-                204.9828,
-                5284.6528
-            ],
-            "ypr": [
-                -176.308,
-                0.0,
-                -32.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2721.3249,
-                202.6681,
-                5287.1961
-            ],
-            "ypr": [
-                -78.444,
-                0.0,
-                0.0
-            ],
-            "scale": 0.3,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Pile6",
-            "pos": [
-                2566.4872,
-                194.5501,
-                5069.8406
-            ],
-            "ypr": [
-                -111.961,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_GroundSq_3m_NoLC",
-            "pos": [
-                2567.5809,
-                194.5555,
-                5071.2018
-            ],
-            "ypr": [
-                115.994,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2566.4872,
-                189.2788,
-                5069.8406
-            ],
-            "ypr": [
-                -10.947,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Container_Paper",
-            "pos": [
-                2646.6252,
-                197.3325,
-                5143.2953
-            ],
-            "ypr": [
-                65.291,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2646.6252,
-                191.6919,
-                5143.2953
-            ],
-            "ypr": [
-                143.497,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Rubble_Wood2",
-            "pos": [
-                2262.3862,
-                184.9529,
-                5260.5221
-            ],
-            "ypr": [
-                -164.72,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2262.3862,
-                179.4306,
-                5260.5221
-            ],
-            "ypr": [
-                82.152,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Misc_TirePile_Burning_DE",
-            "pos": [
-                2432.976,
-                189.4067,
-                5260.314
-            ],
-            "ypr": [
-                -57.645,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Misc_Tire",
-            "pos": [
-                2432.3103,
-                190.7318,
-                5256.9438
-            ],
-            "ypr": [
-                128.272,
-                0.0,
-                -32.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Misc_Tire",
-            "pos": [
-                2430.5242,
-                190.1995,
-                5261.3857
-            ],
-            "ypr": [
-                -15.296,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Misc_FireBarrel_Yellow",
-            "pos": [
-                2728.1027,
-                201.1597,
-                5223.1781
-            ],
-            "ypr": [
-                -156.799,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Wreck_S1023_Beige",
-            "pos": [
-                2520.6245,
-                208.2752,
-                5514.9276
-            ],
-            "ypr": [
-                32.067,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Wreck_hb02_aban2_red_DE",
-            "pos": [
-                2522.9044,
-                207.7033,
-                5512.3971
-            ],
-            "ypr": [
-                103.462,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Rubble_Glass",
-            "pos": [
-                2521.6816,
-                207.1641,
-                5514.389
-            ],
-            "ypr": [
-                61.411,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Pile3",
-            "pos": [
-                2521.9601,
-                207.2784,
-                5515.036
-            ],
-            "ypr": [
-                61.411,
-                0.0,
-                -0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2520.911,
-                205.2186,
-                5513.6846
-            ],
-            "ypr": [
-                61.411,
-                0.0,
-                0.0
-            ],
-            "scale": 0.3,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Wreck_hb02_aban2_black_DE",
-            "pos": [
-                2484.774,
-                190.8249,
-                5281.2065
-            ],
-            "ypr": [
-                -85.493,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2485.4471,
-                188.3398,
-                5281.2731
-            ],
-            "ypr": [
-                -95.655,
-                0.0,
-                0.0
-            ],
-            "scale": 0.3,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Pile4",
-            "pos": [
-                2820.6218,
-                206.3256,
-                5354.8575
-            ],
-            "ypr": [
-                3.703,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_GroundSq_5m_NoLC",
-            "pos": [
-                2821.0559,
-                206.3247,
-                5353.4167
-            ],
-            "ypr": [
-                -49.964,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2820.6218,
-                201.1083,
-                5354.8575
-            ],
-            "ypr": [
-                -35.423,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Container_Glass",
-            "pos": [
-                2634.3712,
-                195.0675,
-                5028.0546
-            ],
-            "ypr": [
-                89.917,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Container_Plastic",
-            "pos": [
-                2634.3733,
-                194.9503,
-                5026.5546
-            ],
-            "ypr": [
-                93.123,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2634.3712,
-                189.4269,
-                5028.0546
-            ],
-            "ypr": [
-                42.607,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Rubble_Bricks1",
-            "pos": [
-                2671.9705,
-                205.7577,
-                5379.3643
-            ],
-            "ypr": [
-                161.463,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2671.9705,
-                199.875,
-                5379.3643
-            ],
-            "ypr": [
-                -45.652,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Misc_TirePile_Burning_DE",
-            "pos": [
-                2826.4435,
-                210.928,
-                5490.1032
-            ],
-            "ypr": [
-                -162.802,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Misc_Tire",
-            "pos": [
-                2824.4695,
-                212.2457,
-                5492.7868
-            ],
-            "ypr": [
-                74.569,
-                0.0,
-                -32.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Misc_Tire",
-            "pos": [
-                2828.4529,
-                211.9336,
-                5491.3218
-            ],
-            "ypr": [
-                -53.559,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Misc_Tire",
-            "pos": [
-                2824.9084,
-                212.2504,
-                5492.6025
-            ],
-            "ypr": [
-                42.945,
-                0.0,
-                -32.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Misc_FireBarrel_Yellow",
-            "pos": [
-                2698.9379,
-                198.2265,
-                5119.4982
-            ],
-            "ypr": [
-                -74.645,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Wreck_hb01_aban2_blue_DE",
-            "pos": [
-                2973.6738,
-                226.7178,
-                5540.3822
-            ],
-            "ypr": [
-                18.144,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Misc_Tire",
-            "pos": [
-                2974.0189,
-                226.4695,
-                5543.7894
-            ],
-            "ypr": [
-                162.665,
-                0.0,
-                -32.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2973.867,
-                224.0326,
-                5540.9219
-            ],
-            "ypr": [
-                19.7,
-                0.0,
-                0.0
-            ],
-            "scale": 0.3,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Pile2",
-            "pos": [
-                2437.9985,
-                191.6453,
-                5045.0272
-            ],
-            "ypr": [
-                141.502,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2437.9985,
-                185.5288,
-                5045.0272
-            ],
-            "ypr": [
-                170.286,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Container",
-            "pos": [
-                2197.9683,
-                185.5862,
-                5089.5448
-            ],
-            "ypr": [
-                -129.989,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2197.9683,
-                179.9456,
-                5089.5448
-            ],
-            "ypr": [
-                131.222,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Rubble_Wood1",
-            "pos": [
-                2759.9578,
-                193.8525,
-                5052.645
-            ],
-            "ypr": [
-                80.935,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2759.9578,
-                188.0641,
-                5052.645
-            ],
-            "ypr": [
-                109.295,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Misc_TirePile_Burning_DE",
-            "pos": [
-                2331.728,
-                189.0295,
-                5307.0902
-            ],
-            "ypr": [
-                52.701,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Misc_Tire",
-            "pos": [
-                2328.6048,
-                190.3205,
-                5307.2508
-            ],
-            "ypr": [
-                -129.34,
-                0.0,
-                -32.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Misc_FireBarrel_Red",
-            "pos": [
-                2582.4138,
-                195.6817,
-                5016.3577
-            ],
-            "ypr": [
-                -123.65,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Pile1",
-            "pos": [
-                2884.7718,
-                206.8219,
-                5291.0671
-            ],
-            "ypr": [
-                121.382,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_GroundSq_3m_NoLC",
-            "pos": [
-                2886.1553,
-                206.4493,
-                5291.2053
-            ],
-            "ypr": [
-                80.931,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2884.7718,
-                201.0325,
-                5291.0671
-            ],
-            "ypr": [
-                -141.871,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Container_Paper",
-            "pos": [
-                2537.8378,
-                194.0714,
-                5117.9236
-            ],
-            "ypr": [
-                103.921,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Container_Plastic",
-            "pos": [
-                2537.4769,
-                194.0714,
-                5116.4676
-            ],
-            "ypr": [
-                107.488,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Pile3",
-            "pos": [
-                2536.3051,
-                193.4992,
-                5119.7631
-            ],
-            "ypr": [
-                142.869,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2537.8378,
-                188.4308,
-                5117.9236
-            ],
-            "ypr": [
-                115.181,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Rubble_Bricks1",
-            "pos": [
-                2389.6651,
-                190.4155,
-                5086.277
-            ],
-            "ypr": [
-                -158.071,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_GroundSq_3m_NoLC",
-            "pos": [
-                2391.0967,
-                190.2424,
-                5084.5849
-            ],
-            "ypr": [
-                165.714,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2389.6651,
-                184.5328,
-                5086.277
-            ],
-            "ypr": [
-                117.607,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Misc_TirePile_Burning_DE",
-            "pos": [
-                2788.5401,
-                203.718,
-                5286.0026
-            ],
-            "ypr": [
-                150.86,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Misc_Tire",
-            "pos": [
-                2791.53,
-                204.5244,
-                5285.7295
-            ],
-            "ypr": [
-                -158.702,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Misc_Tire",
-            "pos": [
-                2786.1332,
-                205.012,
-                5284.3098
-            ],
-            "ypr": [
-                65.096,
-                0.0,
-                -32.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Misc_FireBarrel_Red",
-            "pos": [
-                2604.9688,
-                198.6845,
-                5313.5394
-            ],
-            "ypr": [
-                -162.83,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Pile2",
-            "pos": [
-                2676.7229,
-                207.5632,
-                5482.1443
-            ],
-            "ypr": [
-                -68.105,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2676.7229,
-                201.4467,
-                5482.1443
-            ],
-            "ypr": [
-                122.295,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Container_Glass",
-            "pos": [
-                2904.3804,
-                218.3315,
-                5502.5644
-            ],
-            "ypr": [
-                51.137,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Container_Paper",
-            "pos": [
-                2905.3216,
-                218.3264,
-                5501.3964
-            ],
-            "ypr": [
-                56.813,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Pile3",
-            "pos": [
-                2906.446,
-                217.7482,
-                5501.2992
-            ],
-            "ypr": [
-                53.172,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2904.3804,
-                212.6909,
-                5502.5644
-            ],
-            "ypr": [
-                -79.836,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Rubble_Wood1",
-            "pos": [
-                2514.7167,
-                190.3756,
-                5238.7873
-            ],
-            "ypr": [
-                107.003,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2514.7167,
-                184.5872,
-                5238.7873
-            ],
-            "ypr": [
-                33.34,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Misc_FireBarrel_Red",
-            "pos": [
-                2658.3591,
-                205.1,
-                5312.4398
-            ],
-            "ypr": [
-                1.877,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Pile1",
-            "pos": [
-                2450.9875,
-                190.4802,
-                5146.4135
-            ],
-            "ypr": [
-                54.906,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_GroundSq_5m_NoLC",
-            "pos": [
-                2449.5611,
-                190.006,
-                5146.7263
-            ],
-            "ypr": [
-                -79.293,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2450.9875,
-                184.6908,
-                5146.4135
-            ],
-            "ypr": [
-                11.351,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Land_Misc_FireBarrel_Red",
-            "pos": [
-                2681.7303,
-                212.276,
-                5613.468
-            ],
-            "ypr": [
-                -32.655,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_GroundSq_5m_NoLC",
-            "pos": [
-                2683.0316,
-                211.0914,
-                5614.9395
-            ],
-            "ypr": [
-                124.356,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Garbage_Pile4",
-            "pos": [
-                2616.5815,
-                197.3661,
-                5255.7116
-            ],
-            "ypr": [
-                137.096,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "Bonfire",
-            "pos": [
-                2616.5815,
-                192.1489,
-                5255.7116
-            ],
-            "ypr": [
-                -26.025,
-                0.0,
-                0.0
-            ],
-            "scale": 0.05,
-            "enableCEPersistency": 0,
-            "customString": ""
-        }
-    ]
+	"Objects": [
+		{
+			"name": "Land_Wreck_sed02_aban1_red",
+			"pos": [2715.49462890625, 205.2100067138672, 5300.65673828125],
+			"ypr": [-18.55037498474121, 0.0, -2.9999990463256838],
+			"scale": 0.9999996423721314,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "FireplaceIndoor",
+			"pos": [2715.91064453125, 204.8126983642578, 5298.82373046875],
+			"ypr": [35.44908905029297, 0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Furniture_fireplace_grill",
+			"pos": [2715.59814453125, 205.1488800048828, 5298.77880859375],
+			"ypr": [71.44995880126953, 0.0, -0.0],
+			"scale": 0.9999995827674866,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Furniture_fireplace_grill",
+			"pos": [2715.99755859375, 205.1488800048828, 5298.91357421875],
+			"ypr": [71.44995880126953, -0.0, -0.0],
+			"scale": 1.0,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Furniture_fireplace_grill",
+			"pos": [2716.39892578125, 205.1488800048828, 5299.04052734375],
+			"ypr": [71.44995880126953, 0.0, -0.0],
+			"scale": 0.9999995827674866,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2751.14892578125, 195.98806762695313, 5204.2099609375],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.10000000149011612,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Garbage_Pile4",
+			"pos": [2751.529541015625, 200.96597290039063, 5203.39453125],
+			"ypr": [44.999977111816409, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Garbage_Pile5",
+			"pos": [2701.9130859375, 204.7843017578125, 5274.98046875],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2701.447509765625, 200.38905334472657, 5276.0068359375],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999999403953552,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Garbage_Pile3",
+			"pos": [2578.224609375, 192.71966552734376, 5235.77294921875],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Garbage_Pile3",
+			"pos": [2576.951904296875, 192.49903869628907, 5236.515625],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Garbage_Pile3",
+			"pos": [2579.00439453125, 192.67510986328126, 5237.232421875],
+			"ypr": [-140.0, 0.0, -0.0],
+			"scale": 0.9999995231628418,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Misc_TirePile_Burning_DE",
+			"pos": [2578.260498046875, 192.1026153564453, 5236.73876953125],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Garbage_Pile5",
+			"pos": [2379.852783203125, 190.6589813232422, 5278.017578125],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2379.103759765625, 187.9515380859375, 5277.990234375],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999998658895493,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Land_Wreck_Tractor",
+			"pos": [2207.417724609375, 190.48594665527345, 5318.6259765625],
+			"ypr": [35.99946594238281, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2207.255859375, 184.35443115234376, 5318.33740234375],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999997913837433,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Land_Dead_MassGrave",
+			"pos": [2418.43408203125, 190.75205993652345, 5175.72998046875],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2417.973876953125, 186.18731689453126, 5175.56103515625],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999997168779373,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2506.4462890625, 189.4282684326172, 5022.8251953125],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999996423721314,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2603.322021484375, 193.4551239013672, 5102.4267578125],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999995678663254,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2605.71435546875, 193.4837188720703, 5100.73291015625],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999995678663254,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Wreck_Decal_Big_NoLC",
+			"pos": [2660.686767578125, 195.4425811767578, 5094.1240234375],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Land_Wreck_hb01_aban2_police",
+			"pos": [2660.390625, 196.06419372558595, 5089.64599609375],
+			"ypr": [162.0000762939453, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Land_Wreck_hb02_aban1_black",
+			"pos": [2658.70458984375, 195.9356231689453, 5092.01220703125],
+			"ypr": [-107.99989318847656, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "ZmbM_PolicemanSpecForce",
+			"pos": [2660.16064453125, 194.86509704589845, 5089.5791015625],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Land_Wreck_Uaz_DE",
+			"pos": [2663.18408203125, 196.09381103515626, 5089.7099609375],
+			"ypr": [125.99993133544922, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Garbage_Container2_Open",
+			"pos": [2661.3623046875, 196.14559936523438, 5091.80615234375],
+			"ypr": [-72.0000228881836, 0.0, -0.0],
+			"scale": 0.9999998807907105,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2659.711669921875, 191.47999572753907, 5090.560546875],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999994933605194,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Misc_TirePile_Burning_DE",
+			"pos": [2843.384765625, 204.81935119628907, 5271.57275390625],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2793.189208984375, 202.11659240722657, 5385.013671875],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999999403953552,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Garbage_Pile4",
+			"pos": [2793.62646484375, 207.12948608398438, 5384.38330078125],
+			"ypr": [44.999977111816409, 0.0, -0.0],
+			"scale": 0.9999995827674866,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2885.759033203125, 209.9871368408203, 5455.578125],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999997168779373,
+			"enableCEPersistency": 0,
+			"customString": ""
+		}
+	]
 }
