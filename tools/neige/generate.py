@@ -13,7 +13,7 @@ bâtiment d'au moins HOUSE_AREA m². Leur nom vient des lieux nommés de la conf
 Règles :
 - la neige couvre la localité ;
 - pas de neige dans les bâtiments de la carte ni dans les gros objets de nos mappings ;
-- en ville, les rues goudronnées restent dégagées (hors ville, les routes seront enneigées) ;
+- les rues sont enneigées comme le reste (choix du 24/10/2026 ; CLEAR_STREETS = True pour les dégager) ;
 - les plaques sont plates : on les incline dans le sens de la pente (lacet tourné vers l'amont, tangage
   positif = avant relevé, comme les postes de garde posés en pente dans zeleno_enceinte.json), et on ne
   les pose que là où le terrain est assez régulier sous la plaque ;
@@ -42,7 +42,8 @@ MAX_PER_TOWN = 600        # plaques au plus par localité ; au-delà, on en reti
 NAME_DISTANCE = 1000      # distance maximale (m) au lieu nommé de la config du jeu
 
 TOWN_RADIUS = 40          # m autour des bâtiments qui comptent comme « ville »
-MAX_STREET = 0.03         # part maximale d'une plaque posée sur une rue goudronnée
+CLEAR_STREETS = False     # True : rues goudronnées dégagées
+MAX_STREET = 0.03         # avec CLEAR_STREETS, part maximale d'une plaque posée sur une rue goudronnée
 MAX_BUILDING = 0.15       # part maximale sur un bâtiment (la plaque passe sous le plancher, surélevé)
 HOUSE_AREA = 40           # emprise minimale (m²) d'un bâtiment pour définir la ville
 MAX_OUTSIDE = 0.35        # part maximale d'une plaque qui déborde hors de la ville
@@ -80,7 +81,7 @@ def is_town_street(path):
 	if "\\roads\\parts\\" not in p:
 		return False
 	name = p.rsplit("\\", 1)[-1]
-	return name.startswith("asf") or name.startswith("kr_")
+	return name.startswith(("asf", "kr_", "city"))
 
 
 class Grid:
@@ -263,7 +264,7 @@ def generate(loc, budget=MAX_PER_TOWN):
 	for path, xa, za, pos in objects:
 		if is_building(path):
 			block(path, (pos[0], pos[2]), xa, za, BLOCKED, 0.5)
-		elif is_town_street(path) or "\\water\\" in path.lower():
+		elif (CLEAR_STREETS and is_town_street(path)) or "\\water\\" in path.lower():
 			k = grid.idx(pos[0], pos[2])
 			if k is not None and grid.cells[k] != OUTSIDE:
 				block(path, (pos[0], pos[2]), xa, za, STREET, 0.0)

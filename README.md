@@ -272,8 +272,9 @@ python3 tools/neige/generate.py --liste      # localités détectées
 
 Le script lit le relief et les objets de la carte dans le jeu installé sur le PC (cache dans
 `tools/neige/cache/`, non versionné). Il détecte les localités (zones bâties d'au moins 40 bâtiments,
-nommées d'après les lieux de la config du jeu) et les couvre en évitant les bâtiments, les rues goudronnées
-et les gros objets de nos mappings. Les plaques sont inclinées selon la pente, puis abaissées pour ne
+nommées d'après les lieux de la config du jeu) et les couvre en évitant les bâtiments et les gros objets
+de nos mappings. Les rues sont enneigées comme le reste (`CLEAR_STREETS = True` dans le script pour les
+dégager). Les plaques sont inclinées selon la pente, puis abaissées pour ne
 flotter nulle part (quelques centimètres au plus) ; celles qui s'enfonceraient de plus de 30 cm ailleurs
 sont écartées. Sans argument, il réécrit aussi `meteo/hiver/mappings.txt`.
 
@@ -281,12 +282,12 @@ Chaque plaque est un objet synchronisé avec les joueurs proches. Avec 3 572 pla
 joueurs avaient l'icône de désynchronisation en permanence ; avec 1 680 réparties sur trois villes, aucun
 souci : c'est le nombre de plaques autour du joueur qui compte. Le script ne pose donc que des grandes
 plaques, 600 au plus par localité (au-delà, il en retire au hasard). Il écrit une image de contrôle par
-localité dans `tools/neige/cache/neige_<localité>.png` (blanc : neige, rouge : bâtiments, brun : rues).
+localité dans `tools/neige/cache/neige_<localité>.png` (blanc : neige, rouge : bâtiments, brun : rues dégagées).
 Les réglages (seuil de bâtiments, plafond, pente maximale…) sont en tête du script.
 
-État actuel : 48 localités, 14 621 plaques, au plus environ 1 200 dans un rayon de 1 km (Berezino,
-aérodrome de Vybor). Les grandes villes sont plafonnées, donc plus clairsemées (Chernogorsk : 3 % de
-la surface libre couverte) ; les villages sont couverts de 10 à 30 %. Les routes hors des localités
+État actuel : 48 localités, 17 265 plaques, au plus environ 1 450 dans un rayon de 1 km (Berezino, en
+trois localités voisines). Les grandes villes sont plafonnées, donc plus clairsemées (Chernogorsk : 3 % de
+la surface libre couverte) ; les villages sont couverts de 10 à 35 %. Les routes hors des localités
 n'ont pas de neige : elles demanderaient trop de plaques.
 
 Les valeurs `lightingConfig` 2 et 3 chargent l'éclairage de Sakhal et de Nasdara. Elles ne sont pas

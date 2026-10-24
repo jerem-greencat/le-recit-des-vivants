@@ -51,13 +51,13 @@
         {
             "name": "StaticObj_Decal_Sakhal_Snow_06_noLC",
             "pos": [
-                6929.29,
-                402.208,
-                11392.483
+                6994.777,
+                384.635,
+                11382.642
             ],
             "ypr": [
-                295.3,
-                7.18,
+                200.4,
+                6.03,
                 0.0
             ],
             "scale": 0.7,
@@ -81,15 +81,31 @@
             "customString": ""
         },
         {
-            "name": "StaticObj_Decal_Sakhal_Snow_06",
+            "name": "StaticObj_Decal_Sakhal_Snow_05",
             "pos": [
-                6871.912,
-                405.137,
-                11411.633
+                6894.189,
+                405.932,
+                11413.289
             ],
             "ypr": [
-                87.0,
-                3.91,
+                132.6,
+                0.0,
+                0.0
+            ],
+            "scale": 0.7,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decal_Sakhal_Snow_06",
+            "pos": [
+                6900.33,
+                405.929,
+                11410.323
+            ],
+            "ypr": [
+                269.5,
+                0.0,
                 0.0
             ],
             "scale": 0.7,
@@ -113,15 +129,15 @@
             "customString": ""
         },
         {
-            "name": "StaticObj_Decal_Sakhal_Snow_05_noLC",
+            "name": "StaticObj_Decal_Sakhal_Snow_06",
             "pos": [
-                6893.079,
-                405.956,
-                11417.12
+                6902.295,
+                405.875,
+                11419.899
             ],
             "ypr": [
-                20.3,
-                0.63,
+                248.0,
+                1.02,
                 0.0
             ],
             "scale": 0.7,
