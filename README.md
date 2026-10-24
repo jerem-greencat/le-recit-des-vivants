@@ -262,30 +262,32 @@ listés dans un `mappings.txt` : les autres mappings ne bougent pas.
 ### Neige au sol (ambiance `hiver`)
 
 La neige au sol est faite de plaques de neige de Sakhal (`StaticObj_Decal_Sakhal_Snow_*`, visibles même
-sans le DLC), générées par ville dans `custom/neige_<ville>.json` :
+sans le DLC), générées par localité dans `custom/neige_<localité>.json` :
 
 ```sh
-python3 tools/neige/generate.py zelenogorsk
+python3 tools/neige/generate.py              # toutes les localités (une dizaine de minutes)
+python3 tools/neige/generate.py zelenogorsk  # une seule
+python3 tools/neige/generate.py --liste      # localités détectées
 ```
 
 Le script lit le relief et les objets de la carte dans le jeu installé sur le PC (cache dans
-`tools/neige/cache/`, non versionné), puis couvre la ville en évitant les bâtiments et les rues goudronnées.
-Les plaques sont inclinées selon la pente, puis abaissées pour ne flotter nulle part (quelques
-centimètres au plus) ; celles qui s'enfonceraient de plus de 30 cm ailleurs sont écartées. Chaque plaque est un objet synchronisé par le serveur : à
-3 572 plaques pour Zelenogorsk, les joueurs avaient l'icône de désynchronisation en permanence. Le script
-ne pose donc que des grandes plaques. Il écrit aussi une image de contrôle
-`tools/neige/cache/neige_<ville>.png` (blanc : neige, rouge : bâtiments, brun : rues). Les réglages
-(densité, pente maximale…) sont en tête du script. Pour une nouvelle ville, l'ajouter à `TOWNS` dans le
-script et son fichier à `meteo/hiver/mappings.txt`.
+`tools/neige/cache/`, non versionné). Il détecte les localités (zones bâties d'au moins 40 bâtiments,
+nommées d'après les lieux de la config du jeu) et les couvre en évitant les bâtiments, les rues goudronnées
+et les gros objets de nos mappings. Les plaques sont inclinées selon la pente, puis abaissées pour ne
+flotter nulle part (quelques centimètres au plus) ; celles qui s'enfonceraient de plus de 30 cm ailleurs
+sont écartées. Sans argument, il réécrit aussi `meteo/hiver/mappings.txt`.
 
-| Ville | Plaques | Surface libre couverte |
-| --- | --- | --- |
-| Zelenogorsk | 580 | 17 % |
-| Chernogorsk | 600 (plafond) | 3 % |
-| Elektrozavodsk | 500 (plafond) | 6 % |
+Chaque plaque est un objet synchronisé avec les joueurs proches. Avec 3 572 plaques à Zelenogorsk, les
+joueurs avaient l'icône de désynchronisation en permanence ; avec 1 680 réparties sur trois villes, aucun
+souci : c'est le nombre de plaques autour du joueur qui compte. Le script ne pose donc que des grandes
+plaques, 600 au plus par localité (au-delà, il en retire au hasard). Il écrit une image de contrôle par
+localité dans `tools/neige/cache/neige_<localité>.png` (blanc : neige, rouge : bâtiments, brun : rues).
+Les réglages (seuil de bâtiments, plafond, pente maximale…) sont en tête du script.
 
-Chernogorsk et Elektrozavodsk servent de test : la désynchronisation dépend-elle du nombre de plaques
-autour du joueur ou du total sur la carte ?
+État actuel : 48 localités, 14 621 plaques, au plus environ 1 200 dans un rayon de 1 km (Berezino,
+aérodrome de Vybor). Les grandes villes sont plafonnées, donc plus clairsemées (Chernogorsk : 3 % de
+la surface libre couverte) ; les villages sont couverts de 10 à 30 %. Les routes hors des localités
+n'ont pas de neige : elles demanderaient trop de plaques.
 
 Les valeurs `lightingConfig` 2 et 3 chargent l'éclairage de Sakhal et de Nasdara. Elles ne sont pas
 utilisées : ces fichiers font partie des DLC, et les joueurs qui ne les ont pas risquent de ne pas les avoir.

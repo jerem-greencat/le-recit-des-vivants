@@ -1,17 +1,25 @@
-"""Génère un mapping de plaques de neige (Sakhal) pour une ville de Chernarus.
+"""Génère des mappings de plaques de neige (Sakhal) pour les localités de Chernarus.
 
-Usage : python3 tools/neige/generate.py zelenogorsk
-Écrit custom/neige_<ville>.json. Le mapping n'est chargé qu'en ambiance hiver (meteo/hiver/mappings.txt).
+Usage :
+  python3 tools/neige/generate.py              toutes les localités d'au moins MIN_BUILDINGS bâtiments,
+                                               et réécrit meteo/hiver/mappings.txt
+  python3 tools/neige/generate.py zelenogorsk  une seule localité (nom en minuscules, voir --liste)
+  python3 tools/neige/generate.py --liste      liste les localités détectées
+Écrit custom/neige_<localité>.json. Ces mappings ne sont chargés qu'en ambiance hiver.
+
+Les localités sont détectées automatiquement : zones d'un seul tenant à moins de TOWN_RADIUS m d'un
+bâtiment d'au moins HOUSE_AREA m². Leur nom vient des lieux nommés de la config du jeu.
 
 Règles :
-- la neige couvre la ville (zone à moins de TOWN_RADIUS m d'un bâtiment, d'un seul tenant autour du centre) ;
+- la neige couvre la localité ;
 - pas de neige dans les bâtiments de la carte ni dans les gros objets de nos mappings ;
 - en ville, les rues goudronnées restent dégagées (hors ville, les routes seront enneigées) ;
 - les plaques sont plates : on les incline dans le sens de la pente (lacet tourné vers l'amont, tangage
   positif = avant relevé, comme les postes de garde posés en pente dans zeleno_enceinte.json), et on ne
   les pose que là où le terrain est assez régulier sous la plaque ;
-- chaque plaque est un objet synchronisé par le serveur : trop de plaques provoquent de la désynchronisation
-  (3 572 à Zelenogorsk, c'était trop), d'où les grandes plaques seules (pas de bandes étroites).
+- chaque plaque est un objet synchronisé avec les joueurs proches : trop de plaques au même endroit
+  provoquent de la désynchronisation (3 572 à Zelenogorsk, c'était trop ; 1 680 réparties sur trois villes,
+  aucun souci), d'où les grandes plaques seules et un plafond par localité.
 """
 import glob
 import json
@@ -28,13 +36,10 @@ import gamedata  # noqa: E402
 
 MISSION = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "dayzxb_missions", "dayzOffline.chernarusplus")
 
-TOWNS = {
-	# nom : (x, z) d'un point au cœur de la ville, demi-largeur de la zone étudiée, nombre maximal de plaques
-	# (au-delà, on en retire au hasard : la neige est plus clairsemée mais reste répartie sur toute la ville)
-	"zelenogorsk": ((2730.0, 5373.0), 900, None),
-	"chernogorsk": ((6935.0, 2844.0), 1500, 600),
-	"elektrozavodsk": ((10279.0, 2180.0), 900, 500),
-}
+MIN_BUILDINGS = 40        # bâtiments (d'au moins HOUSE_AREA m²) pour qu'une localité ait de la neige
+MAX_PER_TOWN = 600        # plaques au plus par localité ; au-delà, on en retire au hasard (neige plus
+						  # clairsemée mais répartie sur toute la localité)
+NAME_DISTANCE = 1000      # distance maximale (m) au lieu nommé de la config du jeu
 
 TOWN_RADIUS = 40          # m autour des bâtiments qui comptent comme « ville »
 MAX_STREET = 0.03         # part maximale d'une plaque posée sur une rue goudronnée
@@ -137,6 +142,78 @@ def own_mapping_objects():
 	return out
 
 
+def houses(objects):
+	"""Positions (x, z) des bâtiments d'au moins HOUSE_AREA m²."""
+	out = []
+	for path, xa, za, pos in objects:
+		if is_building(path):
+			box = gamedata.model_bbox(path)
+			if box and (box[1][0] - box[0][0]) * (box[1][2] - box[0][2]) >= HOUSE_AREA:
+				out.append((pos[0], pos[2]))
+	return out
+
+
+def localities():
+	"""Localités de la carte, de la plus grande à la plus petite : dicts nom, graine, boîte, bâtiments."""
+	step, size = 5, 15360
+	n = size // step
+	near = bytearray(n * n)
+	count = Counter()
+	r = TOWN_RADIUS // step + 1
+	disk = [(di, dj) for dj in range(-r, r + 1) for di in range(-r, r + 1) if math.hypot(di * step, dj * step) <= TOWN_RADIUS]
+	all_houses = houses(gamedata.map_objects())
+	for x, z in all_houses:
+		ci, cj = int(x / step), int(z / step)
+		count[cj * n + ci] += 1
+		for di, dj in disk:
+			i, j = ci + di, cj + dj
+			if 0 <= i < n and 0 <= j < n:
+				near[j * n + i] = 1
+	seen = bytearray(n * n)
+	found = []
+	for start in range(n * n):
+		if not near[start] or seen[start]:
+			continue
+		seen[start] = 1
+		stack, nb, box, seed = [start], 0, [n, n, 0, 0], None
+		while stack:
+			k = stack.pop()
+			i, j = k % n, k // n
+			if count[k]:
+				nb += count[k]
+				seed = seed or ((i + 0.5) * step, (j + 0.5) * step)
+			box = [min(box[0], i), min(box[1], j), max(box[2], i), max(box[3], j)]
+			for kk in (k + 1, k - 1, k + n, k - n):
+				if 0 <= kk < n * n and near[kk] and not seen[kk]:
+					seen[kk] = 1
+					stack.append(kk)
+		found.append({"buildings": nb, "seed": seed,
+					  "box": (box[0] * step, box[1] * step, (box[2] + 1) * step, (box[3] + 1) * step)})
+	found.sort(key=lambda t: -t["buildings"])
+
+	# noms : lieu habité le plus proche du centre de la boîte et pas encore pris, sinon autre lieu nommé
+	# (aérodrome, base, ruine…), sinon le plus proche avec un suffixe (berezino_2)
+	config = gamedata._rap_classes(gamedata.pbo_read("dz\\worlds\\chernarusplus\\world\\config.bin"))
+	places = [(k.rsplit("/", 1)[-1], v) for k, v in config.items() if "/names/" in k.lower() and "position" in v]
+	towns = [(k.split("_", 1)[1].lower(), v["position"]) for k, v in places
+			 if k.lower().startswith("settlement_") and v.get("type") in ("Capital", "City", "Village")]
+	others = [(k.split("_", 1)[1].lower(), v["position"]) for k, v in places
+			  if v.get("type") not in ("ViewPoint", "Hill") and "_" in k]
+	used = Counter()
+	for t in found:
+		cx, cz = (t["box"][0] + t["box"][2]) / 2, (t["box"][1] + t["box"][3]) / 2
+		dist = lambda p: math.hypot(p[1][0] - cx, p[1][1] - cz)
+		name = None
+		for pool in ([p for p in towns if not used[p[0]]], [p for p in others if not used[p[0]]], towns):
+			best = min(pool, key=dist, default=None)
+			if best and (dist(best) <= NAME_DISTANCE or pool is towns):
+				name = best[0]
+				break
+		used[name] += 1
+		t["name"] = name if used[name] == 1 else "%s_%d" % (name, used[name])
+	return found
+
+
 def town_mask(grid, buildings, seed):
 	"""Zone à moins de TOWN_RADIUS m d'un bâtiment d'au moins HOUSE_AREA m², d'un seul tenant (grille de 5 m) autour du centre."""
 	step = 5
@@ -167,20 +244,15 @@ def town_mask(grid, buildings, seed):
 				grid.cells[j * grid.n + i] = OUTSIDE
 
 
-def generate(town):
-	(cx, cz), half, budget = TOWNS[town]
+def generate(loc, budget=MAX_PER_TOWN):
+	town = loc["name"]
+	x0, z0, x1, z1 = loc["box"]
 	rnd = random.Random(town)
-	grid = Grid(cx, cz, half)
+	grid = Grid((x0 + x1) / 2, (z0 + z1) / 2, int(max(x1 - x0, z1 - z0) / 2) + 60)
 
 	objects = [o for o in gamedata.map_objects()
 			   if grid.x0 - 30 <= o[3][0] <= grid.x0 + grid.n + 30 and grid.z0 - 30 <= o[3][2] <= grid.z0 + grid.n + 30]
-	buildings = [o for o in objects if is_building(o[0])]
-	houses = []
-	for o in buildings:
-		box = gamedata.model_bbox(o[0])
-		if box and (box[1][0] - box[0][0]) * (box[1][2] - box[0][2]) >= HOUSE_AREA:
-			houses.append((o[3][0], o[3][2]))
-	town_mask(grid, houses, (cx, cz))
+	town_mask(grid, houses(objects), loc["seed"])
 
 	def block(path, pos, xa, za, value, margin):
 		box = gamedata.model_bbox(path)
@@ -319,10 +391,9 @@ def generate(town):
 	out = os.path.join(MISSION, "custom", "neige_%s.json" % town)
 	with open(out, "w") as f:
 		f.write(json.dumps({"Objects": placed}, indent=4) + "\n")
-	print("%s : %d plaques, %d %% de la surface libre de la ville couverte -> %s"
-		  % (town, len(placed), 100 * done // max(free, 1), os.path.relpath(out)))
-	print("plaques refusées :", dict(rejects))
+	print("%-20s %4d plaques, %2d %% de la surface libre couverte" % (town, len(placed), 100 * done // max(free, 1)))
 	write_image(grid, covered, os.path.join(gamedata.CACHE, "neige_%s.png" % town))
+	return len(placed)
 
 
 def write_image(grid, covered, path):
@@ -343,6 +414,29 @@ def write_image(grid, covered, path):
 
 
 if __name__ == "__main__":
-	if len(sys.argv) != 2 or sys.argv[1] not in TOWNS:
-		sys.exit("Usage : %s <ville>  (disponibles : %s)" % (sys.argv[0], ", ".join(TOWNS)))
-	generate(sys.argv[1])
+	locs = localities()
+	args = sys.argv[1:]
+	if args == ["--liste"]:
+		for t in locs:
+			if t["buildings"] >= MIN_BUILDINGS:
+				print("%-20s %4d bâtiments" % (t["name"], t["buildings"]))
+		sys.exit()
+	if args:
+		chosen = [t for t in locs if t["name"] in args]
+		if len(chosen) != len(args):
+			sys.exit("Localité inconnue ; voir %s --liste" % sys.argv[0])
+	else:
+		chosen = [t for t in locs if t["buildings"] >= MIN_BUILDINGS]
+	total = 0
+	for t in chosen:
+		t["plates"] = generate(t)
+		total += t["plates"]
+		if not t["plates"]:
+			os.remove(os.path.join(MISSION, "custom", "neige_%s.json" % t["name"]))
+	print("total : %d plaques" % total)
+	if not args:
+		with open(os.path.join(MISSION, "meteo", "hiver", "mappings.txt"), "w") as f:
+			f.write("# Mappings chargés seulement avec cette ambiance (générés par tools/neige/generate.py)\n")
+			for t in sorted(chosen, key=lambda t: t["name"]):
+				if t["plates"]:
+					f.write("./custom/neige_%s.json\n" % t["name"])
