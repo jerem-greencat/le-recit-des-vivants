@@ -19,12 +19,17 @@ existante n'est mise à jour que si elle était encore identique à la 1.29. Seu
 pas d'`init.c`, de `env/fox_territories.xml` ni de `mapgroupdirt.xml`. Pour une prochaine mise à jour,
 refaire la même fusion avec `DZ_130` comme base et le nouveau tag comme cible.
 
+La 1.30 apporte les motos (`Motorbike_01`, `Motorbike_02`) : événement `VehicleMotorbike` dans `db/events.xml`
+(97 positions dans `cfgeventspawns.xml`), classe `MotorbikeScript` déclarée dans `cfgeconomycore.xml`.
+Le crash du père Noël (`ZmbM_Santa`) a été désactivé (`active` 0) au même moment.
+
 ## Structure
 
 | Dossier / fichier | Contenu |
 | --- | --- |
 | `dayzxb_missions/dayzOffline.chernarusplus/` | Mission : économie, loot, gameplay, mappings |
-| `dayzxb/config/` | Profil serveur et logs (`.RPT`, `.ADM`, `script_*.log`) |
+| `dayzxb/config/` | Profil serveur (`Users/Server/DayZ.cfg`, `Users/Survivor/*.DayZProfile`) et logs (`.RPT`, `.ADM`, `script_*.log`) |
+| `tools/` | Scripts locaux : changement d'ambiance météo et génération des mappings d'ambiance (voir Outils) |
 | `restart.log` | Log des démarrages/arrêts écrit par Nitrado |
 
 Les logs (`.RPT`, `.ADM`, `.log`, `restart.log`, `stop`) sont ignorés par git : on peut les
@@ -45,10 +50,18 @@ télécharger en local pour diagnostiquer, ils ne sont pas versionnés.
 | `cfgeventspawns.xml` | Positions de spawn des événements |
 | `cfgweather.xml` | Météo (ambiance active, copiée depuis `meteo/`) |
 | `meteo/<ambiance>/` | Ambiances météo : météo, éclairage, températures, équipement de départ, message (voir la section Météo) |
+| `cfgrandompresets.xml` | Presets aléatoires de cargo et d'équipement (zombies, sacs, caisses) |
+| `cfgignorelist.xml` | Objets supprimés au démarrage |
+| `cfgeconomycore.xml` | Classes gérées par l'économie (dont les motos) |
+| `cfgenvironment.xml` | Déclaration des territoires (`env/`) |
+| `cfgeventgroups.xml` | Groupes d'objets des événements (trains, épaves…) |
+| `cfglimitsdefinition.xml`, `cfglimitsdefinitionuser.xml` | Catégories, usages, valeurs et tags utilisables dans `types.xml` |
+| `cfgundergroundtriggers.json` | Zones souterraines (bunker) |
 | `cfgEffectArea.json` | Zones contaminées |
 | `env/*.xml` | Territoires des animaux et des zombies |
 | `mapgroup*.xml`, `mapcluster*.xml` | Positions de loot des bâtiments (rarement modifiés) |
 | `custom/*.json` | Mappings DayZ Editor (Object Spawner) et presets d'équipement de départ |
+| `custom/neige_*.json`, `tempete_arbres.json`, `canicule_brulis.json` | Mappings d'ambiance générés par les scripts de `tools/` (ne pas modifier à la main) |
 | `custom/spawngear_survivant.json` | Équipement de départ des joueurs (`PlayerData.spawnGearPresetFiles`), copié depuis `meteo/` |
 | `areaflags.map` | Carte des zones d'usage/valeur (binaire, ne pas modifier) |
 
@@ -75,9 +88,13 @@ Chaque mapping est un JSON dans `custom/`, déclaré dans `objectSpawnersArr` de
   "./custom/zeleno_city_hall.json",
   "./custom/zeleno_builder.json",
   "./custom/zeleno_gunshop.json",
-  "./custom/shop_admin.json"
+  "./custom/shop_admin.json",
+  "./custom/vybor_shop_bm.json"
 ],
 ```
+
+S'y ajoutent les mappings de l'ambiance météo active, ajoutés et retirés par `tools/meteo.sh` : ne pas
+les gérer à la main (voir la section Météo).
 
 | Fichier | Description |
 | --- | --- |
@@ -91,6 +108,7 @@ Chaque mapping est un JSON dans `custom/`, déclaré dans `objectSpawnersArr` de
 | `custom/zeleno_builder.json` | Zone RP du constructeur à Zelenogorsk : matériaux (rondins, tôles, fil, corde, filets de camouflage) et outils |
 | `custom/zeleno_gunshop.json` | Armurerie de Zelenogorsk : boîtes de munitions de tous calibres et tableaux d'affichage |
 | `custom/shop_admin.json` | Shop admin à l'aérodrome de Krasnostav : stock d'objets (matériaux de construction, conteneurs, munitions, explosifs…) |
+| `custom/vybor_shop_bm.json` | Black market à l'est de Vybor : conteneurs et caisses, objets du loot restreint (armes lourdes, explosifs, munitions 40 mm et RPG, casques, ghillies, vision nocturne), cigarettes, cannabis, matériel |
 
 Les objets ramassables (armes, `UndergroundStash`…) d'un mapping sont recréés à chaque
 redémarrage, même s'ils ont été pris : à éviter hors test.
@@ -156,7 +174,7 @@ restent désactivés.
 ## Loot restreint
 
 Certains objets ne se trouvent plus dans le loot de la map (bâtiments, zombies, crashs, événements) :
-on ne peut les obtenir que via les mappings (shop admin, armurerie, commissariat, futur black market).
+on ne peut les obtenir que via les mappings (shop admin, armurerie, commissariat, black market de Vybor).
 
 | Catégorie | Objets retirés | Conservés |
 | --- | --- | --- |
@@ -335,6 +353,22 @@ Ce que Chernarus permet (vérifié dans les scripts du jeu, `ChernarusPlus.c`) :
 
 Les ambiances `hiver`, `canicule` et `tempete` ont `reset="1"` : la météo sauvegardée est ignorée et
 l'ambiance s'applique dès le redémarrage.
+
+## Outils
+
+| Script | Rôle |
+| --- | --- |
+| `tools/meteo.sh <ambiance>` | Active une ambiance météo (voir Météo) |
+| `tools/neige/generate.py` | Neige au sol de l'ambiance `hiver` → `custom/neige_*.json` |
+| `tools/tempete/generate.py` | Arbres tombés de l'ambiance `tempete` → `custom/tempete_arbres.json` |
+| `tools/canicule/generate.py` | Traces de brûlé de l'ambiance `canicule` → `custom/canicule_brulis.json` |
+| `tools/neige/gamedata.py` | Bibliothèque commune : lecture des pbo, `config.bin`, modèles et terrain du jeu |
+
+Prérequis : `bash` et Python 3 (bibliothèque standard uniquement, rien à installer). Les générateurs ont
+besoin de DayZ installé sur le PC via Steam : par défaut
+`~/snap/steam/common/.local/share/Steam/steamapps/common/DayZ`, sinon indiquer le dossier dans la variable
+`DAYZ_DIR`. Les données extraites du jeu sont mises en cache dans `tools/neige/cache/` (non versionné,
+à ne pas publier) ; supprimer ce dossier après une mise à jour du jeu.
 
 ## Déploiement (FTP)
 
