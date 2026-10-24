@@ -43,12 +43,13 @@ télécharger en local pour diagnostiquer, ils ne sont pas versionnés.
 | `cfgspawnabletypes.xml` | Attachements et cargo des objets qui spawnent |
 | `cfgplayerspawnpoints.xml` | Points d'apparition des joueurs |
 | `cfgeventspawns.xml` | Positions de spawn des événements |
-| `cfgweather.xml` | Météo |
+| `cfgweather.xml` | Météo (ambiance active, copiée depuis `meteo/`) |
+| `meteo/<ambiance>/` | Ambiances météo : météo, éclairage, températures, équipement de départ, message (voir la section Météo) |
 | `cfgEffectArea.json` | Zones contaminées |
 | `env/*.xml` | Territoires des animaux et des zombies |
 | `mapgroup*.xml`, `mapcluster*.xml` | Positions de loot des bâtiments (rarement modifiés) |
 | `custom/*.json` | Mappings DayZ Editor (Object Spawner) et presets d'équipement de départ |
-| `custom/spawngear_survivant.json` | Équipement de départ des joueurs (`PlayerData.spawnGearPresetFiles`) |
+| `custom/spawngear_survivant.json` | Équipement de départ des joueurs (`PlayerData.spawnGearPresetFiles`), copié depuis `meteo/` |
 | `areaflags.map` | Carte des zones d'usage/valeur (binaire, ne pas modifier) |
 
 ### Pas d'`init.c`
@@ -214,6 +215,126 @@ valeur d'origine est en commentaire, et les `usage` ajoutés sont marqués.
 Laissés de côté : la radio (sa pile `BatteryD` n'existe pas dans le jeu) et les cassettes. Aussi la
 matraque électrique, l'aiguillon électrique et le défibrillateur : `cfgignorelist.xml` les supprime
 au démarrage.
+
+## Météo
+
+Quatre ambiances sont prêtes dans `meteo/` :
+
+| Ambiance | Ciel | Pluie | Vent | Températures (min / max) | Éclairage |
+| --- | --- | --- | --- | --- | --- |
+| `default` | Météo vanilla (fichier désactivé, `enable="0"`) | Normale | Normal | Vanilla, selon le mois | Vanilla (nuits claires) |
+| `hiver` | Gris (couverture 0.4 à 0.9), brume | Aucune | 2 m/s minimum | -10 / -3 °C toute l'année | Sakhal |
+| `canicule` | Dégagé (couverture 0 à 0.25), pas de brume | Aucune | Normal | 22 / 38 °C toute l'année | Nasdara |
+| `tempete` | Couvert (0.8 à 1.0) | Continue (0.2 minimum), forte, orages | 10 m/s minimum | Vanilla, selon le mois | Nuits noires |
+
+Équipement de départ : les objets sont les mêmes partout (radio et pile, carte, bouteille d'eau pleine,
+ouvre-boîte, confiture, spaghettis, 6 chiffons, boîte de clous), ainsi que la sacoche. Seuls les
+vêtements changent :
+
+| Ambiance | Haut | Bas | Chaussures | En plus |
+| --- | --- | --- | --- | --- |
+| `default` | Pull | Pantalon de toile | Baskets | |
+| `hiver` | Doudoune | Jean | Chaussures de travail | Bonnet, gants en laine |
+| `canicule` | T-shirt | Short en jean | Baskets | Casquette |
+| `tempete` | Imperméable | Pantalon de toile | Bottes en caoutchouc | |
+
+Chaque dossier `meteo/<ambiance>/` contient :
+
+| Fichier | Rôle | Remplace |
+| --- | --- | --- |
+| `cfgweather.xml` | Météo | `cfgweather.xml` |
+| `gameplay.json` | Éclairage (`lightingConfig` : 0 vanilla, 1 nuits noires, 2 Sakhal, 3 Nasdara) et températures | Ces trois valeurs dans `cfggameplay.json` |
+| `spawngear_survivant.json` | Équipement de départ | `custom/spawngear_survivant.json` |
+| `message.txt` | Message affiché 1 min après la connexion (vide : pas de message) | Le bloc « AMBIANCE METEO » de `db/messages.xml` |
+| `mappings.txt` (facultatif) | Mappings chargés seulement avec cette ambiance (la neige pour `hiver`) | Ajoutés à `objectSpawnersArr` de `cfggameplay.json` |
+
+Pour changer d'ambiance, en local :
+
+```sh
+tools/meteo.sh hiver   # ou default, canicule, tempete
+```
+
+Le script met à jour les quatre fichiers de la colonne « Remplace ». Il reste à les envoyer sur le FTP
+et à redémarrer. Dans `db/messages.xml`, il ne touche qu'au bloc entre les marqueurs `AMBIANCE METEO` :
+les autres messages restent en place. De même, dans `objectSpawnersArr`, il ne retire que les mappings
+listés dans un `mappings.txt` : les autres mappings ne bougent pas.
+
+### Neige au sol (ambiance `hiver`)
+
+La neige au sol est faite de plaques de neige de Sakhal (`StaticObj_Decal_Sakhal_Snow_*`, visibles même
+sans le DLC), générées par localité dans `custom/neige_<localité>.json` :
+
+```sh
+python3 tools/neige/generate.py              # toutes les localités (une dizaine de minutes)
+python3 tools/neige/generate.py zelenogorsk  # une seule
+python3 tools/neige/generate.py --liste      # localités détectées
+```
+
+Le script lit le relief et les objets de la carte dans le jeu installé sur le PC (cache dans
+`tools/neige/cache/`, non versionné). Il détecte les localités (zones bâties d'au moins 40 bâtiments,
+nommées d'après les lieux de la config du jeu) et les couvre en évitant les bâtiments et les gros objets
+de nos mappings. Les rues sont enneigées comme le reste (`CLEAR_STREETS = True` dans le script pour les
+dégager). Les plaques sont inclinées selon la pente, puis abaissées pour ne
+flotter nulle part (quelques centimètres au plus) ; celles qui s'enfonceraient de plus de 30 cm ailleurs
+sont écartées. Sans argument, il réécrit aussi `meteo/hiver/mappings.txt`.
+
+Chaque plaque est un objet synchronisé avec les joueurs proches. Avec 3 572 plaques à Zelenogorsk, les
+joueurs avaient l'icône de désynchronisation en permanence ; avec 1 680 réparties sur trois villes, aucun
+souci : c'est le nombre de plaques autour du joueur qui compte. Le script ne pose donc que des grandes
+plaques, 600 au plus par localité (au-delà, il en retire au hasard). Il écrit une image de contrôle par
+localité dans `tools/neige/cache/neige_<localité>.png` (blanc : neige, rouge : bâtiments, brun : rues dégagées).
+Les réglages (seuil de bâtiments, plafond, pente maximale…) sont en tête du script.
+
+État actuel : 48 localités, 17 265 plaques, au plus environ 1 450 dans un rayon de 1 km (Berezino, en
+trois localités voisines). Les grandes villes sont plafonnées, donc plus clairsemées (Chernogorsk : 3 % de
+la surface libre couverte) ; les villages sont couverts de 10 à 35 %. Les routes hors des localités
+n'ont pas de neige : elles demanderaient trop de plaques.
+
+### Arbres tombés (ambiance `tempete`)
+
+`custom/tempete_arbres.json`, généré par `python3 tools/tempete/generate.py` (il réutilise les données du
+jeu lues par `tools/neige/`), est chargé seulement en tempête (`meteo/tempete/mappings.txt`). Ce sont des
+hêtres couchés (`StaticObj_d_FagusSylvatica_fallen`, arbre entier de 19 m, et `_fallenb`, tronçon de 4 m),
+posés là où la carte a des arbres :
+
+- en travers des routes (goudron, gravier, terre), au moins 1,2 km entre deux coupures, sauf dans
+  l'enceinte de Zelenogorsk ; les véhicules doivent faire un détour ;
+- couchés au bord des routes, sans les couper.
+
+Les troncs suivent la pente, et leur hauteur de pose est celle des mêmes arbres placés par Bohemia sur la
+carte. Pas d'arbre sur les ponts, dans les bâtiments ni sur nos mappings. Chaque arbre porte
+`customString` `travers` ou `bord`. État actuel : 1 040 arbres, dont 82 en travers d'une route.
+
+**Objets par chemin de modèle invisibles.** L'Object Spawner accepte des chemins `.p3d` de plantes et de
+rochers (`DZ\plants…`, `DZ\rocks…`), mais il les crée en objets locaux au serveur (`createLocal`), que les
+joueurs ne voient pas : la première version des arbres tombés (épicéas, pins, bouleaux, qui n'existent
+qu'en modèle) était invisible en jeu. Il faut une classe d'objet (`StaticObj_*`, `Land_*`…). Les chemins
+`.p3d` encore présents dans nos mappings (fougères, lierre, rochers dans `zeleno_enceinte.json` et
+`PZero_SpawnTest_LordBionik.json`) sont donc probablement invisibles aussi.
+
+### Traces de brûlé (ambiance `canicule`)
+
+`custom/canicule_brulis.json`, généré par `python3 tools/canicule/generate.py`, est chargé seulement en
+canicule (`meteo/canicule/mappings.txt`) : groupes de traces de brûlé de Nasdara (une grande, quelques
+petites) en terrain dégagé autour des localités, posées comme les plaques de neige. Le lierre sec n'existe
+qu'en modèle (invisible, voir plus haut). État actuel : 718 traces.
+
+Les éclairages de Sakhal et de Nasdara (`lightingConfig` 2 et 3) viennent des DLC, mais leurs données sont
+installées chez tous les joueurs (comme les plaques de neige de Sakhal, visibles sans le DLC).
+
+Ce que Chernarus permet (vérifié dans les scripts du jeu, `ChernarusPlus.c`) :
+
+- **La météo reste pilotée par le script de Chernarus.** `cfgweather.xml` ne fait que borner les valeurs
+  (`limits`). Le script réimpose aussi le seuil de pluie (couverture 0.6), celui des éclairs (0.9) et un
+  vent maximum de 20 m/s : seul le minimum de vent est réglable.
+- **Pas de chute de neige.** Le script remet la neige à 0 à chaque changement de météo. Il faudrait un
+  `init.c`, non disponible sur console. La neige au sol passe par des mappings (voir plus haut).
+- **Pas de tempête de sable.** Elle est gérée par le script de Nasdara, qui ne tourne pas sur Chernarus.
+- **Le gel fonctionne.** Il ne dépend que de la température : avec l'ambiance `hiver`, l'eau et la
+  nourriture gèlent comme sur Sakhal, et les joueurs ont froid.
+
+Les ambiances `hiver`, `canicule` et `tempete` ont `reset="1"` : la météo sauvegardée est ignorée et
+l'ambiance s'applique dès le redémarrage.
 
 ## Déploiement (FTP)
 
