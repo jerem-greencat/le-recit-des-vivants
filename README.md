@@ -225,7 +225,7 @@ Quatre ambiances sont prêtes dans `meteo/` :
 | `default` | Météo vanilla (fichier désactivé, `enable="0"`) | Normale | Normal | Vanilla, selon le mois | Vanilla (nuits claires) |
 | `hiver` | Gris (couverture 0.4 à 0.9), brume | Aucune | 2 m/s minimum | -10 / -3 °C toute l'année | Sakhal |
 | `canicule` | Dégagé (couverture 0 à 0.25), pas de brume | Aucune | Normal | 22 / 38 °C toute l'année | Nasdara |
-| `tempete` | Couvert (0.8 à 1.0) | Forte, orages | 10 m/s minimum | Vanilla, selon le mois | Nuits noires |
+| `tempete` | Couvert (0.8 à 1.0) | Continue (0.2 minimum), forte, orages | 10 m/s minimum | Vanilla, selon le mois | Nuits noires |
 
 Équipement de départ : les objets sont les mêmes partout (radio et pile, carte, bouteille d'eau pleine,
 ouvre-boîte, confiture, spaghettis, 6 chiffons, boîte de clous), ainsi que la sacoche. Seuls les

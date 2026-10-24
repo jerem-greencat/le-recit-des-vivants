@@ -20,8 +20,11 @@
     </fog>
     <rain>
         <!-- La pluie démarre dès que la couverture dépasse 0.6 (seuil imposé par le jeu). -->
+        <!-- Le script de Chernarus retire une nouvelle intensité toutes les 1 à 2 minutes, et une fois sur
+             quatre (couverture sous 0.9) il coupe la pluie : elle s'arrêtait et repartait sans cesse.
+             Le minimum à 0.2 garde une pluie continue, dont seule l'intensité varie. -->
         <current actual="0.8" time="60" duration="120" />
-        <limits min="0.0" max="1.0" />
+        <limits min="0.2" max="1.0" />
         <timelimits min="60" max="120" />
         <changelimits min="0.0" max="1.0" />
         <thresholds min="0.6" max="1.0" end="60" />
