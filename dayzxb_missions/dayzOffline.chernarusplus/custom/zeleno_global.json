@@ -1,0 +1,268 @@
+{
+	"Objects": [
+		{
+			"name": "Land_Wreck_sed02_aban1_red",
+			"pos": [2715.49462890625, 205.2100067138672, 5300.65673828125],
+			"ypr": [-18.55037498474121, 0.0, -2.9999990463256838],
+			"scale": 0.9999996423721314,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "FireplaceIndoor",
+			"pos": [2715.91064453125, 204.8126983642578, 5298.82373046875],
+			"ypr": [35.44908905029297, 0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Furniture_fireplace_grill",
+			"pos": [2715.59814453125, 205.1488800048828, 5298.77880859375],
+			"ypr": [71.44995880126953, 0.0, -0.0],
+			"scale": 0.9999995827674866,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Furniture_fireplace_grill",
+			"pos": [2715.99755859375, 205.1488800048828, 5298.91357421875],
+			"ypr": [71.44995880126953, -0.0, -0.0],
+			"scale": 1.0,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Furniture_fireplace_grill",
+			"pos": [2716.39892578125, 205.1488800048828, 5299.04052734375],
+			"ypr": [71.44995880126953, 0.0, -0.0],
+			"scale": 0.9999995827674866,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2751.14892578125, 195.98806762695313, 5204.2099609375],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.10000000149011612,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Garbage_Pile4",
+			"pos": [2751.529541015625, 200.96597290039063, 5203.39453125],
+			"ypr": [44.999977111816409, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Garbage_Pile5",
+			"pos": [2701.9130859375, 204.7843017578125, 5274.98046875],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2701.447509765625, 200.38905334472657, 5276.0068359375],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999999403953552,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Garbage_Pile3",
+			"pos": [2578.224609375, 192.71966552734376, 5235.77294921875],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Garbage_Pile3",
+			"pos": [2576.951904296875, 192.49903869628907, 5236.515625],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Garbage_Pile3",
+			"pos": [2579.00439453125, 192.67510986328126, 5237.232421875],
+			"ypr": [-140.0, 0.0, -0.0],
+			"scale": 0.9999995231628418,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Misc_TirePile_Burning_DE",
+			"pos": [2578.260498046875, 192.1026153564453, 5236.73876953125],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Garbage_Pile5",
+			"pos": [2379.852783203125, 190.6589813232422, 5278.017578125],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2379.103759765625, 187.9515380859375, 5277.990234375],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999998658895493,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Land_Wreck_Tractor",
+			"pos": [2207.417724609375, 190.48594665527345, 5318.6259765625],
+			"ypr": [35.99946594238281, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2207.255859375, 184.35443115234376, 5318.33740234375],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999997913837433,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Land_Dead_MassGrave",
+			"pos": [2418.43408203125, 190.75205993652345, 5175.72998046875],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2417.973876953125, 186.18731689453126, 5175.56103515625],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999997168779373,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2506.4462890625, 189.4282684326172, 5022.8251953125],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999996423721314,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2603.322021484375, 193.4551239013672, 5102.4267578125],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999995678663254,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2605.71435546875, 193.4837188720703, 5100.73291015625],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999995678663254,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Wreck_Decal_Big_NoLC",
+			"pos": [2660.686767578125, 195.4425811767578, 5094.1240234375],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Land_Wreck_hb01_aban2_police",
+			"pos": [2660.390625, 196.06419372558595, 5089.64599609375],
+			"ypr": [162.0000762939453, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Land_Wreck_hb02_aban1_black",
+			"pos": [2658.70458984375, 195.9356231689453, 5092.01220703125],
+			"ypr": [-107.99989318847656, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "ZmbM_PolicemanSpecForce",
+			"pos": [2660.16064453125, 194.86509704589845, 5089.5791015625],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Land_Wreck_Uaz_DE",
+			"pos": [2663.18408203125, 196.09381103515626, 5089.7099609375],
+			"ypr": [125.99993133544922, 0.0, -0.0],
+			"scale": 0.9999998211860657,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Garbage_Container2_Open",
+			"pos": [2661.3623046875, 196.14559936523438, 5091.80615234375],
+			"ypr": [-72.0000228881836, 0.0, -0.0],
+			"scale": 0.9999998807907105,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2659.711669921875, 191.47999572753907, 5090.560546875],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999994933605194,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Misc_TirePile_Burning_DE",
+			"pos": [2843.384765625, 204.81935119628907, 5271.57275390625],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.9999997615814209,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2793.189208984375, 202.11659240722657, 5385.013671875],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999999403953552,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "StaticObj_Garbage_Pile4",
+			"pos": [2793.62646484375, 207.12948608398438, 5384.38330078125],
+			"ypr": [44.999977111816409, 0.0, -0.0],
+			"scale": 0.9999995827674866,
+			"enableCEPersistency": 0,
+			"customString": ""
+		},
+		{
+			"name": "Bonfire",
+			"pos": [2885.759033203125, 209.9871368408203, 5455.578125],
+			"ypr": [0.0, 0.0, -0.0],
+			"scale": 0.09999997168779373,
+			"enableCEPersistency": 0,
+			"customString": ""
+		}
+	]
+}
