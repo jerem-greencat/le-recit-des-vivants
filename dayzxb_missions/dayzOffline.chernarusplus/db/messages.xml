@@ -44,11 +44,4 @@ Example messages:
     </message>
     -->
 
-	<!-- AMBIANCE METEO (tools/meteo.sh) -->
-	<message>
-		<delay>1</delay>
-		<onconnect>1</onconnect>
-		<text>Une canicule écrase Chernarus. Buvez souvent, restez à l'ombre et évitez les vêtements épais.</text>
-	</message>
-	<!-- FIN AMBIANCE METEO -->
 </messages>
