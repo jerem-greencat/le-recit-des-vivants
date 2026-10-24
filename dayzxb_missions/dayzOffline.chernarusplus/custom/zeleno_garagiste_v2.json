@@ -2804,7 +2804,7 @@
             "name": "Land_Wall_Gate_FenR_Big",
             "pos": [
                 2668.001220703125,
-                214.9834,
+                213.6619415283203,
                 5640.9365234375
             ],
             "ypr": [
@@ -2916,7 +2916,7 @@
             "name": "StaticObj_Wall_IndFnc_9",
             "pos": [
                 2653.417236328125,
-                213.4052,
+                211.74774169921875,
                 5585.98779296875
             ],
             "ypr": [
@@ -2932,7 +2932,7 @@
             "name": "Land_Wall_Gate_FenR_Big",
             "pos": [
                 2654.583984375,
-                213.4864,
+                211.95899963378906,
                 5592.3701171875
             ],
             "ypr": [
@@ -3076,7 +3076,7 @@
             "name": "StaticObj_Wall_IndFnc_Pole",
             "pos": [
                 2655.0390625,
-                213.4061,
+                211.92999267578125,
                 5594.80322265625
             ],
             "ypr": [
@@ -3172,7 +3172,7 @@
             "name": "StaticObj_Misc_TirePile_Large",
             "pos": [
                 2650.77001953125,
-                212.12603759765626,
+                211.83299255371094,
                 5600.75732421875
             ],
             "ypr": [
@@ -3267,25 +3267,9 @@
         {
             "name": "StaticObj_Platform1_Block",
             "pos": [
-                2634.6366,
+                2636.6025,
                 209.3808,
-                5591.5733
-            ],
-            "ypr": [
-                10.6,
-                0.0,
-                0.0
-            ],
-            "scale": 1.3503,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Platform1_Block",
-            "pos": [
-                2648.2011,
-                207.8686,
-                5589.0348
+                5591.2054
             ],
             "ypr": [
                 10.6,
@@ -3299,14 +3283,14 @@
         {
             "name": "StaticObj_Panels_Concrete",
             "pos": [
-                2644.4349,
-                213.1983,
-                5589.7396
+                2646.3997,
+                213.1952,
+                5589.3719
             ],
             "ypr": [
                 10.6,
                 0.0,
-                16.0
+                16.06
             ],
             "scale": 1.0314,
             "enableCEPersistency": 0,
@@ -3315,16 +3299,16 @@
         {
             "name": "StaticObj_Panels_Concrete",
             "pos": [
-                2658.4088,
-                211.5463,
-                5587.1244
+                2652.5081,
+                211.4064,
+                5588.2287
             ],
             "ypr": [
                 10.6,
                 0.0,
-                16.0
+                16.06
             ],
-            "scale": 1.1714,
+            "scale": 1.0314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3345,34 +3329,34 @@
             "customString": ""
         },
         {
-            "name": "StaticObj_Platform1_Block",
+            "name": "StaticObj_Panel_Concrete_1",
             "pos": [
-                2666.2054,
-                212.4445,
-                5641.315
+                2664.9278,
+                213.6998,
+                5641.5541
             ],
             "ypr": [
                 10.6,
                 0.0,
-                0.0
+                17.07
             ],
-            "scale": 0.4814,
+            "scale": 0.7974,
             "enableCEPersistency": 0,
             "customString": ""
         },
         {
             "name": "StaticObj_Panel_Concrete_1",
             "pos": [
-                2673.1456,
-                212.6246,
-                5640.0162
+                2667.273,
+                212.9672,
+                5641.1152
             ],
             "ypr": [
-                100.6,
-                -16.0,
-                0.0
+                10.6,
+                0.0,
+                17.07
             ],
-            "scale": 1.5719,
+            "scale": 0.7974,
             "enableCEPersistency": 0,
             "customString": ""
         }
