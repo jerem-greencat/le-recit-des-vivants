@@ -12,7 +12,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -28,7 +28,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -44,7 +44,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -60,7 +60,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999998211860657,
+            "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -76,32 +76,16 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
         {
             "name": "StaticObj_Mil_WiredFence",
             "pos": [
-                2696.243896484375,
-                213.2588348388672,
-                5592.8388671875
-            ],
-            "ypr": [
-                98.99994659423828,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999998211860657,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Mil_WiredFence",
-            "pos": [
-                2695.408203125,
-                213.08163452148438,
-                5585.3720703125
+                2695.158447265625,
+                212.64404296875,
+                5587.8193359375
             ],
             "ypr": [
                 98.99994659423828,
@@ -115,28 +99,12 @@
         {
             "name": "StaticObj_Mil_WiredFence",
             "pos": [
-                2690.595947265625,
-                212.73876953125,
-                5581.89892578125
+                2694.018798828125,
+                212.53033447265626,
+                5580.0947265625
             ],
             "ypr": [
-                -170.00001525878907,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999997615814209,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Mil_WiredFence",
-            "pos": [
-                2692.680908203125,
-                213.04360961914063,
-                5597.6201171875
-            ],
-            "ypr": [
-                10.000000953674317,
+                98.99994659423828,
                 0.0,
                 -0.0
             ],
@@ -145,43 +113,27 @@
             "customString": ""
         },
         {
-            "name": "Land_Wall_Gate_FenG_Big",
+            "name": "StaticObj_Mil_WiredFence",
             "pos": [
-                2684.461669921875,
-                212.07984924316407,
-                5583.623046875
+                2689.110107421875,
+                212.23622131347657,
+                5576.16552734375
             ],
             "ypr": [
-                -172.0,
+                -176.0,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999991655349731,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
         {
             "name": "StaticObj_Mil_WiredFence",
             "pos": [
-                2680.458984375,
-                213.0337677001953,
-                5587.62548828125
-            ],
-            "ypr": [
-                -105.0,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.9999991655349731,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Mil_WiredFence",
-            "pos": [
-                2685.01025390625,
-                212.8701934814453,
-                5598.99072265625
+                2691.472412109375,
+                212.87722778320313,
+                5593.08642578125
             ],
             "ypr": [
                 10.000001907348633,
@@ -193,18 +145,50 @@
             "customString": ""
         },
         {
-            "name": "StaticObj_Mil_WiredFence",
+            "name": "Land_Wall_Gate_FenG_Big",
             "pos": [
-                2680.010498046875,
-                213.0401611328125,
-                5595.404296875
+                2685.7158203125,
+                211.8156280517578,
+                5579.09814453125
             ],
             "ypr": [
                 -80.0,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999986886978149,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Mil_WiredFence",
+            "pos": [
+                2683.807861328125,
+                212.6290740966797,
+                5584.55029296875
+            ],
+            "ypr": [
+                -124.00000762939453,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999986886978149,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Mil_WiredFence",
+            "pos": [
+                2684.680908203125,
+                212.73239135742188,
+                5590.89111328125
+            ],
+            "ypr": [
+                -43.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -220,7 +204,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -236,7 +220,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -252,7 +236,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -268,7 +252,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -284,7 +268,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -300,7 +284,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -316,7 +300,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -332,7 +316,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -348,7 +332,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -364,7 +348,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999998807907105,
+            "scale": 0.9999998211860657,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -380,7 +364,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -396,7 +380,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999998211860657,
+            "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -412,7 +396,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999998211860657,
+            "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -428,7 +412,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999998211860657,
+            "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -444,7 +428,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -460,7 +444,7 @@
                 0.0,
                 -90.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -476,7 +460,7 @@
                 0.0,
                 -90.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -492,7 +476,7 @@
                 0.0,
                 -90.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -508,7 +492,7 @@
                 0.0,
                 -90.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -524,7 +508,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999998211860657,
+            "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -540,7 +524,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999998211860657,
+            "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -556,7 +540,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -572,7 +556,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -588,7 +572,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -604,7 +588,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999998211860657,
+            "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -620,7 +604,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -636,7 +620,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -652,7 +636,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -668,7 +652,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -684,7 +668,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -700,7 +684,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -716,7 +700,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -732,7 +716,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -748,7 +732,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -764,7 +748,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -780,7 +764,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999992251396179,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -796,7 +780,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -812,7 +796,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.999999463558197,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -844,7 +828,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999997019767761,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -860,7 +844,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999997019767761,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -876,7 +860,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -892,7 +876,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -908,7 +892,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -924,7 +908,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -956,7 +940,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -972,7 +956,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -984,11 +968,11 @@
                 5608.2109375
             ],
             "ypr": [
-                10.600004196166993,
+                10.60000228881836,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1000,11 +984,11 @@
                 5606.61181640625
             ],
             "ypr": [
-                55.60000228881836,
+                55.600006103515628,
                 -0.0,
                 -0.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1036,7 +1020,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1052,7 +1036,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1068,7 +1052,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1084,7 +1068,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1100,7 +1084,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.999999463558197,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1116,7 +1100,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1132,7 +1116,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1148,7 +1132,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1160,11 +1144,11 @@
                 5606.64697265625
             ],
             "ypr": [
-                10.600004196166993,
+                10.60000228881836,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1196,7 +1180,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999997019767761,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1212,7 +1196,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1228,7 +1212,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999998807907105,
+            "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1244,7 +1228,7 @@
                 -0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1260,7 +1244,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 1.1999995708465577,
+            "scale": 1.199999451637268,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1272,7 +1256,7 @@
                 5607.22607421875
             ],
             "ypr": [
-                10.751999855041504,
+                10.75200080871582,
                 0.0,
                 -0.0
             ],
@@ -1292,7 +1276,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1308,7 +1292,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1324,7 +1308,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1340,7 +1324,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1386,25 +1370,9 @@
             "ypr": [
                 101.9007339477539,
                 -15.999992370605469,
-                2.2204504546152749e-7
+                6.661351221737277e-7
             ],
-            "scale": 1.9999996423721314,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Panel_Concrete_1",
-            "pos": [
-                2660.598876953125,
-                210.95265197753907,
-                5601.00732421875
-            ],
-            "ypr": [
-                -2.969343423843384,
-                0.0,
-                -0.052359845489263538
-            ],
-            "scale": 1.144999623298645,
+            "scale": 1.9999995231628419,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1420,7 +1388,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1436,7 +1404,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1452,7 +1420,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1468,7 +1436,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999991655349731,
+            "scale": 0.9999991059303284,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1484,7 +1452,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999991655349731,
+            "scale": 0.9999990463256836,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1500,7 +1468,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1516,7 +1484,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1532,7 +1500,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1548,7 +1516,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.999999463558197,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1564,7 +1532,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1580,7 +1548,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.999999463558197,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1596,7 +1564,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1612,7 +1580,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1628,7 +1596,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1644,7 +1612,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1660,7 +1628,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1740,7 +1708,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1756,7 +1724,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1772,7 +1740,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1788,7 +1756,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1804,7 +1772,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999991655349731,
+            "scale": 0.9999990463256836,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1820,7 +1788,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999991655349731,
+            "scale": 0.9999990463256836,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1836,7 +1804,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999991655349731,
+            "scale": 0.9999990463256836,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1852,7 +1820,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999991655349731,
+            "scale": 0.9999990463256836,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1868,7 +1836,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1884,7 +1852,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999991655349731,
+            "scale": 0.9999990463256836,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1900,7 +1868,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999997019767761,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1916,7 +1884,7 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1932,7 +1900,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1948,7 +1916,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1964,7 +1932,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1980,7 +1948,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1992,11 +1960,11 @@
                 5605.369140625
             ],
             "ypr": [
-                10.600004196166993,
+                10.60000228881836,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2008,11 +1976,11 @@
                 5605.56494140625
             ],
             "ypr": [
-                10.600004196166993,
+                10.60000228881836,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2028,7 +1996,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2040,11 +2008,11 @@
                 5605.93212890625
             ],
             "ypr": [
-                10.600004196166993,
+                10.60000228881836,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2060,7 +2028,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2072,11 +2040,11 @@
                 5605.537109375
             ],
             "ypr": [
-                10.600004196166993,
+                10.60000228881836,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2088,11 +2056,11 @@
                 5605.60107421875
             ],
             "ypr": [
-                10.600004196166993,
+                10.60000228881836,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2104,11 +2072,11 @@
                 5605.68408203125
             ],
             "ypr": [
-                10.600004196166993,
+                10.60000228881836,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2120,11 +2088,11 @@
                 5605.76708984375
             ],
             "ypr": [
-                10.600004196166993,
+                10.60000228881836,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2136,11 +2104,11 @@
                 5605.384765625
             ],
             "ypr": [
-                10.600004196166993,
+                10.60000228881836,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2152,11 +2120,11 @@
                 5605.30908203125
             ],
             "ypr": [
-                10.600004196166993,
+                10.60000228881836,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2168,11 +2136,11 @@
                 5605.8388671875
             ],
             "ypr": [
-                10.600004196166993,
+                10.60000228881836,
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2188,7 +2156,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2204,7 +2172,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2220,7 +2188,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2236,7 +2204,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2252,7 +2220,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2268,7 +2236,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2284,7 +2252,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2300,7 +2268,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999997019767761,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2332,7 +2300,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999991655349731,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2348,7 +2316,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999992251396179,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2364,7 +2332,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9949995875358582,
+            "scale": 0.9949995279312134,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2380,7 +2348,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2396,7 +2364,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999993443489075,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2412,7 +2380,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.999999463558197,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2428,7 +2396,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.999999463558197,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2444,7 +2412,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.999999463558197,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2452,7 +2420,7 @@
             "name": "Blowtorch",
             "pos": [
                 2637.001953125,
-                216.60049438476563,
+                216.60044860839845,
                 5606.17822265625
             ],
             "ypr": [
@@ -2500,13 +2468,13 @@
             "name": "Blowtorch",
             "pos": [
                 2637.12109375,
-                216.60604858398438,
+                216.6020965576172,
                 5606.373046875
             ],
             "ypr": [
-                100.5999984741211,
-                89.98020935058594,
-                100.5999984741211
+                -79.39999389648438,
+                -89.98020935058594,
+                79.39999389648438
             ],
             "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
@@ -2532,13 +2500,13 @@
             "name": "Blowtorch",
             "pos": [
                 2637.0771484375,
-                216.6020965576172,
+                216.60604858398438,
                 5606.1962890625
             ],
             "ypr": [
-                -79.39999389648438,
-                -89.98020935058594,
-                79.39999389648438
+                100.5999984741211,
+                89.98020935058594,
+                100.5999984741211
             ],
             "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
@@ -2556,7 +2524,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2572,7 +2540,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2588,7 +2556,7 @@
                 0.0,
                 0.9999992847442627
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2604,7 +2572,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2620,7 +2588,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2636,7 +2604,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2652,7 +2620,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2668,7 +2636,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2684,7 +2652,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2700,7 +2668,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2716,7 +2684,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2732,7 +2700,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2748,7 +2716,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2764,7 +2732,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999992251396179,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2780,7 +2748,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2796,7 +2764,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2826,7 +2794,7 @@
             "ypr": [
                 -169.4499969482422,
                 0.0,
-                -5.999998569488525
+                -5.999998092651367
             ],
             "scale": 1.0,
             "enableCEPersistency": 0,
@@ -2916,7 +2884,7 @@
             "name": "StaticObj_Wall_IndFnc_9",
             "pos": [
                 2653.417236328125,
-                211.74774169921875,
+                211.74774169921876,
                 5585.98779296875
             ],
             "ypr": [
@@ -2932,7 +2900,7 @@
             "name": "Land_Wall_Gate_FenR_Big",
             "pos": [
                 2654.583984375,
-                211.95899963378906,
+                211.95899963378907,
                 5592.3701171875
             ],
             "ypr": [
@@ -3000,11 +2968,11 @@
                 5581.9169921875
             ],
             "ypr": [
-                10.59999942779541,
+                10.599997520446778,
                 0.0,
                 7.999996662139893
             ],
-            "scale": 0.9999982118606567,
+            "scale": 0.999998152256012,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3018,9 +2986,9 @@
             "ypr": [
                 10.599997520446778,
                 0.0,
-                6.999999046325684
+                6.999998092651367
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3066,9 +3034,9 @@
             "ypr": [
                 10.599997520446778,
                 0.0,
-                6.999999046325684
+                6.999998092651367
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999992847442627,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3076,7 +3044,7 @@
             "name": "StaticObj_Wall_IndFnc_Pole",
             "pos": [
                 2655.0390625,
-                211.92999267578125,
+                211.92999267578126,
                 5594.80322265625
             ],
             "ypr": [
@@ -3100,7 +3068,7 @@
                 0.0,
                 8.999999046325684
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3114,9 +3082,9 @@
             "ypr": [
                 10.599997520446778,
                 0.0,
-                4.999997138977051
+                4.999996662139893
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3130,9 +3098,9 @@
             "ypr": [
                 10.599997520446778,
                 0.0,
-                0.9999995827674866
+                0.9999995231628418
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3156,7 +3124,7 @@
             "name": "StaticObj_Wall_IndFnc_Pole",
             "pos": [
                 2654.12890625,
-                213.4062,
+                213.4062042236328,
                 5589.93701171875
             ],
             "ypr": [
@@ -3172,7 +3140,7 @@
             "name": "StaticObj_Misc_TirePile_Large",
             "pos": [
                 2650.77001953125,
-                211.83299255371094,
+                211.83299255371095,
                 5600.75732421875
             ],
             "ypr": [
@@ -3180,7 +3148,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999997615814209,
+            "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3196,7 +3164,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999996423721314,
+            "scale": 0.9999995827674866,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3212,7 +3180,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3228,7 +3196,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3244,7 +3212,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999994039535523,
+            "scale": 0.9999993443489075,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3260,103 +3228,103 @@
                 0.0,
                 90.0
             ],
-            "scale": 0.9999998211860657,
+            "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
         },
         {
             "name": "StaticObj_Platform1_Block",
             "pos": [
-                2636.6025,
-                209.3808,
-                5591.2054
+                2636.6025390625,
+                209.38079833984376,
+                5591.20556640625
             ],
             "ypr": [
-                10.6,
+                10.600000381469727,
                 0.0,
                 0.0
             ],
-            "scale": 1.3503,
+            "scale": 1.3502999544143677,
             "enableCEPersistency": 0,
             "customString": ""
         },
         {
             "name": "StaticObj_Panels_Concrete",
             "pos": [
-                2646.3997,
-                213.1952,
-                5589.3719
+                2646.399658203125,
+                213.19520568847657,
+                5589.3720703125
             ],
             "ypr": [
-                10.6,
+                10.600000381469727,
                 0.0,
-                16.06
+                16.060001373291017
             ],
-            "scale": 1.0314,
+            "scale": 1.0313998460769654,
             "enableCEPersistency": 0,
             "customString": ""
         },
         {
             "name": "StaticObj_Panels_Concrete",
             "pos": [
-                2652.5081,
-                211.4064,
-                5588.2287
+                2652.508056640625,
+                211.40640258789063,
+                5588.228515625
             ],
             "ypr": [
-                10.6,
+                10.600000381469727,
                 0.0,
-                16.06
+                16.060001373291017
             ],
-            "scale": 1.0314,
+            "scale": 1.0313998460769654,
             "enableCEPersistency": 0,
             "customString": ""
         },
         {
             "name": "StaticObj_Platform1_Block",
             "pos": [
-                2661.3693,
-                212.4445,
-                5642.22
+                2661.369384765625,
+                212.4445037841797,
+                5642.22021484375
             ],
             "ypr": [
-                10.6,
+                10.59999942779541,
                 0.0,
                 0.0
             ],
-            "scale": 0.4814,
+            "scale": 0.4813999831676483,
             "enableCEPersistency": 0,
             "customString": ""
         },
         {
             "name": "StaticObj_Panel_Concrete_1",
             "pos": [
-                2664.9278,
-                213.6998,
-                5641.5541
+                2664.927734375,
+                213.69979858398438,
+                5641.55419921875
             ],
             "ypr": [
-                10.6,
+                10.600000381469727,
                 0.0,
-                17.07
+                17.069997787475587
             ],
-            "scale": 0.7974,
+            "scale": 0.7973999381065369,
             "enableCEPersistency": 0,
             "customString": ""
         },
         {
             "name": "StaticObj_Panel_Concrete_1",
             "pos": [
-                2667.273,
-                212.9672,
-                5641.1152
+                2667.27294921875,
+                212.96719360351563,
+                5641.115234375
             ],
             "ypr": [
-                10.6,
+                10.600000381469727,
                 0.0,
-                17.07
+                17.069997787475587
             ],
-            "scale": 0.7974,
+            "scale": 0.7973999381065369,
             "enableCEPersistency": 0,
             "customString": ""
         }
