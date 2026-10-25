@@ -63,7 +63,8 @@
 			"./custom/vybor_shop_bm.json",
 			"./custom/novaya_overgrown.json",
 			"./custom/tishina_barrage_overgrown.json",
-			"./custom/comete.json"
+			"./custom/comete.json",
+			"./custom/prison_bridge.json"
 		],
 		"environmentMinTemps": [-3, -2, 0, 4, 9, 14, 18, 17, 13, 11, 9, 0],
 		"environmentMaxTemps": [3, 5, 7, 14, 19, 24, 26, 25, 18, 14, 10, 5],
