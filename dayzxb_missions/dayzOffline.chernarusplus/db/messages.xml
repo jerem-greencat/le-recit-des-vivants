@@ -44,6 +44,24 @@ Example messages:
     </message>
     -->
 
+	<!-- REDEMARRAGE : planifié chez Nitrado toutes les 4 h (240 min), delay = minutes après le démarrage -->
+	<message>
+		<delay>225</delay>
+		<text>Redémarrage du serveur dans 15 minutes.</text>
+	</message>
+	<message>
+		<delay>230</delay>
+		<text>Redémarrage du serveur dans 10 minutes.</text>
+	</message>
+	<message>
+		<delay>235</delay>
+		<text>Redémarrage du serveur dans 5 minutes. Mettez-vous à l'abri.</text>
+	</message>
+	<message>
+		<delay>239</delay>
+		<text>Redémarrage du serveur dans 1 minute. Déconnectez-vous proprement.</text>
+	</message>
+
 	<!-- AMBIANCE METEO (tools/meteo.sh) -->
 	<message>
 		<delay>1</delay>
