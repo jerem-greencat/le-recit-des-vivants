@@ -44,4 +44,11 @@ Example messages:
     </message>
     -->
 
+	<!-- AMBIANCE METEO (tools/meteo.sh) -->
+	<message>
+		<delay>1</delay>
+		<onconnect>1</onconnect>
+		<text>Un froid mordant s'est abattu sur Chernarus. Couvrez-vous et faites du feu : l'eau et la nourriture gèlent.</text>
+	</message>
+	<!-- FIN AMBIANCE METEO -->
 </messages>
