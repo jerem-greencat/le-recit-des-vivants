@@ -139,6 +139,21 @@ Les hordes et les meutes de chiens sont placées à plus de 1,5 km de la zone sa
 
 Pour rétablir une zone, décommenter sa ligne.
 
+### Bâtiments RP sans loot
+
+Le jeu ne fait plus spawn de loot au sol dans les bâtiments des zones RP de Zelenogorsk. Leurs
+lignes ont été supprimées de `mapgrouppos.xml`. Les objets des fichiers de mapping restent :
+
+| Zone RP | Bâtiment | Position (x, z) |
+| --- | --- | --- |
+| Commissariat | `Land_City_PoliceStation` | 2730, 5374 |
+| Hôpital | `Land_Village_HealthCare` | 2739, 5181 |
+| Mairie | `Land_HouseBlock_2F4` | 2734, 5320 |
+| Armurerie | `Land_HouseBlock_1F2` | 2696, 5354 |
+| Builder | `Land_Barn_Wood2` | 2585, 5360 |
+
+Pour rétablir le loot d'un bâtiment, remettre sa ligne `<group>` d'origine (historique git).
+
 ## Danger
 
 | Élément | Réglage | Fichier |
