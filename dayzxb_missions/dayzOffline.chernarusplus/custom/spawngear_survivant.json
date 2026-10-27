@@ -7,7 +7,7 @@
 			"slotName": "Body",
 			"discreteItemSets": [
 				{
-					"itemType": "DownJacket_Blue",
+					"itemType": "Sweater_Gray",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -21,7 +21,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "DownJacket_Green",
+					"itemType": "Sweater_Blue",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -35,7 +35,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "DownJacket_Orange",
+					"itemType": "Sweater_Green",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -49,7 +49,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "DownJacket_Red",
+					"itemType": "Sweater_Red",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -68,7 +68,7 @@
 			"slotName": "Legs",
 			"discreteItemSets": [
 				{
-					"itemType": "Jeans_Black",
+					"itemType": "CanvasPantsMidi_Beige",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -82,7 +82,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "Jeans_Blue",
+					"itemType": "CanvasPantsMidi_Blue",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -96,7 +96,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "Jeans_Brown",
+					"itemType": "CanvasPantsMidi_Grey",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -110,7 +110,21 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "Jeans_Grey",
+					"itemType": "CanvasPantsMidi_Red",
+					"spawnWeight": 1,
+					"attributes": {
+						"healthMin": 1.0,
+						"healthMax": 1.0,
+						"quantityMin": 1.0,
+						"quantityMax": 1.0
+					},
+					"quickBarSlot": -1,
+					"complexChildrenTypes": [],
+					"simpleChildrenUseDefaultAttributes": false,
+					"simpleChildrenTypes": []
+				},
+				{
+					"itemType": "CanvasPantsMidi_Violet",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -129,7 +143,7 @@
 			"slotName": "Feet",
 			"discreteItemSets": [
 				{
-					"itemType": "WorkingBoots_Brown",
+					"itemType": "AthleticShoes_Black",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -143,7 +157,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "WorkingBoots_Grey",
+					"itemType": "AthleticShoes_Blue",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -157,26 +171,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "WorkingBoots_Beige",
-					"spawnWeight": 1,
-					"attributes": {
-						"healthMin": 1.0,
-						"healthMax": 1.0,
-						"quantityMin": 1.0,
-						"quantityMax": 1.0
-					},
-					"quickBarSlot": -1,
-					"complexChildrenTypes": [],
-					"simpleChildrenUseDefaultAttributes": false,
-					"simpleChildrenTypes": []
-				}
-			]
-		},
-		{
-			"slotName": "Headgear",
-			"discreteItemSets": [
-				{
-					"itemType": "BeanieHat_Black",
+					"itemType": "AthleticShoes_Brown",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -190,7 +185,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "BeanieHat_Blue",
+					"itemType": "AthleticShoes_Green",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
@@ -204,96 +199,7 @@
 					"simpleChildrenTypes": []
 				},
 				{
-					"itemType": "BeanieHat_Brown",
-					"spawnWeight": 1,
-					"attributes": {
-						"healthMin": 1.0,
-						"healthMax": 1.0,
-						"quantityMin": 1.0,
-						"quantityMax": 1.0
-					},
-					"quickBarSlot": -1,
-					"complexChildrenTypes": [],
-					"simpleChildrenUseDefaultAttributes": false,
-					"simpleChildrenTypes": []
-				},
-				{
-					"itemType": "BeanieHat_Green",
-					"spawnWeight": 1,
-					"attributes": {
-						"healthMin": 1.0,
-						"healthMax": 1.0,
-						"quantityMin": 1.0,
-						"quantityMax": 1.0
-					},
-					"quickBarSlot": -1,
-					"complexChildrenTypes": [],
-					"simpleChildrenUseDefaultAttributes": false,
-					"simpleChildrenTypes": []
-				},
-				{
-					"itemType": "BeanieHat_Grey",
-					"spawnWeight": 1,
-					"attributes": {
-						"healthMin": 1.0,
-						"healthMax": 1.0,
-						"quantityMin": 1.0,
-						"quantityMax": 1.0
-					},
-					"quickBarSlot": -1,
-					"complexChildrenTypes": [],
-					"simpleChildrenUseDefaultAttributes": false,
-					"simpleChildrenTypes": []
-				}
-			]
-		},
-		{
-			"slotName": "Gloves",
-			"discreteItemSets": [
-				{
-					"itemType": "WoolGloves_Black",
-					"spawnWeight": 1,
-					"attributes": {
-						"healthMin": 1.0,
-						"healthMax": 1.0,
-						"quantityMin": 1.0,
-						"quantityMax": 1.0
-					},
-					"quickBarSlot": -1,
-					"complexChildrenTypes": [],
-					"simpleChildrenUseDefaultAttributes": false,
-					"simpleChildrenTypes": []
-				},
-				{
-					"itemType": "WoolGloves_Green",
-					"spawnWeight": 1,
-					"attributes": {
-						"healthMin": 1.0,
-						"healthMax": 1.0,
-						"quantityMin": 1.0,
-						"quantityMax": 1.0
-					},
-					"quickBarSlot": -1,
-					"complexChildrenTypes": [],
-					"simpleChildrenUseDefaultAttributes": false,
-					"simpleChildrenTypes": []
-				},
-				{
-					"itemType": "WoolGloves_Tan",
-					"spawnWeight": 1,
-					"attributes": {
-						"healthMin": 1.0,
-						"healthMax": 1.0,
-						"quantityMin": 1.0,
-						"quantityMax": 1.0
-					},
-					"quickBarSlot": -1,
-					"complexChildrenTypes": [],
-					"simpleChildrenUseDefaultAttributes": false,
-					"simpleChildrenTypes": []
-				},
-				{
-					"itemType": "WoolGloves_White",
+					"itemType": "AthleticShoes_Grey",
 					"spawnWeight": 1,
 					"attributes": {
 						"healthMin": 1.0,
