@@ -27,9 +27,11 @@
         <thresholds min="0.6" max="1.0" end="60" />
     </rain>
     <windMagnitude>
-        <!-- Vent en m/s. Seul le minimum compte : le jeu remet toujours le maximum à 20. -->
-        <current actual="6.0" time="60" duration="600" />
-        <limits min="2.0" max="20.0" />
+        <!-- Vent en m/s. Le script de Chernarus tire un vent de 4 à 17 m/s à chaque changement de nuages, atteint en 60 à 90 s :
+             la durée de transition n'est pas réglable (timelimits et changelimits ignorés). On resserre donc la plage
+             pour adoucir les écarts : jamais de silence complet, jamais de rafale à 17 m/s. -->
+        <current actual="8.0" time="60" duration="600" />
+        <limits min="6.0" max="12.0" />
         <timelimits min="120" max="240" />
         <changelimits min="0.0" max="20.0" />
     </windMagnitude>

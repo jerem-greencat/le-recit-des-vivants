@@ -3917,10 +3917,10 @@
         <value name="Tier2"/>
     </type>
     <type name="BoonieHat_Winter">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4188,15 +4188,18 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="BudenovkaHat_Gray">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Farm"/> <!-- Loot RP -->
+        <usage name="Town"/> <!-- Loot RP -->
+        <usage name="Village"/> <!-- Loot RP -->
     </type>
     <type name="BurlapSack">
         <nominal>100</nominal>
@@ -4234,16 +4237,17 @@
         <category name="tools"/>
     </type>
     <type name="BushlatPoliceJacket_Blue">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <usage name="Police"/>
+        <usage name="Prison"/> <!-- Loot RP -->
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
@@ -7303,14 +7307,17 @@
         <usage name="Military"/>
     </type>
     <type name="FilteringBottle">
-        <nominal>0</nominal>
+        <nominal>5</nominal> <!-- Loot RP : 0 -->
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/> <!-- Loot RP -->
+        <usage name="Medic"/> <!-- Loot RP -->
+        <usage name="Hunting"/> <!-- Loot RP -->
     </type>
     <type name="FirefighterAxe">
         <nominal>5</nominal>
@@ -10448,10 +10455,10 @@
         <value name="Tier4"/>
     </type>
     <type name="HunterPants_Spring">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10545,10 +10552,10 @@
         <value name="Tier4"/>
     </type>
     <type name="HuntingJacket_Spring">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>600</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10628,10 +10635,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="HuntingVest_Winter">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10640,15 +10647,17 @@
         <usage name="Hunting"/>
     </type>
     <type name="Iceaxe">
-        <nominal>0</nominal>
+        <nominal>6</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>3</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Town"/> <!-- Loot RP -->
+        <usage name="Village"/> <!-- Loot RP -->
     </type>
     <type name="ImprovisedBag">
         <nominal>0</nominal>
@@ -14626,15 +14635,16 @@
         <usage name="Military"/>
     </type>
     <type name="NBCBootsWhite">
-        <nominal>0</nominal>
+        <nominal>2</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Military"/> <!-- Loot RP -->
     </type>
     <type name="NBCBootsYellow">
         <nominal>3</nominal>
@@ -14689,15 +14699,16 @@
         <usage name="Military"/>
     </type>
     <type name="NBCHoodWhite">
-        <nominal>0</nominal>
+        <nominal>2</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Military"/> <!-- Loot RP -->
     </type>
     <type name="NBCHoodYellow">
         <nominal>3</nominal>
@@ -14726,15 +14737,16 @@
         <usage name="Military"/>
     </type>
     <type name="NBCJacketWhite">
-        <nominal>0</nominal>
+        <nominal>2</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Military"/> <!-- Loot RP -->
     </type>
     <type name="NBCJacketYellow">
         <nominal>3</nominal>
@@ -14763,15 +14775,16 @@
         <usage name="Military"/>
     </type>
     <type name="NBCPantsWhite">
-        <nominal>0</nominal>
+        <nominal>2</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Military"/> <!-- Loot RP -->
     </type>
     <type name="NBCPantsYellow">
         <nominal>3</nominal>
@@ -14850,26 +14863,28 @@
         <category name="tools"/>
     </type>
     <type name="NavyUniformJacket">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Coast"/> <!-- Loot RP -->
     </type>
     <type name="NavyUniformPants">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
+        <usage name="Coast"/> <!-- Loot RP -->
     </type>
     <type name="Netting">
         <nominal>50</nominal>
@@ -24551,10 +24566,10 @@
         <value name="Tier1"/>
     </type>
     <type name="Akinaka">
-        <nominal>0</nominal>
+        <nominal>6</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>3</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24689,10 +24704,10 @@
         <value name="Tier3"/>
     </type>
     <type name="Ayran">
-        <nominal>0</nominal>
+        <nominal>8</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>4</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24705,10 +24720,10 @@
         <value name="Tier1"/>
     </type>
     <type name="AyranBottle">
-        <nominal>0</nominal>
+        <nominal>8</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>4</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -24944,10 +24959,10 @@
         <usage name="Farm"/>
     </type>
     <type name="DonerKnife">
-        <nominal>0</nominal>
+        <nominal>6</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>3</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25176,10 +25191,10 @@
         <usage name="Police"/> <!-- Loot RP -->
     </type>
     <type name="HalvaCan">
-        <nominal>0</nominal>
+        <nominal>8</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>4</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25219,10 +25234,10 @@
         <usage name="Military"/>
     </type>
     <type name="HunterPants_Desert">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25231,10 +25246,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="HuntingJacket_Desert">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25243,10 +25258,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="HuntingVest_Desert">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25255,10 +25270,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="Jambiya">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25267,10 +25282,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="KameezShirt_Beige">
-        <nominal>0</nominal>
+        <nominal>3</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25282,10 +25297,10 @@
         <value name="Tier2"/>
     </type>
     <type name="KameezShirt_Black">
-        <nominal>0</nominal>
+        <nominal>3</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25296,10 +25311,10 @@
         <value name="Tier3"/>
     </type>
     <type name="KameezShirt_BlueFlowers">
-        <nominal>0</nominal>
+        <nominal>3</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25310,10 +25325,10 @@
         <value name="Tier3"/>
     </type>
     <type name="KameezShirt_Brown">
-        <nominal>0</nominal>
+        <nominal>3</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25325,10 +25340,10 @@
         <value name="Tier2"/>
     </type>
     <type name="KameezShirt_Grey">
-        <nominal>0</nominal>
+        <nominal>3</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25340,10 +25355,10 @@
         <value name="Tier3"/>
     </type>
     <type name="KameezShirt_NavyBlue">
-        <nominal>0</nominal>
+        <nominal>3</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25355,10 +25370,10 @@
         <value name="Tier3"/>
     </type>
     <type name="KameezShirt_Olive">
-        <nominal>0</nominal>
+        <nominal>3</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25369,10 +25384,10 @@
         <value name="Tier3"/>
     </type>
     <type name="KameezShirt_Orange">
-        <nominal>0</nominal>
+        <nominal>3</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25384,10 +25399,10 @@
         <value name="Tier2"/>
     </type>
     <type name="KameezShirt_Pink">
-        <nominal>0</nominal>
+        <nominal>3</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25399,10 +25414,10 @@
         <value name="Tier2"/>
     </type>
     <type name="KameezShirt_Purple">
-        <nominal>0</nominal>
+        <nominal>3</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25414,10 +25429,10 @@
         <value name="Tier3"/>
     </type>
     <type name="KameezShirt_Red">
-        <nominal>0</nominal>
+        <nominal>3</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25429,10 +25444,10 @@
         <value name="Tier3"/>
     </type>
     <type name="KameezShirt_SkyBlue">
-        <nominal>0</nominal>
+        <nominal>3</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25444,10 +25459,10 @@
         <value name="Tier2"/>
     </type>
     <type name="KameezShirt_White">
-        <nominal>0</nominal>
+        <nominal>3</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25458,10 +25473,10 @@
         <value name="Tier1"/>
     </type>
     <type name="KameezShirt_Yellow">
-        <nominal>0</nominal>
+        <nominal>3</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25473,10 +25488,10 @@
         <value name="Tier2"/>
     </type>
     <type name="Keffiyeh_Black">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25489,10 +25504,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="Keffiyeh_Blue">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25505,10 +25520,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="Keffiyeh_Brown">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25521,10 +25536,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="Keffiyeh_Gray">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25537,10 +25552,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="Keffiyeh_LightBlue">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25553,10 +25568,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="Keffiyeh_LightBrown">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25569,10 +25584,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="Keffiyeh_LightRed">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25585,10 +25600,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="Keffiyeh_Red">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25841,10 +25856,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Lassi_Mango">
-        <nominal>0</nominal>
+        <nominal>8</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>4</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25857,10 +25872,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="Lassi_Masala">
-        <nominal>0</nominal>
+        <nominal>8</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>4</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25873,10 +25888,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="Lassi_Mint">
-        <nominal>0</nominal>
+        <nominal>8</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>4</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25911,16 +25926,18 @@
         <category name="clothes"/>
     </type>
     <type name="LeeEnfield">
-        <nominal>0</nominal>
+        <nominal>5</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Hunting"/>
+        <usage name="Farm"/> <!-- Loot RP -->
+        <usage name="Village"/> <!-- Loot RP -->
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
@@ -26028,10 +26045,10 @@
         <value name="Tier2"/>
     </type>
     <type name="MP18">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26069,16 +26086,18 @@
         <value name="Unique"/>
     </type>
     <type name="Mag_LeeEnfield_10Rnd">
-        <nominal>0</nominal>
+        <nominal>8</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>4</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Hunting"/>
+        <usage name="Farm"/> <!-- Loot RP -->
+        <usage name="Village"/> <!-- Loot RP -->
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
@@ -26097,10 +26116,10 @@
         <value name="Tier2"/>
     </type>
     <type name="Mag_MP18_Drum32Rnd">
-        <nominal>0</nominal>
+        <nominal>6</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>3</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26125,10 +26144,10 @@
         <usage name="Village"/>
     </type>
     <type name="MensShalwarPants_Beige">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26138,10 +26157,10 @@
         <usage name="Village"/>
     </type>
     <type name="MensShalwarPants_Black">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26151,10 +26170,10 @@
         <usage name="Village"/>
     </type>
     <type name="MensShalwarPants_Brown">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26164,10 +26183,10 @@
         <usage name="Village"/>
     </type>
     <type name="MensShalwarPants_Grey">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26177,10 +26196,10 @@
         <usage name="Village"/>
     </type>
     <type name="MensShalwarPants_NavyBlue">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26190,10 +26209,10 @@
         <usage name="Village"/>
     </type>
     <type name="MensShalwarPants_SkyBlue">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26203,10 +26222,10 @@
         <usage name="Village"/>
     </type>
     <type name="MensShalwarPants_White">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26849,10 +26868,10 @@
         <usage name="Military"/>
     </type>
     <type name="P1907_Bayonet">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26864,10 +26883,10 @@
         <value name="Tier3"/>
     </type>
     <type name="PakolHat_Beige">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26877,10 +26896,10 @@
         <usage name="Village"/>
     </type>
     <type name="PakolHat_Black">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26890,10 +26909,10 @@
         <usage name="Village"/>
     </type>
     <type name="PakolHat_Brown">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26903,10 +26922,10 @@
         <usage name="Village"/>
     </type>
     <type name="PakolHat_Grey">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26916,10 +26935,10 @@
         <usage name="Village"/>
     </type>
     <type name="PakolHat_White">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26954,10 +26973,10 @@
         <usage name="Police"/>
     </type>
     <type name="PoliceShortSleeveShirt">
-        <nominal>0</nominal>
+        <nominal>6</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>3</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26966,10 +26985,10 @@
         <usage name="Police"/>
     </type>
     <type name="RobeVest_Beige">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26982,10 +27001,10 @@
         <usage name="Historical"/>
     </type>
     <type name="RobeVest_Brown">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -26998,10 +27017,10 @@
         <usage name="Historical"/>
     </type>
     <type name="RobeVest_Green">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -27014,10 +27033,10 @@
         <usage name="Historical"/>
     </type>
     <type name="RobeVest_Grey">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -27030,10 +27049,10 @@
         <usage name="Historical"/>
     </type>
     <type name="RobeVest_Navy">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -27272,10 +27291,10 @@
         <category name="weapons"/>
     </type>
     <type name="Scimitar">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -27359,52 +27378,58 @@
         <value name="Tier2"/>
     </type>
     <type name="ShortSleeveShirt_Hawaiian_Black">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <!-- Loot RP : <usage name="Military"/> -->
+        <usage name="Coast"/> <!-- Loot RP -->
+        <usage name="Town"/> <!-- Loot RP -->
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
     <type name="ShortSleeveShirt_Hawaiian_Blue">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <!-- Loot RP : <usage name="Military"/> -->
+        <usage name="Coast"/> <!-- Loot RP -->
+        <usage name="Town"/> <!-- Loot RP -->
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
     <type name="ShortSleeveShirt_Hawaiian_White">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
-        <usage name="Military"/>
+        <!-- Loot RP : <usage name="Military"/> -->
+        <usage name="Coast"/> <!-- Loot RP -->
+        <usage name="Town"/> <!-- Loot RP -->
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
     <type name="ShortSleeveShirt_Waves">
-        <nominal>0</nominal>
+        <nominal>6</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>3</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -27431,10 +27456,10 @@
         <value name="Tier2"/>
     </type>
     <type name="SmallGlassBottle_Afza">
-        <nominal>0</nominal>
+        <nominal>8</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>4</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -27447,10 +27472,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="SmallGlassBottle_Jallab">
-        <nominal>0</nominal>
+        <nominal>8</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>4</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28141,10 +28166,10 @@
         <usage name="Military"/>
     </type>
     <type name="TraditionalSandalShoes_Black">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28156,10 +28181,10 @@
         <value name="Tier2"/>
     </type>
     <type name="TraditionalSandalShoes_Brown">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28171,10 +28196,10 @@
         <value name="Tier2"/>
     </type>
     <type name="TraditionalSandalShoes_LightBrown">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28186,10 +28211,10 @@
         <value name="Tier2"/>
     </type>
     <type name="TraditionalSandalShoes_NavyBlue">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28201,10 +28226,10 @@
         <value name="Tier2"/>
     </type>
     <type name="TurbanHat_Beige">
-        <nominal>0</nominal>
+        <nominal>2</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28214,10 +28239,10 @@
         <usage name="Village"/>
     </type>
     <type name="TurbanHat_Black">
-        <nominal>0</nominal>
+        <nominal>2</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28227,10 +28252,10 @@
         <usage name="Village"/>
     </type>
     <type name="TurbanHat_Brown">
-        <nominal>0</nominal>
+        <nominal>2</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28240,10 +28265,10 @@
         <usage name="Village"/>
     </type>
     <type name="TurbanHat_Green">
-        <nominal>0</nominal>
+        <nominal>2</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28253,10 +28278,10 @@
         <usage name="Village"/>
     </type>
     <type name="TurbanHat_Grey">
-        <nominal>0</nominal>
+        <nominal>2</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28266,10 +28291,10 @@
         <usage name="Village"/>
     </type>
     <type name="TurbanHat_NavyBlue">
-        <nominal>0</nominal>
+        <nominal>2</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28279,10 +28304,10 @@
         <usage name="Village"/>
     </type>
     <type name="TurbanHat_Pink">
-        <nominal>0</nominal>
+        <nominal>2</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28292,10 +28317,10 @@
         <usage name="Village"/>
     </type>
     <type name="TurbanHat_Purple">
-        <nominal>0</nominal>
+        <nominal>2</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28305,10 +28330,10 @@
         <usage name="Village"/>
     </type>
     <type name="TurbanHat_Red">
-        <nominal>0</nominal>
+        <nominal>2</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28318,10 +28343,10 @@
         <usage name="Village"/>
     </type>
     <type name="TurbanHat_Skyblue">
-        <nominal>0</nominal>
+        <nominal>2</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28331,10 +28356,10 @@
         <usage name="Village"/>
     </type>
     <type name="TurbanHat_White">
-        <nominal>0</nominal>
+        <nominal>2</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28344,10 +28369,10 @@
         <usage name="Village"/>
     </type>
     <type name="TurbanHat_Yellow">
-        <nominal>0</nominal>
+        <nominal>2</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28396,10 +28421,10 @@
         <usage name="Village"/>
     </type>
     <type name="WomensShalwarPants_NavyBlue">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28409,10 +28434,10 @@
         <usage name="Village"/>
     </type>
     <type name="WomensShalwarPants_Olive">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28422,10 +28447,10 @@
         <usage name="Village"/>
     </type>
     <type name="WomensShalwarPants_Orange">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28435,10 +28460,10 @@
         <usage name="Village"/>
     </type>
     <type name="WomensShalwarPants_Pink">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28448,10 +28473,10 @@
         <usage name="Village"/>
     </type>
     <type name="WomensShalwarPants_Purple">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28461,10 +28486,10 @@
         <usage name="Village"/>
     </type>
     <type name="WomensShalwarPants_Red">
-        <nominal>0</nominal>
+        <nominal>4</nominal> <!-- Loot RP : 0 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>2</min> <!-- Loot RP : 0 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

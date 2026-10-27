@@ -228,6 +228,15 @@ valeur d'origine est en commentaire, et les `usage` ajoutés sont marqués.
 | Lance-fusées et fusées éclairantes | 5/2, 8/4 par couleur | Côte, police, pompiers, médical, militaire | |
 | Matraque télescopique | 8/4 | Villes, police | |
 | Vêtements : doudounes, blousons d'aviateur, gants et lunettes de ski, chapkas, ballerines, bandanas uni, gilet réfléchissant, lunettes anti-poussière | 3 à 10 | Villes, villages, zones industrielles | |
+| Vêtements civils de Sakhal (froid) : budionovka grise, bob et gilet de chasse d'hiver, veste et pantalon de chasse de printemps, veste matelassée de police (`BushlatPoliceJacket_Blue`) | 4/2 chacun | Fermes, villes, villages (budionovka), chasse, police et prison | Utiles en ambiance `hiver` |
+| Uniforme de marine de Sakhal (veste, pantalon) | 4/2 chacun | Côte | |
+| Combinaison NBC blanche (veste, pantalon, cagoule, bottes) | 2/1 chacune | Militaire, comme les NBC grise et jaune | |
+| Gourde filtrante (`FilteringBottle`) | 5/2 | Médical, chasse | Purifie l'eau bue. Catégorie `tools` ajoutée (absente du fichier) |
+| Piolet (`Iceaxe`) | 6/3 | Villes, villages | |
+| Nourriture et boissons de Badlands : ayran (brique et bouteille), lassi (mangue, masala, menthe), sirops afza et jallab, halva | 8/4 chacun | Fermes, villes, villages, chasse (côte pour les lassi et sirops) | |
+| Lames de Badlands : akinaka, couteau à kebab (`DonerKnife`), jambiya, cimeterre, baïonnette P1907 | 6/3 (akinaka, couteau à kebab), 4/2 | Villes, villages, chasse ; militaire et villages pour la baïonnette | La baïonnette se fixe sur le Lee-Enfield |
+| Armes de Badlands : Lee-Enfield et son chargeur 10 coups, MP18 et son chargeur tambour 32 coups | 5/2 et 8/4, 4/2 et 6/3 | Chasse, fermes, villages (Lee-Enfield) ; fermes, villes, villages (MP18) | Munitions déjà au loot : 7.62x54 (Lee-Enfield), 9x19 (MP18) |
+| Vêtements civils de Badlands (chaleur) : kamiz (14 couleurs), shalwars homme (7) et femme (6), pakols (5), turbans (12), keffiehs (8), gilets longs (`RobeVest`, 5), sandales (4), chemises à vagues et hawaïennes (3), chemisette de police, tenue de chasse désert (veste, pantalon, gilet) | 2 à 6 | Villes, villages, côte (chemises hawaïennes, au lieu de militaire), police, chasse | Utiles en ambiance `canicule` |
 | Variantes de couleur : Mosin (noir, camo, vert), CZ527 (noir, camo, vert), Winchester 70 (noir, vert), B95 (noir, vert), Derringer (noir, rose) | 2 à 4 | Comme l'arme de base | Elles s'ajoutent aux armes de base |
 | Nourriture : chair de crabe, sodas Takola et ZumZam, sarma, crackers, mélange salé, banane, orange, kiwi | 8 à 10 | Villes, villages, côte | |
 | Pots en céramique (4 couleurs) | 3/2 chacun | Fermes, villes, villages, chasse | Ustensile de cuisine |
@@ -243,7 +252,7 @@ Quatre ambiances sont prêtes dans `meteo/` :
 | Ambiance | Ciel | Pluie | Vent | Températures (min / max) | Éclairage |
 | --- | --- | --- | --- | --- | --- |
 | `default` | Météo vanilla (fichier désactivé, `enable="0"`) | Normale | Normal | Vanilla, selon le mois | Vanilla (nuits claires) |
-| `hiver` | Gris (couverture 0.4 à 0.9), brume | Aucune | 2 m/s minimum | -10 / -3 °C toute l'année | Sakhal |
+| `hiver` | Gris (couverture 0.4 à 0.9), brume | Aucune | 6 à 12 m/s, pour des changements moins brusques | -10 / -3 °C toute l'année | Sakhal |
 | `canicule` | Dégagé (couverture 0 à 0.25), pas de brume | Aucune | Normal | 22 / 38 °C toute l'année | Nasdara |
 | `tempete` | Couvert (0.8 à 1.0) | Continue (0.2 minimum), forte, orages | 10 m/s minimum | Vanilla, selon le mois | Nuits noires |
 
@@ -345,8 +354,13 @@ installées chez tous les joueurs (comme les plaques de neige de Sakhal, visible
 Ce que Chernarus permet (vérifié dans les scripts du jeu, `ChernarusPlus.c`) :
 
 - **La météo reste pilotée par le script de Chernarus.** `cfgweather.xml` ne fait que borner les valeurs
-  (`limits`). Le script réimpose aussi le seuil de pluie (couverture 0.6), celui des éclairs (0.9) et un
-  vent maximum de 20 m/s : seul le minimum de vent est réglable.
+  (`limits`). Le script réimpose aussi le seuil de pluie (couverture 0.6), celui des éclairs (0.9) et une
+  vitesse de vent maximale de 20 m/s (`SetWindMaximumSpeed`).
+- **Le vent change vite, et ce n'est pas réglable.** À chaque changement de nuages (toutes les 10 à 15 min),
+  le script tire un vent de 4 à 17 m/s, atteint en 60 à 90 s, puis le baisse d'un quart en 1 à 2 min.
+  Les `timelimits` et `changelimits` de `cfgweather.xml` ne servent que si le script laisse le jeu choisir,
+  ce qu'il ne fait jamais pour le vent. Pour adoucir, on resserre les `limits` : en `hiver`, 6 à 12 m/s.
+  Le minimum est appliqué à coup sûr. Le maximum sous 20 est encore à confirmer en jeu.
 - **Pas de chute de neige.** Le script remet la neige à 0 à chaque changement de météo. Il faudrait un
   `init.c`, non disponible sur console. La neige au sol passe par des mappings (voir plus haut).
 - **Pas de tempête de sable.** Elle est gérée par le script de Nasdara, qui ne tourne pas sur Chernarus.
