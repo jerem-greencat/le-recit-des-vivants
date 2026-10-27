@@ -74,16 +74,16 @@
 	},
 	"BaseBuildingData": {
 		"HologramData": {
-			"disableIsCollidingBBoxCheck": false,
+			"disableIsCollidingBBoxCheck": true,
 			"disableIsCollidingPlayerCheck": false,
-			"disableIsClippingRoofCheck": false,
-			"disableIsBaseViableCheck": false,
-			"disableIsCollidingGPlotCheck": false,
-			"disableIsCollidingAngleCheck": false,
+			"disableIsClippingRoofCheck": true,
+			"disableIsBaseViableCheck": true,
+			"disableIsCollidingGPlotCheck": true,
+			"disableIsCollidingAngleCheck": true,
 			"disableIsPlacementPermittedCheck": false,
-			"disableHeightPlacementCheck": false,
+			"disableHeightPlacementCheck": true,
 			"disableIsUnderwaterCheck": false,
-			"disableIsInTerrainCheck": false,
+			"disableIsInTerrainCheck": true,
 			"disableColdAreaBuildingCheck": true,
 			"disallowedTypesInUnderground": [
 				"FenceKit",
@@ -92,8 +92,8 @@
 			]
 		},
 		"ConstructionData": {
-			"disablePerformRoofCheck": false,
-			"disableIsCollidingCheck": false,
+			"disablePerformRoofCheck": true,
+			"disableIsCollidingCheck": true,
 			"disableDistanceCheck": false,
 			"disableItemFalling": false,
 			"disableDropAttachmentsOnFall": false,
