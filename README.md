@@ -252,7 +252,7 @@ Quatre ambiances sont prêtes dans `meteo/` :
 | Ambiance | Ciel | Pluie | Vent | Températures (min / max) | Éclairage |
 | --- | --- | --- | --- | --- | --- |
 | `default` | Météo vanilla (fichier désactivé, `enable="0"`) | Normale | Normal | Vanilla, selon le mois | Vanilla (nuits claires) |
-| `hiver` | Gris (couverture 0.4 à 0.9), brume | Aucune | 2 m/s minimum | -10 / -3 °C toute l'année | Sakhal |
+| `hiver` | Gris (couverture 0.4 à 0.9), brume | Aucune | 6 à 12 m/s, pour des changements moins brusques | -10 / -3 °C toute l'année | Sakhal |
 | `canicule` | Dégagé (couverture 0 à 0.25), pas de brume | Aucune | Normal | 22 / 38 °C toute l'année | Nasdara |
 | `tempete` | Couvert (0.8 à 1.0) | Continue (0.2 minimum), forte, orages | 10 m/s minimum | Vanilla, selon le mois | Nuits noires |
 
@@ -354,8 +354,13 @@ installées chez tous les joueurs (comme les plaques de neige de Sakhal, visible
 Ce que Chernarus permet (vérifié dans les scripts du jeu, `ChernarusPlus.c`) :
 
 - **La météo reste pilotée par le script de Chernarus.** `cfgweather.xml` ne fait que borner les valeurs
-  (`limits`). Le script réimpose aussi le seuil de pluie (couverture 0.6), celui des éclairs (0.9) et un
-  vent maximum de 20 m/s : seul le minimum de vent est réglable.
+  (`limits`). Le script réimpose aussi le seuil de pluie (couverture 0.6), celui des éclairs (0.9) et une
+  vitesse de vent maximale de 20 m/s (`SetWindMaximumSpeed`).
+- **Le vent change vite, et ce n'est pas réglable.** À chaque changement de nuages (toutes les 10 à 15 min),
+  le script tire un vent de 4 à 17 m/s, atteint en 60 à 90 s, puis le baisse d'un quart en 1 à 2 min.
+  Les `timelimits` et `changelimits` de `cfgweather.xml` ne servent que si le script laisse le jeu choisir,
+  ce qu'il ne fait jamais pour le vent. Pour adoucir, on resserre les `limits` : en `hiver`, 6 à 12 m/s.
+  Le minimum est appliqué à coup sûr. Le maximum sous 20 est encore à confirmer en jeu.
 - **Pas de chute de neige.** Le script remet la neige à 0 à chaque changement de météo. Il faudrait un
   `init.c`, non disponible sur console. La neige au sol passe par des mappings (voir plus haut).
 - **Pas de tempête de sable.** Elle est gérée par le script de Nasdara, qui ne tourne pas sur Chernarus.
