@@ -256,7 +256,7 @@ vêtements changent :
 | `default` | Pull | Pantalon de toile | Baskets | |
 | `hiver` | Doudoune | Jean | Chaussures de travail | Bonnet, gants en laine |
 | `canicule` | T-shirt | Short en jean | Baskets | Casquette |
-| `tempete` | Imperméable | Pantalon de toile | Bottes en caoutchouc | |
+| `tempete` | Imperméable | Pantalon de toile | Bottes en caoutchouc | Lampe frontale avec pile 9V |
 
 Chaque dossier `meteo/<ambiance>/` contient :
 
