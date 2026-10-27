@@ -1242,46 +1242,9 @@
             <child lootmax="0" lootmin="0" max="10" min="6" type="Boat_01_Orange"/>
         </children>
     </event>
+    <!-- Vehicules reduits de moitie (garagiste) -->
     <event name="VehicleCivilianSedan">
-        <nominal>16</nominal>
-        <min>10</min>
-        <max>22</max>
-        <lifetime>300</lifetime>
-        <restock>0</restock>
-        <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan_Black"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan_Wine"/>
-        </children>
-    </event>
-    <event name="VehicleHatchback02">
-        <nominal>16</nominal>
-        <min>10</min>
-        <max>22</max>
-        <lifetime>300</lifetime>
-        <restock>0</restock>
-        <saferadius>500</saferadius>
-        <distanceradius>500</distanceradius>
-        <cleanupradius>200</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="1"/>
-        <position>fixed</position>
-        <limit>mixed</limit>
-        <active>1</active>
-        <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_Black"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_Blue"/>
-        </children>
-    </event>
-    <event name="VehicleMotorbike">
-        <nominal>25</nominal>
+        <nominal>8</nominal>
         <min>5</min>
         <max>11</max>
         <lifetime>300</lifetime>
@@ -1294,13 +1257,35 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="20" min="10" type="Motorbike_01_Blue"/>
-            <child lootmax="0" lootmin="0" max="20" min="10" type="Motorbike_02_Red"/>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="CivilianSedan"/>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="CivilianSedan_Black"/>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="CivilianSedan_Wine"/>
         </children>
     </event>
-    <event name="VehicleOffroad02">
-        <nominal>6</nominal>
-        <min>4</min>
+    <!-- Vehicules reduits de moitie (garagiste) -->
+    <event name="VehicleHatchback02">
+        <nominal>8</nominal>
+        <min>5</min>
+        <max>11</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="Hatchback_02"/>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="Hatchback_02_Black"/>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="Hatchback_02_Blue"/>
+        </children>
+    </event>
+    <!-- Vehicules reduits de moitie (garagiste) -->
+    <event name="VehicleMotorbike">
+        <nominal>12</nominal>
+        <min>3</min>
         <max>6</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
@@ -1312,13 +1297,34 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="3" min="2" type="Offroad_02"/>
+            <child lootmax="0" lootmin="0" max="10" min="5" type="Motorbike_01_Blue"/>
+            <child lootmax="0" lootmin="0" max="10" min="5" type="Motorbike_02_Red"/>
         </children>
     </event>
+    <!-- Humvee : 4 sur la map, 2 verts et 2 desert (Badlands) -->
+    <event name="VehicleOffroad02">
+        <nominal>4</nominal>
+        <min>3</min>
+        <max>4</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="2" min="2" type="Offroad_02"/>
+            <child lootmax="0" lootmin="0" max="2" min="2" type="Offroad_02_Beige"/>
+        </children>
+    </event>
+    <!-- Vehicules reduits de moitie (garagiste) -->
     <event name="VehicleOffroadHatchback">
-        <nominal>16</nominal>
-        <min>10</min>
-        <max>22</max>
+        <nominal>8</nominal>
+        <min>5</min>
+        <max>11</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1329,15 +1335,16 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_Blue"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_White"/>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="OffroadHatchback"/>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="OffroadHatchback_Blue"/>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="OffroadHatchback_White"/>
         </children>
     </event>
+    <!-- Vehicules reduits de moitie (garagiste) -->
     <event name="VehicleSedan02">
-        <nominal>16</nominal>
-        <min>10</min>
-        <max>22</max>
+        <nominal>8</nominal>
+        <min>5</min>
+        <max>11</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1348,15 +1355,16 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Grey"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Red"/>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="Sedan_02"/>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="Sedan_02_Grey"/>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="Sedan_02_Red"/>
         </children>
     </event>
+    <!-- Vehicules reduits de moitie (garagiste) -->
     <event name="VehicleTruck01">
-        <nominal>16</nominal>
-        <min>10</min>
-        <max>22</max>
+        <nominal>8</nominal>
+        <min>5</min>
+        <max>11</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1367,9 +1375,9 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Blue"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Orange"/>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="Truck_01_Covered"/>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="Truck_01_Covered_Blue"/>
+            <child lootmax="0" lootmin="0" max="3" min="2" type="Truck_01_Covered_Orange"/>
         </children>
     </event>
 </events>
