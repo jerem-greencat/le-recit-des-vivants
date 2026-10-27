@@ -154,6 +154,20 @@ lignes ont été supprimées de `mapgrouppos.xml`. Les objets des fichiers de ma
 
 Pour rétablir le loot d'un bâtiment, remettre sa ligne `<group>` d'origine (historique git).
 
+### Véhicules réduits de moitié
+
+Le garagiste a son propre spawn de véhicules (`VehicleZelenoParking`). Les autres spawns de
+véhicules terrestres de la map sont réduits de moitié dans `db/events.xml` (marqueur
+`Vehicules reduits de moitie`). Les bateaux (`VehicleBoat`) et le Humvee ne changent pas :
+
+| Événement | nominal / min / max | Par variante (min–max) |
+| --- | --- | --- |
+| `VehicleCivilianSedan`, `VehicleHatchback02`, `VehicleOffroadHatchback`, `VehicleSedan02`, `VehicleTruck01` | 8 / 5 / 11 (avant 16 / 10 / 22) | 2–3 (avant 3–5) |
+| `VehicleMotorbike` | 12 / 3 / 6 (avant 25 / 5 / 11) | 5–10 (avant 10–20) |
+
+Humvee (`VehicleOffroad02`, marqueur `Humvee`) : 4 sur la map (4 / 3 / 4), 2 verts
+(`Offroad_02`) et 2 en version désert de Badlands (`Offroad_02_Beige`).
+
 ## Danger
 
 | Élément | Réglage | Fichier |
