@@ -151,6 +151,7 @@ lignes ont été supprimées de `mapgrouppos.xml`. Les objets des fichiers de ma
 | Mairie | `Land_HouseBlock_2F4` | 2734, 5320 |
 | Armurerie | `Land_HouseBlock_1F2` | 2696, 5354 |
 | Builder | `Land_Barn_Wood2` | 2585, 5360 |
+| Épicerie | `Land_City_Store_WithStairs` | 2673, 5281 |
 
 Pour rétablir le loot d'un bâtiment, remettre sa ligne `<group>` d'origine (historique git).
 
