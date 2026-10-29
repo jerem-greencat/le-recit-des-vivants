@@ -50,6 +50,7 @@ télécharger en local pour diagnostiquer, ils ne sont pas versionnés.
 | `cfgeventspawns.xml` | Positions de spawn des événements |
 | `cfgweather.xml` | Météo (ambiance active, copiée depuis `meteo/`) |
 | `meteo/<ambiance>/` | Ambiances météo : météo, éclairage, températures, équipement de départ, message (voir la section Météo) |
+| `fetes/<fete>/` | Fêtes (Noël, Halloween) : mappings, événements, loot et zones hantées, activés par `tools/fete.sh` (voir la section Fêtes) |
 | `cfgrandompresets.xml` | Presets aléatoires de cargo et d'équipement (zombies, sacs, caisses) |
 | `cfgignorelist.xml` | Objets supprimés au démarrage |
 | `cfgeconomycore.xml` | Classes gérées par l'économie (dont les motos) |
@@ -95,7 +96,8 @@ Chaque mapping est un JSON dans `custom/`, déclaré dans `objectSpawnersArr` de
 ```
 
 S'y ajoutent les mappings de l'ambiance météo active, ajoutés et retirés par `tools/meteo.sh` : ne pas
-les gérer à la main (voir la section Météo).
+les gérer à la main (voir la section Météo). De même pour les mappings de fête, gérés par
+`tools/fete.sh` (voir la section Fêtes).
 
 | Fichier | Description |
 | --- | --- |
@@ -400,11 +402,63 @@ Ce que Chernarus permet (vérifié dans les scripts du jeu, `ChernarusPlus.c`) :
 Les ambiances `hiver`, `canicule` et `tempete` ont `reset="1"` : la météo sauvegardée est ignorée et
 l'ambiance s'applique dès le redémarrage.
 
+## Fêtes
+
+Les décors de fête sont des mappings activés à la demande, indépendamment de l'ambiance météo :
+
+| Fête | Mapping | Contenu |
+| --- | --- | --- |
+| `noel` | `custom/zeleno_christmas.json` | Enclos de Noël au centre de Zelenogorsk : sapins, traîneau, Père Noël, cadeaux, rennes, neige |
+| `halloween` | `custom/zeleno_halloween.json` | Même enclos en version Halloween (cimetière, chaudron sur le feu, champ de citrouilles, chèvre spooky) et petits décors dans toute la ville safe : citrouilles et citrouilles sculptées lumineuses |
+| `aucune` | — | Aucun mapping de fête |
+
+Les deux fêtes utilisent le même enclos : une seule est active à la fois. Pour changer, en local :
+
+```sh
+tools/fete.sh halloween   # ou noel, aucune
+```
+
+Chaque dossier `fetes/<fete>/` contient :
+
+| Fichier | Rôle |
+| --- | --- |
+| `mappings.txt` | Mappings de la fête, ajoutés à `objectSpawnersArr` de `cfggameplay.json` (un chemin `./custom/….json` par ligne) |
+| `events.xml`, `types.xml` (facultatifs) | Blocs `<event>` / `<type>` complets qui remplacent ceux de `db/events.xml` / `db/types.xml` pendant la fête |
+| `events.origine.xml`, `types.origine.xml` | Les mêmes blocs hors fête, remis quand la fête est désactivée |
+| `effectareas.json` (facultatif) | Zones ajoutées à la fin de `Areas` dans `cfgEffectArea.json` |
+
+Le script retire d'abord tout ce qui appartient à une fête (mappings, blocs, zones), puis ajoute ce qui
+appartient à la fête choisie. Le reste des fichiers ne bouge pas, y compris les mappings de l'ambiance
+météo. Si un bloc géré par une fête a été modifié à la main dans `db/`, le script s'arrête sans rien
+écrire : reporter la modification dans `fetes/*/`. Il reste à envoyer sur le FTP `cfggameplay.json`,
+`db/events.xml`, `db/types.xml`, `cfgEffectArea.json` (et le mapping de la fête s'il n'y est pas
+déjà) puis à redémarrer.
+
+### Événements d'Halloween
+
+Le mode `halloween` active aussi les éléments d'Halloween prévus par le jeu (désactivés sinon). Les
+modifications sont marquées `Halloween (tools/fete.sh)` dans `db/` :
+
+| Élément | Détail |
+| --- | --- |
+| Feux d'Halloween (`StaticBonfire`) | 20 feux de camp allumés en permanence, parmi 62 positions de `cfgeventspawns.xml`. Autour de chacun : 4 à 8 objets de loot d'Halloween ou de pompiers, et 6 à 10 zombies pompiers (`InfectedFirefighter`) dans un rayon de 55 m (3 à 5 statiques + 3 à 5 dynamiques, `<zone>` de `StaticBonfire` dans `cfgeventspawns.xml`) |
+| Zombies spooky (`InfectedSpooky`) | Zombies en tenue sombre (fermières en noir, bricoleurs en beige) dans les 6 zones `InfectedSpooky` de `env/zombie_territories.xml` (rayon 120 m) |
+| Zones hantées (`SpookyArea`) | Sur ces 6 zones : brume, teinte de l'écran, chuchotements, bruits de pas et feuillages, coups de vent. Aucun dégât. La version 2023 du jeu (`SpookyArea23`, qui refroidit le joueur) n'a plus de classe de config et ne peut pas être utilisée |
+| Loot d'Halloween | Chapeau de sorcière (10/5), capuches de sorcière noire, marron et rouge (6/3 chacune), chaudron, balai en bouleau, nez crochu (8/4 chacun) : autour des feux uniquement (`deloot`). Masque « mort » (6/3) : magasins et immeubles (`SeasonalEvent`). Citrouille sculptée (10/5) : fermes |
+
+Zone safe : aucun de ces éléments ne touche Zelenogorsk. La position de feu de la ville est commentée
+(`SafeZone Zelenogorsk`), le feu le plus proche est à 593 m de la zone safe et la zone spooky la plus
+proche à 3,5 km. Le loot des feux (catégories `SeasonalEvent` et `Firefighter`) ne contient aucun objet
+du loot restreint, dont le `nominal` est à 0, et les zombies de ces événements ont le même équipement
+que les autres. Proches de mappings : un feu, une zone spooky et ses zombies au château du diable
+(`devils_castle_secte.json`), un feu à 160 m du black market de Vybor et un à 288 m du shop admin.
+
 ## Outils
 
 | Script | Rôle |
 | --- | --- |
 | `tools/meteo.sh <ambiance>` | Active une ambiance météo (voir Météo) |
+| `tools/fete.sh <fete>` | Active une fête (mappings, événements, loot, zones) : `noel`, `halloween` ou `aucune` (voir Fêtes) |
 | `tools/neige/generate.py` | Neige au sol de l'ambiance `hiver` → `custom/neige_*.json` |
 | `tools/tempete/generate.py` | Arbres tombés de l'ambiance `tempete` → `custom/tempete_arbres.json` |
 | `tools/canicule/generate.py` | Traces de brûlé de l'ambiance `canicule` → `custom/canicule_brulis.json` |

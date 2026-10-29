@@ -161,6 +161,162 @@
 				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
 				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
 			}
+		},
+		{
+			"AreaName": "Halloween-Spooky-1",
+			"Type": "SpookyArea",
+			"TriggerType": "SpookyTrigger23",
+			"Data": {
+				"Pos": [
+					13505,
+					0,
+					3282
+				],
+				"Radius": 120,
+				"PosHeight": 25,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1,
+				"OuterPartDist": 40,
+				"OuterOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{
+			"AreaName": "Halloween-Spooky-2",
+			"Type": "SpookyArea",
+			"TriggerType": "SpookyTrigger23",
+			"Data": {
+				"Pos": [
+					11240,
+					0,
+					4290
+				],
+				"Radius": 120,
+				"PosHeight": 25,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1,
+				"OuterPartDist": 40,
+				"OuterOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{
+			"AreaName": "Halloween-Spooky-3",
+			"Type": "SpookyArea",
+			"TriggerType": "SpookyTrigger23",
+			"Data": {
+				"Pos": [
+					6535,
+					0,
+					5625
+				],
+				"Radius": 120,
+				"PosHeight": 25,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1,
+				"OuterPartDist": 40,
+				"OuterOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{
+			"AreaName": "Halloween-Spooky-4",
+			"Type": "SpookyArea",
+			"TriggerType": "SpookyTrigger23",
+			"Data": {
+				"Pos": [
+					1420,
+					0,
+					9300
+				],
+				"Radius": 120,
+				"PosHeight": 25,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1,
+				"OuterPartDist": 40,
+				"OuterOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{
+			"AreaName": "Halloween-Spooky-5",
+			"Type": "SpookyArea",
+			"TriggerType": "SpookyTrigger23",
+			"Data": {
+				"Pos": [
+					6895,
+					0,
+					11430
+				],
+				"Radius": 120,
+				"PosHeight": 25,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1,
+				"OuterPartDist": 40,
+				"OuterOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+		{
+			"AreaName": "Halloween-Spooky-6",
+			"Type": "SpookyArea",
+			"TriggerType": "SpookyTrigger23",
+			"Data": {
+				"Pos": [
+					10220,
+					0,
+					12030
+				],
+				"Radius": 120,
+				"PosHeight": 25,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1,
+				"OuterPartDist": 40,
+				"OuterOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+			},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
 		}
     ],
 
