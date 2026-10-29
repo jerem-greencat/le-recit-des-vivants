@@ -44,9 +44,9 @@ Example messages:
     </message>
     -->
 
-	<!-- BIENVENUE : affiché 1 min après la connexion (le temps que le chargement se termine) -->
+	<!-- BIENVENUE : affiché dès la connexion -->
 	<message>
-		<delay>1</delay>
+		<delay>0</delay>
 		<onconnect>1</onconnect>
 		<text>Bienvenue sur Le Récit des Vivants, survivant. Ici, chaque vie compte : jouez votre personnage et écrivez votre histoire.</text>
 	</message>
