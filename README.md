@@ -43,7 +43,7 @@ télécharger en local pour diagnostiquer, ils ne sont pas versionnés.
 | `db/events.xml` | Véhicules, hélicos crashés, animaux, zombies dynamiques |
 | `db/globals.xml` | Paramètres globaux de l'économie (nettoyage, limites, etc.) |
 | `db/economy.xml` | Persistance et activation des systèmes économiques |
-| `db/messages.xml` | Messages serveur (annonces, avertissements de redémarrage calés sur le redémarrage planifié Nitrado toutes les 4 h) |
+| `db/messages.xml` | Messages serveur (bienvenue à la connexion, avertissements de redémarrage calés sur le redémarrage planifié Nitrado toutes les 4 h) |
 | `cfggameplay.json` | Gameplay : stamina, construction, spawn gear, carte, mappings… |
 | `cfgspawnabletypes.xml` | Attachements et cargo des objets qui spawnent |
 | `cfgplayerspawnpoints.xml` | Points d'apparition des joueurs |

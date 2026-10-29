@@ -44,6 +44,13 @@ Example messages:
     </message>
     -->
 
+	<!-- BIENVENUE : affiché 1 min après la connexion (le temps que le chargement se termine) -->
+	<message>
+		<delay>1</delay>
+		<onconnect>1</onconnect>
+		<text>Bienvenue sur Le Récit des Vivants, survivant. Ici, chaque vie compte : jouez votre personnage et écrivez votre histoire.</text>
+	</message>
+
 	<!-- REDEMARRAGE : planifié chez Nitrado toutes les 4 h (240 min), delay = minutes après le démarrage -->
 	<message>
 		<delay>225</delay>
