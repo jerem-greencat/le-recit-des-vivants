@@ -1,0 +1,2052 @@
+{
+    "Objects": [
+        {
+            "name": "PressVest_Blue",
+            "pos": [
+                2856.4881394347713,
+                205.90598578894705,
+                5283.0853825171735
+            ],
+            "ypr": [
+                4.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BaseRadio",
+            "pos": [
+                2857.115585071189,
+                205.83667941572565,
+                5282.763849314451
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "PersonalRadio",
+            "pos": [
+                2856.960294602146,
+                205.83775524004537,
+                5283.255285693109
+            ],
+            "ypr": [
+                37.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Battery9V",
+            "pos": [
+                2857.0990457103453,
+                205.8376874915739,
+                5283.23411672175
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Battery9V",
+            "pos": [
+                2857.154896079233,
+                205.83766022132593,
+                5283.231721822247
+            ],
+            "ypr": [
+                52.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_shelf_1side",
+            "pos": [
+                2863.0437212111547,
+                205.1364847815832,
+                5281.754489809349
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_shelf_1side",
+            "pos": [
+                2862.1193743861954,
+                205.13693611552878,
+                5277.672847027854
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_library_a_open",
+            "pos": [
+                2863.661454172742,
+                205.1351831589042,
+                5285.116071331873
+            ],
+            "ypr": [
+                -77.24,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_library_a_open",
+            "pos": [
+                2863.8624471502126,
+                205.13508501938438,
+                5286.003597002402
+            ],
+            "ypr": [
+                -77.24,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Megaphone",
+            "pos": [
+                2862.5922642588243,
+                205.46705927000622,
+                5281.118533126489
+            ],
+            "ypr": [
+                102.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Binoculars",
+            "pos": [
+                2862.788080994622,
+                205.43396365397427,
+                5281.453553254575
+            ],
+            "ypr": [
+                42.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookHerland",
+            "pos": [
+                2862.887437482387,
+                205.36091513214475,
+                5281.892439575166
+            ],
+            "ypr": [
+                11.54,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookSkyrider",
+            "pos": [
+                2862.8874638491457,
+                205.41491512570747,
+                5281.892439575166
+            ],
+            "ypr": [
+                10.65,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheMetamorphosesOfOvid",
+            "pos": [
+                2862.887490215904,
+                205.46891511927015,
+                5281.892439575166
+            ],
+            "ypr": [
+                15.35,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Book20000LieuesSousLesMers",
+            "pos": [
+                2862.986829614103,
+                205.36086660161297,
+                5282.331325895757
+            ],
+            "ypr": [
+                17.54,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheArtOfWar",
+            "pos": [
+                2862.9868559808615,
+                205.41486659517568,
+                5282.331325895757
+            ],
+            "ypr": [
+                16.74,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookPhilosophiaeNaturalis",
+            "pos": [
+                2862.6667951973213,
+                205.8302657530032,
+                5280.917136640519
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookHinduLiterature",
+            "pos": [
+                2862.6796054986407,
+                205.8297677618185,
+                5280.973704210729
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheHeritageOfTheSioux",
+            "pos": [
+                2862.6924157999606,
+                205.82926977063377,
+                5281.030271780938
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookSunsetPass",
+            "pos": [
+                2862.705226020024,
+                205.82860536417812,
+                5281.086839351147
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheManWhoWasThursday",
+            "pos": [
+                2862.7180360640964,
+                205.82758052289972,
+                5281.143406921357
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookRomeoUndJulia",
+            "pos": [
+                2862.7308461081693,
+                205.82655568162133,
+                5281.1999744915665
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookAnnaKarenina",
+            "pos": [
+                2862.743656152242,
+                205.82553084034296,
+                5281.256542061777
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookBettyZane",
+            "pos": [
+                2862.7564661957076,
+                205.8245047569784,
+                5281.313109631986
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookCrimeAndPunishment",
+            "pos": [
+                2862.769276202192,
+                205.82340293265074,
+                5281.369677202195
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookWealthOfNations",
+            "pos": [
+                2862.7820862086755,
+                205.8223011083231,
+                5281.426244772405
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookThePrisonerOfZenda",
+            "pos": [
+                2862.79489621516,
+                205.82119928399547,
+                5281.482812342614
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheJustifiedSinner",
+            "pos": [
+                2862.8077062216435,
+                205.82009745966783,
+                5281.539379912823
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookNaturalSelection",
+            "pos": [
+                2862.820516241858,
+                205.8190237567841,
+                5281.595947483033
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookATexasMatchmaker",
+            "pos": [
+                2862.8333262665265,
+                205.81795917448025,
+                5281.6525150532425
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookFrankenstein",
+            "pos": [
+                2862.8461362911944,
+                205.81689459217642,
+                5281.709082623453
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Flashlight",
+            "pos": [
+                2862.9223788661006,
+                205.71993214303868,
+                5281.987098539993
+            ],
+            "ypr": [
+                87.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheRedBadgeOfCourage",
+            "pos": [
+                2862.964968779579,
+                205.8243592685625,
+                5282.233795602292
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheTimeMachine",
+            "pos": [
+                2862.9777802317385,
+                205.8262182360953,
+                5282.290363172501
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookLesTroisMousquetaires",
+            "pos": [
+                2862.9905913342086,
+                205.82736102754467,
+                5282.346930742711
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookKingLear",
+            "pos": [
+                2863.0034024366787,
+                205.82850381899408,
+                5282.40349831292
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookBilaNemoc",
+            "pos": [
+                2863.016213539149,
+                205.8296466104435,
+                5282.4600658831305
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookFatherGoriot",
+            "pos": [
+                2863.0290246416184,
+                205.83078940189284,
+                5282.51663345334
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookHeartOfDarkness",
+            "pos": [
+                2863.0418352250845,
+                205.83086925623616,
+                5282.573201023549
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheIslandOfDoctorMoreau",
+            "pos": [
+                2863.0546457733003,
+                205.83087691668004,
+                5282.629768593759
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookLeRougeEtLeNoir",
+            "pos": [
+                2862.6669669571484,
+                206.18203556012142,
+                5280.917136640519
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookVoyageAuCentreDeLaTerre",
+            "pos": [
+                2862.679777256419,
+                206.18153337362077,
+                5280.973704210729
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookCinqSemainesEnBallon",
+            "pos": [
+                2862.6925875556904,
+                206.18103118712008,
+                5281.030271780938
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookRussianCheatSheet",
+            "pos": [
+                2862.705397652735,
+                206.18011483440733,
+                5281.086839351147
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookToTheInteriorOfTheEarth",
+            "pos": [
+                2862.7182072478813,
+                206.17817057793337,
+                5281.143406921357
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookRobinsonCrusoeAdventures",
+            "pos": [
+                2862.7310168430286,
+                206.17622632145938,
+                5281.1999744915665
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookDeadSouls",
+            "pos": [
+                2862.743826438175,
+                206.17428206498545,
+                5281.256542061777
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheWarOfTheWorlds",
+            "pos": [
+                2862.756636068307,
+                206.17240946069353,
+                5281.313109631986
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookPrideAndPrejudice",
+            "pos": [
+                2862.769445971133,
+                206.1710953403693,
+                5281.369677202195
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "AlarmClock_Red",
+            "pos": [
+                2862.821501133143,
+                206.0267054911264,
+                5281.599848694772
+            ],
+            "ypr": [
+                -77.24,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookFaust",
+            "pos": [
+                2862.898820750035,
+                206.05662137077167,
+                5281.941204721898
+            ],
+            "ypr": [
+                21.17,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheCountryOfTheBlind",
+            "pos": [
+                2862.8988471167936,
+                206.11062136433435,
+                5281.941204721898
+            ],
+            "ypr": [
+                14.1,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookHunger",
+            "pos": [
+                2862.898873483552,
+                206.16462135789706,
+                5281.941204721898
+            ],
+            "ypr": [
+                21.94,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookADollsHouse",
+            "pos": [
+                2862.965141654642,
+                206.17841311669798,
+                5282.233795602292
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheJungleBook",
+            "pos": [
+                2862.977952913009,
+                206.179875191427,
+                5282.290363172501
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookScaramouche",
+            "pos": [
+                2862.990763701323,
+                206.18037457950464,
+                5282.346930742711
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookAfterLondon",
+            "pos": [
+                2863.003574489636,
+                206.18087396758233,
+                5282.40349831292
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTonyAndTheBeetles",
+            "pos": [
+                2863.0163852779497,
+                206.18137335565999,
+                5282.4600658831305
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheTurnOfTheScrew",
+            "pos": [
+                2863.0291960580703,
+                206.18185596585644,
+                5282.51663345334
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTreasureIsland",
+            "pos": [
+                2863.042006694203,
+                206.18204368309887,
+                5282.573201023549
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookMobyDick",
+            "pos": [
+                2863.054817330336,
+                206.1822314003413,
+                5282.629768593759
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Paper",
+            "pos": [
+                2862.711241006197,
+                206.38634274121998,
+                5281.112197227449
+            ],
+            "ypr": [
+                22.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Paper",
+            "pos": [
+                2862.7819187664413,
+                206.3840779728539,
+                5281.424294166535
+            ],
+            "ypr": [
+                -7.24,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Paper",
+            "pos": [
+                2862.848178209084,
+                206.3799935819282,
+                5281.71688504693
+            ],
+            "ypr": [
+                47.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookGunmansReckoning",
+            "pos": [
+                2862.943168617222,
+                206.41211054027963,
+                5282.136265308827
+            ],
+            "ypr": [
+                0.92,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookBlackBeauty",
+            "pos": [
+                2862.9431949839804,
+                206.46611053384234,
+                5282.136265308827
+            ],
+            "ypr": [
+                3.78,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "AlarmClock_Blue",
+            "pos": [
+                2863.0315088702578,
+                206.39505134083808,
+                5282.526386482686
+            ],
+            "ypr": [
+                -77.24,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookWarAndPeace",
+            "pos": [
+                2861.7863935343776,
+                205.3614527425913,
+                5277.0305544459525
+            ],
+            "ypr": [
+                22.65,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTrailin",
+            "pos": [
+                2861.786419901136,
+                205.415452736154,
+                5277.0305544459525
+            ],
+            "ypr": [
+                14.69,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheCallOfTheWild",
+            "pos": [
+                2861.7864462678945,
+                205.4694527297167,
+                5277.0305544459525
+            ],
+            "ypr": [
+                21.51,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookFlyingURanch",
+            "pos": [
+                2861.8857856660934,
+                205.3614042120595,
+                5277.469440766544
+            ],
+            "ypr": [
+                12.49,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookLonesomeLand",
+            "pos": [
+                2861.885812032852,
+                205.41540420562222,
+                5277.469440766544
+            ],
+            "ypr": [
+                4.12,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookVerwandlung",
+            "pos": [
+                2861.8858383996103,
+                205.4694041991849,
+                5277.469440766544
+            ],
+            "ypr": [
+                6.86,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Binoculars",
+            "pos": [
+                2861.996257011951,
+                205.43435028054415,
+                5277.957092233867
+            ],
+            "ypr": [
+                -27.24,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookUlysses",
+            "pos": [
+                2862.0845699295255,
+                205.36130715099594,
+                5278.347213407726
+            ],
+            "ypr": [
+                14.99,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookShe",
+            "pos": [
+                2862.084596296284,
+                205.41530714455865,
+                5278.347213407726
+            ],
+            "ypr": [
+                17.42,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookRasselas",
+            "pos": [
+                2861.742448372362,
+                205.8307170869488,
+                5276.835493859023
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTranslationsOfShakuntala",
+            "pos": [
+                2861.755258673682,
+                205.83021909576408,
+                5276.892061429233
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookThreeMenInABoat",
+            "pos": [
+                2861.7680689750014,
+                205.82972110457936,
+                5276.948628999442
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookDasNibelungenlied",
+            "pos": [
+                2861.780879195065,
+                205.8290566981237,
+                5277.005196569651
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookSpinifexAndSand",
+            "pos": [
+                2861.7936892391376,
+                205.8280318568453,
+                5277.061764139861
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookLaComdieHumaine",
+            "pos": [
+                2861.80649928321,
+                205.82700701556695,
+                5277.11833171007
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheMetamorphosis",
+            "pos": [
+                2861.819309327283,
+                205.82598217428858,
+                5277.17489928028
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookLaChartreuseDeParme",
+            "pos": [
+                2861.832119370749,
+                205.82495609092402,
+                5277.23146685049
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookAPrincessOfMars",
+            "pos": [
+                2861.844929377233,
+                205.82385426659633,
+                5277.288034420699
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheShunnedHouse",
+            "pos": [
+                2861.8577393837168,
+                205.8227524422687,
+                5277.344601990909
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookMadameBovary",
+            "pos": [
+                2861.8705493902007,
+                205.82165061794106,
+                5277.401169561118
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheBarrier",
+            "pos": [
+                2861.8833593966847,
+                205.82054879361343,
+                5277.457737131328
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheScarletPimpernel",
+            "pos": [
+                2861.8961694168993,
+                205.8194750907297,
+                5277.514304701537
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookRobinsonCrusoe",
+            "pos": [
+                2861.908979441567,
+                205.81841050842587,
+                5277.570872271746
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookCandide",
+            "pos": [
+                2861.9217894662356,
+                205.81734592612204,
+                5277.627439841956
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookJapaneseLiterature",
+            "pos": [
+                2861.934599490904,
+                205.81628134381825,
+                5277.684007412166
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookWielandOrTheTransformation",
+            "pos": [
+                2861.947409865983,
+                205.81593441546926,
+                5277.740574982375
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookLleMystrieuse",
+            "pos": [
+                2861.9602206202917,
+                205.81636416044296,
+                5277.797142552585
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheAeneid",
+            "pos": [
+                2861.9730313746,
+                205.81679390541666,
+                5277.853710122794
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookBible",
+            "pos": [
+                2862.0627104120167,
+                205.82749710867662,
+                5278.249683114261
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookThePictureOfDorianGray",
+            "pos": [
+                2862.0755215144864,
+                205.82863990012603,
+                5278.30625068447
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookDonQuixote",
+            "pos": [
+                2862.088332616957,
+                205.82978269157545,
+                5278.36281825468
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookAVoyageToArcturus",
+            "pos": [
+                2862.1011437194265,
+                205.83092548302486,
+                5278.419385824889
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookLesCorneilles",
+            "pos": [
+                2862.11395445579,
+                205.83131847695586,
+                5278.475953395098
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookIvanhoe",
+            "pos": [
+                2862.1267650040063,
+                205.83132613739974,
+                5278.532520965308
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheThunderBird",
+            "pos": [
+                2862.1395755522217,
+                205.83133379784363,
+                5278.5890885355175
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookKingSolomonsMines",
+            "pos": [
+                2861.742620132189,
+                206.182486894067,
+                5276.835493859023
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookRussian",
+            "pos": [
+                2861.7554304314604,
+                206.18198470756636,
+                5276.892061429233
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookAndersen",
+            "pos": [
+                2861.768240730731,
+                206.18148252106567,
+                5276.948628999442
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookGreatExpectations",
+            "pos": [
+                2861.781050827776,
+                206.18056616835293,
+                5277.005196569651
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookSelectedStories",
+            "pos": [
+                2861.7938604229225,
+                206.17862191187896,
+                5277.061764139861
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookThePossessed",
+            "pos": [
+                2861.8066700180693,
+                206.176677655405,
+                5277.11833171007
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookCassidysRustlerRoundUp",
+            "pos": [
+                2861.819479613216,
+                206.17473339893107,
+                5277.17489928028
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheDayOfTheBeast",
+            "pos": [
+                2861.8322892433484,
+                206.17286079463915,
+                5277.23146685049
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheThreeMusketeers",
+            "pos": [
+                2861.8450991461737,
+                206.1715466743149,
+                5277.288034420699
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheLastMan",
+            "pos": [
+                2861.8579090489998,
+                206.17023255399067,
+                5277.344601990909
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheCosmicComputer",
+            "pos": [
+                2861.870718951825,
+                206.16891843366645,
+                5277.401169561118
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookLenfer1Of2",
+            "pos": [
+                2861.8835288546506,
+                206.1676043133422,
+                5277.457737131328
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookRonickyDoone",
+            "pos": [
+                2861.8963391848297,
+                206.16716542767838,
+                5277.514304701537
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "AlarmClock_Green",
+            "pos": [
+                2861.952372544221,
+                206.02791852744772,
+                5277.762031646937
+            ],
+            "ypr": [
+                -77.24,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookErewhon",
+            "pos": [
+                2862.0296952862886,
+                206.0642348698363,
+                5278.103387674064
+            ],
+            "ypr": [
+                7.02,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookAroundTheWorldIn80Days",
+            "pos": [
+                2862.029721653047,
+                206.11823486339898,
+                5278.103387674064
+            ],
+            "ypr": [
+                5.97,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookNostromo",
+            "pos": [
+                2862.0960142148806,
+                206.18197967211242,
+                5278.3959785544575
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookDonQuichotte",
+            "pos": [
+                2862.1088249477734,
+                206.18236555687727,
+                5278.452546124668
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheDecameron",
+            "pos": [
+                2862.1216355839056,
+                206.1825532741197,
+                5278.509113694877
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookMrchenFrKinder",
+            "pos": [
+                2862.1344462200386,
+                206.18274099136212,
+                5278.565681265086
+            ],
+            "ypr": [
+                12.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Paper",
+            "pos": [
+                2861.7758510487374,
+                206.38769587180485,
+                5276.9817892992205
+            ],
+            "ypr": [
+                -2.24,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Paper",
+            "pos": [
+                2861.842110549655,
+                206.38373083038758,
+                5277.274380179614
+            ],
+            "ypr": [
+                32.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Flashlight",
+            "pos": [
+                2861.954200144579,
+                206.42161921394256,
+                5277.710395171568
+            ],
+            "ypr": [
+                -57.24,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheVariableMan",
+            "pos": [
+                2862.040911594714,
+                206.4180030969869,
+                5278.152152820796
+            ],
+            "ypr": [
+                24.11,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookWutheringHeights",
+            "pos": [
+                2862.0409379614725,
+                206.4720030905496,
+                5278.152152820796
+            ],
+            "ypr": [
+                19.75,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookTheMonkARomance",
+            "pos": [
+                2862.040964328231,
+                206.5260030841123,
+                5278.152152820796
+            ],
+            "ypr": [
+                24.59,
+                -90.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
