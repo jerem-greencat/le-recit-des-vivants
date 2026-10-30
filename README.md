@@ -90,6 +90,7 @@ Chaque mapping est un JSON dans `custom/`, déclaré dans `objectSpawnersArr` de
   "./custom/zeleno_builder.json",
   "./custom/zeleno_gunshop.json",
   "./custom/zeleno_epicerie.json",
+  "./custom/zeleno_ghetto.json",
   "./custom/shop_admin.json",
   "./custom/vybor_shop_bm.json"
 ],
@@ -111,6 +112,7 @@ les gérer à la main (voir la section Météo). De même pour les mappings de f
 | `custom/zeleno_builder.json` | Zone RP du constructeur à Zelenogorsk : matériaux (rondins, tôles, fil, corde, filets de camouflage) et outils |
 | `custom/zeleno_gunshop.json` | Armurerie de Zelenogorsk : boîtes de munitions de tous calibres et tableaux d'affichage |
 | `custom/zeleno_epicerie.json` | Zone RP de l'épicier dans le supermarché à l'ouest de la fontaine de Zelenogorsk (`Land_City_Store_WithStairs`) : nourriture, boissons et matériel de cuisine (Chernarus, Livonia, Sakhal, Badlands, sans fruits ni légumes) sur les rayons, viande et poisson dans les congélateurs, papier et stylos sur les caisses, stock et cartons dans la réserve |
+| `custom/zeleno_ghetto.json` | Cité derrière l'hôpital de Zelenogorsk : route (asphalte Sakhal) qui relie les deux impasses, tour et barre d'immeubles, box, check-point et QG du gang, squat dans un bus, aire de jeux abandonnée, graffitis, épaves et feux |
 | `custom/shop_admin.json` | Shop admin à l'aérodrome de Krasnostav : stock d'objets (matériaux de construction, conteneurs, munitions, explosifs…) |
 | `custom/vybor_shop_bm.json` | Black market à l'est de Vybor : conteneurs et caisses, objets du loot restreint (armes lourdes, explosifs, munitions 40 mm et RPG, casques, ghillies, vision nocturne), cigarettes, cannabis, matériel |
 
