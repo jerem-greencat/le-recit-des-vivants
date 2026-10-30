@@ -1,0 +1,1428 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Market1",
+            "pos": [
+                2575.800048828125,
+                190.2989959716797,
+                5297.0
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Basket_Wicker",
+            "pos": [
+                2572.89990234375,
+                190.3000030517578,
+                5289.60009765625
+            ],
+            "ypr": [
+                -124.80001068115235,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Basket_Wicker",
+            "pos": [
+                2572.89990234375,
+                190.3000030517578,
+                5290.5
+            ],
+            "ypr": [
+                -91.49998474121094,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Sack",
+            "pos": [
+                2573.0,
+                190.29400634765626,
+                5299.7998046875
+            ],
+            "ypr": [
+                89.4000015258789,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Sack",
+            "pos": [
+                2573.0,
+                190.29299926757813,
+                5300.39990234375
+            ],
+            "ypr": [
+                121.19998931884766,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Sack",
+            "pos": [
+                2573.0,
+                190.29200744628907,
+                5301.10009765625
+            ],
+            "ypr": [
+                158.30001831054688,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Basket_Red",
+            "pos": [
+                2572.89990234375,
+                190.28799438476563,
+                5304.2998046875
+            ],
+            "ypr": [
+                20.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Crates_Small",
+            "pos": [
+                2572.89990234375,
+                190.3000030517578,
+                5295.0
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Crates_Small",
+            "pos": [
+                2572.89990234375,
+                190.75999450683595,
+                5295.0
+            ],
+            "ypr": [
+                95.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_TransportCart",
+            "pos": [
+                2576.39990234375,
+                190.3179931640625,
+                5284.60009765625
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_HayBale",
+            "pos": [
+                2573.60009765625,
+                190.9810028076172,
+                5284.39990234375
+            ],
+            "ypr": [
+                14.999999046325684,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Stand_Meat",
+            "pos": [
+                2577.699951171875,
+                190.3459930419922,
+                5281.60009765625
+            ],
+            "ypr": [
+                -89.99996948242188,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Stand_Meat",
+            "pos": [
+                2577.699951171875,
+                190.36000061035157,
+                5279.0
+            ],
+            "ypr": [
+                -89.99996948242188,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Table_Market",
+            "pos": [
+                2575.199951171875,
+                190.80999755859376,
+                5280.2998046875
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_scale",
+            "pos": [
+                2575.199951171875,
+                191.7760009765625,
+                5280.89990234375
+            ],
+            "ypr": [
+                -89.99996948242188,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_icebox",
+            "pos": [
+                2578.449951171875,
+                190.99200439453126,
+                5276.39990234375
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Chair_Camp1",
+            "pos": [
+                2576.699951171875,
+                190.8520050048828,
+                5276.60009765625
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_FishingGear1",
+            "pos": [
+                2576.800048828125,
+                190.36900329589845,
+                5271.7998046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_CrabCages",
+            "pos": [
+                2576.60009765625,
+                190.3780059814453,
+                5268.7001953125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Table_Market",
+            "pos": [
+                2573.699951171875,
+                190.83599853515626,
+                5271.39990234375
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Bucket_Red",
+            "pos": [
+                2573.5,
+                190.36900329589845,
+                5269.39990234375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Bucket_Red",
+            "pos": [
+                2573.0,
+                190.3699951171875,
+                5269.0
+            ],
+            "ypr": [
+                39.999996185302737,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_PlasticBucket",
+            "pos": [
+                2574.10009765625,
+                190.35299682617188,
+                5273.2998046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Market2",
+            "pos": [
+                2549.0,
+                190.2220001220703,
+                5306.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Crates_Small",
+            "pos": [
+                2544.199951171875,
+                190.21200561523438,
+                5302.89990234375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Basket_Red",
+            "pos": [
+                2547.60009765625,
+                190.2169952392578,
+                5302.89990234375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Basket_Wicker",
+            "pos": [
+                2548.300048828125,
+                190.21800231933595,
+                5302.89990234375
+            ],
+            "ypr": [
+                29.999998092651368,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Sack",
+            "pos": [
+                2552.89990234375,
+                190.2209930419922,
+                5302.89990234375
+            ],
+            "ypr": [
+                10.000000953674317,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Sack",
+            "pos": [
+                2553.5,
+                190.2209930419922,
+                5302.89990234375
+            ],
+            "ypr": [
+                70.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Crates_Small",
+            "pos": [
+                2557.39990234375,
+                190.2209930419922,
+                5302.89990234375
+            ],
+            "ypr": [
+                4.999999523162842,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Carpets_Stack",
+            "pos": [
+                2562.60009765625,
+                190.22900390625,
+                5307.89990234375
+            ],
+            "ypr": [
+                10.000000953674317,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rack_Carpets",
+            "pos": [
+                2565.39990234375,
+                190.2839813232422,
+                5308.5
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Carpet1",
+            "pos": [
+                2565.199951171875,
+                190.24099731445313,
+                5305.39990234375
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Table1",
+            "pos": [
+                2568.300048828125,
+                190.2530059814453,
+                5307.7001953125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_racks",
+            "pos": [
+                2570.89990234375,
+                190.27099609375,
+                5308.39990234375
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_wheel_cart_DZ",
+            "pos": [
+                2568.60009765625,
+                190.35899353027345,
+                5304.7001953125
+            ],
+            "ypr": [
+                29.999998092651368,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Chair_Plastic",
+            "pos": [
+                2567.0,
+                190.2449951171875,
+                5306.2998046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Chair_Plastic",
+            "pos": [
+                2569.699951171875,
+                190.26499938964845,
+                5306.2001953125
+            ],
+            "ypr": [
+                -179.99998474121095,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Cages",
+            "pos": [
+                2571.699951171875,
+                190.281005859375,
+                5305.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Cages",
+            "pos": [
+                2571.699951171875,
+                191.66099548339845,
+                5305.0
+            ],
+            "ypr": [
+                14.999999046325684,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Basket_Wicker",
+            "pos": [
+                2562.300048828125,
+                190.2270050048828,
+                5304.60009765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_StorageBox_Wooden",
+            "pos": [
+                2563.699951171875,
+                190.22999572753907,
+                5308.7998046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_WoodPile1",
+            "pos": [
+                2560.800048828125,
+                190.406005859375,
+                5308.39990234375
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_PartyTent",
+            "pos": [
+                2539.56591796875,
+                190.19961547851563,
+                5306.8701171875
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Counter",
+            "pos": [
+                2539.56591796875,
+                190.19961547851563,
+                5305.56982421875
+            ],
+            "ypr": [
+                1.221333797984947e-12,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_cashier",
+            "pos": [
+                2540.466064453125,
+                191.0596160888672,
+                5305.56982421875
+            ],
+            "ypr": [
+                -179.99998474121095,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_gas_stove_a_01_red",
+            "pos": [
+                2537.56591796875,
+                190.6496124267578,
+                5308.06982421875
+            ],
+            "ypr": [
+                -179.99998474121095,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_icebox",
+            "pos": [
+                2539.365966796875,
+                190.8216094970703,
+                5308.669921875
+            ],
+            "ypr": [
+                -179.99998474121095,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Crates_Small_Stack",
+            "pos": [
+                2541.865966796875,
+                190.21861267089845,
+                5308.3701171875
+            ],
+            "ypr": [
+                1.221333797984947e-12,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2537.5,
+                190.56300354003907,
+                5272.5
+            ],
+            "ypr": [
+                -94.99996185302735,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2537.5,
+                190.58599853515626,
+                5281.5
+            ],
+            "ypr": [
+                21.999998092651368,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2545.5,
+                190.57899475097657,
+                5272.5
+            ],
+            "ypr": [
+                -38.99998474121094,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2545.5,
+                190.5989990234375,
+                5281.5
+            ],
+            "ypr": [
+                78.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2537.5,
+                190.59100341796876,
+                5284.5
+            ],
+            "ypr": [
+                61.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2537.5,
+                190.5959930419922,
+                5293.5
+            ],
+            "ypr": [
+                178.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2545.5,
+                190.60699462890626,
+                5284.5
+            ],
+            "ypr": [
+                117.00000762939453,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2545.5,
+                190.61500549316407,
+                5293.5
+            ],
+            "ypr": [
+                -125.99999237060547,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2547.0,
+                190.58700561523438,
+                5272.5
+            ],
+            "ypr": [
+                -28.49999237060547,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2547.0,
+                190.60499572753907,
+                5281.5
+            ],
+            "ypr": [
+                88.49999237060547,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2555.0,
+                190.7100067138672,
+                5272.5
+            ],
+            "ypr": [
+                27.5,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2555.0,
+                190.63299560546876,
+                5281.5
+            ],
+            "ypr": [
+                144.5,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2547.0,
+                190.61300659179688,
+                5284.5
+            ],
+            "ypr": [
+                127.5,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2547.0,
+                190.62100219726563,
+                5293.5
+            ],
+            "ypr": [
+                -115.49998474121094,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2555.0,
+                190.63299560546876,
+                5284.5
+            ],
+            "ypr": [
+                -176.49998474121095,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2555.0,
+                190.63299560546876,
+                5293.5
+            ],
+            "ypr": [
+                -59.49998092651367,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2556.5,
+                190.74200439453126,
+                5272.5
+            ],
+            "ypr": [
+                38.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2556.5,
+                190.63800048828126,
+                5281.5
+            ],
+            "ypr": [
+                155.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2564.5,
+                190.76300048828126,
+                5272.5
+            ],
+            "ypr": [
+                94.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2564.5,
+                190.69000244140626,
+                5281.5
+            ],
+            "ypr": [
+                -148.99996948242188,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2556.5,
+                190.63499450683595,
+                5284.5
+            ],
+            "ypr": [
+                -165.99998474121095,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2556.5,
+                190.63299560546876,
+                5293.5
+            ],
+            "ypr": [
+                -48.99998092651367,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2564.5,
+                190.67100524902345,
+                5284.5
+            ],
+            "ypr": [
+                -109.99998474121094,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_RoadCone",
+            "pos": [
+                2564.5,
+                190.6439971923828,
+                5293.5
+            ],
+            "ypr": [
+                7.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_FireBarrel_Red",
+            "pos": [
+                2546.25,
+                191.43299865722657,
+                5283.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_FireBarrel_Red",
+            "pos": [
+                2555.75,
+                191.46200561523438,
+                5283.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Lamp_Decorative",
+            "pos": [
+                2537.0,
+                192.3419952392578,
+                5283.0
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Lamp_Decorative",
+            "pos": [
+                2565.0,
+                192.43699645996095,
+                5283.0
+            ],
+            "ypr": [
+                -89.99996948242188,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Lamp_Decorative",
+            "pos": [
+                2546.25,
+                192.32699584960938,
+                5271.89990234375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Lamp_Decorative",
+            "pos": [
+                2555.75,
+                192.4720001220703,
+                5271.89990234375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Lamp_Decorative",
+            "pos": [
+                2546.25,
+                192.3719940185547,
+                5294.10009765625
+            ],
+            "ypr": [
+                -179.99998474121095,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Lamp_Decorative",
+            "pos": [
+                2555.75,
+                192.38699340820313,
+                5294.10009765625
+            ],
+            "ypr": [
+                -179.99998474121095,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_NoticeBoard1",
+            "pos": [
+                2551.199951171875,
+                190.86099243164063,
+                5265.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Stand_Kiosk",
+            "pos": [
+                2554.199951171875,
+                190.1540069580078,
+                5265.89990234375
+            ],
+            "ypr": [
+                -89.99996948242188,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_flag_chernarus_pole",
+            "pos": [
+                2556.300048828125,
+                190.24400329589845,
+                5264.7001953125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_flag_chernarus_pole",
+            "pos": [
+                2550.0,
+                189.9499969482422,
+                5264.7001953125
+            ],
+            "ypr": [
+                -179.99998474121095,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Bench_Brown",
+            "pos": [
+                2561.5,
+                190.34800720214845,
+                5265.89990234375
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Bench_Brown",
+            "pos": [
+                2566.0,
+                190.38499450683595,
+                5265.89990234375
+            ],
+            "ypr": [
+                90.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_WoodTable_Outdoor",
+            "pos": [
+                2569.260009765625,
+                190.86865234375,
+                5267.12939453125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_WoodTable_Outdoor",
+            "pos": [
+                2571.659912109375,
+                190.89865112304688,
+                5267.12939453125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995827674866,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
