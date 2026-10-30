@@ -81,6 +81,7 @@ Chaque mapping est un JSON dans `custom/`, déclaré dans `objectSpawnersArr` de
 ```json
 "objectSpawnersArr": [
   "./custom/PZero_SpawnTest_LordBionik.json",
+  "./custom/zeleno_admin.json",
   "./custom/zeleno_enceinte.json",
   "./custom/zeleno_garagiste_v2.json",
   "./custom/zeleno_hospital.json",
@@ -88,11 +89,22 @@ Chaque mapping est un JSON dans `custom/`, déclaré dans `objectSpawnersArr` de
   "./custom/zeleno_church.json",
   "./custom/zeleno_city_hall.json",
   "./custom/zeleno_builder.json",
+  "./custom/zeleno_builder_mobile.json",
   "./custom/zeleno_gunshop.json",
   "./custom/zeleno_epicerie.json",
+  "./custom/zeleno_reporter.json",
   "./custom/zeleno_ghetto.json",
+  "./custom/zeleno_market_place.json",
+  "./custom/zeleno_global.json",
   "./custom/shop_admin.json",
-  "./custom/vybor_shop_bm.json"
+  "./custom/vybor_shop_bm.json",
+  "./custom/novaya_overgrown.json",
+  "./custom/tishina_barrage_overgrown.json",
+  "./custom/prison_bridge.json",
+  "./custom/devils_castle_secte.json",
+  "./custom/vyshnoye_plane_base.json",
+  "./custom/junkyard_base.json",
+  "./custom/pustoshka_survivor_camp.json"
 ],
 ```
 
@@ -103,6 +115,7 @@ les gérer à la main (voir la section Météo). De même pour les mappings de f
 | Fichier | Description |
 | --- | --- |
 | `custom/PZero_SpawnTest_LordBionik.json` | Mapping de test, positionné volontairement au point zéro de la map |
+| `custom/zeleno_admin.json` | Espace admin à l'ouest de la gare routière de Zelenogorsk : tenues admin (bob et brassard orange, voir Loot restreint), crochets de serrure, jerrican |
 | `custom/zeleno_enceinte.json` | Enceinte de la zone safe de Zelenogorsk : murs, poteaux, barrages, épaves |
 | `custom/zeleno_garagiste_v2.json` | Zone RP du garagiste : en face de la station essence de Zelenogorsk, de l'autre côté de la route |
 | `custom/zeleno_hospital.json` | Zone RP du médecin dans l'hôpital de Zelenogorsk (`Land_Village_HealthCare`) : matériel médical sur les étagères |
@@ -110,14 +123,38 @@ les gérer à la main (voir la section Météo). De même pour les mappings de f
 | `custom/zeleno_church.json` | Église de Zelenogorsk : décor (tombes, sarcophage, corps, pendus) et bibles |
 | `custom/zeleno_city_hall.json` | Mairie de Zelenogorsk : mobilier de bureau (bureaux, PC, tapis, bancs), bougies, décor |
 | `custom/zeleno_builder.json` | Zone RP du constructeur à Zelenogorsk : matériaux (rondins, tôles, fil, corde, filets de camouflage) et outils |
+| `custom/zeleno_builder_mobile.json` | Stocks du constructeur mobile, en 4 points de Zelenogorsk : rondins, bâtons, tôles, fil, corde, barbelés, filets de camouflage, outils, cadenas et serrures à code |
 | `custom/zeleno_gunshop.json` | Armurerie de Zelenogorsk : boîtes de munitions de tous calibres et tableaux d'affichage |
 | `custom/zeleno_epicerie.json` | Zone RP de l'épicier dans le supermarché à l'ouest de la fontaine de Zelenogorsk (`Land_City_Store_WithStairs`) : nourriture, boissons et matériel de cuisine (Chernarus, Livonia, Sakhal, Badlands, sans fruits ni légumes) sur les rayons, viande et poisson dans les congélateurs, papier et stylos sur les caisses, stock et cartons dans la réserve |
-| `custom/zeleno_ghetto.json` | Cité derrière l'hôpital de Zelenogorsk : route (asphalte Sakhal) qui relie les deux impasses, tour et barre d'immeubles, box, check-point et QG du gang, squat dans un bus, aire de jeux abandonnée, graffitis, épaves et feux |
+| `custom/zeleno_reporter.json` | Maison du journaliste à l'est de Zelenogorsk (`Land_House_2B04`) : bureau radio (radio de base, talkie-walkie, mégaphone), gilet presse, jumelles, bibliothèque, papier |
+| `custom/zeleno_ghetto.json` | Cité derrière l'hôpital de Zelenogorsk : route en dalles de béton qui relie les deux impasses, tour et barre d'immeubles, box, check-point et QG du gang, squat dans un bus, aire de jeux abandonnée, graffitis, épaves et feux |
+| `custom/zeleno_market_place.json` | Place du marché de Zelenogorsk (place pavée au sud-est de la gare routière), pour le marché hebdomadaire : halles, boucherie, poissonnerie, rangée de stands, brocante, buvette, cabane du placier. Une boucle de voies reste libre pour les véhicules, et 6 emplacements de 8 × 9 m (coins marqués par des cônes) sont laissés aux tentes des joueurs |
+| `custom/zeleno_global.json` | Ambiance post-apo dans toute la ville safe : feux cachés sous des poubelles, gravats et pneus, quelques épaves en feu, fosse commune. Fait à la main (plus de générateur) |
 | `custom/shop_admin.json` | Shop admin à l'aérodrome de Krasnostav : stock d'objets (matériaux de construction, conteneurs, munitions, explosifs…) |
-| `custom/vybor_shop_bm.json` | Black market à l'est de Vybor : conteneurs et caisses, objets du loot restreint (armes lourdes, explosifs, munitions 40 mm et RPG, casques, ghillies, vision nocturne), cigarettes, cannabis, matériel |
+| `custom/vybor_shop_bm.json` | Black market à l'est de Vybor : conteneurs et caisses, objets du loot restreint (armes lourdes, explosifs, munitions 40 mm et RPG, casques, ghillies, vision nocturne), cigarettes, cannabis, matériel, le seul bob orange accessible aux joueurs |
+| `custom/novaya_overgrown.json` | Novaya Petrovka envahie par la végétation : souches, herbes et buissons, arbres couchés, barricades, épaves (véhicules civils et militaires, hélico crashé). Camp de gitans (tabor) dans un terrain vague clos : caravanes autour du feu, tente commune, charrette, poulailler, étal de tapis |
+| `custom/tishina_barrage_overgrown.json` | Barrage de Tishina : base fermée (murs, palissades en tôle, portails), atelier (étaux, établis, étagères), tuyaux, végétation |
+| `custom/prison_bridge.json` | Pont de pierre vers l'île de la prison |
+| `custom/devils_castle_secte.json` | Base de la secte au château du diable : remparts, tentes, tour, escaliers, tombes, têtes coupées, bougies |
+| `custom/vyshnoye_plane_base.json` | Base autour d'une carcasse d'avion près de Vyshnoye : MiG-21, stand de tir, dortoir (lits de camp, casiers), cratères, arbres couchés |
+| `custom/junkyard_base.json` | Casse auto au nord de la route de Berezino : dalle de béton à plat (sol 118,70) avec rampe d'accès depuis la route, des centaines d'épaves, piles de pneus, conteneurs, talus de rochers |
+| `custom/pustoshka_survivor_camp.json` | Camp de survivants à Pustoshka : enceinte d'épaves (bus, Volga, UAZ, camions), barbelés, bungalows, conteneurs |
+| `custom/comete.json` | Épaves du traîneau du père Noël au centre de Zelenogorsk. N'est plus chargé (retiré de `objectSpawnersArr`) |
 
 Les objets ramassables (armes, `UndergroundStash`…) d'un mapping sont recréés à chaque
-redémarrage, même s'ils ont été pris : à éviter hors test.
+redémarrage, même s'ils ont été pris : à éviter hors test et hors zones RP. Dans les bases (secte,
+avion…), seuls les objets de décor sont gardés (bougies, objets agrandis ou réduits, bois dans les
+cheminées).
+
+Règles pour les mappings sur console :
+
+- uniquement des classes vanilla (`StaticObj_*`, `Land_*`…) : les classes `bldr_*` de DayZ Editor
+  (mod BuilderItems) n'existent pas sur Xbox, et un chemin `.p3d` n'est accepté que pour les plantes et
+  les rochers, qui restent invisibles pour les joueurs (voir Météo) ;
+- les morceaux de route posés par mapping scintillent : utiliser des dalles de béton
+  (`StaticObj_Panel_Concrete_*`) pour une chaussée ;
+- un décor plat posé au ras du sol ou sur un autre (plaques de neige, décalcomanies) scintille :
+  le surélever de quelques centimètres et décaler les hauteurs.
 
 ## Zone safe de Zelenogorsk
 
@@ -173,6 +210,22 @@ véhicules terrestres de la map sont réduits de moitié dans `db/events.xml` (m
 Humvee (`VehicleOffroad02`, marqueur `Humvee`) : 4 sur la map (4 / 3 / 4), 2 verts
 (`Offroad_02`) et 2 en version désert de Badlands (`Offroad_02_Beige`).
 
+## Apparition des joueurs
+
+Tous les joueurs apparaissent au même endroit, à l'est de Zelenogorsk (x 3073, z 5207.9), pour une
+première connexion comme après une mort ou un changement de serveur (`fresh`, `hop` et `travel` dans
+`cfgplayerspawnpoints.xml`). Garder `grid_density` au-dessus de 0 : à 0, il n'y a aucun point candidat
+et les joueurs apparaissent au point (0, 0) de la carte.
+
+## Construction
+
+Les vérifications de placement sont assouplies dans `cfggameplay.json` (`BaseBuildingData`) pour
+construire librement en RP : collisions, toit, pente, hauteur, terrain, plot de base et zones froides
+(`disableIs…Check` à `true`, ainsi que `disablePerformRoofCheck` et `disableIsCollidingCheck` pour la
+construction). Restent actives : la collision avec les joueurs, l'interdiction de construire sous l'eau
+ou dans les zones interdites, et la distance de construction. Les bases et les conteneurs ne prennent
+pas de dégâts (`disableBaseDamage`, `disableContainerDamage`).
+
 ## Danger
 
 | Élément | Réglage | Fichier |
@@ -222,6 +275,9 @@ on ne peut les obtenir que via les mappings (shop admin, armurerie, commissariat
 | Gilets | Plate carrier (et ses holsters/poches), gilet haute capacité, Smersh, UK Assault, chest rig | Gilet de chasse, gilet de presse, gilet anti-couteaux (`PoliceVest`) |
 | Accessoires militaires | Casques (balistiques, Gorka, MICH, SSh-68, tankiste, pilote), bérets, casquettes et chapeaux militaires, cagoule BDU, lunettes tactiques, vision nocturne (lunettes et sangle), gourde | Masques à gaz, combinaisons NBC |
 | Ghillies | Toutes les pièces ghillie | |
+| Tenue admin | Bob orange (`BoonieHat_Orange`), imperméable orange (`Raincoat_Orange`, qui sert à fabriquer le brassard orange : la recette ne peut pas être désactivée sur console). L'imperméable orange est aussi retiré de l'équipement de départ `tempete` | Le bob orange du black market de Vybor, voulu |
+
+Les admins se reconnaissent au bob et au brassard orange (`custom/zeleno_admin.json`).
 
 Modifications, toutes commentées avec le marqueur `Loot restreint` :
 
