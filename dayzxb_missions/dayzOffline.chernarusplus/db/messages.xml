@@ -51,22 +51,12 @@ Example messages:
 		<text>Bienvenue sur Le Récit des Vivants, survivant. Ici, chaque vie compte : jouez votre personnage et écrivez votre histoire.</text>
 	</message>
 
-	<!-- REDEMARRAGE : planifié chez Nitrado toutes les 4 h (240 min), delay = minutes après le démarrage -->
+	<!-- REDEMARRAGE : natif DayZ, le serveur s'arrête 240 min après son démarrage et Nitrado le relance.
+	     Le moteur affiche lui-même le décompte (#tmin). Aucune tâche de restart planifiée chez Nitrado. -->
 	<message>
-		<delay>225</delay>
-		<text>Redémarrage du serveur dans 15 minutes.</text>
-	</message>
-	<message>
-		<delay>230</delay>
-		<text>Redémarrage du serveur dans 10 minutes.</text>
-	</message>
-	<message>
-		<delay>235</delay>
-		<text>Redémarrage du serveur dans 5 minutes. Mettez-vous à l'abri.</text>
-	</message>
-	<message>
-		<delay>239</delay>
-		<text>Redémarrage du serveur dans 1 minute. Déconnectez-vous proprement.</text>
+		<deadline>240</deadline>
+		<shutdown>1</shutdown>
+		<text>Redémarrage du serveur dans #tmin minutes. Mettez-vous à l'abri et déconnectez-vous proprement.</text>
 	</message>
 
 </messages>
