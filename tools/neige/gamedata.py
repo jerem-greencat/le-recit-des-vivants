@@ -260,10 +260,10 @@ def _smooth_heights(out):
 
 def _build_heights():
 	src = _wrp()
-	# début du flux LZO du relief : 1423002 pour la version OPRW 32 (mise à jour du 22/10/2026), sinon on le
+	# début du flux LZO du relief : 1423000 pour la version OPRW 32 (mise à jour du 03/11/2026, 1423002 avant), sinon on le
 	# cherche ; un départ en milieu de flux peut sembler valide, d'où la vérification de la taille complète
 	size = HEIGHT_GRID * HEIGHT_GRID * 4
-	for o in [1423002] + list(range(len(src) // 8, 0, -1)):
+	for o in [1423000] + list(range(len(src) // 8, 0, -1)):
 		try:
 			if _smooth_heights(_lzo(src, o, 8192)):
 				out = _lzo(src, o, size)
