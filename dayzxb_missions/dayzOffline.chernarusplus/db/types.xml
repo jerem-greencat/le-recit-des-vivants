@@ -14887,10 +14887,10 @@
         <usage name="Coast"/> <!-- Loot RP -->
     </type>
     <type name="Netting">
-        <nominal>50</nominal>
-        <lifetime>14400</lifetime>
+        <nominal>0</nominal> <!-- Craft ghillie désactivé : 50 -->
+        <lifetime>30</lifetime> <!-- Craft ghillie désactivé : 14400 -->
         <restock>0</restock>
-        <min>30</min>
+        <min>0</min> <!-- Craft ghillie désactivé : 30 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
