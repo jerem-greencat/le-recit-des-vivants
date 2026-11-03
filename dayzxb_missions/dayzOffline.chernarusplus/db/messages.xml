@@ -51,10 +51,12 @@ Example messages:
 		<text>Bienvenue sur Le Récit des Vivants, survivant. Ici, chaque vie compte : jouez votre personnage et écrivez votre histoire.</text>
 	</message>
 
-	<!-- REDEMARRAGE : natif DayZ, le serveur s'arrête 240 min après son démarrage et Nitrado le relance.
-	     Le moteur affiche lui-même le décompte (#tmin). Aucune tâche de restart planifiée chez Nitrado. -->
+	<!-- REDEMARRAGE : natif DayZ, le serveur s'arrête après le deadline et Nitrado le relance.
+	     Le moteur affiche lui-même le décompte (#tmin). Aucune tâche de restart planifiée chez Nitrado.
+	     L'horloge du moteur retarde d'environ 7,5 % sur l'heure réelle (RPT du 03/11 : 240 min moteur = 258 min réelles),
+	     d'où 220 pour un cycle réel d'environ 4 h, relance comprise. -->
 	<message>
-		<deadline>240</deadline>
+		<deadline>220</deadline>
 		<shutdown>1</shutdown>
 		<text>Redémarrage du serveur dans #tmin minutes. Mettez-vous à l'abri et déconnectez-vous proprement.</text>
 	</message>
