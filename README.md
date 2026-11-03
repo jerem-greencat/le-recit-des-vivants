@@ -96,6 +96,7 @@ Chaque mapping est un JSON dans `custom/`, déclaré dans `objectSpawnersArr` de
   "./custom/zeleno_ghetto.json",
   "./custom/zeleno_market_place.json",
   "./custom/zeleno_squat_sdf.json",
+  "./custom/zeleno_theatre.json",
   "./custom/zeleno_global.json",
   "./custom/shop_admin.json",
   "./custom/vybor_shop_bm.json",
@@ -131,6 +132,7 @@ les gérer à la main (voir la section Météo). De même pour les mappings de f
 | `custom/zeleno_ghetto.json` | Cité derrière l'hôpital de Zelenogorsk : route en dalles de béton qui relie les deux impasses, tour et barre d'immeubles, box, check-point et QG du gang, squat dans un bus, aire de jeux abandonnée, graffitis, épaves et feux |
 | `custom/zeleno_market_place.json` | Place du marché de Zelenogorsk (place pavée au sud-est de la gare routière), pour le marché hebdomadaire : halles, boucherie, poissonnerie, rangée de stands, brocante, buvette, cabane du placier. Une boucle de voies reste libre pour les véhicules, et 6 emplacements de 8 × 9 m (coins marqués par des cônes) sont laissés aux tentes des joueurs |
 | `custom/zeleno_squat_sdf.json` | Deux squats de SDF dans le centre de Zelenogorsk. « Le vieux du kiosque » : appentis bâché contre le kiosque à journaux fermé, lit sur palettes, niche de chien sous le hêtre, bidon à feu. « La cabane de la fontaine » : cabane en tôle dans le recoin entre deux immeubles, à côté de la fontaine (lit, table de camping et théière, linge qui sèche, seaux de lessive, canapé autour du bidon à feu) |
+| `custom/zeleno_theatre.json` | Théâtre-tribunal de Zelenogorsk, dans le champ en pente au nord de la maison du journaliste : théâtre antique adossé à la colline qui sert aux spectacles comme aux procès. Gradins en arc de cercle (12 rangs) avec promenoir, parapet, statue et lampadaires en haut ; orchestre avec tapis rouge, barre des témoins, tables de l'accusation et de la défense, box des accusés à barreaux, bancs du jury et piano ; scène surélevée avec l'estrade des juges (balance, *Crime et Châtiment*, drapeaux), le bureau du greffier, un mur de scène à deux portes et des rideaux ; coulisses derrière (chambre du conseil, loge des comédiens, cage du dépôt). Entrées par les deux escaliers latéraux, affiches et tableau des audiences sur le chemin depuis l'ouest |
 | `custom/zeleno_global.json` | Ambiance post-apo dans toute la ville safe : feux cachés sous des poubelles, gravats et pneus, quelques épaves en feu, fosse commune. Fait à la main (plus de générateur) |
 | `custom/shop_admin.json` | Shop admin à l'aérodrome de Krasnostav : stock d'objets (matériaux de construction, conteneurs, munitions, explosifs…) |
 | `custom/vybor_shop_bm.json` | Black market à l'est de Vybor : conteneurs et caisses, objets du loot restreint (armes lourdes, explosifs, munitions 40 mm et RPG, casques, ghillies, vision nocturne), cigarettes, cannabis, matériel, le seul bob orange accessible aux joueurs |

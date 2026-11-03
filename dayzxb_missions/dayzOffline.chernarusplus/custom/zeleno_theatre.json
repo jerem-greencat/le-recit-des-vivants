@@ -1,0 +1,5332 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2863.18212890625,
+                206.25990295410157,
+                5335.4873046875
+            ],
+            "ypr": [
+                27.90000343322754,
+                0.0,
+                0.0
+            ],
+            "scale": 0.8999998569488525,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2871.312744140625,
+                206.25990295410157,
+                5331.18212890625
+            ],
+            "ypr": [
+                27.90000343322754,
+                0.0,
+                0.0
+            ],
+            "scale": 0.8999999165534973,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2867.487060546875,
+                206.25990295410157,
+                5343.61767578125
+            ],
+            "ypr": [
+                27.90000343322754,
+                0.0,
+                0.0
+            ],
+            "scale": 0.8999999165534973,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2875.617919921875,
+                206.25990295410157,
+                5339.31298828125
+            ],
+            "ypr": [
+                27.90000343322754,
+                0.0,
+                0.0
+            ],
+            "scale": 0.8999999165534973,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2856.2509765625,
+                206.60479736328126,
+                5340.96728515625
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 0.7999999523162842,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2852.493896484375,
+                207.94129943847657,
+                5341.25927734375
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2853.897705078125,
+                207.94129943847657,
+                5343.91064453125
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2851.698486328125,
+                207.57330322265626,
+                5341.6806640625
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2853.102294921875,
+                207.57330322265626,
+                5344.33203125
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2850.903076171875,
+                207.22129821777345,
+                5342.1015625
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2852.306884765625,
+                207.22129821777345,
+                5344.7529296875
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2850.107666015625,
+                206.85330200195313,
+                5342.52294921875
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2851.511474609375,
+                206.85330200195313,
+                5345.17431640625
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2879.741455078125,
+                206.60479736328126,
+                5328.52978515625
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 0.7999999523162842,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2882.0947265625,
+                207.94129943847657,
+                5325.58642578125
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2883.49853515625,
+                207.94129943847657,
+                5328.23779296875
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2882.89013671875,
+                207.57330322265626,
+                5325.16552734375
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2884.2939453125,
+                207.57330322265626,
+                5327.81689453125
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2883.685546875,
+                207.22129821777345,
+                5324.744140625
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2885.08935546875,
+                207.22129821777345,
+                5327.3955078125
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2884.48095703125,
+                206.85330200195313,
+                5324.3232421875
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2885.884765625,
+                206.85330200195313,
+                5326.974609375
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2861.404296875,
+                208.69329833984376,
+                5343.62451171875
+            ],
+            "ypr": [
+                -52.09999465942383,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2863.6865234375,
+                208.7082977294922,
+                5345.7685546875
+            ],
+            "ypr": [
+                -34.32222366333008,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2866.5146484375,
+                208.69329833984376,
+                5347.11328125
+            ],
+            "ypr": [
+                -16.54444694519043,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2869.6181640625,
+                208.7082977294922,
+                5347.53076171875
+            ],
+            "ypr": [
+                1.2333334684371949,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2872.700927734375,
+                208.69329833984376,
+                5346.98046875
+            ],
+            "ypr": [
+                19.011110305786134,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2875.46826171875,
+                208.7082977294922,
+                5345.51513671875
+            ],
+            "ypr": [
+                36.78889083862305,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2877.65625,
+                208.69329833984376,
+                5343.27490234375
+            ],
+            "ypr": [
+                54.56666564941406,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2879.0556640625,
+                208.7082977294922,
+                5340.47314453125
+            ],
+            "ypr": [
+                72.34444427490235,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2879.532958984375,
+                208.69329833984376,
+                5337.37841796875
+            ],
+            "ypr": [
+                90.12222290039063,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2879.04248046875,
+                208.7082977294922,
+                5334.28564453125
+            ],
+            "ypr": [
+                107.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2860.694091796875,
+                209.10830688476563,
+                5344.17724609375
+            ],
+            "ypr": [
+                -52.09999465942383,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2862.8994140625,
+                209.0933074951172,
+                5346.314453125
+            ],
+            "ypr": [
+                -36.099998474121097,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2865.6083984375,
+                209.10830688476563,
+                5347.76123046875
+            ],
+            "ypr": [
+                -20.099998474121095,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2868.611083984375,
+                209.0933074951172,
+                5348.40478515625
+            ],
+            "ypr": [
+                -4.100000381469727,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2871.675048828125,
+                209.10830688476563,
+                5348.19580078125
+            ],
+            "ypr": [
+                11.899999618530274,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2874.562744140625,
+                209.0933074951172,
+                5347.150390625
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2877.05029296875,
+                209.10830688476563,
+                5345.349609375
+            ],
+            "ypr": [
+                43.900001525878909,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2878.9453125,
+                209.0933074951172,
+                5342.93310546875
+            ],
+            "ypr": [
+                59.90000534057617,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2880.1005859375,
+                209.10830688476563,
+                5340.087890625
+            ],
+            "ypr": [
+                75.9000015258789,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2880.427001953125,
+                209.0933074951172,
+                5337.0341796875
+            ],
+            "ypr": [
+                91.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2879.89892578125,
+                209.10830688476563,
+                5334.0087890625
+            ],
+            "ypr": [
+                107.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2859.98388671875,
+                209.49330139160157,
+                5344.73046875
+            ],
+            "ypr": [
+                -52.09999465942383,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2862.126708984375,
+                209.50830078125,
+                5346.8603515625
+            ],
+            "ypr": [
+                -37.55454635620117,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2864.735595703125,
+                209.49330139160157,
+                5348.3837890625
+            ],
+            "ypr": [
+                -23.00908851623535,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2867.643798828125,
+                209.50830078125,
+                5349.203125
+            ],
+            "ypr": [
+                -8.46363639831543,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2870.664306640625,
+                209.49330139160157,
+                5349.265625
+            ],
+            "ypr": [
+                6.081818103790283,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2873.603759765625,
+                209.50830078125,
+                5348.56787109375
+            ],
+            "ypr": [
+                20.627275466918947,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2876.27392578125,
+                209.49330139160157,
+                5347.154296875
+            ],
+            "ypr": [
+                35.172725677490237,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2878.50341796875,
+                209.50830078125,
+                5345.115234375
+            ],
+            "ypr": [
+                49.71818161010742,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2880.149169921875,
+                209.49330139160157,
+                5342.58154296875
+            ],
+            "ypr": [
+                64.26363372802735,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2881.106201171875,
+                209.50830078125,
+                5339.7158203125
+            ],
+            "ypr": [
+                78.80908966064453,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2881.3125,
+                209.49330139160157,
+                5336.70166015625
+            ],
+            "ypr": [
+                93.35453796386719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2880.75537109375,
+                209.50830078125,
+                5333.732421875
+            ],
+            "ypr": [
+                107.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2859.273681640625,
+                209.90829467773438,
+                5345.283203125
+            ],
+            "ypr": [
+                -52.09999465942383,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2861.364501953125,
+                209.89329528808595,
+                5347.40576171875
+            ],
+            "ypr": [
+                -38.76666259765625,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2863.888671875,
+                209.90829467773438,
+                5348.9892578125
+            ],
+            "ypr": [
+                -25.433330535888673,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2866.7099609375,
+                209.89329528808595,
+                5349.94775390625
+            ],
+            "ypr": [
+                -12.100003242492676,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2869.67626953125,
+                209.90829467773438,
+                5350.22998046875
+            ],
+            "ypr": [
+                1.2333334684371949,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2872.627685546875,
+                209.89329528808595,
+                5349.8203125
+            ],
+            "ypr": [
+                14.566666603088379,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2875.405029296875,
+                209.90829467773438,
+                5348.7412109375
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2877.858642578125,
+                209.89329528808595,
+                5347.05078125
+            ],
+            "ypr": [
+                41.23332977294922,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2879.856201171875,
+                209.90829467773438,
+                5344.83984375
+            ],
+            "ypr": [
+                54.56666564941406,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2881.2900390625,
+                209.89329528808595,
+                5342.22802734375
+            ],
+            "ypr": [
+                67.9000015258789,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2882.0830078125,
+                209.90829467773438,
+                5339.35595703125
+            ],
+            "ypr": [
+                81.23332977294922,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2882.192138671875,
+                209.89329528808595,
+                5336.37841796875
+            ],
+            "ypr": [
+                94.56665802001953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2881.61181640625,
+                209.90829467773438,
+                5333.45556640625
+            ],
+            "ypr": [
+                107.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2858.5634765625,
+                210.29330444335938,
+                5345.8359375
+            ],
+            "ypr": [
+                -52.09999465942383,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2860.61083984375,
+                210.3083038330078,
+                5347.9521484375
+            ],
+            "ypr": [
+                -39.79230880737305,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2863.06201171875,
+                210.29330444335938,
+                5349.5830078125
+            ],
+            "ypr": [
+                -27.484615325927736,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2865.8046875,
+                210.3083038330078,
+                5350.65380859375
+            ],
+            "ypr": [
+                -15.176922798156739,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2868.712646484375,
+                210.29330444335938,
+                5351.11572265625
+            ],
+            "ypr": [
+                -2.8692305088043215,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2871.652099609375,
+                210.3083038330078,
+                5350.947265625
+            ],
+            "ypr": [
+                9.438461303710938,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2874.488037109375,
+                210.29330444335938,
+                5350.15576171875
+            ],
+            "ypr": [
+                21.746152877807618,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2877.090087890625,
+                210.3083038330078,
+                5348.77783203125
+            ],
+            "ypr": [
+                34.0538444519043,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2879.338623046875,
+                210.29330444335938,
+                5346.87744140625
+            ],
+            "ypr": [
+                46.36153793334961,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2881.13037109375,
+                210.3083038330078,
+                5344.541015625
+            ],
+            "ypr": [
+                58.66923141479492,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2882.383056640625,
+                210.29330444335938,
+                5341.87646484375
+            ],
+            "ypr": [
+                70.97692108154297,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2883.038818359375,
+                210.3083038330078,
+                5339.005859375
+            ],
+            "ypr": [
+                83.28460693359375,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2883.067626953125,
+                210.29330444335938,
+                5336.0615234375
+            ],
+            "ypr": [
+                95.5923080444336,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2882.46826171875,
+                210.3083038330078,
+                5333.17919921875
+            ],
+            "ypr": [
+                107.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2857.853271484375,
+                210.7082977294922,
+                5346.388671875
+            ],
+            "ypr": [
+                -52.09999465942383,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2860.03466796875,
+                210.69329833984376,
+                5348.6435546875
+            ],
+            "ypr": [
+                -39.79230880737305,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2862.646728515625,
+                210.7082977294922,
+                5350.38134765625
+            ],
+            "ypr": [
+                -27.484615325927736,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2865.569091796875,
+                210.69329833984376,
+                5351.5224609375
+            ],
+            "ypr": [
+                -15.176922798156739,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2868.66748046875,
+                210.7082977294922,
+                5352.0146484375
+            ],
+            "ypr": [
+                -2.8692305088043215,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2871.799560546875,
+                210.69329833984376,
+                5351.8349609375
+            ],
+            "ypr": [
+                9.438461303710938,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2874.821533203125,
+                210.7082977294922,
+                5350.99169921875
+            ],
+            "ypr": [
+                21.746152877807618,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2877.593994140625,
+                210.69329833984376,
+                5349.5234375
+            ],
+            "ypr": [
+                34.0538444519043,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2879.989990234375,
+                210.7082977294922,
+                5347.49853515625
+            ],
+            "ypr": [
+                46.36153793334961,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2881.899169921875,
+                210.69329833984376,
+                5345.0087890625
+            ],
+            "ypr": [
+                58.66923141479492,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2883.23388671875,
+                210.7082977294922,
+                5342.16943359375
+            ],
+            "ypr": [
+                70.97692108154297,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2883.9326171875,
+                210.69329833984376,
+                5339.111328125
+            ],
+            "ypr": [
+                83.28460693359375,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2883.96337890625,
+                210.7082977294922,
+                5335.97412109375
+            ],
+            "ypr": [
+                95.5923080444336,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2883.32470703125,
+                210.69329833984376,
+                5332.90234375
+            ],
+            "ypr": [
+                107.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2857.14306640625,
+                211.0933074951172,
+                5346.94189453125
+            ],
+            "ypr": [
+                -52.09999465942383,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2859.27685546875,
+                211.10830688476563,
+                5349.18115234375
+            ],
+            "ypr": [
+                -40.67143249511719,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2861.81201171875,
+                211.0933074951172,
+                5350.95361328125
+            ],
+            "ypr": [
+                -29.24285125732422,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2864.64794921875,
+                211.10830688476563,
+                5352.1884765625
+            ],
+            "ypr": [
+                -17.814287185668947,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2867.67236328125,
+                211.0933074951172,
+                5352.83642578125
+            ],
+            "ypr": [
+                -6.385715007781982,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2870.765380859375,
+                211.10830688476563,
+                5352.873046875
+            ],
+            "ypr": [
+                5.042857646942139,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2873.80419921875,
+                211.0933074951172,
+                5352.29541015625
+            ],
+            "ypr": [
+                16.47142791748047,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2876.66845703125,
+                211.10830688476563,
+                5351.12744140625
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2879.244384765625,
+                211.0933074951172,
+                5349.4150390625
+            ],
+            "ypr": [
+                39.32857131958008,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2881.429931640625,
+                211.10830688476563,
+                5347.22607421875
+            ],
+            "ypr": [
+                50.75714111328125,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2883.138427734375,
+                211.0933074951172,
+                5344.64794921875
+            ],
+            "ypr": [
+                62.18571472167969,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2884.302001953125,
+                211.10830688476563,
+                5341.78173828125
+            ],
+            "ypr": [
+                73.61428833007813,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2884.875,
+                211.0933074951172,
+                5338.7421875
+            ],
+            "ypr": [
+                85.04285430908203,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2884.833984375,
+                211.10830688476563,
+                5335.6494140625
+            ],
+            "ypr": [
+                96.47142791748047,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2884.18115234375,
+                211.0933074951172,
+                5332.6259765625
+            ],
+            "ypr": [
+                107.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2856.432861328125,
+                211.50830078125,
+                5347.49462890625
+            ],
+            "ypr": [
+                -52.09999465942383,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2858.525390625,
+                211.49330139160157,
+                5349.72021484375
+            ],
+            "ypr": [
+                -41.4333381652832,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2860.993896484375,
+                211.50830078125,
+                5351.52001953125
+            ],
+            "ypr": [
+                -30.76666831970215,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2863.752685546875,
+                211.49330139160157,
+                5352.83203125
+            ],
+            "ypr": [
+                -20.099998474121095,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2866.70654296875,
+                211.50830078125,
+                5353.61083984375
+            ],
+            "ypr": [
+                -9.433334350585938,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2869.753662109375,
+                211.49330139160157,
+                5353.8291015625
+            ],
+            "ypr": [
+                1.2333334684371949,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2872.78857421875,
+                211.50830078125,
+                5353.47998046875
+            ],
+            "ypr": [
+                11.899999618530274,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2875.706298828125,
+                211.49330139160157,
+                5352.57470703125
+            ],
+            "ypr": [
+                22.56667137145996,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2878.406005859375,
+                211.50830078125,
+                5351.1455078125
+            ],
+            "ypr": [
+                33.23333740234375,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2880.794677734375,
+                211.49330139160157,
+                5349.24072265625
+            ],
+            "ypr": [
+                43.900001525878909,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2882.78955078125,
+                211.50830078125,
+                5346.92724609375
+            ],
+            "ypr": [
+                54.56666564941406,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2884.321533203125,
+                211.49330139160157,
+                5344.2841796875
+            ],
+            "ypr": [
+                65.23332977294922,
+                0.0,
+                0.0
+            ],
+            "scale": 0.2999999523162842,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2885.337890625,
+                211.50830078125,
+                5341.4033203125
+            ],
+            "ypr": [
+                75.9000015258789,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2885.803466796875,
+                211.49330139160157,
+                5338.38427734375
+            ],
+            "ypr": [
+                86.56666564941406,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2885.7021484375,
+                211.50830078125,
+                5335.3310546875
+            ],
+            "ypr": [
+                97.23332977294922,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2885.03759765625,
+                211.49330139160157,
+                5332.34912109375
+            ],
+            "ypr": [
+                107.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2855.722900390625,
+                211.89329528808595,
+                5348.04736328125
+            ],
+            "ypr": [
+                -52.09999465942383,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2857.779541015625,
+                211.90829467773438,
+                5350.2607421875
+            ],
+            "ypr": [
+                -42.099998474121097,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2860.189208984375,
+                211.89329528808595,
+                5352.0830078125
+            ],
+            "ypr": [
+                -32.099998474121097,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2862.87890625,
+                211.90829467773438,
+                5353.45947265625
+            ],
+            "ypr": [
+                -22.09999656677246,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2865.7666015625,
+                211.89329528808595,
+                5354.34814453125
+            ],
+            "ypr": [
+                -12.100003242492676,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2868.764892578125,
+                211.90829467773438,
+                5354.72119140625
+            ],
+            "ypr": [
+                -2.0999996662139894,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2871.7822265625,
+                211.89329528808595,
+                5354.568359375
+            ],
+            "ypr": [
+                7.900000095367432,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2874.727294921875,
+                211.90829467773438,
+                5353.89404296875
+            ],
+            "ypr": [
+                17.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2877.5107421875,
+                211.89329528808595,
+                5352.71826171875
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2880.04736328125,
+                211.90829467773438,
+                5351.0771484375
+            ],
+            "ypr": [
+                37.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2882.2607421875,
+                211.89329528808595,
+                5349.0205078125
+            ],
+            "ypr": [
+                47.900001525878909,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2884.083251953125,
+                211.90829467773438,
+                5346.61083984375
+            ],
+            "ypr": [
+                57.900001525878909,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2885.45947265625,
+                211.89329528808595,
+                5343.9208984375
+            ],
+            "ypr": [
+                67.9000015258789,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2886.347900390625,
+                211.90829467773438,
+                5341.033203125
+            ],
+            "ypr": [
+                77.9000015258789,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2886.721435546875,
+                211.89329528808595,
+                5338.03515625
+            ],
+            "ypr": [
+                87.89999389648438,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2886.568603515625,
+                211.90829467773438,
+                5335.017578125
+            ],
+            "ypr": [
+                97.89999389648438,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2885.89404296875,
+                211.89329528808595,
+                5332.07275390625
+            ],
+            "ypr": [
+                107.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2855.0126953125,
+                212.3083038330078,
+                5348.60009765625
+            ],
+            "ypr": [
+                -52.09999465942383,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2857.037841796875,
+                212.29330444335938,
+                5350.80224609375
+            ],
+            "ypr": [
+                -42.688236236572269,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2859.39599609375,
+                212.3083038330078,
+                5352.6435546875
+            ],
+            "ypr": [
+                -33.27647018432617,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2862.0234375,
+                212.29330444335938,
+                5354.07421875
+            ],
+            "ypr": [
+                -23.86470603942871,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2864.849365234375,
+                212.3083038330078,
+                5355.05615234375
+            ],
+            "ypr": [
+                -14.452940940856934,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2867.7978515625,
+                212.29330444335938,
+                5355.5625
+            ],
+            "ypr": [
+                -5.0411763191223148,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2870.78955078125,
+                212.3083038330078,
+                5355.580078125
+            ],
+            "ypr": [
+                4.370588302612305,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2873.74365234375,
+                212.29330444335938,
+                5355.10791015625
+            ],
+            "ypr": [
+                13.782353401184082,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2876.5810546875,
+                212.3083038330078,
+                5354.1591796875
+            ],
+            "ypr": [
+                23.19411849975586,
+                0.0,
+                0.0
+            ],
+            "scale": 0.2999999523162842,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2879.22509765625,
+                212.29330444335938,
+                5352.75927734375
+            ],
+            "ypr": [
+                32.60588073730469,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2881.6044921875,
+                212.3083038330078,
+                5350.94580078125
+            ],
+            "ypr": [
+                42.01764678955078,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2883.6552734375,
+                212.29330444335938,
+                5348.76806640625
+            ],
+            "ypr": [
+                51.429412841796878,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2885.322265625,
+                212.3083038330078,
+                5346.28369140625
+            ],
+            "ypr": [
+                60.8411750793457,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2886.560791015625,
+                212.29330444335938,
+                5343.560546875
+            ],
+            "ypr": [
+                70.25294494628906,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2887.337158203125,
+                212.3083038330078,
+                5340.67138671875
+            ],
+            "ypr": [
+                79.66470336914063,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2887.630615234375,
+                212.29330444335938,
+                5337.69384765625
+            ],
+            "ypr": [
+                89.07646179199219,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2887.433349609375,
+                212.3083038330078,
+                5334.70849609375
+            ],
+            "ypr": [
+                98.48822784423828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2886.75048828125,
+                212.29330444335938,
+                5331.7958984375
+            ],
+            "ypr": [
+                107.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2854.302490234375,
+                212.69329833984376,
+                5349.1533203125
+            ],
+            "ypr": [
+                -52.09999465942383,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2856.427734375,
+                212.7082977294922,
+                5351.4638671875
+            ],
+            "ypr": [
+                -42.688236236572269,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2858.902099609375,
+                212.69329833984376,
+                5353.39599609375
+            ],
+            "ypr": [
+                -33.27647018432617,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2861.6591796875,
+                212.7082977294922,
+                5354.89697265625
+            ],
+            "ypr": [
+                -23.86470603942871,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2864.624755859375,
+                212.69329833984376,
+                5355.927734375
+            ],
+            "ypr": [
+                -14.452940940856934,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2867.71875,
+                212.7082977294922,
+                5356.458984375
+            ],
+            "ypr": [
+                -5.0411763191223148,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2870.858154296875,
+                212.69329833984376,
+                5356.4775390625
+            ],
+            "ypr": [
+                4.370588302612305,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2873.958251953125,
+                212.7082977294922,
+                5355.98193359375
+            ],
+            "ypr": [
+                13.782353401184082,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2876.935546875,
+                212.69329833984376,
+                5354.98681640625
+            ],
+            "ypr": [
+                23.19411849975586,
+                0.0,
+                0.0
+            ],
+            "scale": 0.2999999523162842,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2879.7099609375,
+                212.7082977294922,
+                5353.517578125
+            ],
+            "ypr": [
+                32.60588073730469,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2882.206787109375,
+                212.69329833984376,
+                5351.61474609375
+            ],
+            "ypr": [
+                42.01764678955078,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2884.35888671875,
+                212.7082977294922,
+                5349.3291015625
+            ],
+            "ypr": [
+                51.429412841796878,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2886.1083984375,
+                212.69329833984376,
+                5346.72216796875
+            ],
+            "ypr": [
+                60.8411750793457,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2887.407958984375,
+                212.7082977294922,
+                5343.8642578125
+            ],
+            "ypr": [
+                70.25294494628906,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2888.22265625,
+                212.69329833984376,
+                5340.83251953125
+            ],
+            "ypr": [
+                79.66470336914063,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2888.530517578125,
+                212.7082977294922,
+                5337.70849609375
+            ],
+            "ypr": [
+                89.07646179199219,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2888.323486328125,
+                212.69329833984376,
+                5334.57568359375
+            ],
+            "ypr": [
+                98.48822784423828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2887.60693359375,
+                212.7082977294922,
+                5331.51953125
+            ],
+            "ypr": [
+                107.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2853.59228515625,
+                213.10830688476563,
+                5349.7060546875
+            ],
+            "ypr": [
+                -52.09999465942383,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2855.68359375,
+                213.0933074951172,
+                5352.0009765625
+            ],
+            "ypr": [
+                -43.21110916137695,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2858.1044921875,
+                213.10830688476563,
+                5353.94482421875
+            ],
+            "ypr": [
+                -34.32222366333008,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2860.796630859375,
+                213.0933074951172,
+                5355.49169921875
+            ],
+            "ypr": [
+                -25.433330535888673,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2863.6953125,
+                213.10830688476563,
+                5356.603515625
+            ],
+            "ypr": [
+                -16.54444694519043,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2866.731201171875,
+                213.0933074951172,
+                5357.25439453125
+            ],
+            "ypr": [
+                -7.655555725097656,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2869.831298828125,
+                213.10830688476563,
+                5357.42822265625
+            ],
+            "ypr": [
+                1.2333334684371949,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2872.920654296875,
+                213.0933074951172,
+                5357.12109375
+            ],
+            "ypr": [
+                10.122221946716309,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2875.92578125,
+                213.10830688476563,
+                5356.34033203125
+            ],
+            "ypr": [
+                19.011110305786134,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2878.77392578125,
+                213.0933074951172,
+                5355.1044921875
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2881.397216796875,
+                213.10830688476563,
+                5353.443359375
+            ],
+            "ypr": [
+                36.78889083862305,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2883.73193359375,
+                213.0933074951172,
+                5351.39697265625
+            ],
+            "ypr": [
+                45.67777633666992,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2885.72265625,
+                213.10830688476563,
+                5349.01416015625
+            ],
+            "ypr": [
+                54.56666564941406,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2887.3212890625,
+                213.0933074951172,
+                5346.3525390625
+            ],
+            "ypr": [
+                63.4555549621582,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2888.489501953125,
+                213.10830688476563,
+                5343.47607421875
+            ],
+            "ypr": [
+                72.34444427490235,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2889.198974609375,
+                213.0933074951172,
+                5340.453125
+            ],
+            "ypr": [
+                81.23332977294922,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2889.432861328125,
+                213.10830688476563,
+                5337.357421875
+            ],
+            "ypr": [
+                90.12222290039063,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2889.185791015625,
+                213.0933074951172,
+                5334.26220703125
+            ],
+            "ypr": [
+                99.0111083984375,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2888.46337890625,
+                213.10830688476563,
+                5331.24267578125
+            ],
+            "ypr": [
+                107.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2850.109619140625,
+                211.12100219726563,
+                5349.87939453125
+            ],
+            "ypr": [
+                -57.09999465942383,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2853.750732421875,
+                211.14100646972657,
+                5354.22119140625
+            ],
+            "ypr": [
+                -42.93333435058594,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2858.343505859375,
+                211.12100219726563,
+                5357.53955078125
+            ],
+            "ypr": [
+                -28.76667022705078,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2863.608642578125,
+                211.8188018798828,
+                5359.63330078125
+            ],
+            "ypr": [
+                -14.600000381469727,
+                0.0,
+                0.0
+            ],
+            "scale": 0.7999999523162842,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2869.226318359375,
+                212.1376953125,
+                5360.37451171875
+            ],
+            "ypr": [
+                -0.4333333373069763,
+                0.0,
+                0.0
+            ],
+            "scale": 0.6999999284744263,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2874.854248046875,
+                212.15769958496095,
+                5359.71826171875
+            ],
+            "ypr": [
+                13.733335494995118,
+                0.0,
+                0.0
+            ],
+            "scale": 0.6999999284744263,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2880.150634765625,
+                212.1376953125,
+                5357.70458984375
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 0.6999999284744263,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2884.793212890625,
+                212.15769958496095,
+                5354.4560546875
+            ],
+            "ypr": [
+                42.0666618347168,
+                0.0,
+                0.0
+            ],
+            "scale": 0.6999999284744263,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2888.499267578125,
+                212.1376953125,
+                5350.169921875
+            ],
+            "ypr": [
+                56.233333587646487,
+                0.0,
+                0.0
+            ],
+            "scale": 0.6999999284744263,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2891.043701171875,
+                211.8188018798828,
+                5345.10693359375
+            ],
+            "ypr": [
+                70.4000015258789,
+                0.0,
+                0.0
+            ],
+            "scale": 0.800000011920929,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2892.271728515625,
+                211.45989990234376,
+                5339.57568359375
+            ],
+            "ypr": [
+                84.56665802001953,
+                0.0,
+                0.0
+            ],
+            "scale": 0.8999999165534973,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2892.108642578125,
+                211.14100646972657,
+                5333.91162109375
+            ],
+            "ypr": [
+                98.73332214355469,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2890.564208984375,
+                211.12100219726563,
+                5328.4599609375
+            ],
+            "ypr": [
+                112.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Stone",
+            "pos": [
+                2849.83740234375,
+                214.63999938964845,
+                5353.7568359375
+            ],
+            "ypr": [
+                -50.099998474121097,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Stone",
+            "pos": [
+                2857.50146484375,
+                214.63999938964845,
+                5359.95361328125
+            ],
+            "ypr": [
+                -27.814287185668947,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Stone",
+            "pos": [
+                2866.943359375,
+                214.63999938964845,
+                5362.78125
+            ],
+            "ypr": [
+                -5.528571605682373,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Stone",
+            "pos": [
+                2876.751953125,
+                214.63999938964845,
+                5361.8173828125
+            ],
+            "ypr": [
+                16.757143020629884,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Stone",
+            "pos": [
+                2885.46240234375,
+                214.63999938964845,
+                5357.205078125
+            ],
+            "ypr": [
+                39.0428581237793,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Stone",
+            "pos": [
+                2891.7734375,
+                214.63999938964845,
+                5349.634765625
+            ],
+            "ypr": [
+                61.32856750488281,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Stone",
+            "pos": [
+                2894.74169921875,
+                214.63999938964845,
+                5340.236328125
+            ],
+            "ypr": [
+                83.61429595947266,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Stone",
+            "pos": [
+                2893.92431640625,
+                214.63999938964845,
+                5330.4140625
+            ],
+            "ypr": [
+                105.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2860.2919921875,
+                207.3076934814453,
+                5347.50341796875
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 0.6999999284744263,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2853.757080078125,
+                210.16879272460938,
+                5351.54150390625
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 0.7999999523162842,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2882.875732421875,
+                207.3076934814453,
+                5335.5458984375
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 0.6999999284744263,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2889.888916015625,
+                210.16879272460938,
+                5332.41064453125
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 0.7999999523162842,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2854.701171875,
+                207.12100219726563,
+                5331.47998046875
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2863.7333984375,
+                207.12100219726563,
+                5326.69775390625
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2872.765380859375,
+                207.12100219726563,
+                5321.91552734375
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2849.9189453125,
+                207.12100219726563,
+                5322.44775390625
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2858.951171875,
+                207.12100219726563,
+                5317.66552734375
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2867.983154296875,
+                207.12100219726563,
+                5312.88330078125
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2860.083740234375,
+                209.0933074951172,
+                5333.69580078125
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2860.5048828125,
+                208.69329833984376,
+                5334.4912109375
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2871.57275390625,
+                209.0933074951172,
+                5327.61279296875
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2871.993896484375,
+                208.69329833984376,
+                5328.408203125
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.29999998211860659,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2861.968994140625,
+                209.7738494873047,
+                5327.1904296875
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 0.34999996423721316,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2865.1328125,
+                209.7738494873047,
+                5325.51513671875
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 0.34999996423721316,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Cnc_5",
+            "pos": [
+                2852.65966796875,
+                212.97000122070313,
+                5329.29052734375
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Cnc_5",
+            "pos": [
+                2862.381103515625,
+                212.97000122070313,
+                5324.1435546875
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Cnc_5",
+            "pos": [
+                2872.1025390625,
+                212.97000122070313,
+                5318.99609375
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Stone",
+            "pos": [
+                2848.162109375,
+                210.63999938964845,
+                5318.65966796875
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Stone",
+            "pos": [
+                2856.999755859375,
+                210.63999938964845,
+                5313.97998046875
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Stone",
+            "pos": [
+                2865.83740234375,
+                210.63999938964845,
+                5309.30078125
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Stone",
+            "pos": [
+                2850.965087890625,
+                210.63999938964845,
+                5333.3564453125
+            ],
+            "ypr": [
+                -62.100006103515628,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Stone",
+            "pos": [
+                2846.28564453125,
+                210.63999938964845,
+                5324.5185546875
+            ],
+            "ypr": [
+                -62.100006103515628,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Stone",
+            "pos": [
+                2876.41748046875,
+                210.63999938964845,
+                5319.8798828125
+            ],
+            "ypr": [
+                -62.100006103515628,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Stone",
+            "pos": [
+                2871.73828125,
+                210.63999938964845,
+                5311.0419921875
+            ],
+            "ypr": [
+                -62.100006103515628,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Curtain_Fancy1",
+            "pos": [
+                2859.9248046875,
+                212.05999755859376,
+                5326.236328125
+            ],
+            "ypr": [
+                117.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Curtain_Fancy1",
+            "pos": [
+                2855.453125,
+                212.11422729492188,
+                5328.486328125
+            ],
+            "ypr": [
+                -62.000003814697269,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Curtain_Fancy1",
+            "pos": [
+                2851.66162109375,
+                212.05999755859376,
+                5330.611328125
+            ],
+            "ypr": [
+                117.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Curtain_Fancy1M",
+            "pos": [
+                2865.492431640625,
+                212.05999755859376,
+                5323.2880859375
+            ],
+            "ypr": [
+                117.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Curtain_Fancy1M",
+            "pos": [
+                2868.87451171875,
+                212.22779846191407,
+                5321.2470703125
+            ],
+            "ypr": [
+                -61.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Curtain_Fancy1M",
+            "pos": [
+                2875.036865234375,
+                212.25234985351563,
+                5318.150390625
+            ],
+            "ypr": [
+                117.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_flag_chernarus_wall",
+            "pos": [
+                2862.655517578125,
+                214.0862579345703,
+                5324.77392578125
+            ],
+            "ypr": [
+                27.90000343322754,
+                6.0,
+                -0.0
+            ],
+            "scale": 3.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_lab_teacher_bench",
+            "pos": [
+                2863.004638671875,
+                210.97000122070313,
+                5328.056640625
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_lab_teacher_bench",
+            "pos": [
+                2865.26708984375,
+                210.97000122070313,
+                5326.85888671875
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_ch_office_B",
+            "pos": [
+                2862.18359375,
+                210.9600067138672,
+                5327.18994140625
+            ],
+            "ypr": [
+                -154.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_ch_office_B",
+            "pos": [
+                2863.59765625,
+                210.9600067138672,
+                5326.44140625
+            ],
+            "ypr": [
+                -154.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_ch_office_B",
+            "pos": [
+                2865.01171875,
+                210.9600067138672,
+                5325.6923828125
+            ],
+            "ypr": [
+                -154.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BookCrimeAndPunishment",
+            "pos": [
+                2862.47998046875,
+                212.16200256347657,
+                5328.39111328125
+            ],
+            "ypr": [
+                -132.09999084472657,
+                -89.98020935058594,
+                -180.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candle",
+            "pos": [
+                2862.079833984375,
+                212.19200134277345,
+                5328.48974609375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candle",
+            "pos": [
+                2866.14501953125,
+                212.19200134277345,
+                5326.33740234375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_flag_chernarus_pole",
+            "pos": [
+                2860.11962890625,
+                211.0500030517578,
+                5326.9248046875
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_flag_chernarus_pole",
+            "pos": [
+                2865.95263671875,
+                211.0500030517578,
+                5323.83642578125
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_student_desk",
+            "pos": [
+                2870.688720703125,
+                210.50999450683595,
+                5323.59228515625
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_student_chair",
+            "pos": [
+                2870.2060546875,
+                210.51025390625,
+                5322.58056640625
+            ],
+            "ypr": [
+                -154.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candle",
+            "pos": [
+                2871.107177734375,
+                211.40199279785157,
+                5323.31396484375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Lamp_Halogen",
+            "pos": [
+                2853.107177734375,
+                216.49000549316407,
+                5336.974609375
+            ],
+            "ypr": [
+                -152.10000610351563,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Lamp_Halogen",
+            "pos": [
+                2878.2060546875,
+                216.49000549316407,
+                5323.68505859375
+            ],
+            "ypr": [
+                -152.10000610351563,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_carpet_big",
+            "pos": [
+                2872.441650390625,
+                209.33999633789063,
+                5343.14453125
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_carpet_big",
+            "pos": [
+                2871.037841796875,
+                209.35499572753907,
+                5340.4931640625
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_carpet_big",
+            "pos": [
+                2869.634033203125,
+                209.33999633789063,
+                5337.841796875
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_carpet_big",
+            "pos": [
+                2868.230224609375,
+                209.35499572753907,
+                5335.1904296875
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_teacher_desk",
+            "pos": [
+                2867.5283203125,
+                209.33999633789063,
+                5333.86474609375
+            ],
+            "ypr": [
+                -152.10000610351563,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_office_desk",
+            "pos": [
+                2864.445556640625,
+                209.75999450683595,
+                5335.94970703125
+            ],
+            "ypr": [
+                -152.10000610351563,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_ch_office_B",
+            "pos": [
+                2864.56298828125,
+                209.30996704101563,
+                5337.26904296875
+            ],
+            "ypr": [
+                29.999998092651368,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_ch_office_B",
+            "pos": [
+                2865.45751953125,
+                209.30996704101563,
+                5336.80712890625
+            ],
+            "ypr": [
+                29.999998092651368,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_office_desk",
+            "pos": [
+                2870.9853515625,
+                209.75999450683595,
+                5332.4873046875
+            ],
+            "ypr": [
+                -152.10000610351563,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_ch_office_B",
+            "pos": [
+                2871.09423828125,
+                209.30996704101563,
+                5333.90380859375
+            ],
+            "ypr": [
+                29.999998092651368,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_ch_office_B",
+            "pos": [
+                2871.97900390625,
+                209.30996704101563,
+                5333.35205078125
+            ],
+            "ypr": [
+                29.999998092651368,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                2873.831298828125,
+                209.33999633789063,
+                5334.82763671875
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                2875.033203125,
+                209.33999633789063,
+                5334.19091796875
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                2873.557861328125,
+                209.33999633789063,
+                5335.76416015625
+            ],
+            "ypr": [
+                117.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                2875.961669921875,
+                209.33999633789063,
+                5334.49169921875
+            ],
+            "ypr": [
+                117.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_long_bench",
+            "pos": [
+                2874.947021484375,
+                209.33999633789063,
+                5335.4814453125
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.8500000238418579,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_long_bench",
+            "pos": [
+                2864.1806640625,
+                209.33999633789063,
+                5339.93701171875
+            ],
+            "ypr": [
+                -152.10000610351563,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_long_bench",
+            "pos": [
+                2864.788818359375,
+                209.33999633789063,
+                5341.0859375
+            ],
+            "ypr": [
+                -152.10000610351563,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_piano",
+            "pos": [
+                2867.133544921875,
+                209.8000030517578,
+                5343.80517578125
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_student_chair",
+            "pos": [
+                2868.370849609375,
+                209.33999633789063,
+                5343.14990234375
+            ],
+            "ypr": [
+                -148.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_FireBarrel_Red",
+            "pos": [
+                2852.005126953125,
+                210.54400634765626,
+                5339.5947265625
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_FireBarrel_Red",
+            "pos": [
+                2880.99267578125,
+                210.54400634765626,
+                5324.24658203125
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Platform1_Block",
+            "pos": [
+                2879.97509765625,
+                214.50164794921876,
+                5357.373046875
+            ],
+            "ypr": [
+                27.89999771118164,
+                0.0,
+                0.0
+            ],
+            "scale": 0.14999999105930329,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Statue_Enoch1",
+            "pos": [
+                2879.97509765625,
+                216.33099365234376,
+                5357.373046875
+            ],
+            "ypr": [
+                17.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Lamp_Decorative",
+            "pos": [
+                2856.50537109375,
+                216.677001953125,
+                5356.4453125
+            ],
+            "ypr": [
+                145.89999389648438,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Lamp_Decorative",
+            "pos": [
+                2868.15625,
+                216.677001953125,
+                5360.3662109375
+            ],
+            "ypr": [
+                176.89999389648438,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Lamp_Decorative",
+            "pos": [
+                2889.09423828125,
+                216.677001953125,
+                5349.2802734375
+            ],
+            "ypr": [
+                -121.10000610351563,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Lamp_Decorative",
+            "pos": [
+                2892.39990234375,
+                216.677001953125,
+                5337.43994140625
+            ],
+            "ypr": [
+                -90.0999984741211,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Flagpole",
+            "pos": [
+                2850.6875,
+                218.00999450683595,
+                5351.44970703125
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_FireBarrel_Red",
+            "pos": [
+                2853.4716796875,
+                215.74400329589845,
+                5351.69140625
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Flagpole",
+            "pos": [
+                2891.538330078125,
+                218.00999450683595,
+                5329.8203125
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_FireBarrel_Red",
+            "pos": [
+                2890.17333984375,
+                215.74400329589845,
+                5332.25927734375
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_BusStation_roof_big",
+            "pos": [
+                2850.803466796875,
+                212.1999969482422,
+                5322.5791015625
+            ],
+            "ypr": [
+                117.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_carpet_big",
+            "pos": [
+                2850.803466796875,
+                210.5399932861328,
+                5322.5791015625
+            ],
+            "ypr": [
+                117.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_conference_table_a",
+            "pos": [
+                2850.803466796875,
+                210.89500427246095,
+                5322.5791015625
+            ],
+            "ypr": [
+                117.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_ch_office_B",
+            "pos": [
+                2851.381103515625,
+                210.5099639892578,
+                5323.84765625
+            ],
+            "ypr": [
+                31.000001907348634,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_ch_office_B",
+            "pos": [
+                2850.0576171875,
+                210.5099639892578,
+                5321.28271484375
+            ],
+            "ypr": [
+                -154.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_ch_office_B",
+            "pos": [
+                2849.919677734375,
+                210.50999450683595,
+                5323.04736328125
+            ],
+            "ypr": [
+                -62.100006103515628,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_ch_office_B",
+            "pos": [
+                2851.68701171875,
+                210.50999450683595,
+                5322.111328125
+            ],
+            "ypr": [
+                117.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candle",
+            "pos": [
+                2850.803466796875,
+                211.3070068359375,
+                5322.5791015625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_PartyTent",
+            "pos": [
+                2867.267333984375,
+                211.0,
+                5313.06982421875
+            ],
+            "ypr": [
+                117.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_Dhangar_brownskrin",
+            "pos": [
+                2865.23974609375,
+                210.50999450683595,
+                5312.4462890625
+            ],
+            "ypr": [
+                -150.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_Dhangar_brownskrin",
+            "pos": [
+                2867.89111328125,
+                210.50999450683595,
+                5311.04248046875
+            ],
+            "ypr": [
+                -150.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_couch_DZ",
+            "pos": [
+                2868.036865234375,
+                210.47410583496095,
+                5314.67724609375
+            ],
+            "ypr": [
+                26.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Carpets_Stack",
+            "pos": [
+                2869.086669921875,
+                210.50999450683595,
+                5308.59912109375
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rack_Carpets",
+            "pos": [
+                2872.232177734375,
+                210.50999450683595,
+                5314.96728515625
+            ],
+            "ypr": [
+                -62.100006103515628,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_WoodenCrate",
+            "pos": [
+                2863.60693359375,
+                210.858154296875,
+                5319.2470703125
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_WoodenCrate",
+            "pos": [
+                2863.71923828125,
+                211.45225524902345,
+                5318.6044921875
+            ],
+            "ypr": [
+                42.89999771118164,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_WoodenCrate",
+            "pos": [
+                2864.044189453125,
+                210.858154296875,
+                5318.31298828125
+            ],
+            "ypr": [
+                57.900001525878909,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                2856.96044921875,
+                210.50999450683595,
+                5315.35888671875
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                2858.162353515625,
+                210.50999450683595,
+                5314.72265625
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                2858.223876953125,
+                210.50999450683595,
+                5317.7451171875
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                2857.29541015625,
+                210.50999450683595,
+                5317.44482421875
+            ],
+            "ypr": [
+                117.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                2859.69921875,
+                210.50999450683595,
+                5316.171875
+            ],
+            "ypr": [
+                117.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                2856.68701171875,
+                210.50999450683595,
+                5316.2958984375
+            ],
+            "ypr": [
+                117.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                2859.0908203125,
+                210.50999450683595,
+                5315.02294921875
+            ],
+            "ypr": [
+                117.9000015258789,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_matress_white",
+            "pos": [
+                2858.6064453125,
+                210.55999755859376,
+                5315.73193359375
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Lamp_Decorative",
+            "pos": [
+                2839.818115234375,
+                206.75559997558595,
+                5315.72265625
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Lamp_Decorative",
+            "pos": [
+                2841.482421875,
+                208.30751037597657,
+                5329.55126953125
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Lamp_Decorative",
+            "pos": [
+                2845.771728515625,
+                209.93934631347657,
+                5340.8583984375
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_AdvertColumn",
+            "pos": [
+                2844.2109375,
+                206.0560760498047,
+                5312.26513671875
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_NoticeBoard1",
+            "pos": [
+                2837.634765625,
+                205.5106964111328,
+                5318.01025390625
+            ],
+            "ypr": [
+                177.89999389648438,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Lamp_Decorative",
+            "pos": [
+                2878.6005859375,
+                207.9820098876953,
+                5309.89794921875
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Lamp_Decorative",
+            "pos": [
+                2885.541259765625,
+                209.1378631591797,
+                5319.80126953125
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_Desk_Globe",
+            "pos": [
+                2850.672119140625,
+                211.46168518066407,
+                5322.04443359375
+            ],
+            "ypr": [
+                27.899999618530275,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
