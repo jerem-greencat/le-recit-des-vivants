@@ -106,7 +106,9 @@ Chaque mapping est un JSON dans `custom/`, déclaré dans `objectSpawnersArr` de
   "./custom/devils_castle_secte.json",
   "./custom/vyshnoye_plane_base.json",
   "./custom/junkyard_base.json",
-  "./custom/pustoshka_survivor_camp.json"
+  "./custom/pustoshka_survivor_camp.json",
+  "./custom/canibal_village.json",
+  "./custom/canibal_island.json"
 ],
 ```
 
@@ -143,6 +145,8 @@ les gérer à la main (voir la section Météo). De même pour les mappings de f
 | `custom/vyshnoye_plane_base.json` | Base autour d'une carcasse d'avion près de Vyshnoye : MiG-21, stand de tir, dortoir (lits de camp, casiers), cratères, arbres couchés |
 | `custom/junkyard_base.json` | Casse auto au nord de la route de Berezino : dalle de béton à plat (sol 118,70) avec rampe d'accès depuis la route, des centaines d'épaves, piles de pneus, conteneurs, talus de rochers |
 | `custom/pustoshka_survivor_camp.json` | Camp de survivants à Pustoshka : enceinte d'épaves (bus, Volga, UAZ, camions), barbelés, bungalows, conteneurs |
+| `custom/canibal_village.json` | Village de cannibales caché dans la clairière à 850 m à l'ouest de la base de Tisy, à 330 m au nord-ouest du petit poste militaire de la piste. Sentier d'approche depuis le poste : affaires abandonnées et sang, corps dévoré, pendus dans les arbres, barbelés, pieux à crânes, croix inversée, puis allée de crânes jusqu'à la porte. Palissade de rondins de 30 m de rayon avec un couloir d'entrée et un pendu sous le portique. Dedans : un corps sur une broche au-dessus du feu, une potence à 4 pendus, une boucherie (table de découpe, étals de viande, tas de corps, séchoir à peaux), un fumoir, un garde-manger (cage à barreaux ouverte d'un côté pour une porte de joueur, cages à bêtes), une fosse aux os et aux trophées, un autel (cercle de pieux à crânes, corps sur le billot, bougies, croix inversées), la hutte du chef, deux cabanes vides, des latrines, un mirador et 3 emplacements libres de 8 × 8 m (marqués par des piquets) pour les constructions des joueurs |
+| `custom/canibal_island.json` | Île des cannibales, créée en mer à 400 m au large de la plage du sud-ouest (630, 1120) : îlot de rochers jusqu'à 16 m de haut avec quelques souches et herbes, des pieux à crânes au sommet côté plage. Village sur pilotis côté large, caché de la plage : ponton de 36 × 20 m adossé aux rochers, échelles de remontée depuis l'eau et deux barques. Sur le ponton : hutte du chef et deux cabanes vides, foyer avec un corps sur la broche, boucherie, tas d'os et trophées, potences dont les pendus ont les pieds au-dessus des vagues. Passerelle vers le garde-manger isolé en mer (cage ouverte côté passerelle pour une porte de joueur), passerelle vers l'autel. Sous le ponton, squelettes, corps et barque coulée sur le fond |
 | `custom/comete.json` | Épaves du traîneau du père Noël au centre de Zelenogorsk. N'est plus chargé (retiré de `objectSpawnersArr`) |
 
 Les objets ramassables (armes, `UndergroundStash`…) d'un mapping sont recréés à chaque
@@ -236,7 +240,7 @@ pas de dégâts (`disableBaseDamage`, `disableContainerDamage`).
 | --- | --- | --- |
 | Zombies | `smin`/`smax`/`dmin`/`dmax` ×2 sur toutes les zones actives | `env/zombie_territories.xml` |
 | Plafonds zombies | `ZombieMaxCount` 1000 → 1500, `max` des événements `Infected*` ×2 | `db/globals.xml`, `db/events.xml` |
-| Hordes civiles | `StaticHorde` : 8 hordes de 25 à 35 zombies (`InfectedHorde`) autour d'une épave de voiture, dans les villes et villages | `db/events.xml`, `cfgeventspawns.xml` |
+| Hordes civiles | `StaticHorde` : 16 hordes en même temps, de 25 à 35 zombies (`InfectedHorde`) autour d'une épave de voiture, dans les villes et villages (8 modèles d'épave, 2 au plus de chaque) | `db/events.xml`, `cfgeventspawns.xml` |
 | Hordes militaires | `StaticHordeMilitary` : 4 hordes de 25 à 35 zombies militaires (`InfectedArmy`) autour d'une épave militaire, dans les bases | `db/events.xml`, `cfgeventspawns.xml` |
 | Loups | 16 meutes de 5 à 8 (au lieu de 8 meutes de 4 à 6) | `db/events.xml` |
 | Ours | 6 groupes de 1 ou 2 ours (au lieu de 2 ours seuls), `limit` passé de `custom` à `child` comme les loups | `db/events.xml` |
