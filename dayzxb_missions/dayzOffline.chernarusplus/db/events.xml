@@ -937,7 +937,7 @@
         </children>
     </event>
     <event name="StaticHorde">
-        <nominal>8</nominal>
+        <nominal>16</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>2700</lifetime>
@@ -951,14 +951,14 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="4" lootmin="1" max="1" min="1" type="Land_Wreck_Ikarus_DE"/>
-            <child lootmax="4" lootmin="1" max="1" min="1" type="Land_Wreck_sed01_aban1_black_DE"/>
-            <child lootmax="4" lootmin="1" max="1" min="1" type="Land_Wreck_sed01_aban1_white_DE"/>
-            <child lootmax="4" lootmin="1" max="1" min="1" type="Land_Wreck_sed02_aban1_red_DE"/>
-            <child lootmax="4" lootmin="1" max="1" min="1" type="Land_Wreck_hb01_aban1_blue_DE"/>
-            <child lootmax="4" lootmin="1" max="1" min="1" type="Land_Wreck_hb02_aban1_blue_DE"/>
-            <child lootmax="4" lootmin="1" max="1" min="1" type="Land_wreck_truck01_aban1_orange_DE"/>
-            <child lootmax="4" lootmin="1" max="1" min="1" type="Land_Wreck_offroad02_aban1_DE"/>
+            <child lootmax="4" lootmin="1" max="2" min="1" type="Land_Wreck_Ikarus_DE"/>
+            <child lootmax="4" lootmin="1" max="2" min="1" type="Land_Wreck_sed01_aban1_black_DE"/>
+            <child lootmax="4" lootmin="1" max="2" min="1" type="Land_Wreck_sed01_aban1_white_DE"/>
+            <child lootmax="4" lootmin="1" max="2" min="1" type="Land_Wreck_sed02_aban1_red_DE"/>
+            <child lootmax="4" lootmin="1" max="2" min="1" type="Land_Wreck_hb01_aban1_blue_DE"/>
+            <child lootmax="4" lootmin="1" max="2" min="1" type="Land_Wreck_hb02_aban1_blue_DE"/>
+            <child lootmax="4" lootmin="1" max="2" min="1" type="Land_wreck_truck01_aban1_orange_DE"/>
+            <child lootmax="4" lootmin="1" max="2" min="1" type="Land_Wreck_offroad02_aban1_DE"/>
         </children>
     </event>
     <event name="StaticHordeMilitary">

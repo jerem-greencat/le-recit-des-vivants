@@ -1,0 +1,4148 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_Rubble_Rocks1",
+            "pos": [
+                621.0,
+                0.551,
+                1143.0
+            ],
+            "ypr": [
+                316.02,
+                0.0,
+                0.0
+            ],
+            "scale": 2.4,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks1",
+            "pos": [
+                643.0,
+                -0.414,
+                1145.0
+            ],
+            "ypr": [
+                317.33,
+                0.0,
+                0.0
+            ],
+            "scale": 2.2,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks1",
+            "pos": [
+                631.0,
+                -1.449,
+                1158.0
+            ],
+            "ypr": [
+                152.17,
+                0.0,
+                0.0
+            ],
+            "scale": 2.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks1",
+            "pos": [
+                605.0,
+                -4.314,
+                1133.0
+            ],
+            "ypr": [
+                240.26,
+                0.0,
+                0.0
+            ],
+            "scale": 1.6,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks1",
+            "pos": [
+                656.0,
+                -4.314,
+                1131.0
+            ],
+            "ypr": [
+                345.94,
+                0.0,
+                0.0
+            ],
+            "scale": 1.55,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks1",
+            "pos": [
+                632.0,
+                -5.618,
+                1134.0
+            ],
+            "ypr": [
+                132.29,
+                0.0,
+                0.0
+            ],
+            "scale": 1.35,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks1",
+            "pos": [
+                610.0,
+                -3.443,
+                1151.0
+            ],
+            "ypr": [
+                299.92,
+                0.0,
+                0.0
+            ],
+            "scale": 1.7,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks1",
+            "pos": [
+                652.0,
+                -4.146,
+                1157.0
+            ],
+            "ypr": [
+                337.18,
+                0.0,
+                0.0
+            ],
+            "scale": 1.5,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks1",
+            "pos": [
+                594.0,
+                -6.503,
+                1126.0
+            ],
+            "ypr": [
+                202.25,
+                0.0,
+                0.0
+            ],
+            "scale": 1.25,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks1",
+            "pos": [
+                602.0,
+                -7.224,
+                1094.0
+            ],
+            "ypr": [
+                335.37,
+                0.0,
+                0.0
+            ],
+            "scale": 1.2,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks1",
+            "pos": [
+                654.0,
+                -7.125,
+                1088.0
+            ],
+            "ypr": [
+                57.27,
+                0.0,
+                0.0
+            ],
+            "scale": 1.2,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks1",
+            "pos": [
+                642.0,
+                -5.224,
+                1167.0
+            ],
+            "ypr": [
+                341.82,
+                0.0,
+                0.0
+            ],
+            "scale": 1.3,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_d_FagusSylvatica_stump",
+            "pos": [
+                620.606,
+                16.699,
+                1147.491
+            ],
+            "ypr": [
+                92.42,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_GrassPatch",
+            "pos": [
+                619.034,
+                15.643,
+                1142.52
+            ],
+            "ypr": [
+                277.15,
+                0.0,
+                0.0
+            ],
+            "scale": 0.903,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_ForestPatch",
+            "pos": [
+                624.779,
+                10.543,
+                1137.689
+            ],
+            "ypr": [
+                108.96,
+                0.0,
+                0.0
+            ],
+            "scale": 0.777,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_d_FagusSylvatica_stump",
+            "pos": [
+                639.544,
+                12.175,
+                1151.125
+            ],
+            "ypr": [
+                294.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_GrassPatch",
+            "pos": [
+                640.827,
+                13.403,
+                1144.669
+            ],
+            "ypr": [
+                224.06,
+                0.0,
+                0.0
+            ],
+            "scale": 0.885,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_d_FagusSylvatica_stump",
+            "pos": [
+                645.408,
+                11.828,
+                1141.244
+            ],
+            "ypr": [
+                199.67,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_d_FagusSylvatica_stump",
+            "pos": [
+                635.64,
+                11.831,
+                1157.022
+            ],
+            "ypr": [
+                348.85,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_d_FagusSylvatica_stump",
+            "pos": [
+                624.969,
+                9.224,
+                1157.243
+            ],
+            "ypr": [
+                143.23,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_d_FagusSylvatica_stump",
+            "pos": [
+                630.556,
+                11.634,
+                1159.652
+            ],
+            "ypr": [
+                190.22,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_d_FagusSylvatica_stump",
+            "pos": [
+                603.236,
+                4.788,
+                1149.337
+            ],
+            "ypr": [
+                138.32,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_d_FagusSylvatica_stump",
+            "pos": [
+                615.839,
+                15.493,
+                1148.386
+            ],
+            "ypr": [
+                169.65,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_GrassPatch",
+            "pos": [
+                602.95,
+                5.421,
+                1134.93
+            ],
+            "ypr": [
+                20.04,
+                0.0,
+                0.0
+            ],
+            "scale": 0.999,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_GrassPatch",
+            "pos": [
+                652.525,
+                4.705,
+                1133.951
+            ],
+            "ypr": [
+                29.96,
+                0.0,
+                0.0
+            ],
+            "scale": 0.922,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                615.7,
+                0.21,
+                1124.25
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                615.7,
+                0.21,
+                1117.75
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                615.7,
+                0.21,
+                1111.25
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                622.85,
+                0.21,
+                1124.25
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                622.85,
+                0.21,
+                1117.75
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                622.85,
+                0.21,
+                1111.25
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                630.0,
+                0.21,
+                1124.25
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                630.0,
+                0.21,
+                1117.75
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                630.0,
+                0.21,
+                1111.25
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                637.15,
+                0.21,
+                1124.25
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                637.15,
+                0.21,
+                1117.75
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                637.15,
+                0.21,
+                1111.25
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                644.3,
+                0.21,
+                1124.25
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                644.3,
+                0.21,
+                1117.75
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                644.3,
+                0.21,
+                1111.25
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_16m",
+            "pos": [
+                622.85,
+                0.21,
+                1100.0
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                619.275,
+                0.21,
+                1088.75
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                626.425,
+                0.21,
+                1088.75
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_16m",
+            "pos": [
+                655.875,
+                0.21,
+                1117.75
+            ],
+            "ypr": [
+                90,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Pier_Wooden3_Platform",
+            "pos": [
+                667.45,
+                0.21,
+                1117.75
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Pier_Wooden3_Ladder",
+            "pos": [
+                640.725,
+                0.209,
+                1106.4
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Pier_Wooden3_Ladder",
+            "pos": [
+                610.525,
+                0.209,
+                1117.75
+            ],
+            "ypr": [
+                270,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Boat_Small1",
+            "pos": [
+                643.925,
+                0.247,
+                1104.5
+            ],
+            "ypr": [
+                8,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Boat_Small3",
+            "pos": [
+                608.525,
+                0.333,
+                1122.25
+            ],
+            "ypr": [
+                95,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Shed_W2",
+            "pos": [
+                617.5,
+                3.555,
+                1123.3
+            ],
+            "ypr": [
+                206.75,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wooden_single_bed_01",
+            "pos": [
+                617.238,
+                2.7,
+                1125.224
+            ],
+            "ypr": [
+                206.75,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WolfPelt",
+            "pos": [
+                617.856,
+                2.71,
+                1122.896
+            ],
+            "ypr": [
+                61.28,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BearPelt",
+            "pos": [
+                619.157,
+                2.71,
+                1123.921
+            ],
+            "ypr": [
+                271.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WildBoarPelt",
+            "pos": [
+                616.513,
+                2.71,
+                1122.453
+            ],
+            "ypr": [
+                25.84,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                619.904,
+                3.044,
+                1124.752
+            ],
+            "ypr": [
+                49.08,
+                -3.51,
+                -55.58
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candle",
+            "pos": [
+                619.741,
+                2.76,
+                1124.858
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candle",
+            "pos": [
+                620.277,
+                2.76,
+                1124.588
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Shed_W5",
+            "pos": [
+                631.0,
+                4.136,
+                1124.5
+            ],
+            "ypr": [
+                277.59,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Shed_W1",
+            "pos": [
+                643.0,
+                3.807,
+                1123.9
+            ],
+            "ypr": [
+                62.04,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks2",
+            "pos": [
+                630.08,
+                2.744,
+                1117.31
+            ],
+            "ypr": [
+                113.8,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks2",
+            "pos": [
+                630.263,
+                2.744,
+                1116.756
+            ],
+            "ypr": [
+                344.65,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks2",
+            "pos": [
+                630.715,
+                2.744,
+                1117.401
+            ],
+            "ypr": [
+                52.58,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks2",
+            "pos": [
+                630.68,
+                2.744,
+                1117.741
+            ],
+            "ypr": [
+                306.74,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks2",
+            "pos": [
+                630.523,
+                2.744,
+                1117.31
+            ],
+            "ypr": [
+                59.64,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks2",
+            "pos": [
+                630.385,
+                2.744,
+                1117.611
+            ],
+            "ypr": [
+                50.26,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks2",
+            "pos": [
+                629.941,
+                2.744,
+                1116.966
+            ],
+            "ypr": [
+                181.01,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks2",
+            "pos": [
+                629.623,
+                2.744,
+                1117.467
+            ],
+            "ypr": [
+                299.81,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks2",
+            "pos": [
+                629.768,
+                2.744,
+                1117.89
+            ],
+            "ypr": [
+                286.01,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks2",
+            "pos": [
+                629.872,
+                2.744,
+                1116.998
+            ],
+            "ypr": [
+                303.2,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks2",
+            "pos": [
+                630.68,
+                2.744,
+                1116.03
+            ],
+            "ypr": [
+                331.32,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks2",
+            "pos": [
+                630.823,
+                2.744,
+                1116.874
+            ],
+            "ypr": [
+                241.58,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks2",
+            "pos": [
+                629.487,
+                2.744,
+                1117.726
+            ],
+            "ypr": [
+                356.97,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rubble_Rocks2",
+            "pos": [
+                629.311,
+                2.744,
+                1116.872
+            ],
+            "ypr": [
+                340.32,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                630.0,
+                2.94,
+                1117.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.1,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                628.95,
+                3.258,
+                1117.0
+            ],
+            "ypr": [
+                288.06,
+                -1.15,
+                -1.2
+            ],
+            "scale": 0.48,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                631.05,
+                3.258,
+                1117.0
+            ],
+            "ypr": [
+                190.41,
+                -0.97,
+                1.32
+            ],
+            "scale": 0.48,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                630.0,
+                3.95,
+                1117.0
+            ],
+            "ypr": [
+                0,
+                0.0,
+                90
+            ],
+            "scale": 0.78,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_HumanSkeleton",
+            "pos": [
+                630.0,
+                3.8,
+                1117.0
+            ],
+            "ypr": [
+                90,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log2",
+            "pos": [
+                629.659,
+                2.658,
+                1120.742
+            ],
+            "ypr": [
+                110,
+                0.0,
+                0.0
+            ],
+            "scale": 0.6,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log2",
+            "pos": [
+                633.742,
+                2.658,
+                1117.341
+            ],
+            "ypr": [
+                200,
+                0.0,
+                0.0
+            ],
+            "scale": 0.6,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log2",
+            "pos": [
+                630.341,
+                2.658,
+                1113.258
+            ],
+            "ypr": [
+                290,
+                0.0,
+                0.0
+            ],
+            "scale": 0.6,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log2",
+            "pos": [
+                626.258,
+                2.658,
+                1116.659
+            ],
+            "ypr": [
+                20,
+                0.0,
+                0.0
+            ],
+            "scale": 0.6,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                632.294,
+                2.605,
+                1117.832
+            ],
+            "ypr": [
+                186.4,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                632.566,
+                2.605,
+                1117.531
+            ],
+            "ypr": [
+                253.76,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                632.905,
+                2.605,
+                1118.471
+            ],
+            "ypr": [
+                319.18,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                628.154,
+                2.605,
+                1115.646
+            ],
+            "ypr": [
+                73.92,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                627.948,
+                2.605,
+                1115.796
+            ],
+            "ypr": [
+                346.79,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                627.399,
+                2.605,
+                1115.317
+            ],
+            "ypr": [
+                69.07,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Bucket_Red",
+            "pos": [
+                632.0,
+                2.591,
+                1115.6
+            ],
+            "ypr": [
+                30,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VomitBloodGround",
+            "pos": [
+                628.026,
+                2.61,
+                1118.903
+            ],
+            "ypr": [
+                118.49,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VomitBloodGround",
+            "pos": [
+                628.773,
+                2.61,
+                1118.917
+            ],
+            "ypr": [
+                5.86,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_FireBarrel_Red",
+            "pos": [
+                623.5,
+                3.824,
+                1121.5
+            ],
+            "ypr": [
+                162.38,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_FireBarrel_Red",
+            "pos": [
+                637.0,
+                3.824,
+                1121.0
+            ],
+            "ypr": [
+                341.16,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Misc_FireBarrel_Red",
+            "pos": [
+                636.0,
+                3.824,
+                1110.5
+            ],
+            "ypr": [
+                303.9,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Shed_Open_Small",
+            "pos": [
+                617.5,
+                4.676,
+                1115.0
+            ],
+            "ypr": [
+                90,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_WoodTable_Outdoor",
+            "pos": [
+                617.5,
+                3.077,
+                1115.0
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_HumanSkeleton",
+            "pos": [
+                617.5,
+                3.69,
+                1115.0
+            ],
+            "ypr": [
+                5,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                618.0,
+                3.58,
+                1115.8
+            ],
+            "ypr": [
+                30,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                617.1,
+                3.58,
+                1114.3
+            ],
+            "ypr": [
+                200,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Stand_Meat",
+            "pos": [
+                616.7,
+                2.748,
+                1117.8
+            ],
+            "ypr": [
+                90,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Stand_Meat",
+            "pos": [
+                616.7,
+                2.748,
+                1112.2
+            ],
+            "ypr": [
+                90,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dead_pile2",
+            "pos": [
+                620.9,
+                2.863,
+                1117.3
+            ],
+            "ypr": [
+                20,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dead_pile4",
+            "pos": [
+                613.9,
+                2.868,
+                1110.0
+            ],
+            "ypr": [
+                110,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_sawhorse_DZ",
+            "pos": [
+                619.1,
+                2.59,
+                1113.4
+            ],
+            "ypr": [
+                10,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_WoodBlock",
+            "pos": [
+                619.3,
+                2.934,
+                1116.2
+            ],
+            "ypr": [
+                70,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Bucket_Red",
+            "pos": [
+                618.5,
+                2.591,
+                1115.6
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Bucket_Red",
+            "pos": [
+                616.3,
+                2.591,
+                1116.0
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_tools_racking",
+            "pos": [
+                615.6,
+                2.59,
+                1115.0
+            ],
+            "ypr": [
+                90,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VomitBloodGround",
+            "pos": [
+                616.779,
+                2.61,
+                1114.18
+            ],
+            "ypr": [
+                25.63,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VomitBloodGround",
+            "pos": [
+                616.223,
+                2.61,
+                1115.111
+            ],
+            "ypr": [
+                27.52,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VomitBloodGround",
+            "pos": [
+                616.444,
+                2.61,
+                1113.909
+            ],
+            "ypr": [
+                30.17,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VomitBloodGround",
+            "pos": [
+                617.161,
+                2.61,
+                1114.817
+            ],
+            "ypr": [
+                333.61,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VomitBloodGround",
+            "pos": [
+                621.28,
+                2.61,
+                1117.383
+            ],
+            "ypr": [
+                205.92,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VomitBloodGround",
+            "pos": [
+                620.778,
+                2.61,
+                1117.818
+            ],
+            "ypr": [
+                50.31,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                619.446,
+                2.605,
+                1111.396
+            ],
+            "ypr": [
+                56.14,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                620.535,
+                2.605,
+                1112.375
+            ],
+            "ypr": [
+                105.08,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                619.757,
+                2.605,
+                1112.355
+            ],
+            "ypr": [
+                67.31,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                620.196,
+                2.605,
+                1111.525
+            ],
+            "ypr": [
+                256.5,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                620.44,
+                2.605,
+                1113.243
+            ],
+            "ypr": [
+                154.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wall_Wood5_4",
+            "pos": [
+                613.0,
+                2.596,
+                1121.0
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CowPelt",
+            "pos": [
+                611.6,
+                2.593,
+                1120.3
+            ],
+            "ypr": [
+                11.32,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DeerPelt",
+            "pos": [
+                613.0,
+                2.593,
+                1120.3
+            ],
+            "ypr": [
+                78.19,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "PigPelt",
+            "pos": [
+                614.4,
+                2.592,
+                1120.3
+            ],
+            "ypr": [
+                50.23,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_FishingGear1",
+            "pos": [
+                626.5,
+                2.791,
+                1111.0
+            ],
+            "ypr": [
+                30,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_CrabCages",
+            "pos": [
+                623.0,
+                2.606,
+                1110.3
+            ],
+            "ypr": [
+                80,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_FishingGear2",
+            "pos": [
+                646.0,
+                2.773,
+                1118.5
+            ],
+            "ypr": [
+                200,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dead_pile1",
+            "pos": [
+                642.5,
+                2.894,
+                1112.5
+            ],
+            "ypr": [
+                40,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dead_pile3",
+            "pos": [
+                645.5,
+                2.878,
+                1115.0
+            ],
+            "ypr": [
+                330,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Pile",
+            "pos": [
+                639.3,
+                2.777,
+                1114.0
+            ],
+            "ypr": [
+                80,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_HumanSkeleton",
+            "pos": [
+                645.069,
+                2.74,
+                1111.359
+            ],
+            "ypr": [
+                249.36,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_HumanSkeleton",
+            "pos": [
+                640.209,
+                2.74,
+                1114.205
+            ],
+            "ypr": [
+                242.65,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_HumanSkeleton",
+            "pos": [
+                640.298,
+                2.74,
+                1111.73
+            ],
+            "ypr": [
+                90.82,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_bag_DZ",
+            "pos": [
+                645.944,
+                3.007,
+                1110.524
+            ],
+            "ypr": [
+                190.1,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_bag_DZ",
+            "pos": [
+                645.717,
+                3.007,
+                1110.493
+            ],
+            "ypr": [
+                210.14,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_bag_DZ",
+            "pos": [
+                643.595,
+                3.007,
+                1109.303
+            ],
+            "ypr": [
+                32.72,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_boots_DZ",
+            "pos": [
+                643.684,
+                2.665,
+                1112.064
+            ],
+            "ypr": [
+                251.68,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_boots_DZ",
+            "pos": [
+                642.521,
+                2.665,
+                1112.386
+            ],
+            "ypr": [
+                335.64,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_boots_DZ",
+            "pos": [
+                640.833,
+                2.665,
+                1112.732
+            ],
+            "ypr": [
+                74.25,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_boots_DZ",
+            "pos": [
+                645.971,
+                2.665,
+                1109.906
+            ],
+            "ypr": [
+                333.3,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                641.491,
+                2.605,
+                1111.363
+            ],
+            "ypr": [
+                220.05,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                644.912,
+                2.605,
+                1114.334
+            ],
+            "ypr": [
+                135.7,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                643.278,
+                2.605,
+                1111.426
+            ],
+            "ypr": [
+                140.88,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                641.612,
+                2.605,
+                1110.674
+            ],
+            "ypr": [
+                276.17,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                640.442,
+                2.605,
+                1113.632
+            ],
+            "ypr": [
+                260.45,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                642.803,
+                2.605,
+                1114.033
+            ],
+            "ypr": [
+                354.73,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                643.214,
+                2.605,
+                1110.703
+            ],
+            "ypr": [
+                26.7,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                642.376,
+                2.605,
+                1111.585
+            ],
+            "ypr": [
+                126.33,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VomitBloodGround",
+            "pos": [
+                641.814,
+                2.61,
+                1112.12
+            ],
+            "ypr": [
+                291.71,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VomitBloodGround",
+            "pos": [
+                643.195,
+                2.61,
+                1111.47
+            ],
+            "ypr": [
+                189.22,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                620.0,
+                5.508,
+                1108.4
+            ],
+            "ypr": [
+                250.81,
+                0.0,
+                0.0
+            ],
+            "scale": 2.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                620.0,
+                8.4,
+                1106.95
+            ],
+            "ypr": [
+                180,
+                90,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Hanged_civil",
+            "pos": [
+                620.0,
+                4.303,
+                1105.8
+            ],
+            "ypr": [
+                65.01,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                619.895,
+                8.836,
+                1108.647
+            ],
+            "ypr": [
+                20.25,
+                -3.51,
+                -55.58
+            ],
+            "scale": 0.9,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                633.5,
+                5.508,
+                1108.4
+            ],
+            "ypr": [
+                347.76,
+                0.0,
+                0.0
+            ],
+            "scale": 2.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                633.5,
+                8.4,
+                1106.95
+            ],
+            "ypr": [
+                180,
+                90,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Hanged_civil",
+            "pos": [
+                633.5,
+                4.303,
+                1105.8
+            ],
+            "ypr": [
+                128.32,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                633.421,
+                8.836,
+                1108.657
+            ],
+            "ypr": [
+                26.26,
+                -3.51,
+                -55.58
+            ],
+            "scale": 0.9,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                647.0,
+                5.508,
+                1108.4
+            ],
+            "ypr": [
+                109.89,
+                0.0,
+                0.0
+            ],
+            "scale": 2.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                647.0,
+                8.4,
+                1106.95
+            ],
+            "ypr": [
+                180,
+                90,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Hanged_doctor",
+            "pos": [
+                647.0,
+                4.303,
+                1105.8
+            ],
+            "ypr": [
+                236.36,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                646.891,
+                8.836,
+                1108.645
+            ],
+            "ypr": [
+                19.31,
+                -3.51,
+                -55.58
+            ],
+            "scale": 0.9,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                612.525,
+                5.508,
+                1112.5
+            ],
+            "ypr": [
+                85.39,
+                0.0,
+                0.0
+            ],
+            "scale": 2.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                611.075,
+                8.4,
+                1112.5
+            ],
+            "ypr": [
+                270,
+                90,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Hanged_doctor",
+            "pos": [
+                609.925,
+                4.303,
+                1112.5
+            ],
+            "ypr": [
+                332.74,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                612.78,
+                8.836,
+                1112.585
+            ],
+            "ypr": [
+                114.87,
+                -3.51,
+                -55.58
+            ],
+            "scale": 0.9,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                647.475,
+                5.508,
+                1112.0
+            ],
+            "ypr": [
+                14.74,
+                0.0,
+                0.0
+            ],
+            "scale": 2.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                648.925,
+                8.4,
+                1112.0
+            ],
+            "ypr": [
+                90,
+                90,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Hanged_doctor",
+            "pos": [
+                650.075,
+                4.303,
+                1112.0
+            ],
+            "ypr": [
+                97.48,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                647.223,
+                8.836,
+                1111.906
+            ],
+            "ypr": [
+                292.83,
+                -3.51,
+                -55.58
+            ],
+            "scale": 0.9,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                647.475,
+                5.508,
+                1125.0
+            ],
+            "ypr": [
+                207.41,
+                0.0,
+                0.0
+            ],
+            "scale": 2.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                648.925,
+                8.4,
+                1125.0
+            ],
+            "ypr": [
+                90,
+                90,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Hanged_doctor",
+            "pos": [
+                650.075,
+                4.303,
+                1125.0
+            ],
+            "ypr": [
+                128.61,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                647.23,
+                8.836,
+                1124.89
+            ],
+            "ypr": [
+                289.14,
+                -3.51,
+                -55.58
+            ],
+            "scale": 0.9,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                620.75,
+                2.603,
+                1087.07
+            ],
+            "ypr": [
+                90,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                620.75,
+                2.603,
+                1088.45
+            ],
+            "ypr": [
+                90,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                620.75,
+                2.603,
+                1089.83
+            ],
+            "ypr": [
+                90,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                624.95,
+                2.603,
+                1087.07
+            ],
+            "ypr": [
+                90,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                624.95,
+                2.603,
+                1088.45
+            ],
+            "ypr": [
+                90,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                624.95,
+                2.603,
+                1089.83
+            ],
+            "ypr": [
+                90,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                621.47,
+                2.603,
+                1086.35
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                621.47,
+                5.4,
+                1088.45
+            ],
+            "ypr": [
+                0,
+                90,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                621.47,
+                5.4,
+                1088.45
+            ],
+            "ypr": [
+                0,
+                -90,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                622.85,
+                2.603,
+                1086.35
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                622.85,
+                5.4,
+                1088.45
+            ],
+            "ypr": [
+                0,
+                90,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                622.85,
+                5.4,
+                1088.45
+            ],
+            "ypr": [
+                0,
+                -90,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                624.23,
+                2.603,
+                1086.35
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                624.23,
+                5.4,
+                1088.45
+            ],
+            "ypr": [
+                0,
+                90,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_cage",
+            "pos": [
+                624.23,
+                5.4,
+                1088.45
+            ],
+            "ypr": [
+                0,
+                -90,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_HumanSkeleton",
+            "pos": [
+                621.85,
+                2.74,
+                1087.35
+            ],
+            "ypr": [
+                60,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_matress_white_bent",
+            "pos": [
+                623.95,
+                2.791,
+                1087.45
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Bucket_Red",
+            "pos": [
+                621.45,
+                2.591,
+                1089.55
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VomitBloodGround",
+            "pos": [
+                623.507,
+                2.61,
+                1087.171
+            ],
+            "ypr": [
+                87.87,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VomitBloodGround",
+            "pos": [
+                622.93,
+                2.61,
+                1088.755
+            ],
+            "ypr": [
+                166.26,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VomitBloodGround",
+            "pos": [
+                624.001,
+                2.61,
+                1087.572
+            ],
+            "ypr": [
+                339.27,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                621.809,
+                2.605,
+                1088.53
+            ],
+            "ypr": [
+                315.05,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                623.767,
+                2.605,
+                1088.5
+            ],
+            "ypr": [
+                354.42,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                621.912,
+                2.605,
+                1089.019
+            ],
+            "ypr": [
+                81.71,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Bone",
+            "pos": [
+                623.667,
+                2.605,
+                1087.702
+            ],
+            "ypr": [
+                207.86,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Cages",
+            "pos": [
+                627.05,
+                2.599,
+                1087.45
+            ],
+            "ypr": [
+                90,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Cages",
+            "pos": [
+                627.05,
+                3.989,
+                1087.45
+            ],
+            "ypr": [
+                90,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Cages",
+            "pos": [
+                618.45,
+                2.599,
+                1087.45
+            ],
+            "ypr": [
+                90,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                626.838,
+                2.85,
+                1087.378
+            ],
+            "ypr": [
+                294.53,
+                -3.51,
+                -55.58
+            ],
+            "scale": 0.75,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                619.85,
+                3.686,
+                1091.05
+            ],
+            "ypr": [
+                225.87,
+                -3.45,
+                -2.57
+            ],
+            "scale": 0.85,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                619.949,
+                5.199,
+                1090.833
+            ],
+            "ypr": [
+                198.89,
+                -3.51,
+                -55.58
+            ],
+            "scale": 0.8,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                625.85,
+                3.686,
+                1091.05
+            ],
+            "ypr": [
+                354.85,
+                1.1,
+                -3.44
+            ],
+            "scale": 0.85,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                625.93,
+                5.199,
+                1090.825
+            ],
+            "ypr": [
+                203.65,
+                -3.51,
+                -55.58
+            ],
+            "scale": 0.8,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                668.536,
+                3.367,
+                1120.253
+            ],
+            "ypr": [
+                168.81,
+                0.3,
+                -3.37
+            ],
+            "scale": 0.95,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                668.527,
+                5.035,
+                1120.492
+            ],
+            "ypr": [
+                41.28,
+                -3.51,
+                -55.58
+            ],
+            "scale": 0.8,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                670.119,
+                3.378,
+                1118.805
+            ],
+            "ypr": [
+                157.66,
+                -2.57,
+                -1.97
+            ],
+            "scale": 0.95,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                670.282,
+                5.046,
+                1118.979
+            ],
+            "ypr": [
+                86.53,
+                -3.51,
+                -55.58
+            ],
+            "scale": 0.8,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                670.139,
+                3.601,
+                1116.739
+            ],
+            "ypr": [
+                272.41,
+                2.36,
+                -2.85
+            ],
+            "scale": 0.95,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                670.378,
+                5.269,
+                1116.73
+            ],
+            "ypr": [
+                135.54,
+                -3.51,
+                -55.58
+            ],
+            "scale": 0.8,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                668.583,
+                3.807,
+                1115.265
+            ],
+            "ypr": [
+                222.56,
+                3.6,
+                3.61
+            ],
+            "scale": 0.95,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                668.73,
+                5.475,
+                1115.077
+            ],
+            "ypr": [
+                185.37,
+                -3.51,
+                -55.58
+            ],
+            "scale": 0.8,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                666.364,
+                3.769,
+                1115.247
+            ],
+            "ypr": [
+                49.48,
+                -3.95,
+                -1.28
+            ],
+            "scale": 0.95,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                666.37,
+                5.437,
+                1115.008
+            ],
+            "ypr": [
+                221.93,
+                -3.51,
+                -55.58
+            ],
+            "scale": 0.8,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                664.781,
+                3.393,
+                1116.695
+            ],
+            "ypr": [
+                49.79,
+                1.4,
+                3.95
+            ],
+            "scale": 0.95,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                664.613,
+                5.061,
+                1116.525
+            ],
+            "ypr": [
+                268.12,
+                -3.51,
+                -55.58
+            ],
+            "scale": 0.8,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                664.761,
+                3.415,
+                1118.761
+            ],
+            "ypr": [
+                346.98,
+                1.03,
+                1.42
+            ],
+            "scale": 0.95,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                664.523,
+                5.083,
+                1118.78
+            ],
+            "ypr": [
+                317.97,
+                -3.51,
+                -55.58
+            ],
+            "scale": 0.8,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                666.317,
+                3.409,
+                1120.235
+            ],
+            "ypr": [
+                92.63,
+                1.79,
+                0.04
+            ],
+            "scale": 0.95,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                666.175,
+                5.077,
+                1120.427
+            ],
+            "ypr": [
+                6.82,
+                -3.51,
+                -55.58
+            ],
+            "scale": 0.8,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_WoodBlock",
+            "pos": [
+                667.45,
+                3.072,
+                1117.75
+            ],
+            "ypr": [
+                90,
+                0.0,
+                0.0
+            ],
+            "scale": 1.4,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_HumanSkeleton",
+            "pos": [
+                667.45,
+                3.7,
+                1117.75
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candle",
+            "pos": [
+                667.45,
+                2.65,
+                1119.35
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candle",
+            "pos": [
+                668.581,
+                2.65,
+                1118.881
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candle",
+            "pos": [
+                669.05,
+                2.65,
+                1117.75
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candle",
+            "pos": [
+                668.581,
+                2.65,
+                1116.619
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candle",
+            "pos": [
+                667.45,
+                2.65,
+                1116.15
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candle",
+            "pos": [
+                666.319,
+                2.65,
+                1116.619
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candle",
+            "pos": [
+                665.85,
+                2.65,
+                1117.75
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Candle",
+            "pos": [
+                666.319,
+                2.65,
+                1118.881
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Cemetery_SmallCross",
+            "pos": [
+                668.55,
+                2.96,
+                1115.845
+            ],
+            "ypr": [
+                150,
+                0.0,
+                180
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Cemetery_SmallCross",
+            "pos": [
+                666.35,
+                2.96,
+                1115.845
+            ],
+            "ypr": [
+                210,
+                0.0,
+                180
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DeerPelt",
+            "pos": [
+                666.55,
+                2.593,
+                1117.75
+            ],
+            "ypr": [
+                0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VomitBloodGround",
+            "pos": [
+                667.505,
+                2.61,
+                1118.37
+            ],
+            "ypr": [
+                175.35,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VomitBloodGround",
+            "pos": [
+                667.787,
+                2.61,
+                1117.048
+            ],
+            "ypr": [
+                214.48,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "VomitBloodGround",
+            "pos": [
+                667.317,
+                2.61,
+                1118.146
+            ],
+            "ypr": [
+                323.17,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_HumanSkeleton",
+            "pos": [
+                631.56,
+                -13.215,
+                1103.016
+            ],
+            "ypr": [
+                176.03,
+                -0.91,
+                0.3
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_HumanSkeleton",
+            "pos": [
+                616.673,
+                -13.226,
+                1106.379
+            ],
+            "ypr": [
+                181.59,
+                -0.85,
+                0.21
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_HumanSkeleton",
+            "pos": [
+                623.315,
+                -13.298,
+                1099.876
+            ],
+            "ypr": [
+                269.29,
+                -0.24,
+                -0.91
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_HumanSkeleton",
+            "pos": [
+                615.047,
+                -13.282,
+                1103.013
+            ],
+            "ypr": [
+                249.61,
+                -0.51,
+                -0.71
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_HumanSkeleton",
+            "pos": [
+                616.589,
+                -13.291,
+                1101.959
+            ],
+            "ypr": [
+                344.43,
+                0.76,
+                -0.44
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_HumanSkeleton",
+            "pos": [
+                642.928,
+                -13.163,
+                1102.546
+            ],
+            "ypr": [
+                168.14,
+                -0.88,
+                0.58
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_HumanSkeleton",
+            "pos": [
+                626.124,
+                -13.319,
+                1097.897
+            ],
+            "ypr": [
+                114.78,
+                -0.18,
+                0.93
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_HumanSkeleton",
+            "pos": [
+                637.35,
+                -13.161,
+                1104.737
+            ],
+            "ypr": [
+                293.32,
+                0.11,
+                -1.03
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_HumanSkeleton",
+            "pos": [
+                625.215,
+                -13.283,
+                1100.377
+            ],
+            "ypr": [
+                152.96,
+                -0.71,
+                0.62
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dead_pile2",
+            "pos": [
+                626.0,
+                -13.139,
+                1101.5
+            ],
+            "ypr": [
+                283.54,
+                -0.01,
+                -0.94
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Dead_pile3",
+            "pos": [
+                638.0,
+                -13.042,
+                1103.5
+            ],
+            "ypr": [
+                239.58,
+                -0.8,
+                -0.68
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Pile",
+            "pos": [
+                618.0,
+                -13.227,
+                1103.5
+            ],
+            "ypr": [
+                277.46,
+                -0.12,
+                -0.86
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Wreck_Boat_Small2",
+            "pos": [
+                632.0,
+                -13.277,
+                1094.5
+            ],
+            "ypr": [
+                130,
+                -0.39,
+                0.81
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                642.787,
+                10.758,
+                1152.207
+            ],
+            "ypr": [
+                322.21,
+                5.74,
+                5.32
+            ],
+            "scale": 1.2,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                642.879,
+                12.838,
+                1151.923
+            ],
+            "ypr": [
+                205.37,
+                -3.51,
+                -55.58
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                624.603,
+                7.352,
+                1158.013
+            ],
+            "ypr": [
+                27.24,
+                -4.83,
+                4.03
+            ],
+            "scale": 1.2,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                624.706,
+                9.431,
+                1157.733
+            ],
+            "ypr": [
+                203.2,
+                -3.51,
+                -55.58
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                648.783,
+                5.427,
+                1157.606
+            ],
+            "ypr": [
+                248.82,
+                -3.31,
+                -5.37
+            ],
+            "scale": 1.2,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                648.851,
+                7.507,
+                1157.315
+            ],
+            "ypr": [
+                210.16,
+                -3.51,
+                -55.58
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Timbers_Log5",
+            "pos": [
+                646.03,
+                7.38,
+                1154.72
+            ],
+            "ypr": [
+                125.29,
+                4.75,
+                -5.4
+            ],
+            "scale": 1.2,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                646.153,
+                9.459,
+                1154.448
+            ],
+            "ypr": [
+                199.0,
+                -3.51,
+                -55.58
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
