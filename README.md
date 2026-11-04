@@ -31,6 +31,7 @@ Le crash du père Noël (`ZmbM_Santa`) a été désactivé (`active` 0) au même
 | `dayzxb/config/` | Profil serveur (`Users/Server/DayZ.cfg`, `Users/Survivor/*.DayZProfile`) et logs (`.RPT`, `.ADM`, `script_*.log`) |
 | `tools/` | Scripts locaux : changement d'ambiance météo et génération des mappings d'ambiance (voir Outils) |
 | `restart.log` | Log des démarrages/arrêts écrit par Nitrado |
+| `LORE.md` | Lore du serveur : monde, lieux, groupes, personnages, événements joués |
 
 Les logs (`.RPT`, `.ADM`, `.log`, `restart.log`, `stop`) sont ignorés par git : on peut les
 télécharger en local pour diagnostiquer, ils ne sont pas versionnés.
@@ -140,7 +141,7 @@ les gérer à la main (voir la section Météo). De même pour les mappings de f
 | `custom/tishina_barrage_overgrown.json` | Barrage de Tishina : base fermée (murs, palissades en tôle, portails), atelier (étaux, établis, étagères), tuyaux, végétation |
 | `custom/prison_bridge.json` | Pont de pierre vers l'île de la prison |
 | `custom/devils_castle_secte.json` | Base de la secte au château du diable : remparts, tentes, tour, escaliers, tombes, têtes coupées, bougies |
-| `custom/vyshnoye_plane_base.json` | Base autour d'une carcasse d'avion près de Vyshnoye : MiG-21, stand de tir, dortoir (lits de camp, casiers), cratères, arbres couchés |
+| `custom/vyshnoye_plane_base.json` | Base autour d'une carcasse d'avion près de Vyshnoye : MiG-21, stand de tir, dortoir (lits de camp, casiers), cratères, arbres couchés. À l'est de l'aile, la cargaison éventrée et une scène d'indice du lore (détail dans `secret/`, non versionné). Ces 21 objets ont le `customString` `manifeste` |
 | `custom/junkyard_base.json` | Casse auto au nord de la route de Berezino : dalle de béton à plat (sol 118,70) avec rampe d'accès depuis la route, des centaines d'épaves, piles de pneus, conteneurs, talus de rochers |
 | `custom/pustoshka_survivor_camp.json` | Camp de survivants à Pustoshka : enceinte d'épaves (bus, Volga, UAZ, camions), barbelés, bungalows, conteneurs |
 | `custom/comete.json` | Épaves du traîneau du père Noël au centre de Zelenogorsk. N'est plus chargé (retiré de `objectSpawnersArr`) |
