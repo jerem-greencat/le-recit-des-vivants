@@ -1,6 +1,582 @@
 {
     "Objects": [
         {
+            "name": "DZ\\plants_takistan\\tree\\t_prunusdomestica_1s.p3d",
+            "pos": [
+                2844.240478515625,
+                214.5556640625,
+                5348.69580078125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_prunusdomestica_1s.p3d",
+            "pos": [
+                2848.60205078125,
+                214.6154327392578,
+                5355.0634765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_prunusdomestica_1s.p3d",
+            "pos": [
+                2853.65966796875,
+                214.49029541015626,
+                5360.2939453125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_prunusdomestica_1s.p3d",
+            "pos": [
+                2859.850341796875,
+                214.55722045898438,
+                5363.05322265625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_prunusdomestica_1s.p3d",
+            "pos": [
+                2865.991455078125,
+                214.5814208984375,
+                5363.95361328125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_prunusdomestica_1s.p3d",
+            "pos": [
+                2871.997802734375,
+                214.55177307128907,
+                5363.404296875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_prunusdomestica_1s.p3d",
+            "pos": [
+                2878.792724609375,
+                214.56040954589845,
+                5362.021484375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_prunusdomestica_1s.p3d",
+            "pos": [
+                2884.333984375,
+                214.47982788085938,
+                5358.97021484375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_prunusdomestica_1s.p3d",
+            "pos": [
+                2889.298583984375,
+                214.42555236816407,
+                5354.5068359375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_prunusdomestica_1s.p3d",
+            "pos": [
+                2893.1123046875,
+                214.55372619628907,
+                5349.634765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_prunusdomestica_1s.p3d",
+            "pos": [
+                2895.799072265625,
+                214.5081787109375,
+                5343.6318359375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_prunusdomestica_1s.p3d",
+            "pos": [
+                2896.69677734375,
+                214.53341674804688,
+                5337.3984375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_prunusdomestica_1s.p3d",
+            "pos": [
+                2896.555908203125,
+                214.53793334960938,
+                5330.76123046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_prunusdomestica_1s.p3d",
+            "pos": [
+                2894.742919921875,
+                214.44671630859376,
+                5326.9169921875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_prunusdomestica_1s.p3d",
+            "pos": [
+                2893.05419921875,
+                214.5731658935547,
+                5322.6953125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_prunusdomestica_1s.p3d",
+            "pos": [
+                2884.911865234375,
+                214.46543884277345,
+                5326.08544921875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_prunusdomestica_1s.p3d",
+            "pos": [
+                2851.546875,
+                214.56686401367188,
+                5344.25927734375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_phoenixrupicola_3s.p3d",
+            "pos": [
+                2843.384521484375,
+                208.38265991210938,
+                5353.9951171875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_phoenixrupicola_3s.p3d",
+            "pos": [
+                2849.334716796875,
+                208.47653198242188,
+                5359.0947265625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_phoenixrupicola_3s.p3d",
+            "pos": [
+                2855.91943359375,
+                209.73300170898438,
+                5364.21923828125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_phoenixrupicola_3s.p3d",
+            "pos": [
+                2862.39111328125,
+                210.0188446044922,
+                5365.13720703125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_phoenixrupicola_3s.p3d",
+            "pos": [
+                2868.73388671875,
+                210.33558654785157,
+                5365.44384765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_phoenixrupicola_3s.p3d",
+            "pos": [
+                2875.2578125,
+                210.47265625,
+                5364.3505859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_phoenixrupicola_3s.p3d",
+            "pos": [
+                2881.74609375,
+                210.73342895507813,
+                5361.33642578125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_phoenixrupicola_3s.p3d",
+            "pos": [
+                2887.30859375,
+                210.79835510253907,
+                5357.6171875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_phoenixrupicola_3s.p3d",
+            "pos": [
+                2891.5986328125,
+                210.79666137695313,
+                5352.37548828125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_phoenixrupicola_3s.p3d",
+            "pos": [
+                2895.0751953125,
+                210.11480712890626,
+                5346.84423828125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_phoenixrupicola_3s.p3d",
+            "pos": [
+                2897.25634765625,
+                210.1113739013672,
+                5340.94677734375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_phoenixrupicola_3s.p3d",
+            "pos": [
+                2898.171630859375,
+                209.39321899414063,
+                5333.2529296875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_phoenixrupicola_3s.p3d",
+            "pos": [
+                2897.048095703125,
+                209.02117919921876,
+                5329.4287109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_phoenixrupicola_3s.p3d",
+            "pos": [
+                2895.262451171875,
+                208.04925537109376,
+                5324.802734375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_populus_2sb.p3d",
+            "pos": [
+                2868.5869140625,
+                205.13331604003907,
+                5304.46337890625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_populus_2sb.p3d",
+            "pos": [
+                2842.15185546875,
+                204.23670959472657,
+                5318.9814453125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_populus_2sb.p3d",
+            "pos": [
+                2856.14404296875,
+                204.37509155273438,
+                5311.47802734375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_populus_2sb.p3d",
+            "pos": [
+                2847.976806640625,
+                206.6675262451172,
+                5332.4423828125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "DZ\\plants_takistan\\tree\\t_populus_2sb.p3d",
+            "pos": [
+                2877.3388671875,
+                206.42596435546876,
+                5316.53759765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
             "name": "StaticObj_Platform1_Block",
             "pos": [
                 2863.18212890625,
@@ -12,7 +588,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.8999998569488525,
+            "scale": 0.8999997973442078,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -28,7 +604,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.8999999165534973,
+            "scale": 0.8999998569488525,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -44,7 +620,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.8999999165534973,
+            "scale": 0.8999998569488525,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -60,7 +636,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.8999999165534973,
+            "scale": 0.8999998569488525,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -76,7 +652,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.7999999523162842,
+            "scale": 0.7999998927116394,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -92,7 +668,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -108,7 +684,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -124,7 +700,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -140,7 +716,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -156,7 +732,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -172,7 +748,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -188,7 +764,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -204,7 +780,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -220,7 +796,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.7999999523162842,
+            "scale": 0.7999998927116394,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -236,7 +812,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -252,7 +828,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -268,7 +844,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -284,7 +860,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -300,7 +876,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -316,7 +892,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -332,7 +908,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -348,7 +924,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -364,7 +940,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -380,7 +956,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -392,11 +968,11 @@
                 5347.11328125
             ],
             "ypr": [
-                -16.54444694519043,
+                -16.544448852539064,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -412,7 +988,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -428,7 +1004,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -440,11 +1016,11 @@
                 5345.51513671875
             ],
             "ypr": [
-                36.78889083862305,
+                36.78889465332031,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -460,7 +1036,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -476,7 +1052,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -492,7 +1068,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -504,11 +1080,11 @@
                 5334.28564453125
             ],
             "ypr": [
-                107.9000015258789,
+                107.89999389648438,
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -524,7 +1100,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -540,7 +1116,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -556,7 +1132,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -572,7 +1148,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -588,7 +1164,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -604,7 +1180,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -616,11 +1192,11 @@
                 5345.349609375
             ],
             "ypr": [
-                43.900001525878909,
+                43.899993896484378,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -636,7 +1212,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -652,7 +1228,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -668,7 +1244,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -680,11 +1256,11 @@
                 5334.0087890625
             ],
             "ypr": [
-                107.9000015258789,
+                107.89999389648438,
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -700,7 +1276,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -716,7 +1292,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -728,11 +1304,11 @@
                 5348.3837890625
             ],
             "ypr": [
-                -23.00908851623535,
+                -23.009090423583986,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -748,7 +1324,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -764,7 +1340,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -780,7 +1356,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -792,11 +1368,11 @@
                 5347.154296875
             ],
             "ypr": [
-                35.172725677490237,
+                35.1727294921875,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -812,7 +1388,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -828,7 +1404,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -844,7 +1420,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -860,7 +1436,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -872,11 +1448,11 @@
                 5333.732421875
             ],
             "ypr": [
-                107.9000015258789,
+                107.89999389648438,
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -892,7 +1468,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -904,11 +1480,11 @@
                 5347.40576171875
             ],
             "ypr": [
-                -38.76666259765625,
+                -38.766658782958987,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -924,7 +1500,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -936,11 +1512,11 @@
                 5349.94775390625
             ],
             "ypr": [
-                -12.100003242492676,
+                -12.100004196166993,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -956,7 +1532,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -972,7 +1548,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -988,7 +1564,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1004,7 +1580,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1020,7 +1596,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1036,7 +1612,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1052,7 +1628,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1068,7 +1644,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1080,11 +1656,11 @@
                 5333.45556640625
             ],
             "ypr": [
-                107.9000015258789,
+                107.89999389648438,
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1100,7 +1676,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1116,7 +1692,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1132,7 +1708,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1148,7 +1724,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1160,11 +1736,11 @@
                 5351.11572265625
             ],
             "ypr": [
-                -2.8692305088043215,
+                -2.869230270385742,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1176,11 +1752,11 @@
                 5350.947265625
             ],
             "ypr": [
-                9.438461303710938,
+                9.438460350036621,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1192,11 +1768,11 @@
                 5350.15576171875
             ],
             "ypr": [
-                21.746152877807618,
+                21.746150970458986,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1208,11 +1784,11 @@
                 5348.77783203125
             ],
             "ypr": [
-                34.0538444519043,
+                34.05384826660156,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1224,11 +1800,11 @@
                 5346.87744140625
             ],
             "ypr": [
-                46.36153793334961,
+                46.361534118652347,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1240,11 +1816,11 @@
                 5344.541015625
             ],
             "ypr": [
-                58.66923141479492,
+                58.669227600097659,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1260,7 +1836,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1276,7 +1852,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1292,7 +1868,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1304,11 +1880,11 @@
                 5333.17919921875
             ],
             "ypr": [
-                107.9000015258789,
+                107.89999389648438,
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1324,7 +1900,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1340,7 +1916,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1356,7 +1932,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1372,7 +1948,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1384,11 +1960,11 @@
                 5352.0146484375
             ],
             "ypr": [
-                -2.8692305088043215,
+                -2.869230270385742,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1400,11 +1976,11 @@
                 5351.8349609375
             ],
             "ypr": [
-                9.438461303710938,
+                9.438460350036621,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1416,11 +1992,11 @@
                 5350.99169921875
             ],
             "ypr": [
-                21.746152877807618,
+                21.746150970458986,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1432,11 +2008,11 @@
                 5349.5234375
             ],
             "ypr": [
-                34.0538444519043,
+                34.05384826660156,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1448,11 +2024,11 @@
                 5347.49853515625
             ],
             "ypr": [
-                46.36153793334961,
+                46.361534118652347,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1464,11 +2040,11 @@
                 5345.0087890625
             ],
             "ypr": [
-                58.66923141479492,
+                58.669227600097659,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1484,7 +2060,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1500,7 +2076,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1516,7 +2092,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1528,11 +2104,11 @@
                 5332.90234375
             ],
             "ypr": [
-                107.9000015258789,
+                107.89999389648438,
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1548,7 +2124,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1564,7 +2140,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1576,11 +2152,11 @@
                 5350.95361328125
             ],
             "ypr": [
-                -29.24285125732422,
+                -29.242856979370118,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1592,11 +2168,11 @@
                 5352.1884765625
             ],
             "ypr": [
-                -17.814287185668947,
+                -17.814289093017579,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1608,11 +2184,11 @@
                 5352.83642578125
             ],
             "ypr": [
-                -6.385715007781982,
+                -6.385715484619141,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1628,7 +2204,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1644,7 +2220,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1660,7 +2236,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1676,7 +2252,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1692,7 +2268,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1708,7 +2284,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1724,7 +2300,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1740,7 +2316,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1756,7 +2332,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1768,11 +2344,11 @@
                 5332.6259765625
             ],
             "ypr": [
-                107.9000015258789,
+                107.89999389648438,
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1788,7 +2364,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1804,7 +2380,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1820,7 +2396,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1836,7 +2412,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1848,11 +2424,11 @@
                 5353.61083984375
             ],
             "ypr": [
-                -9.433334350585938,
+                -9.433335304260254,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1868,7 +2444,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1884,7 +2460,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1896,7 +2472,7 @@
                 5352.57470703125
             ],
             "ypr": [
-                22.56667137145996,
+                22.566675186157228,
                 0.0,
                 0.0
             ],
@@ -1916,7 +2492,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1928,11 +2504,11 @@
                 5349.24072265625
             ],
             "ypr": [
-                43.900001525878909,
+                43.899993896484378,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1948,7 +2524,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1964,7 +2540,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.2999999523162842,
+            "scale": 0.2999999225139618,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1980,7 +2556,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -1996,7 +2572,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2012,7 +2588,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2024,11 +2600,11 @@
                 5332.34912109375
             ],
             "ypr": [
-                107.9000015258789,
+                107.89999389648438,
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2044,7 +2620,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2060,7 +2636,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2076,7 +2652,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2088,11 +2664,11 @@
                 5353.45947265625
             ],
             "ypr": [
-                -22.09999656677246,
+                -22.10000228881836,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2104,11 +2680,11 @@
                 5354.34814453125
             ],
             "ypr": [
-                -12.100003242492676,
+                -12.100004196166993,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2120,11 +2696,11 @@
                 5354.72119140625
             ],
             "ypr": [
-                -2.0999996662139894,
+                -2.0999999046325685,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2136,11 +2712,11 @@
                 5354.568359375
             ],
             "ypr": [
-                7.900000095367432,
+                7.90000057220459,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2156,7 +2732,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2172,7 +2748,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2188,7 +2764,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2204,7 +2780,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2220,7 +2796,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2236,7 +2812,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2252,7 +2828,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2268,7 +2844,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2284,7 +2860,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2296,11 +2872,11 @@
                 5332.07275390625
             ],
             "ypr": [
-                107.9000015258789,
+                107.89999389648438,
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2316,7 +2892,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2332,7 +2908,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2344,11 +2920,11 @@
                 5352.6435546875
             ],
             "ypr": [
-                -33.27647018432617,
+                -33.27646255493164,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2364,7 +2940,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2380,7 +2956,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2396,7 +2972,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2412,7 +2988,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2424,11 +3000,11 @@
                 5355.10791015625
             ],
             "ypr": [
-                13.782353401184082,
+                13.782354354858399,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2440,11 +3016,11 @@
                 5354.1591796875
             ],
             "ypr": [
-                23.19411849975586,
+                23.194116592407228,
                 0.0,
                 0.0
             ],
-            "scale": 0.2999999523162842,
+            "scale": 0.2999999225139618,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2460,7 +3036,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2472,11 +3048,11 @@
                 5350.94580078125
             ],
             "ypr": [
-                42.01764678955078,
+                42.01765060424805,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2492,7 +3068,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2508,7 +3084,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2524,7 +3100,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2540,7 +3116,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2556,7 +3132,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2572,7 +3148,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2584,11 +3160,11 @@
                 5331.7958984375
             ],
             "ypr": [
-                107.9000015258789,
+                107.89999389648438,
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2604,7 +3180,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2620,7 +3196,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2632,11 +3208,11 @@
                 5353.39599609375
             ],
             "ypr": [
-                -33.27647018432617,
+                -33.27646255493164,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2652,7 +3228,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2668,7 +3244,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2684,7 +3260,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2700,7 +3276,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2712,11 +3288,11 @@
                 5355.98193359375
             ],
             "ypr": [
-                13.782353401184082,
+                13.782354354858399,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2728,11 +3304,11 @@
                 5354.98681640625
             ],
             "ypr": [
-                23.19411849975586,
+                23.194116592407228,
                 0.0,
                 0.0
             ],
-            "scale": 0.2999999523162842,
+            "scale": 0.2999999225139618,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2748,7 +3324,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2760,11 +3336,11 @@
                 5351.61474609375
             ],
             "ypr": [
-                42.01764678955078,
+                42.01765060424805,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2780,7 +3356,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2796,7 +3372,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2812,7 +3388,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2828,7 +3404,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2844,7 +3420,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2860,7 +3436,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2872,11 +3448,11 @@
                 5331.51953125
             ],
             "ypr": [
-                107.9000015258789,
+                107.89999389648438,
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2892,7 +3468,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2908,7 +3484,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2924,7 +3500,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2940,7 +3516,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2952,11 +3528,11 @@
                 5356.603515625
             ],
             "ypr": [
-                -16.54444694519043,
+                -16.544448852539064,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2972,7 +3548,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -2988,7 +3564,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3004,7 +3580,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3020,7 +3596,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3036,7 +3612,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3048,11 +3624,11 @@
                 5353.443359375
             ],
             "ypr": [
-                36.78889083862305,
+                36.78889465332031,
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3068,7 +3644,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3084,7 +3660,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3100,7 +3676,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3116,7 +3692,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3132,7 +3708,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3148,7 +3724,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3164,7 +3740,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3176,11 +3752,11 @@
                 5331.24267578125
             ],
             "ypr": [
-                107.9000015258789,
+                107.89999389648438,
                 0.0,
                 -0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3244,7 +3820,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.7999999523162842,
+            "scale": 0.7999998927116394,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3260,7 +3836,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.6999999284744263,
+            "scale": 0.6999998688697815,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3272,11 +3848,11 @@
                 5359.71826171875
             ],
             "ypr": [
-                13.733335494995118,
+                13.733336448669434,
                 0.0,
                 0.0
             ],
-            "scale": 0.6999999284744263,
+            "scale": 0.6999998688697815,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3308,7 +3884,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.6999999284744263,
+            "scale": 0.6999998092651367,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3356,7 +3932,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.8999999165534973,
+            "scale": 0.8999998569488525,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3416,7 +3992,7 @@
                 5359.95361328125
             ],
             "ypr": [
-                -27.814287185668947,
+                -27.814289093017579,
                 0.0,
                 0.0
             ],
@@ -3548,7 +4124,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.7999999523162842,
+            "scale": 0.7999998927116394,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3580,7 +4156,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.7999999523162842,
+            "scale": 0.7999998927116394,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3692,7 +4268,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3708,7 +4284,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3724,7 +4300,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3740,7 +4316,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.29999998211860659,
+            "scale": 0.2999999523162842,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -3880,7 +4456,7 @@
                 5333.3564453125
             ],
             "ypr": [
-                -62.100006103515628,
+                -62.10000991821289,
                 0.0,
                 0.0
             ],
@@ -3896,7 +4472,7 @@
                 5324.5185546875
             ],
             "ypr": [
-                -62.100006103515628,
+                -62.10000991821289,
                 0.0,
                 0.0
             ],
@@ -3912,7 +4488,7 @@
                 5319.8798828125
             ],
             "ypr": [
-                -62.100006103515628,
+                -62.10000991821289,
                 0.0,
                 0.0
             ],
@@ -3928,7 +4504,7 @@
                 5311.0419921875
             ],
             "ypr": [
-                -62.100006103515628,
+                -62.10000991821289,
                 0.0,
                 0.0
             ],
@@ -3987,9 +4563,9 @@
         {
             "name": "StaticObj_Curtain_Fancy1M",
             "pos": [
-                2865.492431640625,
-                212.05999755859376,
-                5323.2880859375
+                2866.29150390625,
+                212.11422729492188,
+                5322.78271484375
             ],
             "ypr": [
                 117.9000015258789,
@@ -4028,7 +4604,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999998211860657,
+            "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -4041,7 +4617,7 @@
             ],
             "ypr": [
                 27.90000343322754,
-                6.0,
+                5.999999046325684,
                 -0.0
             ],
             "scale": 3.0,
@@ -4131,14 +4707,14 @@
         {
             "name": "BookCrimeAndPunishment",
             "pos": [
-                2862.47998046875,
-                212.16200256347657,
-                5328.39111328125
+                2862.536865234375,
+                211.9913787841797,
+                5328.14990234375
             ],
             "ypr": [
-                -132.09999084472657,
-                -89.98020935058594,
-                -180.0
+                -132.10000610351563,
+                -89.97201538085938,
+                179.99998474121095
             ],
             "scale": 1.0,
             "enableCEPersistency": 0,
@@ -4147,9 +4723,9 @@
         {
             "name": "Candle",
             "pos": [
-                2862.079833984375,
-                212.19200134277345,
-                5328.48974609375
+                2861.776611328125,
+                212.0547637939453,
+                5328.43359375
             ],
             "ypr": [
                 0.0,
@@ -4164,7 +4740,7 @@
             "name": "Candle",
             "pos": [
                 2866.14501953125,
-                212.19200134277345,
+                212.0506134033203,
                 5326.33740234375
             ],
             "ypr": [
@@ -4200,9 +4776,9 @@
                 5323.83642578125
             ],
             "ypr": [
-                27.899999618530275,
+                -152.10000610351563,
                 0.0,
-                0.0
+                -0.0
             ],
             "scale": 1.0,
             "enableCEPersistency": 0,
@@ -4604,7 +5180,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995231628418,
+            "scale": 0.9999994039535523,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -4652,7 +5228,7 @@
                 0.0,
                 0.0
             ],
-            "scale": 0.14999999105930329,
+            "scale": 0.1499999761581421,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -4712,7 +5288,7 @@
                 5349.2802734375
             ],
             "ypr": [
-                -121.10000610351563,
+                -121.10001373291016,
                 0.0,
                 -0.0
             ],
@@ -4888,7 +5464,7 @@
                 5323.04736328125
             ],
             "ypr": [
-                -62.100006103515628,
+                -62.10000991821289,
                 0.0,
                 0.0
             ],
@@ -5016,7 +5592,7 @@
                 5314.96728515625
             ],
             "ypr": [
-                -62.100006103515628,
+                -62.10000991821289,
                 0.0,
                 0.0
             ],
@@ -5052,7 +5628,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999998211860657,
+            "scale": 0.9999997019767761,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -5203,22 +5779,6 @@
         {
             "name": "StaticObj_Lamp_Decorative",
             "pos": [
-                2839.818115234375,
-                206.75559997558595,
-                5315.72265625
-            ],
-            "ypr": [
-                27.899999618530275,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Lamp_Decorative",
-            "pos": [
                 2841.482421875,
                 208.30751037597657,
                 5329.55126953125
@@ -5243,38 +5803,6 @@
                 27.899999618530275,
                 0.0,
                 0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Misc_AdvertColumn",
-            "pos": [
-                2844.2109375,
-                206.0560760498047,
-                5312.26513671875
-            ],
-            "ypr": [
-                27.899999618530275,
-                0.0,
-                0.0
-            ],
-            "scale": 1.0,
-            "enableCEPersistency": 0,
-            "customString": ""
-        },
-        {
-            "name": "StaticObj_Misc_NoticeBoard1",
-            "pos": [
-                2837.634765625,
-                205.5106964111328,
-                5318.01025390625
-            ],
-            "ypr": [
-                177.89999389648438,
-                0.0,
-                -0.0
             ],
             "scale": 1.0,
             "enableCEPersistency": 0,
