@@ -14,9 +14,17 @@ Supports pour faire vivre le lore :
 
 - **En jeu** : le décor des mappings, les objets, les messages serveur, les admins en RP. On ne peut
   pas écrire de texte sur un objet ni diffuser d'audio en jeu.
-- **Discord du serveur** : textes (documents trouvés, notes, rapports, manifestes, pages de journal) et
-  audios (messages radio comme le Mayday). C'est là que vivent les indices écrits ou sonores. Le
-  Discord peut aussi publier une pièce quand un joueur trouve un lieu ou un objet en jeu.
+- **Discord du serveur** : annonces publiques à l'initiative de l'équipe, pour tout le monde (messages
+  radio comme le Mayday). Le Discord ne sert jamais à échanger avec les joueurs sur le lore : on ne
+  répond pas à une trouvaille, on n'envoie pas de pièce à celui qui a trouvé quelque chose.
+
+Interprétation libre :
+
+- Ce que les joueurs trouvent en jeu, ils l'interprètent eux-mêmes. L'équipe ne leur dit jamais s'ils
+  ont raison ou tort, ne valide pas une piste et ne confirme pas qu'un objet est un indice.
+- Un indice doit donc se suffire à lui-même : la mise en scène, le lieu et les objets portent le sens.
+- Ce fichier est public : quand les joueurs ont découvert quelque chose, on y note ce qui a été trouvé,
+  jamais l'interprétation juste.
 
 ## Le monde
 
@@ -106,7 +114,7 @@ nouveaux arrivants apparaissent à l'est de la ville.
 | Île de la prison | Reliée par un pont de pierre | *À confirmer* |
 | Crash du vol cargo 404 Sierra | **Établi** : avion cargo écrasé quelque part dans les collines après le Mayday (voir Intrigues en cours). Emplacement : voir `secret/` | *À confirmer* : cargaison, survivants |
 | Casse au nord de la route de Berezino | Des centaines d'épaves | *À confirmer* |
-| Camp de Pustoshka | Camp de survivants, enceinte d'épaves | *À confirmer* |
+| Camp de Pustoshka | Camp de survivants, enceinte d'épaves ; au centre, un coin feu de camp et barbecue | *À confirmer* |
 
 Danger connu de tous : des hordes errantes (civiles et militaires) qui changent de ville, des meutes de
 loups et des ours plus nombreux que la normale. Les armes de guerre sont rares hors marché noir.

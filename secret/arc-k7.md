@@ -8,8 +8,13 @@ avant que les joueurs l'aient découvert en jeu.
 
 Le manifeste ne mène pas au labo : chaque étape mène à la suivante. Une étape n'existe sur la carte
 qu'une fois mappée : on ne déploie la suivante que quand la précédente est résolue (délai minimum au
-choix de l'équipe). Chaque indice écrit ou sonore passe par le Discord, donné seulement à celui qui le
-trouve : l'information est fragmentée entre les joueurs.
+choix de l'équipe).
+
+**Interprétation libre** (décidé [IRL 2026-11-06]) : plus aucun échange avec les joueurs sur le Discord à
+propos du lore. On ne répond pas à une trouvaille, on n'envoie aucun texte à celui qui trouve, on ne dit
+jamais à un joueur s'il a raison. Ce qu'il trouve en jeu, il l'interprète seul : chaque étape doit se
+lire avec la mise en scène, le lieu et les objets. Le Discord ne garde que des annonces publiques lancées
+par l'équipe (messages radio), jamais en réponse à une découverte.
 
 **Aucun joueur ni aucune faction n'est dans le secret**, y compris le black market de Vybor (faction de
 joueurs qui découvre le lore comme les autres). Les indices sont placés par l'équipe seule, et jamais
@@ -21,8 +26,8 @@ dans la base d'une faction (elle les trouverait avant tout le monde).
 | --- | --- | --- |
 | 1. Le crash | Le manifeste révèle K-7, les doses VZ-2 et le vol de la cargaison. Il ne donne pas l'emplacement de K-7. Piste : les pilleurs et le dossier | **En place** (à vérifier en jeu) |
 | 2. Les pilleurs | Le camp dans la queue de l'avion est celui des pilleurs, partis depuis. Restes de la cargaison semés ailleurs, mappés au moment voulu (conteneur VZ-2 vide au bord d'une route, caisse au tabor de Novaya, à la casse…) | À détailler |
-| 3. Le dossier | Le dossier scellé a été découpé par les pilleurs, qui voulaient le vendre à un acheteur inconnu. Les pages sont cachées par l'équipe sur leur route (anciennes caches, lieu de rendez-vous de la vente qui a mal tourné…), jamais confiées à des joueurs. Chaque page n'est donnée qu'à celui qui la trouve ; ensuite les joueurs les échangent, vendent ou volent comme ils veulent | À détailler |
-| 4. La fausse piste | Le dossier réuni désigne la « station relais K-7 » à l'Altar (x 8170, z 9050 : antennes, tour TV, 3 puits d'aération). Poste technique abandonné, pas le labo. Dernier journal radio (audio Discord) : évacuation du personnel, énigme vers le vrai emplacement | À détailler |
+| 3. Le dossier | Le dossier scellé a été découpé par les pilleurs, qui voulaient le vendre à un acheteur inconnu. Les pages sont cachées par l'équipe sur leur route (anciennes caches, lieu de rendez-vous de la vente qui a mal tourné…), jamais confiées à des joueurs. Le contenu des pages ne peut plus être envoyé par Discord : à revoir (voir Interprétation libre) | À détailler |
+| 4. La fausse piste | Le dossier réuni désigne la « station relais K-7 » à l'Altar (x 8170, z 9050 : antennes, tour TV, 3 puits d'aération). Poste technique abandonné, pas le labo. Dernier journal radio : évacuation du personnel, énigme vers le vrai emplacement (support à revoir : plus d'audio Discord en réponse à une découverte) | À détailler |
 | 5. K-7 | Entrée trouvée, porte fermée. Ouverture : mallette scientifique et ses clés, code tiré du dossier, ou événement de l'équipe. L'intérieur et les révélations restent pour plus tard (qui faisait voler les avions, efficacité des doses, lien avec la voix du Dernier Appel ?) | Emplacement à choisir, loin des lieux évidents |
 
 Lieux écartés pour le labo (trop faciles), utilisables comme étapes ou fausses pistes : l'Altar, les mines
@@ -31,8 +36,10 @@ et puits d'aération au nord de l'aérodrome NW (x 4650, z 10950), les mines à 
 
 ## Acte 1 — le crash du vol 404 Sierra
 
-Décidé : le modèle de l'avion ne change pas, pas de boîte noire. Le joueur envoie une capture de sa
-trouvaille sur le Discord ; le texte du manifeste n'est envoyé qu'à lui. Le jeu ne permet pas de nommer
+Décidé : le modèle de l'avion ne change pas, pas de boîte noire. ~~Le joueur envoie une capture de sa
+trouvaille sur le Discord ; le texte du manifeste n'est envoyé qu'à lui.~~ Abandonné le [IRL 2026-11-06]
+(Interprétation libre) : le texte ci-dessous ne sera plus envoyé. **À trancher** : ce qui le remplace
+en jeu (la scène seule ?). Le jeu ne permet pas de nommer
 la feuille « Manifeste » (nom fixé par la config du jeu) : c'est la mise en scène et le message radio du
 survivant qui la désignent.
 
@@ -99,7 +106,7 @@ queue (acte 2), et surtout le pilote, plus bas, avec ses papiers. Il ne dit pas 
 joueur de le découvrir. « Ils savaient ce qu'ils cherchaient. Ou pas » laisse ouverte la question des
 pilleurs (dans le manifeste, le pilote pense qu'ils ne savent pas).
 
-### Texte du manifeste (à envoyer au joueur qui le trouve)
+### Texte du manifeste (plus envoyé aux joueurs, gardé comme référence de l'équipe)
 
 ---
 
