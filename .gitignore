@@ -6,6 +6,9 @@ dayzxb/config/*.mdmp
 restart.log
 stop
 
+# Lore secret de l'équipe (le dépôt est public) : arcs, textes d'indices, emplacements
+secret/
+
 # Données extraites du jeu installé (tools/neige), à ne pas publier
 tools/neige/cache/
 __pycache__/
