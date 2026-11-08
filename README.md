@@ -209,14 +209,13 @@ Pour rétablir le loot d'un bâtiment, remettre sa ligne `<group>` d'origine (hi
 
 ### Véhicules uniquement chez le garagiste
 
-Les voitures, motos et camions n'apparaissent plus que chez le garagiste (`VehicleZelenoParking`).
+Les voitures, motos, camions et Humvee n'apparaissent plus que chez le garagiste (`VehicleZelenoParking`,
+un véhicule tiré au hasard parmi ses variantes, dont le Humvee vert `Offroad_02` et désert `Offroad_02_Beige`).
 Leurs spawns sur la map sont désactivés (`<active>0</active>`) dans `db/events.xml` (marqueur
 `Desactive : voitures, motos et camions`) : `VehicleCivilianSedan`, `VehicleHatchback02`,
-`VehicleMotorbike`, `VehicleOffroadHatchback`, `VehicleSedan02`, `VehicleTruck01`. Pour en remettre
-un, repasser son `active` à 1. Les bateaux (`VehicleBoat`) et le Humvee continuent d'apparaître.
-
-Humvee (`VehicleOffroad02`, marqueur `Humvee`) : 4 sur la map (4 / 3 / 4), 2 verts
-(`Offroad_02`) et 2 en version désert de Badlands (`Offroad_02_Beige`).
+`VehicleMotorbike`, `VehicleOffroad02` (Humvee), `VehicleOffroadHatchback`, `VehicleSedan02`,
+`VehicleTruck01`. Pour en remettre un, repasser son `active` à 1. Seuls les bateaux (`VehicleBoat`)
+apparaissent encore sur la map.
 
 ## Apparition des joueurs
 

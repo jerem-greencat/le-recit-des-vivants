@@ -28,6 +28,8 @@
             <child lootmax="0" lootmin="0" max="999" min="0" type="Motorbike_02_Green"/>
             <child lootmax="0" lootmin="0" max="999" min="0" type="Motorbike_02_Red"/>
             <child lootmax="0" lootmin="0" max="999" min="0" type="Motorbike_02_Yellow"/>
+            <child lootmax="0" lootmin="0" max="999" min="0" type="Offroad_02"/>
+            <child lootmax="0" lootmin="0" max="999" min="0" type="Offroad_02_Beige"/>
             <child lootmax="0" lootmin="0" max="999" min="0" type="OffroadHatchback"/>
             <child lootmax="0" lootmin="0" max="999" min="0" type="OffroadHatchback_Blue"/>
             <child lootmax="0" lootmin="0" max="999" min="0" type="OffroadHatchback_White"/>
@@ -1301,7 +1303,7 @@
             <child lootmax="0" lootmin="0" max="10" min="5" type="Motorbike_02_Red"/>
         </children>
     </event>
-    <!-- Humvee : 4 sur la map, 2 verts et 2 desert (Badlands) -->
+    <!-- Desactive : voitures, motos et camions uniquement chez le garagiste (VehicleZelenoParking). Humvee : 2 verts et 2 desert (Badlands) -->
     <event name="VehicleOffroad02">
         <nominal>4</nominal>
         <min>3</min>
@@ -1314,7 +1316,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="2" min="2" type="Offroad_02"/>
             <child lootmax="0" lootmin="0" max="2" min="2" type="Offroad_02_Beige"/>
