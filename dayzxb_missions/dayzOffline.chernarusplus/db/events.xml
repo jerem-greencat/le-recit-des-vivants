@@ -730,7 +730,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active> <!-- Halloween (tools/fete.sh) : 0 -->
+        <active>0</active>
         <children>
             <child lootmax="4" lootmin="0" max="0" min="50" type="ZmbF_MilkMaidOld_Black"/>
             <child lootmax="4" lootmin="0" max="0" min="50" type="ZmbM_HandymanNormal_Beige"/>
@@ -864,7 +864,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>child</limit>
-        <active>1</active> <!-- Halloween (tools/fete.sh) : 0 -->
+        <active>0</active>
         <children>
             <child lootmax="8" lootmin="4" max="20" min="20" type="Bonfire"/>
         </children>
@@ -1242,7 +1242,7 @@
             <child lootmax="0" lootmin="0" max="10" min="6" type="Boat_01_Orange"/>
         </children>
     </event>
-    <!-- Vehicules reduits de moitie (garagiste) -->
+    <!-- Desactive : voitures, motos et camions uniquement chez le garagiste (VehicleZelenoParking) -->
     <event name="VehicleCivilianSedan">
         <nominal>8</nominal>
         <min>5</min>
@@ -1255,14 +1255,14 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="3" min="2" type="CivilianSedan"/>
             <child lootmax="0" lootmin="0" max="3" min="2" type="CivilianSedan_Black"/>
             <child lootmax="0" lootmin="0" max="3" min="2" type="CivilianSedan_Wine"/>
         </children>
     </event>
-    <!-- Vehicules reduits de moitie (garagiste) -->
+    <!-- Desactive : voitures, motos et camions uniquement chez le garagiste (VehicleZelenoParking) -->
     <event name="VehicleHatchback02">
         <nominal>8</nominal>
         <min>5</min>
@@ -1275,14 +1275,14 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="3" min="2" type="Hatchback_02"/>
             <child lootmax="0" lootmin="0" max="3" min="2" type="Hatchback_02_Black"/>
             <child lootmax="0" lootmin="0" max="3" min="2" type="Hatchback_02_Blue"/>
         </children>
     </event>
-    <!-- Vehicules reduits de moitie (garagiste) -->
+    <!-- Desactive : voitures, motos et camions uniquement chez le garagiste (VehicleZelenoParking) -->
     <event name="VehicleMotorbike">
         <nominal>12</nominal>
         <min>3</min>
@@ -1295,7 +1295,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="10" min="5" type="Motorbike_01_Blue"/>
             <child lootmax="0" lootmin="0" max="10" min="5" type="Motorbike_02_Red"/>
@@ -1320,7 +1320,7 @@
             <child lootmax="0" lootmin="0" max="2" min="2" type="Offroad_02_Beige"/>
         </children>
     </event>
-    <!-- Vehicules reduits de moitie (garagiste) -->
+    <!-- Desactive : voitures, motos et camions uniquement chez le garagiste (VehicleZelenoParking) -->
     <event name="VehicleOffroadHatchback">
         <nominal>8</nominal>
         <min>5</min>
@@ -1333,14 +1333,14 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="3" min="2" type="OffroadHatchback"/>
             <child lootmax="0" lootmin="0" max="3" min="2" type="OffroadHatchback_Blue"/>
             <child lootmax="0" lootmin="0" max="3" min="2" type="OffroadHatchback_White"/>
         </children>
     </event>
-    <!-- Vehicules reduits de moitie (garagiste) -->
+    <!-- Desactive : voitures, motos et camions uniquement chez le garagiste (VehicleZelenoParking) -->
     <event name="VehicleSedan02">
         <nominal>8</nominal>
         <min>5</min>
@@ -1353,14 +1353,14 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="3" min="2" type="Sedan_02"/>
             <child lootmax="0" lootmin="0" max="3" min="2" type="Sedan_02_Grey"/>
             <child lootmax="0" lootmin="0" max="3" min="2" type="Sedan_02_Red"/>
         </children>
     </event>
-    <!-- Vehicules reduits de moitie (garagiste) -->
+    <!-- Desactive : voitures, motos et camions uniquement chez le garagiste (VehicleZelenoParking) -->
     <event name="VehicleTruck01">
         <nominal>8</nominal>
         <min>5</min>
@@ -1373,7 +1373,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="3" min="2" type="Truck_01_Covered"/>
             <child lootmax="0" lootmin="0" max="3" min="2" type="Truck_01_Covered_Blue"/>
