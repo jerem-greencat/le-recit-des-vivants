@@ -207,19 +207,15 @@ lignes ont été supprimées de `mapgrouppos.xml`. Les objets des fichiers de ma
 
 Pour rétablir le loot d'un bâtiment, remettre sa ligne `<group>` d'origine (historique git).
 
-### Véhicules réduits de moitié
+### Véhicules uniquement chez le garagiste
 
-Le garagiste a son propre spawn de véhicules (`VehicleZelenoParking`). Les autres spawns de
-véhicules terrestres de la map sont réduits de moitié dans `db/events.xml` (marqueur
-`Vehicules reduits de moitie`). Les bateaux (`VehicleBoat`) et le Humvee ne changent pas :
-
-| Événement | nominal / min / max | Par variante (min–max) |
-| --- | --- | --- |
-| `VehicleCivilianSedan`, `VehicleHatchback02`, `VehicleOffroadHatchback`, `VehicleSedan02`, `VehicleTruck01` | 8 / 5 / 11 (avant 16 / 10 / 22) | 2–3 (avant 3–5) |
-| `VehicleMotorbike` | 12 / 3 / 6 (avant 25 / 5 / 11) | 5–10 (avant 10–20) |
-
-Humvee (`VehicleOffroad02`, marqueur `Humvee`) : 4 sur la map (4 / 3 / 4), 2 verts
-(`Offroad_02`) et 2 en version désert de Badlands (`Offroad_02_Beige`).
+Les voitures, motos, camions et Humvee n'apparaissent plus que chez le garagiste (`VehicleZelenoParking`,
+un véhicule tiré au hasard parmi ses variantes, dont le Humvee vert `Offroad_02` et désert `Offroad_02_Beige`).
+Leurs spawns sur la map sont désactivés (`<active>0</active>`) dans `db/events.xml` (marqueur
+`Desactive : voitures, motos et camions`) : `VehicleCivilianSedan`, `VehicleHatchback02`,
+`VehicleMotorbike`, `VehicleOffroad02` (Humvee), `VehicleOffroadHatchback`, `VehicleSedan02`,
+`VehicleTruck01`. Pour en remettre un, repasser son `active` à 1. Seuls les bateaux (`VehicleBoat`)
+apparaissent encore sur la map.
 
 ## Apparition des joueurs
 
@@ -236,6 +232,13 @@ construire librement en RP : collisions, toit, pente, hauteur, terrain, plot de 
 construction). Restent actives : la collision avec les joueurs, l'interdiction de construire sous l'eau
 ou dans les zones interdites, et la distance de construction. Les bases et les conteneurs ne prennent
 pas de dégâts (`disableBaseDamage`, `disableContainerDamage`).
+
+Les boîtes de clous (`NailBox`, zones industrielles et fermes) sont multipliées par 5 dans
+`db/types.xml` (marqueur `Clous x5`, valeur vanilla en commentaire) : nominal 450, min 350 (avant 90 / 70).
+Le clou seul (`Nail`) ne vient que du craft.
+
+Le fil de fer (`MetalWire`) et le barbelé (`BarbedWire`) sont multipliés par 2 (marqueur
+`Cables et barbeles x2`) : `MetalWire` 140 / 100 (avant 70 / 50), `BarbedWire` 120 / 100 (avant 60 / 50).
 
 ## Danger
 
@@ -317,9 +320,9 @@ valeur d'origine est en commentaire, et les `usage` ajoutés sont marqués.
 
 | Objet | Quantité (`nominal`/`min`) | Où | Remarque |
 | --- | --- | --- | --- |
-| Graines de cannabis (`CannabisSeedsPack`) | 8/4 | Fermes | 10 graines par sachet, à planter dans un potager. Chaque plant donne 7 têtes de `Cannabis` |
+| Graines de cannabis (`CannabisSeedsPack`) | 24/12 (×3, avant 8/4) | Fermes | 10 graines par sachet, à planter dans un potager. Chaque plant donne 7 têtes de `Cannabis` |
 | Cannabis (`Cannabis`), graines (`CannabisSeeds`), plant (`Plant_Cannabis`) | 0/0 | Culture uniquement | Le cannabis se mange, sans effet particulier |
-| Frigo (`Refridgerator`) | 4/2 | Zones industrielles, villes | Se pose au sol, 40 cases de stockage, se branche sur un générateur. Ne ralentit pas le pourrissement |
+| Frigo (`Refridgerator`) | 24/12 (×6, avant 4/2) | Zones industrielles, villes | Se pose au sol, 40 cases de stockage, se branche sur un générateur. Ne ralentit pas le pourrissement |
 | Cigarettes (Chernamorka, Merkur, Partyzanka) | 10/6 chacune | Villes, villages, prison | Accessoire, pas d'action « fumer » |
 | Champignons amanite et psilocybe | 6/3 chacun | Zones de chasse | Pas d'effet particulier |
 | Livres (145 titres, dont la Bible) | 1/1 chacun | Emplacements « livres » des bâtiments (villes, villages, bureaux, écoles) | Accessoire, non lisible |

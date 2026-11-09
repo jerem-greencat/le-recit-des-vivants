@@ -2899,10 +2899,10 @@
         <category name="tools"/>
     </type>
     <type name="BarbedWire">
-        <nominal>60</nominal>
+        <nominal>120</nominal> <!-- Cables et barbeles x2 : 60 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>100</min> <!-- Cables et barbeles x2 : 50 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4177,10 +4177,10 @@
         <usage name="Village"/>
     </type>
     <type name="Broom_Birch">
-        <nominal>8</nominal> <!-- Halloween (tools/fete.sh) : 0 -->
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>4</min> <!-- Halloween (tools/fete.sh) : 0 -->
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -4750,10 +4750,10 @@
         <category name="food"/>
     </type>
     <type name="Cauldron">
-        <nominal>8</nominal> <!-- Halloween (tools/fete.sh) : 0 -->
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>4</min> <!-- Halloween (tools/fete.sh) : 0 -->
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6082,10 +6082,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="CrookedNose">
-        <nominal>8</nominal> <!-- Halloween (tools/fete.sh) : 0 -->
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>4</min> <!-- Halloween (tools/fete.sh) : 0 -->
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7062,10 +7062,10 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="EyeMask_Dead">
-        <nominal>6</nominal> <!-- Halloween (tools/fete.sh) : 0 -->
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>3</min> <!-- Halloween (tools/fete.sh) : 0 -->
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -13873,10 +13873,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="MetalWire">
-        <nominal>70</nominal>
+        <nominal>140</nominal> <!-- Cables et barbeles x2 : 70 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>50</min>
+        <min>100</min> <!-- Cables et barbeles x2 : 50 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14838,10 +14838,10 @@
         <category name="tools"/>
     </type>
     <type name="NailBox">
-        <nominal>90</nominal>
+        <nominal>450</nominal> <!-- Clous x5 : 90 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>70</min>
+        <min>350</min> <!-- Clous x5 : 70 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16638,10 +16638,10 @@
         <category name="food"/>
     </type>
     <type name="PumpkinHelmet">
-        <nominal>10</nominal> <!-- Halloween (tools/fete.sh) : 0 -->
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min> <!-- Halloween (tools/fete.sh) : 0 -->
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21815,10 +21815,10 @@
         <value name="Tier4"/>
     </type>
     <type name="WitchHat">
-        <nominal>10</nominal> <!-- Halloween (tools/fete.sh) : 0 -->
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min> <!-- Halloween (tools/fete.sh) : 0 -->
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21859,10 +21859,10 @@
         <category name="clothes"/>
     </type>
     <type name="WitchHood_Black">
-        <nominal>6</nominal> <!-- Halloween (tools/fete.sh) : 0 -->
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>3</min> <!-- Halloween (tools/fete.sh) : 0 -->
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21870,10 +21870,10 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="WitchHood_Brown">
-        <nominal>6</nominal> <!-- Halloween (tools/fete.sh) : 0 -->
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>3</min> <!-- Halloween (tools/fete.sh) : 0 -->
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -21881,10 +21881,10 @@
         <usage name="SeasonalEvent"/>
     </type>
     <type name="WitchHood_Red">
-        <nominal>6</nominal> <!-- Halloween (tools/fete.sh) : 0 -->
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>3</min> <!-- Halloween (tools/fete.sh) : 0 -->
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -29360,10 +29360,10 @@
     </type>
     <!-- Loot RP : objets ajoutés au loot (absents du types.xml vanilla) -->
     <type name="CannabisSeedsPack">
-        <nominal>8</nominal>
+        <nominal>24</nominal> <!-- Frigos et graines x3 : 8 -->
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>12</min> <!-- Frigos et graines x3 : 4 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -29405,10 +29405,10 @@
         <category name="tools"/>
     </type>
     <type name="Refridgerator">
-        <nominal>4</nominal>
+        <nominal>24</nominal> <!-- Frigos x6 : 4 -->
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>12</min> <!-- Frigos x6 : 2 -->
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
