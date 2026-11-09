@@ -8,6 +8,8 @@ stop
 
 # Lore secret de l'équipe (le dépôt est public) : arcs, textes d'indices, emplacements
 secret/
+# Cabanes perchées cachées : le mapping donne leurs positions, il reste hors du dépôt public
+dayzxb_missions/dayzOffline.chernarusplus/custom/cabanes_perchees.json
 
 # Données extraites du jeu installé (tools/neige), à ne pas publier
 tools/neige/cache/
