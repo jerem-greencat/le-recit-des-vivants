@@ -111,7 +111,8 @@ Chaque mapping est un JSON dans `custom/`, déclaré dans `objectSpawnersArr` de
   "./custom/canibal_village.json",
   "./custom/canibal_island.json",
   "./custom/pavlovo_secret_lab.json",
-  "./custom/cabanes_perchees.json"
+  "./custom/cabanes_perchees.json",
+  "./custom/green_mountain_radio.json"
 ],
 ```
 
@@ -152,6 +153,7 @@ les gérer à la main (voir la section Météo). De même pour les mappings de f
 | `custom/canibal_island.json` | Île des cannibales, créée en mer à 400 m au large de la plage du sud-ouest (630, 1120) : îlot de rochers jusqu'à 16 m de haut avec quelques souches et herbes, des pieux à crânes au sommet côté plage. Village sur pilotis côté large, caché de la plage : ponton de 36 × 20 m adossé aux rochers, échelles de remontée depuis l'eau et deux barques. Sur le ponton : hutte du chef et deux cabanes vides, foyer avec un corps sur la broche, boucherie, tas d'os et trophées, potences dont les pendus ont les pieds au-dessus des vagues. Passerelle vers le garde-manger isolé en mer (cage ouverte côté passerelle pour une porte de joueur), passerelle vers l'autel. Sous le ponton, squelettes, corps et barque coulée sur le fond |
 | `custom/pavlovo_secret_lab.json` | Laboratoire secret dans l'hôpital de la base militaire de Pavlovo, au cœur de la zone de gaz (il faut un équipement NBC). Hall d'accueil transformé en salle de tri : lits roulants alignés sous les vitres, moniteurs, patients restés attachés. Aile des bureaux convertie : laboratoire (microscopes, verrerie, paillasses, frigos à échantillons, tableau blanc, cages à animaux), salle d'opération (squelette sur la table, desserte, sang), dépôt des corps (sacs jaunes, brancard). Traînée de sang dans le couloir. À l'étage, le poste d'observation au-dessus du hall (bureau, PC, radio, squelette). Trois pendus accrochés au parapet du toit, sur la façade ; un poste de tir sur le toit. Devant, la route bouclée par l'armée (barrières HESCO, barbelés, nid de sacs de sable et BRDM tournés vers l'entrée, ambulance abandonnée). À l'ouest, un enclos grillagé : sas de décontamination, conteneur médical, tente de vaccination (chaises, doses, frigos), fosse commune en feu. Dans la cour derrière l'hôpital, deux rangées de cellules grillagées avec des Z enfermés (patients, infirmière, médecin), deux cellules forcées, projecteur, camion bâché et tas de corps sous le pipeline. Des Z (patients, médecins, NBC, soldats) sont recréés à chaque redémarrage |
 | `custom/cabanes_perchees.json` | Cabanes perchées pour joueurs solos, cachées dans des chênes de la carte (forêts, loin des routes et des villages). Chacune : grand plancher de pontons en bois (14 × 13 m) à environ 4 m, chalet en bois meublé à porte verrouillable (`Land_Camp_House_brown`), terrasse avec barbecue, table, chaises et pompe à eau, rambarde en planches tout autour, escalier en 2 volées. Rien de ramassable. **Fichier ignoré par git** (le dépôt est public) : les emplacements sont dans `secret/cabanes-perchees.md`, le fichier n'existe que sur le FTP et en local |
+| `custom/green_mountain_radio.json` | Studio de l'animateur radio à Green Mountain, au pied de la grande tour d'émission, dans la « prison militaire » (`Land_Mil_Barracks5`). Rez-de-chaussée, l'ancien bureau à gauche du couloir : console d'émission (le pupitre-émetteur de la station de Radio Zenit, fauteuil, horloge, haut-parleurs), sur la table d'origine et sa rallonge 2 radios de terrain, 2 batteries de voiture et 2 batteries de camion, régie (table et PC d'origine, poste radio, cassettes), table de podcast pour l'animateur et 3 invités (talkies en guise de micros, théière, boissons), isolation de fortune (tapis muraux, matelas debout, rideau épais sur la fenêtre ouest), second panneau radio et étagère de cassettes. Au bout du couloir, le salon des invités : canapé d'angle, fauteuils, table basse avec un poste pour écouter l'émission, lustre, mini-frigo et bar garni. Hall d'accueil (banc, portemanteau, carte, drapeau), cellule transformée en réserve (jerricans, cartons, câbles), tableau d'affichage dans le couloir. Dehors : groupe électrogène, antenne et câbles. Le gaz dynamique de Green Mountain est désactivé (position commentée avec le marqueur `Radio Green Mountain` dans `cfgeventspawns.xml`) |
 | `custom/comete.json` | Épaves du traîneau du père Noël au centre de Zelenogorsk. N'est plus chargé (retiré de `objectSpawnersArr`) |
 
 Les objets ramassables (armes, `UndergroundStash`…) d'un mapping sont recréés à chaque
@@ -333,6 +335,7 @@ valeur d'origine est en commentaire, et les `usage` ajoutés sont marqués.
 | Mallette scientifique et clés | 2/1 chacune | Hôpitaux, bureaux | `lifetime` passé de 1800 à 14400 s. Les clés apparaissent séparément |
 | Lance-fusées et fusées éclairantes | 5/2, 8/4 par couleur | Côte, police, pompiers, médical, militaire | |
 | Matraque télescopique | 8/4 | Villes, police | |
+| Cassettes (`Cassette`) | 12/6 | Villes, villages, bureaux, écoles | Accessoire, ne se lit pas |
 | Vêtements : doudounes, blousons d'aviateur, gants et lunettes de ski, chapkas, ballerines, bandanas uni, gilet réfléchissant, lunettes anti-poussière | 3 à 10 | Villes, villages, zones industrielles | |
 | Vêtements civils de Sakhal (froid) : budionovka grise, bob et gilet de chasse d'hiver, veste et pantalon de chasse de printemps, veste matelassée de police (`BushlatPoliceJacket_Blue`) | 4/2 chacun | Fermes, villes, villages (budionovka), chasse, police et prison | Utiles en ambiance `hiver` |
 | Uniforme de marine de Sakhal (veste, pantalon) | 4/2 chacun | Côte | |
@@ -347,7 +350,7 @@ valeur d'origine est en commentaire, et les `usage` ajoutés sont marqués.
 | Nourriture : chair de crabe, sodas Takola et ZumZam, sarma, crackers, mélange salé, banane, orange, kiwi | 8 à 10 | Villes, villages, côte | |
 | Pots en céramique (4 couleurs) | 3/2 chacun | Fermes, villes, villages, chasse | Ustensile de cuisine |
 
-Laissés de côté : la radio (sa pile `BatteryD` n'existe pas dans le jeu) et les cassettes. Aussi la
+Laissés de côté : la radio (sa pile `BatteryD` n'existe pas dans le jeu). Aussi la
 matraque électrique, l'aiguillon électrique et le défibrillateur : `cfgignorelist.xml` les supprime
 au démarrage.
 
