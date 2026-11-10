@@ -1,0 +1,1940 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Radio_PanelBig",
+            "pos": [
+                3678.22412109375,
+                402.6747131347656,
+                5987.83837890625
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "AlarmClock_Red",
+            "pos": [
+                3678.71484375,
+                403.5661926269531,
+                5988.390625
+            ],
+            "ypr": [
+                -20.009984970092775,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_ch_office_B",
+            "pos": [
+                3677.864501953125,
+                402.6747131347656,
+                5988.82568359375
+            ],
+            "ypr": [
+                -20.009984970092775,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CarBattery",
+            "pos": [
+                3675.906005859375,
+                403.3866882324219,
+                5987.3359375
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CarBattery",
+            "pos": [
+                3676.0224609375,
+                403.3866882324219,
+                5987.01611328125
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_conference_table_a",
+            "pos": [
+                3675.161376953125,
+                403.0296936035156,
+                5987.04345703125
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BaseRadio",
+            "pos": [
+                3674.818603515625,
+                403.38031005859377,
+                5987.31201171875
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "BaseRadio",
+            "pos": [
+                3675.00341796875,
+                403.38031005859377,
+                5986.8046875
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "TruckBattery",
+            "pos": [
+                3675.25927734375,
+                403.3817138671875,
+                5987.5048828125
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "TruckBattery",
+            "pos": [
+                3675.444091796875,
+                403.3817138671875,
+                5986.9970703125
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_luxury_lamp",
+            "pos": [
+                3675.20166015625,
+                403.5640869140625,
+                5986.494140625
+            ],
+            "ypr": [
+                -20.009984970092775,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decon_PowerCable_01_StraightLong_F",
+            "pos": [
+                3677.195556640625,
+                402.7047119140625,
+                5987.15625
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decon_PowerCable_01_Roll_F",
+            "pos": [
+                3674.7138671875,
+                402.76470947265627,
+                5988.12548828125
+            ],
+            "ypr": [
+                99.989990234375,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Carpet_Wall2",
+            "pos": [
+                3676.12548828125,
+                404.44970703125,
+                5986.7333984375
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 0.6459999680519104,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_clock",
+            "pos": [
+                3676.610595703125,
+                405.2746887207031,
+                5986.8623046875
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_intercom_speaker",
+            "pos": [
+                3678.920654296875,
+                405.12469482421877,
+                5987.67919921875
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_intercom_speaker",
+            "pos": [
+                3677.793212890625,
+                405.12469482421877,
+                5987.2685546875
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_radio_b",
+            "pos": [
+                3677.268798828125,
+                403.3866882324219,
+                5992.6533203125
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3676.664306640625,
+                403.3966979980469,
+                5993.58251953125
+            ],
+            "ypr": [
+                -20.009986877441408,
+                89.98020935058594,
+                -180.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3676.852294921875,
+                403.3966979980469,
+                5993.65087890625
+            ],
+            "ypr": [
+                -30.009990692138673,
+                89.98020935058594,
+                179.99998474121095
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3677.093994140625,
+                403.3966979980469,
+                5993.7177734375
+            ],
+            "ypr": [
+                -10.009977340698243,
+                89.98020935058594,
+                -180.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Carpet_Wall1",
+            "pos": [
+                3677.377197265625,
+                404.6047058105469,
+                5993.38427734375
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.8799999356269836,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Curtain_Divider",
+            "pos": [
+                3675.577392578125,
+                403.9547119140625,
+                5994.2294921875
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_carpet_big",
+            "pos": [
+                3675.67236328125,
+                402.69970703125,
+                5990.31591796875
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_kitchen_table_a",
+            "pos": [
+                3675.736328125,
+                402.6747131347656,
+                5990.28564453125
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_ch_office_B",
+            "pos": [
+                3675.428466796875,
+                402.6747131347656,
+                5991.13134765625
+            ],
+            "ypr": [
+                -20.009984970092775,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_kitchen_chair_a",
+            "pos": [
+                3675.698486328125,
+                402.6747131347656,
+                5989.3671875
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_kitchen_chair_a",
+            "pos": [
+                3676.356201171875,
+                402.6747131347656,
+                5989.60693359375
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_kitchen_chair_a",
+            "pos": [
+                3674.60888671875,
+                402.6747131347656,
+                5989.875
+            ],
+            "ypr": [
+                -110.00997924804688,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "PersonalRadio",
+            "pos": [
+                3675.50341796875,
+                403.4466857910156,
+                5989.90283203125
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "PersonalRadio",
+            "pos": [
+                3676.1611328125,
+                403.4466857910156,
+                5990.142578125
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "PersonalRadio",
+            "pos": [
+                3675.20068359375,
+                403.4466857910156,
+                5990.0908203125
+            ],
+            "ypr": [
+                -110.00997924804688,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Paper",
+            "pos": [
+                3675.559814453125,
+                403.4568176269531,
+                5990.49267578125
+            ],
+            "ypr": [
+                -169.99998474121095,
+                89.98020935058594,
+                -180.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Teapot",
+            "pos": [
+                3675.9072265625,
+                403.4466857910156,
+                5990.4013671875
+            ],
+            "ypr": [
+                109.989990234375,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WaterBottle",
+            "pos": [
+                3675.822021484375,
+                403.5820007324219,
+                5990.05078125
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SodaCan_Kvass",
+            "pos": [
+                3676.43115234375,
+                403.50799560546877,
+                5990.2197265625
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SodaCan_Cola",
+            "pos": [
+                3675.194091796875,
+                403.50799560546877,
+                5989.87548828125
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3676.002685546875,
+                403.4566955566406,
+                5990.7236328125
+            ],
+            "ypr": [
+                179.98997497558595,
+                89.98020935058594,
+                -180.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_luxury_lamp",
+            "pos": [
+                3676.218994140625,
+                403.62908935546877,
+                5990.80224609375
+            ],
+            "ypr": [
+                -20.009984970092775,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CigarettePack_Chernamorka",
+            "pos": [
+                3675.29296875,
+                403.4466857910156,
+                5990.42236328125
+            ],
+            "ypr": [
+                84.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_matress_white",
+            "pos": [
+                3673.74560546875,
+                403.61468505859377,
+                5990.0185546875
+            ],
+            "ypr": [
+                -110.00999450683594,
+                89.98020935058594,
+                -180.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_matress_white",
+            "pos": [
+                3674.005859375,
+                403.61468505859377,
+                5989.30419921875
+            ],
+            "ypr": [
+                -110.00999450683594,
+                89.98020935058594,
+                -180.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_Radio_PanelPAS",
+            "pos": [
+                3673.048583984375,
+                402.6747131347656,
+                5992.8828125
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_library_a",
+            "pos": [
+                3673.880126953125,
+                402.6747131347656,
+                5993.62939453125
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decon_PowerCable_01_StraightLong_F",
+            "pos": [
+                3692.2373046875,
+                401.997802734375,
+                5998.35107421875
+            ],
+            "ypr": [
+                32.04999923706055,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3673.770751953125,
+                404.6147766113281,
+                5993.623046875
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3673.7236328125,
+                404.6147766113281,
+                5993.60595703125
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3673.54345703125,
+                404.639404296875,
+                5993.53125
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3673.56689453125,
+                404.639404296875,
+                5993.5400390625
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3673.59033203125,
+                404.639404296875,
+                5993.54833984375
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3673.614013671875,
+                404.639404296875,
+                5993.55712890625
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3673.637451171875,
+                404.639404296875,
+                5993.5654296875
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3673.660888671875,
+                404.639404296875,
+                5993.57421875
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_carpet_big",
+            "pos": [
+                3679.42138671875,
+                402.6947021484375,
+                5993.75634765625
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_SofaCorner",
+            "pos": [
+                3679.53955078125,
+                403.09271240234377,
+                5994.74658203125
+            ],
+            "ypr": [
+                -110.00997924804688,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_lobby_table",
+            "pos": [
+                3679.0556640625,
+                402.6747131347656,
+                5993.70849609375
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_chair_leisure",
+            "pos": [
+                3679.336181640625,
+                402.6747131347656,
+                5992.82080078125
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_chair_leisure",
+            "pos": [
+                3680.087890625,
+                402.6747131347656,
+                5993.0947265625
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_Luxury_light",
+            "pos": [
+                3679.459716796875,
+                406.2467041015625,
+                5994.08935546875
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_radio_b",
+            "pos": [
+                3679.528076171875,
+                403.1567077636719,
+                5993.9013671875
+            ],
+            "ypr": [
+                -110.00997924804688,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WineBottle",
+            "pos": [
+                3678.87451171875,
+                403.2933044433594,
+                5993.50390625
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SodaCan_Cola",
+            "pos": [
+                3678.648193359375,
+                403.2179870605469,
+                5993.6875
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SodaCan_Pipsi",
+            "pos": [
+                3679.2138671875,
+                403.2179870605469,
+                5993.595703125
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "CigarettePack_Chernamorka",
+            "pos": [
+                3679.01708984375,
+                403.1567077636719,
+                5993.84326171875
+            ],
+            "ypr": [
+                129.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3678.52880859375,
+                403.16668701171877,
+                5993.43115234375
+            ],
+            "ypr": [
+                -100.00999450683594,
+                89.98020935058594,
+                -180.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_picture_a",
+            "pos": [
+                3680.65283203125,
+                403.2947082519531,
+                5995.58837890625
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_picture_e",
+            "pos": [
+                3680.943603515625,
+                403.32470703125,
+                5994.78955078125
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Fridge_01",
+            "pos": [
+                3677.544189453125,
+                403.1947021484375,
+                5994.775390625
+            ],
+            "ypr": [
+                -110.00997924804688,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_bar_shelves_DZ",
+            "pos": [
+                3677.6630859375,
+                402.6747131347656,
+                5993.38232421875
+            ],
+            "ypr": [
+                -110.00997924804688,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WineBottle",
+            "pos": [
+                3677.568115234375,
+                403.7132873535156,
+                5994.19873046875
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WineBottle",
+            "pos": [
+                3677.612548828125,
+                403.7132873535156,
+                5994.07666015625
+            ],
+            "ypr": [
+                84.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GlassBottle",
+            "pos": [
+                3677.704833984375,
+                403.7142028808594,
+                5993.8232421875
+            ],
+            "ypr": [
+                99.989990234375,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WaterBottle",
+            "pos": [
+                3677.790283203125,
+                403.7120056152344,
+                5993.587890625
+            ],
+            "ypr": [
+                114.99000549316406,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WaterBottle",
+            "pos": [
+                3677.83154296875,
+                403.7120056152344,
+                5993.47509765625
+            ],
+            "ypr": [
+                129.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SmallGlassBottle_Afza",
+            "pos": [
+                3677.92724609375,
+                403.5766906738281,
+                5993.21240234375
+            ],
+            "ypr": [
+                144.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SmallGlassBottle_Jallab",
+            "pos": [
+                3677.968505859375,
+                403.5766906738281,
+                5993.099609375
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WineBottle",
+            "pos": [
+                3678.081298828125,
+                403.7132873535156,
+                5992.78955078125
+            ],
+            "ypr": [
+                174.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SodaCan_Cola",
+            "pos": [
+                3677.55078125,
+                404.0679931640625,
+                5994.24560546875
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SodaCan_Cola",
+            "pos": [
+                3677.578369140625,
+                404.0679931640625,
+                5994.17041015625
+            ],
+            "ypr": [
+                89.989990234375,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SodaCan_Kvass",
+            "pos": [
+                3677.653564453125,
+                404.0679931640625,
+                5993.9638671875
+            ],
+            "ypr": [
+                109.989990234375,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SodaCan_Kvass",
+            "pos": [
+                3677.680908203125,
+                404.0679931640625,
+                5993.888671875
+            ],
+            "ypr": [
+                129.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SodaCan_Fronta",
+            "pos": [
+                3677.773193359375,
+                404.0679931640625,
+                5993.634765625
+            ],
+            "ypr": [
+                149.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SodaCan_Spite",
+            "pos": [
+                3677.85888671875,
+                404.0679931640625,
+                5993.39990234375
+            ],
+            "ypr": [
+                169.99002075195313,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SodaCan_Pipsi",
+            "pos": [
+                3677.9443359375,
+                404.0679931640625,
+                5993.1650390625
+            ],
+            "ypr": [
+                -170.00997924804688,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SodaCan_Pipsi",
+            "pos": [
+                3677.9716796875,
+                404.0679931640625,
+                5993.09033203125
+            ],
+            "ypr": [
+                -150.00997924804688,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "SodaCan_ZumZam",
+            "pos": [
+                3678.064208984375,
+                404.0824890136719,
+                5992.83642578125
+            ],
+            "ypr": [
+                -130.00999450683595,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GlassBottle",
+            "pos": [
+                3677.585205078125,
+                404.4742126464844,
+                5994.15185546875
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WineBottle",
+            "pos": [
+                3677.721923828125,
+                404.4732971191406,
+                5993.77587890625
+            ],
+            "ypr": [
+                94.98999786376953,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GlassBottle",
+            "pos": [
+                3677.89306640625,
+                404.4742126464844,
+                5993.30615234375
+            ],
+            "ypr": [
+                119.98999786376953,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "WineBottle",
+            "pos": [
+                3678.030029296875,
+                404.4732971191406,
+                5992.93017578125
+            ],
+            "ypr": [
+                144.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_tac_board_posters_level1",
+            "pos": [
+                3679.927978515625,
+                403.57470703125,
+                5987.236328125
+            ],
+            "ypr": [
+                -110.00997924804688,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Carpet1",
+            "pos": [
+                3687.740234375,
+                402.66326904296877,
+                5984.94091796875
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_long_bench",
+            "pos": [
+                3687.741943359375,
+                402.6747131347656,
+                5983.03662109375
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_wall_hanger",
+            "pos": [
+                3688.711669921875,
+                404.4200134277344,
+                5983.12060546875
+            ],
+            "ypr": [
+                -20.009984970092775,
+                0.0,
+                0.0
+            ],
+            "scale": 0.7999999523162842,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_school_map",
+            "pos": [
+                3688.16748046875,
+                404.2746887207031,
+                5986.54345703125
+            ],
+            "ypr": [
+                -20.009984970092775,
+                0.0,
+                0.0
+            ],
+            "scale": 0.7999999523162842,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_flag_chernarus_wall",
+            "pos": [
+                3685.410400390625,
+                404.9446105957031,
+                5985.490234375
+            ],
+            "ypr": [
+                -20.009984970092775,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_canister_DZ",
+            "pos": [
+                3683.652587890625,
+                403.0346984863281,
+                5988.8583984375
+            ],
+            "ypr": [
+                79.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_canister_DZ",
+            "pos": [
+                3684.12255859375,
+                403.0346984863281,
+                5989.02978515625
+            ],
+            "ypr": [
+                54.9900016784668,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_PaperBox_01_small_closed",
+            "pos": [
+                3688.2666015625,
+                402.6747131347656,
+                5988.46337890625
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_PaperBox_01_small_closed",
+            "pos": [
+                3688.247802734375,
+                403.0846862792969,
+                5988.45654296875
+            ],
+            "ypr": [
+                77.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_PaperBox_01_small_open",
+            "pos": [
+                3687.619873046875,
+                402.6722412109375,
+                5988.18896484375
+            ],
+            "ypr": [
+                64.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Furniture_metalcrate",
+            "pos": [
+                3684.6005859375,
+                402.6806335449219,
+                5987.087890625
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decon_PowerCable_01_Roll_F",
+            "pos": [
+                3685.031005859375,
+                402.7642822265625,
+                5986.00537109375
+            ],
+            "ypr": [
+                29.989999771118165,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3684.5205078125,
+                403.2513732910156,
+                5987.19482421875
+            ],
+            "ypr": [
+                -100.00999450683594,
+                90.0,
+                179.99998474121095
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3684.543212890625,
+                403.2513732910156,
+                5987.029296875
+            ],
+            "ypr": [
+                -130.00999450683595,
+                90.0,
+                179.99998474121095
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3684.590576171875,
+                403.2513732910156,
+                5987.1357421875
+            ],
+            "ypr": [
+                -65.00999450683594,
+                90.0,
+                -179.99998474121095
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3684.6416015625,
+                403.2513732910156,
+                5986.9921875
+            ],
+            "ypr": [
+                -30.009984970092775,
+                90.0,
+                179.99998474121095
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Mil_PowerGenerator",
+            "pos": [
+                3688.584716796875,
+                401.9725036621094,
+                5990.9208984375
+            ],
+            "ypr": [
+                159.99000549316407,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decon_PowerCable_01_Roll_F",
+            "pos": [
+                3689.30810546875,
+                402.0627136230469,
+                5989.6943359375
+            ],
+            "ypr": [
+                84.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Misc_Antenna",
+            "pos": [
+                3692.900390625,
+                406.5389099121094,
+                5999.41015625
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Decon_PowerCable_01_StraightLong_F",
+            "pos": [
+                3689.58447265625,
+                401.997802734375,
+                5994.11279296875
+            ],
+            "ypr": [
+                32.04999923706055,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3673.794189453125,
+                404.6147766113281,
+                5993.63134765625
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3673.817626953125,
+                404.6147766113281,
+                5993.64013671875
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3673.84130859375,
+                404.6147766113281,
+                5993.6484375
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3673.86474609375,
+                404.6147766113281,
+                5993.6572265625
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3674.018310546875,
+                404.63800048828127,
+                5993.7138671875
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3674.041748046875,
+                404.63800048828127,
+                5993.72216796875
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3674.0654296875,
+                404.63800048828127,
+                5993.73095703125
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3674.0888671875,
+                404.63800048828127,
+                5993.7392578125
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3674.1123046875,
+                404.63800048828127,
+                5993.748046875
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Cassette",
+            "pos": [
+                3673.747314453125,
+                404.6147766113281,
+                5993.6142578125
+            ],
+            "ypr": [
+                69.98999786376953,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

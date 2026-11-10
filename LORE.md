@@ -115,6 +115,7 @@ nouveaux arrivants apparaissent à l'est de la ville.
 | Crash du vol cargo 404 Sierra | **Établi** : avion cargo écrasé quelque part dans les collines après le Mayday (voir Intrigues en cours). Emplacement : voir `secret/` | *À confirmer* : cargaison, survivants |
 | Casse au nord de la route de Berezino | Des centaines d'épaves | *À confirmer* |
 | Camp de Pustoshka | Camp de survivants, enceinte d'épaves ; au centre, un coin feu de camp et barbecue | *À confirmer* |
+| Studio radio de Green Mountain | Un animateur émet depuis la prison militaire au pied de la grande tour d'émission : console, radios de terrain, table de podcast pour recevoir des invités, salon et bar. Pas de gaz sur la colline | *À confirmer* : nom de la radio et de l'animateur, fréquence, horaires des émissions |
 
 Danger connu de tous : des hordes errantes (civiles et militaires) qui changent de ville, des meutes de
 loups et des ours plus nombreux que la normale. Les armes de guerre sont rares hors marché noir.
@@ -181,6 +182,9 @@ validées ou jouées.
 - *(Claude)* L'antenne du commissariat : un local radio verrouillé dessous, que personne n'a ouvert ; ou
   la découverte que l'appel vient en réalité d'un relais ailleurs (point haut, autre ville), et que la
   voix n'est pas à Zelenogorsk.
+- *(Claude)* La radio de Green Mountain et le Dernier Appel : la tour capte parfois l'appel plus fort
+  qu'ailleurs, ce qui fait soupçonner l'animateur d'en savoir plus ; ou il invite des survivants à raconter
+  leur arrivée à Zelenogorsk, pour en faire les archives du monde d'après (les cassettes du studio).
 - *(Claude)* Un retour de la Varenne : un nouvel arrivant fiévreux, qui oblige le médecin et la mairie à
   décider d'une quarantaine. Bon sujet pour un procès au théâtre-tribunal.
 - *(Claude)* Les vaccinés de Virogen-Z qui n'ont pas encore muté : des survivants en sursis, cachés ou
