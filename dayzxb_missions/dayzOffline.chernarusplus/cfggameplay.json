@@ -76,7 +76,8 @@
 			"./custom/pustoshka_survivor_camp.json",
 			"./custom/canibal_village.json",
 			"./custom/canibal_island.json",
-			"./custom/pavlovo_secret_lab.json"
+			"./custom/pavlovo_secret_lab.json",
+			"./custom/cabanes_perchees.json"
 		],
 		"environmentMinTemps": [-3, -2, 0, 4, 9, 14, 18, 17, 13, 11, 9, 0],
 		"environmentMaxTemps": [3, 5, 7, 14, 19, 24, 26, 25, 18, 14, 10, 5],
