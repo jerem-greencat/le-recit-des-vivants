@@ -1,0 +1,7748 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                2739.052,
+                158.361,
+                3526.747
+            ],
+            "ypr": [
+                56.9,
+                7.01,
+                -1.92
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                2732.786,
+                157.62,
+                3525.205
+            ],
+            "ypr": [
+                251.1,
+                -7.39,
+                -0.04
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                2727.489,
+                156.799,
+                3522.872
+            ],
+            "ypr": [
+                227.2,
+                -6.64,
+                2.77
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                2722.007,
+                156.258,
+                3520.843
+            ],
+            "ypr": [
+                80.3,
+                6.78,
+                1.33
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                2747.073,
+                159.042,
+                3536.215
+            ],
+            "ypr": [
+                232.9,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                2727.489,
+                154.349,
+                3522.872
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                2415.812,
+                349.145,
+                13897.86
+            ],
+            "ypr": [
+                341.4,
+                2.2,
+                1.8
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                2417.116,
+                348.65,
+                13891.102
+            ],
+            "ypr": [
+                344.2,
+                3.76,
+                1.76
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                2416.508,
+                347.988,
+                13885.296
+            ],
+            "ypr": [
+                104.1,
+                -3.74,
+                4.8
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                2423.142,
+                348.085,
+                13907.253
+            ],
+            "ypr": [
+                206.3,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                10667.601,
+                197.766,
+                13407.271
+            ],
+            "ypr": [
+                282.6,
+                -4.34,
+                -0.69
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                10672.801,
+                198.323,
+                13407.715
+            ],
+            "ypr": [
+                174.7,
+                1.3,
+                4.04
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                10678.369,
+                198.531,
+                13406.807
+            ],
+            "ypr": [
+                80.7,
+                3.73,
+                -0.88
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                10685.366,
+                198.973,
+                13405.408
+            ],
+            "ypr": [
+                256.8,
+                -3.22,
+                0.96
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                10657.406,
+                196.006,
+                13403.21
+            ],
+            "ypr": [
+                325.2,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                10816.696,
+                134.545,
+                9316.236
+            ],
+            "ypr": [
+                338.9,
+                -5.77,
+                -2.09
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                10811.56,
+                133.776,
+                9320.577
+            ],
+            "ypr": [
+                154.5,
+                6.73,
+                1.98
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                10809.279,
+                133.049,
+                9325.233
+            ],
+            "ypr": [
+                336.5,
+                -7.12,
+                -2.22
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                10827.924,
+                134.917,
+                9310.391
+            ],
+            "ypr": [
+                270.7,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                5959.006,
+                64.05,
+                3813.311
+            ],
+            "ypr": [
+                152.2,
+                -3.72,
+                0.42
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                5961.682,
+                63.753,
+                3807.811
+            ],
+            "ypr": [
+                153.4,
+                -4.83,
+                1.53
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                5962.609,
+                63.463,
+                3802.937
+            ],
+            "ypr": [
+                222.1,
+                -3.75,
+                -3.98
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                5954.13,
+                64.545,
+                3824.98
+            ],
+            "ypr": [
+                24.4,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                5961.682,
+                61.043,
+                3807.811
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                7291.088,
+                227.643,
+                6454.85
+            ],
+            "ypr": [
+                173.0,
+                -0.13,
+                1.95
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                7289.135,
+                227.931,
+                6460.353
+            ],
+            "ypr": [
+                164.5,
+                0.27,
+                1.17
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                8852.673,
+                358.687,
+                15104.083
+            ],
+            "ypr": [
+                98.5,
+                -1.86,
+                -0.65
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                8858.583,
+                358.287,
+                15106.224
+            ],
+            "ypr": [
+                263.4,
+                1.93,
+                0.09
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                8863.747,
+                358.299,
+                15107.356
+            ],
+            "ypr": [
+                239.3,
+                1.78,
+                -0.71
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                8871.394,
+                357.947,
+                15106.666
+            ],
+            "ypr": [
+                90.3,
+                -2.05,
+                -0.32
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                8838.184,
+                358.394,
+                15106.959
+            ],
+            "ypr": [
+                183.9,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                8871.394,
+                355.417,
+                15106.666
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                9478.305,
+                234.055,
+                7139.593
+            ],
+            "ypr": [
+                41.8,
+                3.08,
+                1.4
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                9481.002,
+                234.3,
+                7144.426
+            ],
+            "ypr": [
+                56.4,
+                1.94,
+                1.01
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                9483.813,
+                234.458,
+                7149.9
+            ],
+            "ypr": [
+                224.1,
+                -2.01,
+                -0.4
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                9487.583,
+                234.596,
+                7155.111
+            ],
+            "ypr": [
+                320.1,
+                1.67,
+                -2.37
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                9466.844,
+                232.888,
+                7134.139
+            ],
+            "ypr": [
+                4.4,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                4304.644,
+                288.677,
+                7292.496
+            ],
+            "ypr": [
+                83.1,
+                -0.95,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                4310.92,
+                288.706,
+                7291.197
+            ],
+            "ypr": [
+                95.8,
+                0.31,
+                -0.42
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                4296.563,
+                288.02,
+                7302.215
+            ],
+            "ypr": [
+                232.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                9288.942,
+                336.659,
+                6094.055
+            ],
+            "ypr": [
+                316.5,
+                3.16,
+                0.9
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                9281.808,
+                336.931,
+                6093.625
+            ],
+            "ypr": [
+                292.0,
+                3.98,
+                -0.28
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                9278.303,
+                337.403,
+                6098.135
+            ],
+            "ypr": [
+                221.5,
+                1.09,
+                -4.12
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                9271.577,
+                337.952,
+                6097.942
+            ],
+            "ypr": [
+                286.0,
+                4.68,
+                -0.99
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                9293.743,
+                335.4,
+                6081.52
+            ],
+            "ypr": [
+                164.7,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                9271.577,
+                335.242,
+                6097.942
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                1330.659,
+                313.704,
+                11202.713
+            ],
+            "ypr": [
+                27.4,
+                0.29,
+                1.83
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                1335.617,
+                313.555,
+                11199.958
+            ],
+            "ypr": [
+                304.8,
+                1.82,
+                0.89
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                1341.089,
+                313.461,
+                11196.444
+            ],
+            "ypr": [
+                137.8,
+                -2.45,
+                -0.28
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                1318.788,
+                313.385,
+                11200.016
+            ],
+            "ypr": [
+                81.4,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                7428.948,
+                298.227,
+                14303.069
+            ],
+            "ypr": [
+                191.6,
+                -3.94,
+                0.04
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                7423.792,
+                297.908,
+                14297.92
+            ],
+            "ypr": [
+                23.5,
+                3.76,
+                0.68
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                7423.06,
+                297.456,
+                14291.751
+            ],
+            "ypr": [
+                261.9,
+                -1.59,
+                -4.21
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                7422.008,
+                296.943,
+                14285.277
+            ],
+            "ypr": [
+                183.8,
+                -4.51,
+                0.83
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                7422.899,
+                298.47,
+                14315.612
+            ],
+            "ypr": [
+                12.9,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                258.618,
+                444.17,
+                11068.763
+            ],
+            "ypr": [
+                51.6,
+                -1.35,
+                0.64
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                251.865,
+                443.917,
+                11061.467
+            ],
+            "ypr": [
+                249.0,
+                5.92,
+                -1.49
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                245.992,
+                444.604,
+                11055.832
+            ],
+            "ypr": [
+                250.8,
+                5.73,
+                -1.73
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                265.902,
+                442.854,
+                11083.714
+            ],
+            "ypr": [
+                359.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                251.865,
+                441.387,
+                11061.467
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                12978.371,
+                19.31,
+                5581.507
+            ],
+            "ypr": [
+                134.3,
+                -0.89,
+                -0.01
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                12983.11,
+                19.025,
+                5577.946
+            ],
+            "ypr": [
+                129.0,
+                -0.75,
+                0.05
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                12988.867,
+                18.942,
+                5573.333
+            ],
+            "ypr": [
+                315.6,
+                0.46,
+                0.06
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                12966.242,
+                18.456,
+                5582.777
+            ],
+            "ypr": [
+                191.1,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                12978.371,
+                16.47,
+                5581.507
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                4812.923,
+                6.66,
+                2342.007
+            ],
+            "ypr": [
+                139.9,
+                -0.07,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                4817.519,
+                6.78,
+                2334.8
+            ],
+            "ypr": [
+                126.1,
+                -0.49,
+                0.27
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                4796.854,
+                6.156,
+                2342.855
+            ],
+            "ypr": [
+                296.9,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                4817.519,
+                4.14,
+                2334.8
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                8814.562,
+                272.767,
+                4062.782
+            ],
+            "ypr": [
+                42.3,
+                0.54,
+                -0.16
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                8820.396,
+                272.759,
+                4060.117
+            ],
+            "ypr": [
+                128.0,
+                -1.67,
+                -0.32
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                8801.794,
+                272.04,
+                4064.266
+            ],
+            "ypr": [
+                198.2,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                3350.131,
+                6.571,
+                2312.078
+            ],
+            "ypr": [
+                33.2,
+                1.08,
+                -0.46
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                3357.535,
+                6.806,
+                2315.097
+            ],
+            "ypr": [
+                43.8,
+                0.94,
+                0.09
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                3358.656,
+                6.756,
+                2324.201
+            ],
+            "ypr": [
+                16.0,
+                0.64,
+                -1.69
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                3366.095,
+                7.023,
+                2327.105
+            ],
+            "ypr": [
+                16.3,
+                0.3,
+                -0.13
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                3336.522,
+                5.376,
+                2308.019
+            ],
+            "ypr": [
+                143.2,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                2754.06,
+                278.511,
+                8629.531
+            ],
+            "ypr": [
+                162.7,
+                1.51,
+                0.82
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                2753.294,
+                278.86,
+                8623.607
+            ],
+            "ypr": [
+                151.7,
+                1.6,
+                1.13
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                2750.147,
+                277.629,
+                8642.295
+            ],
+            "ypr": [
+                150.4,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                2754.06,
+                276.061,
+                8629.531
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                8607.822,
+                232.843,
+                11433.913
+            ],
+            "ypr": [
+                98.5,
+                1.68,
+                -2.05
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                8609.873,
+                233.303,
+                11428.867
+            ],
+            "ypr": [
+                154.4,
+                3.62,
+                -1.07
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                8599.117,
+                231.705,
+                11446.384
+            ],
+            "ypr": [
+                163.4,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                11900.439,
+                28.831,
+                9853.269
+            ],
+            "ypr": [
+                79.5,
+                -2.52,
+                4.38
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                11894.113,
+                29.187,
+                9854.552
+            ],
+            "ypr": [
+                286.1,
+                3.73,
+                -2.27
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                11887.781,
+                29.72,
+                9853.701
+            ],
+            "ypr": [
+                273.3,
+                2.48,
+                -3.57
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                11882.212,
+                29.647,
+                9852.072
+            ],
+            "ypr": [
+                261.5,
+                1.24,
+                -4.33
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                11875.624,
+                29.774,
+                9851.349
+            ],
+            "ypr": [
+                68.3,
+                -2.29,
+                4.73
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                11912.461,
+                27.052,
+                9849.105
+            ],
+            "ypr": [
+                243.4,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                11463.173,
+                122.028,
+                15113.845
+            ],
+            "ypr": [
+                117.7,
+                -0.01,
+                1.27
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                11468.202,
+                122.302,
+                15111.199
+            ],
+            "ypr": [
+                168.6,
+                -0.44,
+                0.36
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                11453.624,
+                121.805,
+                15121.475
+            ],
+            "ypr": [
+                210.2,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                11463.173,
+                119.588,
+                15113.845
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                4034.046,
+                194.11,
+                13414.938
+            ],
+            "ypr": [
+                245.3,
+                1.3,
+                -3.06
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                4032.939,
+                194.391,
+                13419.197
+            ],
+            "ypr": [
+                313.4,
+                3.37,
+                0.19
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                4029.001,
+                194.573,
+                13424.236
+            ],
+            "ypr": [
+                166.7,
+                -2.44,
+                -1.81
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                4026.043,
+                194.764,
+                13429.502
+            ],
+            "ypr": [
+                174.9,
+                -1.87,
+                -1.79
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                4034.078,
+                192.884,
+                13403.455
+            ],
+            "ypr": [
+                315.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                4026.043,
+                192.314,
+                13429.502
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                2109.711,
+                254.443,
+                12509.112
+            ],
+            "ypr": [
+                160.1,
+                -2.11,
+                -1.46
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                2107.268,
+                254.78,
+                12515.051
+            ],
+            "ypr": [
+                162.4,
+                -2.15,
+                -2.12
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                2102.954,
+                255.36,
+                12520.031
+            ],
+            "ypr": [
+                38.0,
+                -0.17,
+                2.35
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                2099.473,
+                255.405,
+                12525.027
+            ],
+            "ypr": [
+                357.0,
+                1.41,
+                2.42
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                2108.406,
+                253.544,
+                12496.159
+            ],
+            "ypr": [
+                110.2,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                8685.108,
+                381.975,
+                9365.771
+            ],
+            "ypr": [
+                132.7,
+                -0.66,
+                0.02
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                8678.338,
+                382.067,
+                9368.866
+            ],
+            "ypr": [
+                330.1,
+                0.8,
+                0.18
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                8675.57,
+                382.066,
+                9374.584
+            ],
+            "ypr": [
+                308.8,
+                0.88,
+                -0.11
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                8695.137,
+                381.158,
+                9360.829
+            ],
+            "ypr": [
+                199.8,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                12469.416,
+                115.857,
+                12211.699
+            ],
+            "ypr": [
+                304.1,
+                -0.03,
+                -0.06
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                12475.419,
+                115.794,
+                12210.855
+            ],
+            "ypr": [
+                109.1,
+                -1.14,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                12480.552,
+                115.678,
+                12206.823
+            ],
+            "ypr": [
+                94.5,
+                -0.89,
+                0.25
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                12486.511,
+                115.785,
+                12204.923
+            ],
+            "ypr": [
+                299.3,
+                0.49,
+                0.1
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                12461.395,
+                115.493,
+                12219.146
+            ],
+            "ypr": [
+                256.9,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                11490.189,
+                217.093,
+                7315.866
+            ],
+            "ypr": [
+                106.2,
+                -5.36,
+                -0.08
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                11482.785,
+                217.643,
+                7322.549
+            ],
+            "ypr": [
+                317.3,
+                5.35,
+                2.17
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                11475.872,
+                218.125,
+                7324.788
+            ],
+            "ypr": [
+                292.4,
+                5.01,
+                -1.75
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                11468.529,
+                218.373,
+                7326.276
+            ],
+            "ypr": [
+                140.1,
+                -5.01,
+                1.49
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                11506.433,
+                213.952,
+                7315.295
+            ],
+            "ypr": [
+                83.3,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                11468.529,
+                215.933,
+                7326.276
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                4520.496,
+                369.718,
+                14634.664
+            ],
+            "ypr": [
+                278.7,
+                1.02,
+                -1.84
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                4512.805,
+                369.325,
+                14639.976
+            ],
+            "ypr": [
+                99.9,
+                -1.14,
+                2.96
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                4505.695,
+                369.661,
+                14639.324
+            ],
+            "ypr": [
+                110.9,
+                -1.11,
+                2.78
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                4500.933,
+                369.436,
+                14640.954
+            ],
+            "ypr": [
+                210.4,
+                -2.54,
+                -1.31
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                4532.213,
+                367.856,
+                14624.56
+            ],
+            "ypr": [
+                136.2,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                5352.436,
+                289.433,
+                10879.725
+            ],
+            "ypr": [
+                265.4,
+                -1.51,
+                0.5
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                5359.193,
+                289.887,
+                10880.856
+            ],
+            "ypr": [
+                92.2,
+                1.7,
+                -0.22
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                5363.452,
+                289.944,
+                10878.484
+            ],
+            "ypr": [
+                183.5,
+                0.08,
+                1.45
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                5340.206,
+                288.488,
+                10877.847
+            ],
+            "ypr": [
+                28.8,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                9898.78,
+                279.461,
+                15152.662
+            ],
+            "ypr": [
+                217.0,
+                -2.15,
+                -1.59
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                9894.421,
+                279.393,
+                15147.21
+            ],
+            "ypr": [
+                214.5,
+                -2.77,
+                -1.32
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                9891.24,
+                278.759,
+                15141.636
+            ],
+            "ypr": [
+                22.0,
+                2.6,
+                0.96
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                9911.635,
+                279.069,
+                15158.314
+            ],
+            "ypr": [
+                227.7,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                4654.337,
+                342.197,
+                9419.815
+            ],
+            "ypr": [
+                239.4,
+                -0.28,
+                -0.13
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                4648.515,
+                342.151,
+                9415.305
+            ],
+            "ypr": [
+                224.9,
+                -0.46,
+                0.51
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                4642.982,
+                342.088,
+                9413.843
+            ],
+            "ypr": [
+                178.2,
+                -0.03,
+                0.8
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                4664.784,
+                341.486,
+                9428.183
+            ],
+            "ypr": [
+                345.6,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                12921.93,
+                6.162,
+                8505.07
+            ],
+            "ypr": [
+                132.6,
+                -0.41,
+                0.12
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                12926.047,
+                6.115,
+                8498.845
+            ],
+            "ypr": [
+                159.7,
+                -0.43,
+                -0.08
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                12929.939,
+                5.969,
+                8493.54
+            ],
+            "ypr": [
+                163.8,
+                -0.37,
+                -0.18
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                12932.255,
+                6.027,
+                8487.643
+            ],
+            "ypr": [
+                89.4,
+                -0.26,
+                0.26
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                12911.211,
+                5.587,
+                8516.939
+            ],
+            "ypr": [
+                99.2,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                12921.93,
+                3.632,
+                8505.07
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                9705.091,
+                142.887,
+                13272.246
+            ],
+            "ypr": [
+                344.0,
+                -9.39,
+                2.93
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                9702.672,
+                142.297,
+                13278.883
+            ],
+            "ypr": [
+                277.0,
+                1.92,
+                8.74
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                9715.621,
+                144.878,
+                13262.722
+            ],
+            "ypr": [
+                162.6,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                7837.513,
+                182.44,
+                4815.534
+            ],
+            "ypr": [
+                231.3,
+                0.07,
+                -1.63
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                7836.328,
+                182.582,
+                4821.664
+            ],
+            "ypr": [
+                138.3,
+                -1.42,
+                0.04
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                7851.072,
+                181.216,
+                4810.922
+            ],
+            "ypr": [
+                254.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                8473.189,
+                346.992,
+                10372.527
+            ],
+            "ypr": [
+                112.1,
+                5.93,
+                -0.77
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                8464.979,
+                345.669,
+                10375.715
+            ],
+            "ypr": [
+                239.1,
+                -3.27,
+                5.86
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                8462.121,
+                344.616,
+                10381.654
+            ],
+            "ypr": [
+                119.1,
+                7.07,
+                -0.24
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                8486.784,
+                346.875,
+                10371.185
+            ],
+            "ypr": [
+                56.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                9661.031,
+                119.365,
+                2578.641
+            ],
+            "ypr": [
+                154.5,
+                -3.01,
+                -5.61
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                9656.575,
+                119.638,
+                2584.909
+            ],
+            "ypr": [
+                177.1,
+                -0.93,
+                -3.07
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                9660.144,
+                119.522,
+                2591.672
+            ],
+            "ypr": [
+                173.4,
+                -3.23,
+                -6.09
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                9654.94,
+                118.912,
+                2565.211
+            ],
+            "ypr": [
+                22.8,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                905.587,
+                313.653,
+                10368.254
+            ],
+            "ypr": [
+                291.6,
+                0.79,
+                2.23
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                907.892,
+                313.457,
+                10372.919
+            ],
+            "ypr": [
+                27.1,
+                -2.31,
+                0.41
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                895.823,
+                313.357,
+                10363.935
+            ],
+            "ypr": [
+                316.2,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                905.587,
+                311.123,
+                10368.254
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                13573.754,
+                63.204,
+                12366.549
+            ],
+            "ypr": [
+                217.9,
+                2.08,
+                -0.09
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                13569.026,
+                63.564,
+                12361.867
+            ],
+            "ypr": [
+                214.7,
+                2.24,
+                -0.23
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                13564.554,
+                63.702,
+                12358.001
+            ],
+            "ypr": [
+                47.1,
+                -2.38,
+                -0.26
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                13560.533,
+                64.294,
+                12352.52
+            ],
+            "ypr": [
+                234.4,
+                2.8,
+                0.74
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                13557.393,
+                64.493,
+                12346.079
+            ],
+            "ypr": [
+                219.0,
+                3.34,
+                -0.13
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                13586.105,
+                62.046,
+                12371.584
+            ],
+            "ypr": [
+                69.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                7603.893,
+                267.223,
+                11355.334
+            ],
+            "ypr": [
+                102.9,
+                -7.76,
+                -1.78
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                7609.497,
+                266.301,
+                11351.673
+            ],
+            "ypr": [
+                86.3,
+                -8.07,
+                0.47
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                7615.937,
+                265.138,
+                11352.389
+            ],
+            "ypr": [
+                106.4,
+                -8.72,
+                -2.95
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                7621.27,
+                264.392,
+                11353.524
+            ],
+            "ypr": [
+                354.1,
+                0.5,
+                8.41
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                7594.701,
+                267.511,
+                11346.708
+            ],
+            "ypr": [
+                345.8,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                8195.056,
+                427.488,
+                8581.199
+            ],
+            "ypr": [
+                260.1,
+                3.31,
+                0.02
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                8190.058,
+                428.038,
+                8580.68
+            ],
+            "ypr": [
+                259.1,
+                3.3,
+                0.07
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                8184.406,
+                428.11,
+                8578.616
+            ],
+            "ypr": [
+                259.3,
+                3.23,
+                0.1
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                8178.442,
+                428.848,
+                8577.099
+            ],
+            "ypr": [
+                246.3,
+                3.04,
+                -0.54
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                8206.517,
+                426.518,
+                8591.349
+            ],
+            "ypr": [
+                231.5,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                13433.979,
+                4.137,
+                6548.561
+            ],
+            "ypr": [
+                137.9,
+                -0.5,
+                0.17
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                13430.665,
+                4.103,
+                6552.99
+            ],
+            "ypr": [
+                252.3,
+                0.22,
+                -0.92
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                13427.62,
+                4.369,
+                6556.584
+            ],
+            "ypr": [
+                338.3,
+                1.31,
+                0.29
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                13426.689,
+                4.328,
+                6562.956
+            ],
+            "ypr": [
+                170.7,
+                -1.16,
+                -0.91
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                13442.934,
+                3.247,
+                6537.655
+            ],
+            "ypr": [
+                185.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                5328.251,
+                231.548,
+                13807.701
+            ],
+            "ypr": [
+                236.0,
+                -5.82,
+                0.14
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                5321.353,
+                231.059,
+                13806.168
+            ],
+            "ypr": [
+                260.1,
+                -5.6,
+                -2.31
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                5314.504,
+                230.019,
+                13804.189
+            ],
+            "ypr": [
+                71.4,
+                5.95,
+                1.46
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                5309.68,
+                229.323,
+                13799.488
+            ],
+            "ypr": [
+                234.8,
+                -6.03,
+                0.37
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                5303.939,
+                228.662,
+                13797.014
+            ],
+            "ypr": [
+                261.4,
+                -5.55,
+                -2.39
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                7398.477,
+                140.042,
+                12519.737
+            ],
+            "ypr": [
+                74.3,
+                -9.31,
+                4.7
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                7391.875,
+                141.603,
+                12521.729
+            ],
+            "ypr": [
+                259.4,
+                11.38,
+                -4.62
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                7384.806,
+                142.733,
+                12517.629
+            ],
+            "ypr": [
+                276.2,
+                10.55,
+                7.45
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                11497.785,
+                169.663,
+                12224.189
+            ],
+            "ypr": [
+                61.4,
+                -6.31,
+                0.93
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                11503.907,
+                168.909,
+                12228.46
+            ],
+            "ypr": [
+                99.1,
+                -5.39,
+                -2.01
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                11509.265,
+                168.17,
+                12225.261
+            ],
+            "ypr": [
+                242.0,
+                5.66,
+                -1.49
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                11486.667,
+                169.719,
+                12230.6
+            ],
+            "ypr": [
+                297.8,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                12133.732,
+                145.413,
+                11165.767
+            ],
+            "ypr": [
+                81.9,
+                -3.6,
+                1.4
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                12143.595,
+                144.081,
+                11164.256
+            ],
+            "ypr": [
+                262.5,
+                3.95,
+                -0.76
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                12120.751,
+                145.695,
+                11173.971
+            ],
+            "ypr": [
+                265.5,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                12143.595,
+                141.551,
+                11164.256
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                4388.447,
+                314.883,
+                5926.162
+            ],
+            "ypr": [
+                299.1,
+                -0.76,
+                1.55
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                4384.997,
+                314.352,
+                5931.092
+            ],
+            "ypr": [
+                10.5,
+                -1.7,
+                -0.11
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                4394.083,
+                314.106,
+                5916.261
+            ],
+            "ypr": [
+                63.6,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                12342.937,
+                114.492,
+                13354.09
+            ],
+            "ypr": [
+                165.7,
+                5.01,
+                -0.93
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                12340.466,
+                114.038,
+                13359.38
+            ],
+            "ypr": [
+                6.4,
+                -4.46,
+                -0.81
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                12339.819,
+                113.721,
+                13365.645
+            ],
+            "ypr": [
+                353.2,
+                -5.04,
+                0.34
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                12341.316,
+                112.987,
+                13373.332
+            ],
+            "ypr": [
+                348.1,
+                -5.81,
+                1.36
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                12339.834,
+                112.211,
+                13379.875
+            ],
+            "ypr": [
+                194.7,
+                6.23,
+                -0.93
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                12348.746,
+                114.823,
+                13343.714
+            ],
+            "ypr": [
+                128.3,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                4954.791,
+                335.656,
+                8068.598
+            ],
+            "ypr": [
+                205.1,
+                -1.63,
+                -0.74
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                4956.313,
+                335.876,
+                8075.803
+            ],
+            "ypr": [
+                15.2,
+                1.79,
+                0.48
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                4949.801,
+                334.658,
+                8057.31
+            ],
+            "ypr": [
+                89.3,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                10558.249,
+                266.991,
+                5477.95
+            ],
+            "ypr": [
+                128.9,
+                -2.28,
+                3.47
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                10561.693,
+                266.449,
+                5472.515
+            ],
+            "ypr": [
+                86.1,
+                -1.01,
+                3.07
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                10545.826,
+                266.514,
+                5486.808
+            ],
+            "ypr": [
+                270.5,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                9313.335,
+                105.836,
+                4912.352
+            ],
+            "ypr": [
+                110.6,
+                -0.84,
+                -1.53
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                9319.417,
+                105.857,
+                4910.382
+            ],
+            "ypr": [
+                180.9,
+                1.4,
+                -1.72
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                9325.8,
+                105.579,
+                4910.295
+            ],
+            "ypr": [
+                103.5,
+                -1.04,
+                -1.29
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                9303.145,
+                105.583,
+                4924.89
+            ],
+            "ypr": [
+                78.9,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                9313.335,
+                103.296,
+                4912.352
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                9859.296,
+                177.62,
+                10622.603
+            ],
+            "ypr": [
+                12.6,
+                8.2,
+                3.33
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                9858.046,
+                179.051,
+                10629.188
+            ],
+            "ypr": [
+                350.3,
+                8.56,
+                -0.01
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                9855.547,
+                179.737,
+                10635.515
+            ],
+            "ypr": [
+                181.5,
+                -7.96,
+                -1.55
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                9866.69,
+                175.031,
+                10610.919
+            ],
+            "ypr": [
+                197.3,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                5844.621,
+                285.833,
+                9896.091
+            ],
+            "ypr": [
+                184.7,
+                2.84,
+                -1.64
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                5842.738,
+                286.212,
+                9891.383
+            ],
+            "ypr": [
+                268.1,
+                1.29,
+                2.49
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                5850.284,
+                284.41,
+                9909.588
+            ],
+            "ypr": [
+                67.5,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                3626.111,
+                246.415,
+                4876.226
+            ],
+            "ypr": [
+                93.1,
+                -2.18,
+                0.79
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                3634.941,
+                245.265,
+                4872.216
+            ],
+            "ypr": [
+                111.5,
+                -2.31,
+                0.13
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                3640.987,
+                245.042,
+                4867.597
+            ],
+            "ypr": [
+                103.9,
+                -2.47,
+                0.49
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                3648.881,
+                244.83,
+                4867.282
+            ],
+            "ypr": [
+                105.6,
+                -2.53,
+                0.5
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                3611.804,
+                245.58,
+                4876.317
+            ],
+            "ypr": [
+                189.6,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                3386.28,
+                234.25,
+                12346.601
+            ],
+            "ypr": [
+                344.7,
+                -7.55,
+                0.32
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                3384.644,
+                233.316,
+                12353.976
+            ],
+            "ypr": [
+                351.0,
+                -8.0,
+                -1.77
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                3388.496,
+                232.844,
+                12360.457
+            ],
+            "ypr": [
+                359.1,
+                -7.1,
+                -2.72
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                3386.311,
+                231.742,
+                12367.423
+            ],
+            "ypr": [
+                346.1,
+                -6.38,
+                -1.17
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                3389.095,
+                231.028,
+                12374.181
+            ],
+            "ypr": [
+                167.3,
+                6.23,
+                -1.11
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                3389.772,
+                235.353,
+                12333.222
+            ],
+            "ypr": [
+                305.1,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                3386.311,
+                229.102,
+                12367.423
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                9161.416,
+                191.327,
+                14222.182
+            ],
+            "ypr": [
+                91.2,
+                -2.05,
+                4.32
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                9170.514,
+                190.545,
+                14220.207
+            ],
+            "ypr": [
+                82.9,
+                -1.19,
+                3.79
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                9176.521,
+                189.928,
+                14218.377
+            ],
+            "ypr": [
+                89.5,
+                -2.41,
+                4.14
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                9181.085,
+                189.517,
+                14216.868
+            ],
+            "ypr": [
+                200.8,
+                -4.97,
+                -3.37
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                9148.231,
+                191.472,
+                14232.638
+            ],
+            "ypr": [
+                183.9,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                6139.206,
+                477.683,
+                14861.934
+            ],
+            "ypr": [
+                241.6,
+                1.18,
+                -0.38
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                6131.271,
+                477.496,
+                14859.932
+            ],
+            "ypr": [
+                179.7,
+                0.18,
+                -1.17
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                6124.619,
+                477.427,
+                14863.084
+            ],
+            "ypr": [
+                245.7,
+                1.18,
+                -0.36
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                6118.526,
+                477.564,
+                14858.958
+            ],
+            "ypr": [
+                264.6,
+                1.14,
+                0.02
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                6156.856,
+                475.94,
+                14858.424
+            ],
+            "ypr": [
+                149.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                5321.855,
+                292.082,
+                7023.771
+            ],
+            "ypr": [
+                40.7,
+                5.0,
+                1.79
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                5322.532,
+                292.338,
+                7029.944
+            ],
+            "ypr": [
+                100.2,
+                0.98,
+                5.42
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                5325.326,
+                293.072,
+                7035.016
+            ],
+            "ypr": [
+                14.1,
+                5.49,
+                -0.62
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                5310.659,
+                290.128,
+                7017.384
+            ],
+            "ypr": [
+                178.5,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                8772.852,
+                122.157,
+                13074.775
+            ],
+            "ypr": [
+                245.0,
+                -0.05,
+                -1.64
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                8776.225,
+                122.034,
+                13070.66
+            ],
+            "ypr": [
+                168.6,
+                -1.51,
+                0.08
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                8774.426,
+                121.92,
+                13063.015
+            ],
+            "ypr": [
+                158.6,
+                -1.55,
+                0.74
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                8776.119,
+                121.759,
+                13056.289
+            ],
+            "ypr": [
+                185.3,
+                -2.83,
+                -0.73
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                8776.295,
+                121.593,
+                13085.479
+            ],
+            "ypr": [
+                95.8,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                12693.175,
+                25.577,
+                14244.368
+            ],
+            "ypr": [
+                288.4,
+                0.61,
+                -2.41
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                12703.906,
+                25.129,
+                14247.386
+            ],
+            "ypr": [
+                103.5,
+                -0.31,
+                3.48
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                12708.521,
+                24.811,
+                14241.511
+            ],
+            "ypr": [
+                102.4,
+                -0.33,
+                2.15
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                12685.534,
+                25.052,
+                14259.548
+            ],
+            "ypr": [
+                203.9,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                12703.906,
+                22.599,
+                14247.386
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                12830.863,
+                6.514,
+                3697.449
+            ],
+            "ypr": [
+                251.3,
+                2.1,
+                0.86
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                12823.49,
+                6.697,
+                3696.021
+            ],
+            "ypr": [
+                258.2,
+                2.01,
+                1.18
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                12817.433,
+                6.972,
+                3692.057
+            ],
+            "ypr": [
+                258.7,
+                0.26,
+                -0.07
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                12834.054,
+                5.428,
+                3711.888
+            ],
+            "ypr": [
+                49.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                1428.454,
+                433.399,
+                15011.506
+            ],
+            "ypr": [
+                11.2,
+                -5.47,
+                -0.34
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                1428.555,
+                432.845,
+                15017.372
+            ],
+            "ypr": [
+                346.5,
+                -2.91,
+                2.34
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                1434.52,
+                433.1,
+                15000.012
+            ],
+            "ypr": [
+                223.5,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                1428.555,
+                430.395,
+                15017.372
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                2517.82,
+                307.078,
+                7259.629
+            ],
+            "ypr": [
+                240.7,
+                -4.88,
+                0.31
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                2523.909,
+                307.958,
+                7262.223
+            ],
+            "ypr": [
+                94.9,
+                3.93,
+                2.82
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                2508.617,
+                305.341,
+                7250.24
+            ],
+            "ypr": [
+                233.9,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                2517.82,
+                304.548,
+                7259.629
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                592.404,
+                6.998,
+                1761.71
+            ],
+            "ypr": [
+                232.7,
+                -0.18,
+                -0.04
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                586.93,
+                6.903,
+                1758.127
+            ],
+            "ypr": [
+                36.8,
+                0.21,
+                -0.03
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                606.934,
+                6.131,
+                1759.644
+            ],
+            "ypr": [
+                328.2,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                13491.659,
+                6.272,
+                4820.124
+            ],
+            "ypr": [
+                155.8,
+                0.48,
+                -0.2
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                13500.825,
+                6.435,
+                4813.702
+            ],
+            "ypr": [
+                161.1,
+                0.58,
+                -0.14
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                13499.968,
+                6.41,
+                4805.588
+            ],
+            "ypr": [
+                196.2,
+                0.57,
+                0.23
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                13487.318,
+                5.49,
+                4830.862
+            ],
+            "ypr": [
+                85.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                252.571,
+                294.694,
+                9182.649
+            ],
+            "ypr": [
+                21.0,
+                -0.96,
+                0.25
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                249.351,
+                294.221,
+                9175.114
+            ],
+            "ypr": [
+                19.3,
+                -1.57,
+                0.2
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                244.414,
+                294.352,
+                9172.211
+            ],
+            "ypr": [
+                120.0,
+                0.3,
+                -1.75
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                243.675,
+                294.387,
+                9168.394
+            ],
+            "ypr": [
+                218.2,
+                1.81,
+                0.54
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                261.66,
+                293.222,
+                9193.112
+            ],
+            "ypr": [
+                164.6,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                243.675,
+                291.937,
+                9168.394
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                1807.494,
+                43.221,
+                2532.224
+            ],
+            "ypr": [
+                344.6,
+                10.28,
+                -3.07
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                1809.716,
+                44.294,
+                2538.539
+            ],
+            "ypr": [
+                345.3,
+                9.09,
+                -1.41
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                1810.256,
+                45.352,
+                2544.811
+            ],
+            "ypr": [
+                332.6,
+                7.85,
+                -3.12
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                1805.734,
+                39.642,
+                2517.238
+            ],
+            "ypr": [
+                83.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                1810.256,
+                42.812,
+                2544.811
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                1713.738,
+                184.731,
+                5404.044
+            ],
+            "ypr": [
+                312.3,
+                2.81,
+                1.79
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                1717.171,
+                184.23,
+                5397.661
+            ],
+            "ypr": [
+                110.8,
+                -4.38,
+                1.18
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                1724.667,
+                183.547,
+                5395.491
+            ],
+            "ypr": [
+                145.2,
+                -3.22,
+                -3.87
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                1707.25,
+                184.647,
+                5414.229
+            ],
+            "ypr": [
+                57.4,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                10741.984,
+                7.125,
+                2514.408
+            ],
+            "ypr": [
+                197.9,
+                0.84,
+                0.08
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                10741.768,
+                7.597,
+                2507.011
+            ],
+            "ypr": [
+                269.6,
+                0.16,
+                0.44
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                10736.531,
+                7.534,
+                2503.517
+            ],
+            "ypr": [
+                35.9,
+                -0.47,
+                0.68
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                10735.63,
+                7.363,
+                2497.319
+            ],
+            "ypr": [
+                15.3,
+                -0.04,
+                0.32
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                10756.527,
+                6.395,
+                2522.447
+            ],
+            "ypr": [
+                302.2,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                10741.984,
+                4.685,
+                2514.408
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                4120.271,
+                344.031,
+                11176.643
+            ],
+            "ypr": [
+                111.9,
+                1.36,
+                -1.07
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                4126.674,
+                344.307,
+                11173.93
+            ],
+            "ypr": [
+                316.3,
+                0.55,
+                0.36
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                4131.349,
+                344.436,
+                11169.153
+            ],
+            "ypr": [
+                129.2,
+                0.53,
+                -0.44
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                4104.509,
+                342.819,
+                11179.37
+            ],
+            "ypr": [
+                21.8,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                13990.902,
+                68.891,
+                13963.21
+            ],
+            "ypr": [
+                192.9,
+                -0.49,
+                2.19
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                13985.001,
+                68.447,
+                13962.414
+            ],
+            "ypr": [
+                81.0,
+                2.45,
+                -0.4
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                13977.525,
+                67.938,
+                13961.498
+            ],
+            "ypr": [
+                277.7,
+                -2.15,
+                -0.11
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                5924.796,
+                308.578,
+                7999.972
+            ],
+            "ypr": [
+                320.8,
+                1.12,
+                -0.22
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                5928.722,
+                307.741,
+                7992.468
+            ],
+            "ypr": [
+                51.8,
+                0.08,
+                1.05
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                5923.933,
+                307.439,
+                8013.288
+            ],
+            "ypr": [
+                40.9,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                5928.722,
+                305.211,
+                7992.468
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                8377.188,
+                353.178,
+                6788.776
+            ],
+            "ypr": [
+                115.4,
+                -2.27,
+                0.17
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                8370.826,
+                353.62,
+                6790.548
+            ],
+            "ypr": [
+                291.5,
+                1.9,
+                0.42
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                8365.133,
+                353.614,
+                6792.828
+            ],
+            "ypr": [
+                85.2,
+                -1.65,
+                -0.41
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                8358.591,
+                353.998,
+                6788.348
+            ],
+            "ypr": [
+                282.7,
+                3.33,
+                2.02
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                8390.309,
+                351.866,
+                6782.23
+            ],
+            "ypr": [
+                164.4,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                7034.649,
+                288.223,
+                5563.073
+            ],
+            "ypr": [
+                89.9,
+                -10.12,
+                3.92
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                7040.543,
+                287.418,
+                5560.262
+            ],
+            "ypr": [
+                132.7,
+                -9.58,
+                -3.95
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                7047.385,
+                285.84,
+                5557.09
+            ],
+            "ypr": [
+                305.4,
+                8.85,
+                2.3
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                7025.034,
+                289.826,
+                5571.077
+            ],
+            "ypr": [
+                359.9,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                7272.426,
+                20.839,
+                3112.964
+            ],
+            "ypr": [
+                309.6,
+                -5.92,
+                -4.06
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                7265.485,
+                19.937,
+                3116.376
+            ],
+            "ypr": [
+                284.4,
+                -6.35,
+                1.64
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                7260.093,
+                19.415,
+                3118.547
+            ],
+            "ypr": [
+                292.9,
+                -8.45,
+                3.04
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                7253.079,
+                18.26,
+                3118.654
+            ],
+            "ypr": [
+                125.7,
+                11.31,
+                -4.59
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                7246.669,
+                16.967,
+                3122.737
+            ],
+            "ypr": [
+                271.7,
+                -7.58,
+                1.64
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                7279.238,
+                21.577,
+                3101.595
+            ],
+            "ypr": [
+                278.3,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                13168.072,
+                7.397,
+                10518.516
+            ],
+            "ypr": [
+                141.2,
+                0.05,
+                -0.09
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                13167.95,
+                7.048,
+                10509.746
+            ],
+            "ypr": [
+                180.9,
+                0.05,
+                -0.02
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                13162.898,
+                6.846,
+                10504.662
+            ],
+            "ypr": [
+                199.1,
+                -0.07,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                13181.149,
+                6.03,
+                10527.517
+            ],
+            "ypr": [
+                243.6,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                13162.898,
+                4.206,
+                10504.662
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                12782.285,
+                6.74,
+                9420.138
+            ],
+            "ypr": [
+                131.7,
+                -0.01,
+                0.01
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                12785.331,
+                6.655,
+                9414.551
+            ],
+            "ypr": [
+                325.1,
+                -0.08,
+                -0.01
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                12788.352,
+                6.92,
+                9409.414
+            ],
+            "ypr": [
+                320.7,
+                0.08,
+                0.19
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                12794.345,
+                6.75,
+                9406.986
+            ],
+            "ypr": [
+                110.9,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                12768.544,
+                6.166,
+                9421.074
+            ],
+            "ypr": [
+                144.1,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                10431.829,
+                140.972,
+                7382.529
+            ],
+            "ypr": [
+                167.5,
+                0.47,
+                0.94
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                10434.008,
+                140.872,
+                7376.234
+            ],
+            "ypr": [
+                134.5,
+                -0.58,
+                0.6
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                10436.364,
+                141.075,
+                7369.149
+            ],
+            "ypr": [
+                318.9,
+                2.05,
+                -0.74
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                10438.409,
+                140.458,
+                7362.475
+            ],
+            "ypr": [
+                139.9,
+                -2.53,
+                1.17
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                10430.628,
+                140.592,
+                7393.581
+            ],
+            "ypr": [
+                197.7,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                10434.008,
+                138.432,
+                7376.234
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                964.786,
+                176.006,
+                6661.51
+            ],
+            "ypr": [
+                309.3,
+                6.39,
+                -4.15
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                968.545,
+                174.999,
+                6657.004
+            ],
+            "ypr": [
+                66.2,
+                -0.73,
+                10.77
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                972.666,
+                173.928,
+                6652.7
+            ],
+            "ypr": [
+                299.2,
+                8.01,
+                -3.54
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                949.428,
+                176.473,
+                6665.27
+            ],
+            "ypr": [
+                180.1,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                972.666,
+                171.218,
+                6652.7
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                11852.53,
+                6.782,
+                3459.884
+            ],
+            "ypr": [
+                233.8,
+                -0.64,
+                -1.08
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                11859.245,
+                6.755,
+                3459.089
+            ],
+            "ypr": [
+                236.6,
+                -0.59,
+                -0.51
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                11866.068,
+                6.879,
+                3459.272
+            ],
+            "ypr": [
+                258.7,
+                0.22,
+                -0.23
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                11872.892,
+                6.869,
+                3458.348
+            ],
+            "ypr": [
+                245.6,
+                0.09,
+                -1.12
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                11837.399,
+                6.129,
+                3461.358
+            ],
+            "ypr": [
+                104.2,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                2244.235,
+                245.158,
+                9595.777
+            ],
+            "ypr": [
+                110.4,
+                1.05,
+                -0.01
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                2249.611,
+                245.341,
+                9592.464
+            ],
+            "ypr": [
+                154.3,
+                3.82,
+                1.37
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                2254.33,
+                245.732,
+                9588.162
+            ],
+            "ypr": [
+                116.8,
+                3.64,
+                -0.35
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                2258.008,
+                246.045,
+                9582.453
+            ],
+            "ypr": [
+                123.4,
+                3.2,
+                1.34
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                2240.064,
+                243.485,
+                9609.596
+            ],
+            "ypr": [
+                214.1,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                8663.907,
+                7.688,
+                2506.923
+            ],
+            "ypr": [
+                174.5,
+                -1.76,
+                0.19
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                8657.977,
+                8.059,
+                2512.063
+            ],
+            "ypr": [
+                311.4,
+                1.47,
+                -2.43
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                8659.667,
+                8.328,
+                2520.785
+            ],
+            "ypr": [
+                135.6,
+                -1.33,
+                2.97
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                8659.272,
+                8.764,
+                2528.31
+            ],
+            "ypr": [
+                335.9,
+                1.51,
+                -1.89
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                8661.675,
+                6.223,
+                2492.377
+            ],
+            "ypr": [
+                150.7,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                1515.877,
+                140.227,
+                3965.821
+            ],
+            "ypr": [
+                105.6,
+                1.33,
+                0.43
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                1520.578,
+                140.472,
+                3962.377
+            ],
+            "ypr": [
+                92.8,
+                1.22,
+                0.39
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                1500.071,
+                138.995,
+                3964.367
+            ],
+            "ypr": [
+                283.5,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                1515.877,
+                137.517,
+                3965.821
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                13569.204,
+                69.68,
+                15054.221
+            ],
+            "ypr": [
+                244.6,
+                -5.19,
+                -0.45
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                13564.569,
+                69.482,
+                15049.344
+            ],
+            "ypr": [
+                72.4,
+                4.04,
+                0.62
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                13581.084,
+                70.402,
+                15056.378
+            ],
+            "ypr": [
+                49.2,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                3453.519,
+                346.038,
+                15201.195
+            ],
+            "ypr": [
+                166.0,
+                5.08,
+                8.69
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                3460.232,
+                347.196,
+                15199.906
+            ],
+            "ypr": [
+                119.3,
+                8.8,
+                1.56
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                3647.934,
+                183.963,
+                3773.047
+            ],
+            "ypr": [
+                317.1,
+                6.99,
+                -0.45
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                3646.177,
+                184.45,
+                3777.762
+            ],
+            "ypr": [
+                311.7,
+                6.31,
+                -1.8
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                3642.202,
+                185.36,
+                3780.814
+            ],
+            "ypr": [
+                135.4,
+                -6.69,
+                -1.8
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                3639.192,
+                185.568,
+                3785.595
+            ],
+            "ypr": [
+                154.2,
+                -1.81,
+                -1.1
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                3663.959,
+                181.79,
+                3768.475
+            ],
+            "ypr": [
+                50.9,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                7124.175,
+                325.885,
+                8241.394
+            ],
+            "ypr": [
+                211.4,
+                -3.64,
+                2.74
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                7120.883,
+                325.383,
+                8235.817
+            ],
+            "ypr": [
+                218.2,
+                -3.9,
+                2.02
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                7115.249,
+                324.925,
+                8233.261
+            ],
+            "ypr": [
+                28.3,
+                3.36,
+                -1.59
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                7138.561,
+                326.064,
+                8244.105
+            ],
+            "ypr": [
+                286.4,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                10496.103,
+                79.935,
+                14442.064
+            ],
+            "ypr": [
+                85.9,
+                -2.55,
+                -0.27
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                10489.274,
+                80.071,
+                14443.014
+            ],
+            "ypr": [
+                247.6,
+                3.01,
+                0.07
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                10483.379,
+                80.938,
+                14437.592
+            ],
+            "ypr": [
+                265.1,
+                5.18,
+                0.97
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                10504.922,
+                78.874,
+                14449.192
+            ],
+            "ypr": [
+                61.8,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                13565.435,
+                9.415,
+                11365.813
+            ],
+            "ypr": [
+                215.1,
+                0.25,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                13571.76,
+                8.921,
+                11372.978
+            ],
+            "ypr": [
+                27.1,
+                0.08,
+                0.06
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                13575.745,
+                8.728,
+                11379.096
+            ],
+            "ypr": [
+                40.7,
+                -0.28,
+                0.03
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                13577.2,
+                8.723,
+                11385.508
+            ],
+            "ypr": [
+                21.8,
+                0.63,
+                0.33
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                13576.563,
+                8.836,
+                11391.844
+            ],
+            "ypr": [
+                297.8,
+                -0.4,
+                -0.94
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                12379.702,
+                153.618,
+                7424.115
+            ],
+            "ypr": [
+                104.9,
+                -0.57,
+                -4.15
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                12381.37,
+                153.94,
+                7418.599
+            ],
+            "ypr": [
+                16.2,
+                -4.23,
+                0.6
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                12374.89,
+                154.532,
+                7414.583
+            ],
+            "ypr": [
+                223.7,
+                4.78,
+                1.03
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                12389.941,
+                152.333,
+                7429.028
+            ],
+            "ypr": [
+                95.5,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                3400.168,
+                299.913,
+                7875.417
+            ],
+            "ypr": [
+                320.1,
+                0.11,
+                0.09
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                3394.624,
+                300.018,
+                7879.996
+            ],
+            "ypr": [
+                296.3,
+                0.18,
+                -0.01
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                3386.369,
+                300.157,
+                7881.589
+            ],
+            "ypr": [
+                110.2,
+                -0.21,
+                0.08
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                3381.246,
+                300.176,
+                7886.18
+            ],
+            "ypr": [
+                319.5,
+                0.08,
+                -0.01
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                3412.391,
+                299.28,
+                7872.006
+            ],
+            "ypr": [
+                286.1,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                4784.631,
+                222.946,
+                4170.488
+            ],
+            "ypr": [
+                218.5,
+                -0.83,
+                4.94
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                4779.54,
+                221.595,
+                4174.513
+            ],
+            "ypr": [
+                304.1,
+                -5.37,
+                0.98
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                4777.515,
+                221.295,
+                4181.042
+            ],
+            "ypr": [
+                316.7,
+                -5.65,
+                -0.89
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                4787.533,
+                222.092,
+                4160.518
+            ],
+            "ypr": [
+                46.6,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                4779.54,
+                219.155,
+                4174.513
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                11908.321,
+                50.762,
+                6440.391
+            ],
+            "ypr": [
+                313.4,
+                1.16,
+                -0.26
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                11902.434,
+                50.801,
+                6441.89
+            ],
+            "ypr": [
+                212.0,
+                -1.87,
+                -2.41
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                11971.332,
+                72.97,
+                8740.248
+            ],
+            "ypr": [
+                21.7,
+                -3.42,
+                1.21
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                11972.639,
+                73.607,
+                8732.593
+            ],
+            "ypr": [
+                202.8,
+                3.58,
+                -0.82
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                11980.004,
+                70.876,
+                8752.918
+            ],
+            "ypr": [
+                233.9,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                11971.332,
+                70.44,
+                8740.248
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                11483.875,
+                106.72,
+                13808.195
+            ],
+            "ypr": [
+                307.8,
+                -0.88,
+                2.24
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                11479.531,
+                106.714,
+                13813.54
+            ],
+            "ypr": [
+                147.5,
+                0.83,
+                -2.62
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                11475.276,
+                106.557,
+                13817.223
+            ],
+            "ypr": [
+                103.3,
+                -1.36,
+                -2.2
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                11495.644,
+                105.791,
+                13809.654
+            ],
+            "ypr": [
+                268.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                10594.757,
+                268.016,
+                12383.28
+            ],
+            "ypr": [
+                76.4,
+                -0.94,
+                1.81
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                10593.321,
+                267.609,
+                12378.78
+            ],
+            "ypr": [
+                164.7,
+                -5.18,
+                0.54
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                10593.321,
+                265.159,
+                12378.78
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                5317.113,
+                161.002,
+                12617.295
+            ],
+            "ypr": [
+                295.6,
+                2.13,
+                -0.12
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                5313.477,
+                161.279,
+                12622.069
+            ],
+            "ypr": [
+                17.3,
+                -2.32,
+                2.94
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                5323.217,
+                160.346,
+                12605.323
+            ],
+            "ypr": [
+                61.8,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                5313.477,
+                158.829,
+                12622.069
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                822.897,
+                330.221,
+                12162.361
+            ],
+            "ypr": [
+                300.7,
+                3.16,
+                0.41
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                818.742,
+                330.375,
+                12166.174
+            ],
+            "ypr": [
+                128.0,
+                -2.38,
+                -0.79
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                815.118,
+                330.712,
+                12170.391
+            ],
+            "ypr": [
+                326.1,
+                2.92,
+                2.14
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                831.242,
+                329.015,
+                12150.147
+            ],
+            "ypr": [
+                295.1,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                822.897,
+                327.681,
+                12162.361
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                1850.516,
+                313.054,
+                8748.538
+            ],
+            "ypr": [
+                184.7,
+                5.29,
+                -1.44
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                1850.09,
+                313.289,
+                8742.575
+            ],
+            "ypr": [
+                33.3,
+                -4.95,
+                -1.13
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                1845.627,
+                313.872,
+                8737.181
+            ],
+            "ypr": [
+                219.3,
+                6.57,
+                1.37
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                1849.132,
+                311.143,
+                8758.927
+            ],
+            "ypr": [
+                302.0,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                1850.09,
+                310.749,
+                8742.575
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                5742.766,
+                87.561,
+                2884.902
+            ],
+            "ypr": [
+                159.8,
+                -5.84,
+                -6.08
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                5743.513,
+                87.117,
+                2877.634
+            ],
+            "ypr": [
+                146.1,
+                -5.82,
+                -7.33
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                5749.377,
+                86.834,
+                2873.075
+            ],
+            "ypr": [
+                332.7,
+                4.22,
+                1.36
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                5742.104,
+                87.483,
+                2897.933
+            ],
+            "ypr": [
+                277.7,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                5667.541,
+                324.619,
+                8943.065
+            ],
+            "ypr": [
+                24.2,
+                -0.86,
+                0.03
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                5667.124,
+                324.393,
+                8937.546
+            ],
+            "ypr": [
+                265.7,
+                0.05,
+                0.05
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                5665.21,
+                324.608,
+                8932.353
+            ],
+            "ypr": [
+                217.2,
+                0.92,
+                0.6
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                5663.386,
+                325.011,
+                8926.418
+            ],
+            "ypr": [
+                193.6,
+                1.43,
+                0.31
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                4205.466,
+                339.888,
+                10261.12
+            ],
+            "ypr": [
+                211.5,
+                0.13,
+                0.08
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                4208.628,
+                339.615,
+                10264.608
+            ],
+            "ypr": [
+                132.5,
+                0.12,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                4213.245,
+                339.72,
+                10265.75
+            ],
+            "ypr": [
+                55.4,
+                0.03,
+                -0.11
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                4190.747,
+                339.018,
+                10259.062
+            ],
+            "ypr": [
+                192.8,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                4304.783,
+                42.784,
+                3147.859
+            ],
+            "ypr": [
+                302.3,
+                2.84,
+                0.63
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                4310.735,
+                42.379,
+                3144.192
+            ],
+            "ypr": [
+                115.5,
+                -2.3,
+                -0.36
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                4317.499,
+                42.252,
+                3143.453
+            ],
+            "ypr": [
+                125.9,
+                -1.67,
+                -0.58
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                4323.971,
+                41.937,
+                3140.333
+            ],
+            "ypr": [
+                279.5,
+                1.58,
+                -0.2
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                4330.737,
+                41.745,
+                3138.597
+            ],
+            "ypr": [
+                108.4,
+                -1.57,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                4295.876,
+                42.683,
+                3155.706
+            ],
+            "ypr": [
+                33.9,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                6387.132,
+                325.061,
+                6247.503
+            ],
+            "ypr": [
+                323.9,
+                4.4,
+                -1.23
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_black",
+            "pos": [
+                6385.479,
+                325.645,
+                6254.59
+            ],
+            "ypr": [
+                139.3,
+                -4.32,
+                1.62
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_Lada_Red",
+            "pos": [
+                6382.579,
+                326.037,
+                6259.803
+            ],
+            "ypr": [
+                180.7,
+                -4.25,
+                -1.85
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                6381.633,
+                326.55,
+                6265.263
+            ],
+            "ypr": [
+                143.2,
+                -4.31,
+                0.45
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                6377.992,
+                327.302,
+                6269.879
+            ],
+            "ypr": [
+                155.6,
+                -3.9,
+                -0.68
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                6395.856,
+                323.58,
+                6240.224
+            ],
+            "ypr": [
+                34.9,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                6382.579,
+                323.587,
+                6259.803
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                9431.819,
+                235.815,
+                11772.906
+            ],
+            "ypr": [
+                83.4,
+                2.02,
+                0.84
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                9437.326,
+                235.987,
+                11778.03
+            ],
+            "ypr": [
+                54.9,
+                2.07,
+                -0.24
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                9441.768,
+                236.15,
+                11779.263
+            ],
+            "ypr": [
+                332.7,
+                0.04,
+                -2.08
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                9445.336,
+                236.211,
+                11781.955
+            ],
+            "ypr": [
+                64.6,
+                2.09,
+                0.1
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                9419.028,
+                234.55,
+                11772.519
+            ],
+            "ypr": [
+                32.4,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Bonfire",
+            "pos": [
+                9445.336,
+                233.771,
+                11781.955
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "scale": 0.3,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                5193.333,
+                320.086,
+                5353.609
+            ],
+            "ypr": [
+                152.2,
+                2.72,
+                -2.89
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                5197.705,
+                320.348,
+                5350.138
+            ],
+            "ypr": [
+                134.6,
+                1.25,
+                -2.92
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                5202.065,
+                320.736,
+                5345.252
+            ],
+            "ypr": [
+                153.1,
+                3.84,
+                -2.11
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                5179.409,
+                319.836,
+                5357.448
+            ],
+            "ypr": [
+                220.6,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                2856.08,
+                220.017,
+                13096.12
+            ],
+            "ypr": [
+                78.7,
+                -3.28,
+                0.34
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_red",
+            "pos": [
+                2865.336,
+                218.934,
+                13094.923
+            ],
+            "ypr": [
+                101.0,
+                -2.96,
+                -0.94
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                2871.816,
+                218.657,
+                13096.572
+            ],
+            "ypr": [
+                74.7,
+                -2.91,
+                0.16
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_white",
+            "pos": [
+                2877.758,
+                218.499,
+                13097.295
+            ],
+            "ypr": [
+                88.8,
+                -2.65,
+                -0.58
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                2843.597,
+                219.37,
+                13097.045
+            ],
+            "ypr": [
+                175.8,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                3550.703,
+                312.526,
+                9105.121
+            ],
+            "ypr": [
+                242.5,
+                -0.13,
+                -1.07
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban2_grey",
+            "pos": [
+                3554.424,
+                312.126,
+                9100.059
+            ],
+            "ypr": [
+                145.1,
+                -1.21,
+                0.41
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                3552.453,
+                312.225,
+                9091.859
+            ],
+            "ypr": [
+                163.2,
+                -1.45,
+                -0.04
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_red",
+            "pos": [
+                3558.388,
+                311.914,
+                9088.14
+            ],
+            "ypr": [
+                136.7,
+                -1.37,
+                0.55
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed02_aban1_yellow",
+            "pos": [
+                3562.192,
+                311.838,
+                9082.284
+            ],
+            "ypr": [
+                157.9,
+                -1.39,
+                0.01
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                6518.658,
+                145.383,
+                12717.027
+            ],
+            "ypr": [
+                76.7,
+                -6.73,
+                2.98
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb02_aban1_black",
+            "pos": [
+                6512.186,
+                145.977,
+                12718.374
+            ],
+            "ypr": [
+                64.4,
+                -4.75,
+                4.31
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                6505.767,
+                146.727,
+                12716.909
+            ],
+            "ypr": [
+                262.7,
+                4.98,
+                -3.07
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                6527.893,
+                143.486,
+                12725.089
+            ],
+            "ypr": [
+                115.8,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_green",
+            "pos": [
+                7947.319,
+                410.777,
+                15036.617
+            ],
+            "ypr": [
+                286.3,
+                2.52,
+                0.86
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_hb01_aban2_blue",
+            "pos": [
+                7942.854,
+                410.984,
+                15037.46
+            ],
+            "ypr": [
+                351.3,
+                0.29,
+                2.57
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Land_Wreck_sed01_aban1_white",
+            "pos": [
+                7937.853,
+                411.02,
+                15036.363
+            ],
+            "ypr": [
+                285.1,
+                2.33,
+                0.73
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "carambolage"
+        },
+        {
+            "name": "Misc_TirePile_Burning_DE",
+            "pos": [
+                7958.418,
+                409.457,
+                15032.29
+            ],
+            "ypr": [
+                232.6,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": "feu"
+        }
+    ]
+}

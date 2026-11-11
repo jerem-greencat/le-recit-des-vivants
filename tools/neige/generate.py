@@ -118,12 +118,12 @@ def yaw_axes(yaw_deg):
 	return (math.cos(r), -math.sin(r)), (math.sin(r), math.cos(r))
 
 
-def own_mapping_objects():
-	"""Gros objets de nos mappings (bâtiments, dalles…) : pas de neige dessous."""
+def own_mapping_objects(exclude=()):
+	"""Gros objets de nos mappings (bâtiments, dalles…) : pas de neige dessous. exclude : noms de fichiers ignorés."""
 	out = []
 	for f in glob.glob(os.path.join(MISSION, "custom", "*.json")):
 		base = os.path.basename(f)
-		if base.startswith("neige_") or base.startswith("test_neige") or base.startswith("spawngear"):
+		if base.startswith("neige_") or base.startswith("test_neige") or base.startswith("spawngear") or base in exclude:
 			continue
 		try:
 			data = json.load(open(f))

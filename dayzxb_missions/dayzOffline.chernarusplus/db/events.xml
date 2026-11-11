@@ -96,7 +96,7 @@
         </children>
     </event>
     <event name="AnimalBear">
-        <nominal>6</nominal>
+        <nominal>10</nominal>
         <min>1</min>
         <max>2</max>
         <lifetime>180</lifetime>
@@ -268,7 +268,7 @@
         </children>
     </event>
     <event name="AnimalWolf">
-        <nominal>16</nominal>
+        <nominal>24</nominal>
         <min>5</min>
         <max>8</max>
         <lifetime>180</lifetime>
