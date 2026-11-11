@@ -15,8 +15,9 @@
         <!-- Brouillard (0..1). Le script de Chernarus tire une valeur de 0 à 0.15 (0.35 certains matins)
              toutes les 15 à 30 min ; le minimum la remonte : le brouillard ne se lève jamais.
              C'est le réglage principal de l'ambiance : baisser min/max si on n'y voit vraiment rien. -->
-        <current actual="0.7" time="60" duration="900" />
-        <limits min="0.6" max="0.85" />
+        <current actual="1.0" time="60" duration="900" />
+        <!-- 0.6 à 0.85 : visibilité mesurée à 260 m au télémètre (trop clair). On est maintenant au maximum. -->
+        <limits min="0.9" max="1.0" />
         <timelimits min="900" max="1800" />
         <changelimits min="0.0" max="1.0" />
     </fog>

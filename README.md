@@ -364,7 +364,7 @@ Cinq ambiances sont prêtes dans `meteo/` :
 | `hiver` | Gris (couverture 0.4 à 0.9), brume | Aucune | 6 à 12 m/s, pour des changements moins brusques | -10 / -3 °C toute l'année | Sakhal |
 | `canicule` | Dégagé (couverture 0 à 0.25), pas de brume | Aucune | Normal | 22 / 38 °C toute l'année | Nasdara |
 | `tempete` | Couvert (0.8 à 1.0) | Continue (0.2 minimum), forte, orages | 10 m/s minimum | Vanilla, selon le mois | Nuits noires |
-| `brouillard` | Gris (couverture 0.45 à 0.8), brouillard très épais permanent (0.6 à 0.85) | Aucune | Faible (4 m/s au plus, à confirmer en jeu) | Vanilla, selon le mois | Vanilla |
+| `brouillard` | Gris (couverture 0.45 à 0.8), brouillard très épais permanent (0.9 à 1.0, le maximum) | Aucune | Faible (4 m/s au plus, à confirmer en jeu) | Vanilla, selon le mois | Vanilla |
 
 Équipement de départ : les objets sont les mêmes partout (radio et pile, carte, bouteille d'eau pleine,
 ouvre-boîte, confiture, spaghettis, 6 chiffons, boîte de clous), ainsi que la sacoche. Seuls les
