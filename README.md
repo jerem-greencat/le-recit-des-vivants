@@ -63,7 +63,7 @@ télécharger en local pour diagnostiquer, ils ne sont pas versionnés.
 | `env/*.xml` | Territoires des animaux et des zombies |
 | `mapgroup*.xml`, `mapcluster*.xml` | Positions de loot des bâtiments (rarement modifiés) |
 | `custom/*.json` | Mappings DayZ Editor (Object Spawner) et presets d'équipement de départ |
-| `custom/neige_*.json`, `tempete_arbres.json`, `canicule_brulis.json` | Mappings d'ambiance générés par les scripts de `tools/` (ne pas modifier à la main) |
+| `custom/neige_*.json`, `tempete_arbres.json`, `canicule_brulis.json`, `brouillard_*.json` | Mappings d'ambiance générés par les scripts de `tools/` (ne pas modifier à la main) |
 | `custom/spawngear_survivant.json` | Équipement de départ des joueurs (`PlayerData.spawnGearPresetFiles`), copié depuis `meteo/` |
 | `areaflags.map` | Carte des zones d'usage/valeur (binaire, ne pas modifier) |
 
@@ -356,7 +356,7 @@ au démarrage.
 
 ## Météo
 
-Quatre ambiances sont prêtes dans `meteo/` :
+Cinq ambiances sont prêtes dans `meteo/` :
 
 | Ambiance | Ciel | Pluie | Vent | Températures (min / max) | Éclairage |
 | --- | --- | --- | --- | --- | --- |
@@ -364,10 +364,11 @@ Quatre ambiances sont prêtes dans `meteo/` :
 | `hiver` | Gris (couverture 0.4 à 0.9), brume | Aucune | 6 à 12 m/s, pour des changements moins brusques | -10 / -3 °C toute l'année | Sakhal |
 | `canicule` | Dégagé (couverture 0 à 0.25), pas de brume | Aucune | Normal | 22 / 38 °C toute l'année | Nasdara |
 | `tempete` | Couvert (0.8 à 1.0) | Continue (0.2 minimum), forte, orages | 10 m/s minimum | Vanilla, selon le mois | Nuits noires |
+| `brouillard` | Gris (couverture 0.45 à 0.8), brouillard très épais permanent (0.9 à 1.0, le maximum) | Aucune | Faible (4 m/s au plus, à confirmer en jeu) | Vanilla, selon le mois | Vanilla |
 
 Équipement de départ : les objets sont les mêmes partout (radio et pile, carte, bouteille d'eau pleine,
 ouvre-boîte, confiture, spaghettis, 6 chiffons, boîte de clous), ainsi que la sacoche. Seuls les
-vêtements changent :
+vêtements changent, et le brouillard ajoute un bâton lumineux :
 
 | Ambiance | Haut | Bas | Chaussures | En plus |
 | --- | --- | --- | --- | --- |
@@ -375,6 +376,7 @@ vêtements changent :
 | `hiver` | Doudoune | Jean | Chaussures de travail | Bonnet, gants en laine |
 | `canicule` | T-shirt | Short en jean | Baskets | Casquette |
 | `tempete` | Imperméable | Pantalon de toile | Bottes en caoutchouc | Lampe frontale avec pile 9V |
+| `brouillard` | Pull | Pantalon de toile | Baskets | Bâton lumineux blanc |
 
 Chaque dossier `meteo/<ambiance>/` contient :
 
@@ -385,17 +387,21 @@ Chaque dossier `meteo/<ambiance>/` contient :
 | `spawngear_survivant.json` | Équipement de départ | `custom/spawngear_survivant.json` |
 | `message.txt` | Message affiché 1 min après la connexion (vide : pas de message) | Le bloc « AMBIANCE METEO » de `db/messages.xml` |
 | `mappings.txt` (facultatif) | Mappings chargés seulement avec cette ambiance (la neige pour `hiver`) | Ajoutés à `objectSpawnersArr` de `cfggameplay.json` |
+| `events.xml` + `events.origine.xml` (facultatifs) | Blocs `<event>` de l'ambiance, et leurs valeurs hors de cette ambiance (les prédateurs pour `brouillard`) | Ces blocs dans `db/events.xml` |
+| `zombie_territories.xml` (facultatif) | Zones de zombies propres à l'ambiance (les routes pour `brouillard`) | Le bloc « ZOMBIES METEO » de `env/zombie_territories.xml` |
 
 Pour changer d'ambiance, en local :
 
 ```sh
-tools/meteo.sh hiver   # ou default, canicule, tempete
+tools/meteo.sh hiver   # ou default, canicule, tempete, brouillard
 ```
 
-Le script met à jour les quatre fichiers de la colonne « Remplace ». Il reste à les envoyer sur le FTP
+Le script met à jour les fichiers de la colonne « Remplace ». Il reste à les envoyer sur le FTP
 et à redémarrer. Dans `db/messages.xml`, il ne touche qu'au bloc entre les marqueurs `AMBIANCE METEO` :
 les autres messages restent en place. De même, dans `objectSpawnersArr`, il ne retire que les mappings
-listés dans un `mappings.txt` : les autres mappings ne bougent pas.
+listés dans un `mappings.txt` : les autres mappings ne bougent pas. Dans `db/events.xml`, il ne remplace que
+les blocs listés dans un `events.xml` d'ambiance (et refuse s'ils ont été modifiés à la main), et dans
+`env/zombie_territories.xml` que le bloc entre les marqueurs `ZOMBIES METEO`.
 
 ### Neige au sol (ambiance `hiver`)
 
@@ -457,6 +463,36 @@ canicule (`meteo/canicule/mappings.txt`) : groupes de traces de brûlé de Nasda
 petites) en terrain dégagé autour des localités, posées comme les plaques de neige. Le lierre sec n'existe
 qu'en modèle (invisible, voir plus haut). État actuel : 718 traces.
 
+### Carambolages, barrages et zombies sur les routes (ambiance `brouillard`)
+
+Le brouillard est un simple événement météo, sans lien avec le lore. `python3 tools/brouillard/generate.py`
+(données du jeu lues par `tools/neige/`, moins d'une minute) écrit :
+
+- `custom/brouillard_carambolages.json` : carambolages de 2 à 5 épaves (parfois un bus) sur les portions
+  droites des routes goudronnées et en gravier hors des villes, au moins 900 m entre deux. Les voitures sont
+  en file, de travers, parfois à contresens ou en portefeuille ; elles suivent la pente, et leur hauteur de
+  pose est celle des mêmes épaves placées par Bohemia. En amont de chaque carambolage, un feu de détresse :
+  une pile de pneus en feu (`Misc_TirePile_Burning_DE`) sur le bas-côté. Une fois sur trois environ, une
+  voiture brûle aussi (`Bonfire` réduit et enterré dessous, l'astuce de `zeleno_police.json`) ;
+- `custom/brouillard_barrages.json` : barrages abandonnés aux entrées des localités (2 au plus par
+  localité), jamais à moins de 2,5 km de la zone safe de Zelenogorsk : deux rangées de blocs de béton en
+  chicane (un passage d'environ 3 m reste libre), hérissons et panneau stop côté campagne, cônes dont
+  certains renversés, une barrière ;
+- `meteo/brouillard/zombie_territories.xml` : zones de zombies dynamiques autour de chaque carambolage
+  (6 à 10) et le long des routes hors des villes, tous les 600 m environ (2 à 4), au nom d'événements
+  vanilla déjà actifs (`InfectedSolitude` : randonneurs, chasseurs, pêcheurs ; `InfectedVillage`). Aucune à
+  moins de 250 m de la zone safe ni à moins de 200 m de nos mappings ;
+- `meteo/brouillard/mappings.txt`.
+
+Les mappings des autres ambiances (neige, arbres, brûlis) ne comptent pas comme obstacles : ils ne sont
+jamais chargés en même temps. Chaque objet porte `customString` `carambolage`, `feu` ou `barrage`.
+
+Les prédateurs sont dans `meteo/brouillard/events.xml` : 24 meutes de loups au lieu de 16 et 10 ours au
+lieu de 6, sur leurs territoires habituels (les zones de loups près de Zelenogorsk restent commentées).
+
+État actuel : 108 carambolages (484 objets, 35 voitures en feu), 73 barrages dans 40 localités
+(1 031 objets), 187 zones de zombies.
+
 Les éclairages de Sakhal et de Nasdara (`lightingConfig` 2 et 3) viennent des DLC, mais leurs données sont
 installées chez tous les joueurs (comme les plaques de neige de Sakhal, visibles sans le DLC).
 
@@ -476,7 +512,7 @@ Ce que Chernarus permet (vérifié dans les scripts du jeu, `ChernarusPlus.c`) :
 - **Le gel fonctionne.** Il ne dépend que de la température : avec l'ambiance `hiver`, l'eau et la
   nourriture gèlent comme sur Sakhal, et les joueurs ont froid.
 
-Les ambiances `hiver`, `canicule` et `tempete` ont `reset="1"` : la météo sauvegardée est ignorée et
+Les ambiances `hiver`, `canicule`, `tempete` et `brouillard` ont `reset="1"` : la météo sauvegardée est ignorée et
 l'ambiance s'applique dès le redémarrage.
 
 ## Fêtes
