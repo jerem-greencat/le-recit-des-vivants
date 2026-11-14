@@ -390,19 +390,6 @@
 					"complexChildrenTypes": [],
 					"simpleChildrenUseDefaultAttributes": false,
 					"simpleChildrenTypes": []
-				},
-				{
-					"itemType": "Chemlight_White",
-					"attributes": {
-						"healthMin": 1.0,
-						"healthMax": 1.0,
-						"quantityMin": 1.0,
-						"quantityMax": 1.0
-					},
-					"quickBarSlot": -1,
-					"complexChildrenTypes": [],
-					"simpleChildrenUseDefaultAttributes": false,
-					"simpleChildrenTypes": []
 				}
 			],
 			"simpleChildrenUseDefaultAttributes": false,

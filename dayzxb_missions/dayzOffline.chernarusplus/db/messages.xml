@@ -61,11 +61,4 @@ Example messages:
 		<text>Redémarrage du serveur dans #tmin minutes. Mettez-vous à l'abri et déconnectez-vous proprement.</text>
 	</message>
 
-	<!-- AMBIANCE METEO (tools/meteo.sh) -->
-	<message>
-		<delay>1</delay>
-		<onconnect>1</onconnect>
-		<text>Un brouillard épais est tombé sur Chernarus. On n'y voit pas à vingt mètres : écoutez avant d'avancer et restez groupés.</text>
-	</message>
-	<!-- FIN AMBIANCE METEO -->
 </messages>
