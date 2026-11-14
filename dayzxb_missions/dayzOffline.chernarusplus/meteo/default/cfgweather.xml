@@ -2,7 +2,10 @@
 <!-- 'reset' and 'enable' are a bool, and therefore supports: 0/1, true/false, yes/no -->
 <!-- 'reset' controls whether you want to load in the weather from storage or not (false by default) -->
 <!-- 'enable' controls whether this file is enabled or not (true by default) -->
-<weather reset="0" enable="0">
+<!-- Ambiance DEFAULT : météo normale de Chernarus (le script du jeu choisit, les limites ci-dessous sont grandes ouvertes). -->
+<!-- reset="1" enable="1" : obligatoire. Avec enable="0" le serveur reprenait la météo sauvegardée et le brouillard
+     de l'ambiance précédente (0.9–1.0) restait bloqué après le retour en default (constaté le 14/11). -->
+<weather reset="1" enable="1">
     <overcast>
         <!-- Initial conditions of the overcast (target value, time to change, how long will it stay) -->
         <current actual="0.45" time="120" duration="240" />
@@ -17,7 +20,8 @@
         <!-- Initial conditions of the fog (target value, time to change, how long will it stay) -->
         <current actual="0.05" time="120" duration="240" />
         <!-- What is the range of the fog value (0..1) -->
-        <limits min="0.02" max="0.08" />
+        <!-- 0..1 : ne pas restreindre, le script du jeu tire 0 à 0.15 (jusqu'à 0.35 certains matins) -->
+        <limits min="0.0" max="1.0" />
         <!-- How long does it take to the fog to change from one value to other (time in seconds) -->
         <timelimits min="900" max="900" />
         <!-- How much should the fog change (0..1) -->
