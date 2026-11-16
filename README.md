@@ -285,7 +285,7 @@ on ne peut les obtenir que via les mappings (shop admin, armurerie, commissariat
 
 | Catégorie | Objets retirés | Conservés |
 | --- | --- | --- |
-| Armes lourdes | Fusils d'assaut (AK101, AK74, AKM, AKS74U, AS VAL, AUG, FAL, FAMAS, M4A1, M16A2, M14, SCAR-H, Vikhr), snipers (SVD, SV98, VSS), lance-grenades M79 | SKS, armes de chasse, fusils à pompe, pistolets, SMG |
+| Armes lourdes | Fusils d'assaut (AK101, AK74, AKM, AKS74U, AS VAL, AUG, FAL, FAMAS, M4A1, M16A2, M14, SCAR-H, Vikhr), snipers (SVD, SV98, VSS, Tundra / `Winchester70` et ses variantes noire et verte), lance-grenades M79 | SKS, autres armes de chasse (Mosin, CZ527, B95…), fusils à pompe, pistolets, SMG |
 | Explosifs | Grenades M67 et RGD-5, grenades flash, mines (Claymore, mine terrestre), explosif plastique, détonateur, grenade PO-X, toutes les munitions 40 mm (explosives, PO-X, fumigènes) | Grenades fumigènes à main |
 | Chargeurs | Chargeurs des armes retirées (AK, STANAG, CMAG, AUG, FAL, FAMAS, M14, SCAR-H, SVD, SV98, VSS/VAL/Vikhr) | Toutes les munitions, sauf le 40 mm |
 | Accessoires d'armes | Crosses, garde-mains, silencieux AK, baïonnettes AK et M9A1 (exclusifs aux armes retirées) | Optiques et accessoires qui vont aussi sur une arme conservée (MP5K, UMP45, Scout, PP19, Saiga, arbalètes, pistolets), lunettes de chasse |
@@ -346,7 +346,7 @@ valeur d'origine est en commentaire, et les `usage` ajoutés sont marqués.
 | Lames de Badlands : akinaka, couteau à kebab (`DonerKnife`), jambiya, cimeterre, baïonnette P1907 | 6/3 (akinaka, couteau à kebab), 4/2 | Villes, villages, chasse ; militaire et villages pour la baïonnette | La baïonnette se fixe sur le Lee-Enfield |
 | Armes de Badlands : Lee-Enfield et son chargeur 10 coups, MP18 et son chargeur tambour 32 coups | 5/2 et 8/4, 4/2 et 6/3 | Chasse, fermes, villages (Lee-Enfield) ; fermes, villes, villages (MP18) | Munitions déjà au loot : 7.62x54 (Lee-Enfield), 9x19 (MP18) |
 | Vêtements civils de Badlands (chaleur) : kamiz (14 couleurs), shalwars homme (7) et femme (6), pakols (5), turbans (12), keffiehs (8), gilets longs (`RobeVest`, 5), sandales (4), chemises à vagues et hawaïennes (3), chemisette de police, tenue de chasse désert (veste, pantalon, gilet) | 2 à 6 | Villes, villages, côte (chemises hawaïennes, au lieu de militaire), police, chasse | Utiles en ambiance `canicule` |
-| Variantes de couleur : Mosin (noir, camo, vert), CZ527 (noir, camo, vert), Winchester 70 (noir, vert), B95 (noir, vert), Derringer (noir, rose) | 2 à 4 | Comme l'arme de base | Elles s'ajoutent aux armes de base |
+| Variantes de couleur : Mosin (noir, camo, vert), CZ527 (noir, camo, vert), Winchester 70 (noir, vert, retirées ensuite avec le Tundra, voir Loot restreint), B95 (noir, vert), Derringer (noir, rose) | 2 à 4 | Comme l'arme de base | Elles s'ajoutent aux armes de base |
 | Nourriture : chair de crabe, sodas Takola et ZumZam, sarma, crackers, mélange salé, banane, orange, kiwi | 8 à 10 | Villes, villages, côte | |
 | Pots en céramique (4 couleurs) | 3/2 chacun | Fermes, villes, villages, chasse | Ustensile de cuisine |
 
