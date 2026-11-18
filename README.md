@@ -256,6 +256,7 @@ Le fil de fer (`MetalWire`) et le barbelé (`BarbedWire`) sont multipliés par 2
 | Ours | 6 groupes de 1 ou 2 ours (au lieu de 2 ours seuls), `limit` passé de `custom` à `child` comme les loups | `db/events.xml` |
 | Chiens | **Désactivé** (`active` 0, territoire commenté) : soupçonné de bloquer les zombies, voir plus bas. Prévu : `AnimalDog`, 15 meutes de 2 à 4 dobermans / bergers allemands, territoires `Dog` | `db/events.xml`, `cfgenvironment.xml`, `env/dog_territories.xml` |
 | Animaux | `AnimalMaxCount` 200 → 300 | `db/globals.xml` |
+| Crashs d'hélico | `StaticHeliCrash` : sur chacune des 95 positions, un groupe `HeliCrash_NN` pose l'épave (orientation fixe, même loot qu'en vanilla) et le cadavre du pilote éjecté à 11-13 m (squelette, 2 ou 3 morceaux de viande humaine, 1 ou 2 tas d'os), sur un sol plat, hors de l'eau, loin des arbres, rochers et murs. Généré par `tools/helicrash/generate.py` | `cfgeventgroups.xml`, `cfgeventspawns.xml`, `db/events.xml` |
 
 Hordes : une position par point d'intérêt, soit 57 villes et villages et 18 bases militaires. Un point
 d'intérêt regroupe des zones de zombies actives distantes de moins de 300 m ; seuls ceux qui comptent
@@ -575,6 +576,7 @@ que les autres. Proches de mappings : un feu, une zone spooky et ses zombies au 
 | `tools/neige/generate.py` | Neige au sol de l'ambiance `hiver` → `custom/neige_*.json` |
 | `tools/tempete/generate.py` | Arbres tombés de l'ambiance `tempete` → `custom/tempete_arbres.json` |
 | `tools/canicule/generate.py` | Traces de brûlé de l'ambiance `canicule` → `custom/canicule_brulis.json` |
+| `tools/helicrash/generate.py` | Crashs d'hélico avec le cadavre du pilote → groupes `HeliCrash_NN` (`cfgeventgroups.xml`), positions de `StaticHeliCrash` (`cfgeventspawns.xml`) ; relançable, garde l'orientation déjà choisie |
 | `tools/neige/gamedata.py` | Bibliothèque commune : lecture des pbo, `config.bin`, modèles et terrain du jeu |
 
 Prérequis : `bash` et Python 3 (bibliothèque standard uniquement, rien à installer). Les générateurs ont
