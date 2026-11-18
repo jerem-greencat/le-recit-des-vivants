@@ -934,9 +934,7 @@
         <position>fixed</position>
         <limit>child</limit>
         <active>1</active>
-        <children>
-            <child lootmax="15" lootmin="10" max="3" min="1" type="Wreck_UH1Y"/>
-        </children>
+        <children/>
     </event>
     <event name="StaticHorde">
         <nominal>16</nominal>
