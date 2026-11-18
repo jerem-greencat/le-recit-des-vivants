@@ -94,7 +94,7 @@ nouveaux arrivants apparaissent à l'est de la ville.
 | Hôpital | Rôle RP du médecin | |
 | Église | Tombes, sarcophage, corps, pendus | *À confirmer* : ce que racontent les pendus |
 | Garage | Rôle RP du garagiste, face à la station essence | |
-| Atelier du constructeur | Rôle RP du constructeur (+ stocks mobiles) | |
+| Atelier du constructeur | Rôle RP du constructeur (+ stocks mobiles). Il vit juste à côté, derrière la petite porte nord : maison, grange pour sa voiture, cour avec feu de camp façon camp de bûcherons | |
 | Armurerie | Munitions de tous calibres | |
 | Épicerie | Rôle RP de l'épicier, supermarché à l'ouest de la fontaine | |
 | Maison du journaliste | Bureau radio, gilet presse | *À confirmer* : nom du journal ou de la radio |
