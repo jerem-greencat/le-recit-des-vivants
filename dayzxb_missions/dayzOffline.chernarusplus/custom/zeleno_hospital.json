@@ -1727,6 +1727,38 @@
             "scale": 0.9999996423721314,
             "enableCEPersistency": 0,
             "customString": ""
+        },
+        {
+            "name": "FirstAidKit",
+            "pos": [
+                2741.1441,
+                201.814,
+                5177.9539
+            ],
+            "ypr": [
+                -63.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "FirstAidKit",
+            "pos": [
+                2740.9826,
+                201.814,
+                5177.6322
+            ],
+            "ypr": [
+                -63.34,
+                0.0,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
         }
     ]
 }
