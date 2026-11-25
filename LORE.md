@@ -99,7 +99,7 @@ nouveaux arrivants apparaissent à l'est de la ville.
 | Épicerie | Rôle RP de l'épicier, supermarché à l'ouest de la fontaine | |
 | Maison du journaliste | Bureau radio, gilet presse | *À confirmer* : nom du journal ou de la radio |
 | Place du marché | Marché hebdomadaire, 6 emplacements pour les joueurs | *À confirmer* : jour, placier |
-| Cité (ghetto) | Derrière l'hôpital : QG d'un gang, check-point, squat dans un bus | *À confirmer* : nom du gang, chef |
+| Cité (ghetto) | Derrière l'hôpital : QG d'un gang, check-point, squat dans un bus. Sur le toit de la barre, un ermite vit dans une cabane près de sa volière de poulets voyageurs (autel, livres, messages sur la table). Au dernier étage de la barre, deux appartements de dealers : une plantation de cannabis sous lampes et un salon de vente. En bas, près des manèges, une camionnette de glaces et deux chaises, des livres en français sur la table | *À confirmer* : nom du gang, chef ; qui est l'ermite du toit et à qui il envoie ses poulets ; pour qui travaillent les dealers |
 | Squats SDF | « Le vieux du kiosque », « la cabane de la fontaine » | *À confirmer* : qui sont-ils |
 | Fosse commune | Dans la ville | *À confirmer* : qui y repose |
 
